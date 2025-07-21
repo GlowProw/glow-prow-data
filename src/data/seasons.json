@@ -1,0 +1,39 @@
+{
+    "ragingTides": {
+        "id": "ragingTides",
+        "alternativeName": "y1s1",
+        "startDate": "2024-02-27",
+        "endDate": "2024-05-27"
+    },
+    "chorusOfHavoc": {
+        "id": "chorusOfHavoc",
+        "alternativeName": "y1s2",
+        "startDate": "2024-05-28",
+        "endDate": "2024-08-21"
+    },
+    "intoTheDragonsWake": {
+        "id": "intoTheDragonsWake",
+        "alternativeName": "y1s3",
+        "startDate": "2024-08-22",
+        "endDate": "2024-11-18"
+    },
+    "shadowsOfTheDeep": {
+        "index": 4,
+        "id": "shadowsOfTheDeep",
+        "alternativeName": "y1s4",
+        "startDate": "2024-11-19",
+        "endDate": "2025-04-14"
+    },
+    "ascentIntoChaos": {
+        "id": "ascentIntoChaos",
+        "alternativeName": "y2s1",
+        "startDate": "2025-04-15",
+        "endDate": "2025-07-14"
+    },
+    "oathsOfWar": {
+        "id": "oathsOfWar",
+        "alternativeName": "y2s2",
+        "startDate": "2025-07-15",
+        "endDate": "2025-10-14"
+    }
+}

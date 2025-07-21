@@ -1,0 +1,28 @@
+{
+  "name": "glow-prow-data",
+  "version": "0.0.1",
+  "keywords": [
+    "ubisoft",
+    "ubisoft-game",
+    "skull-and-bones",
+    "glow-prow"
+  ],
+  "license": "AGPL-3.0",
+  "author": "Glow Prow Data",
+  "type": "module",
+  "main": "src/index.ts",
+  "scripts": {
+    "prepare": "npm run build",
+    "build": "tsc"
+  },
+  "files": [
+    "data",
+    "types",
+    "README.md",
+    "LICENSE"
+  ],
+  "devDependencies": {
+    "@types/node": "^24.0.15",
+    "typescript": "^5.8.3"
+  }
+}
