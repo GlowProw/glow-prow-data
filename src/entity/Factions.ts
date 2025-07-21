@@ -1,6 +1,6 @@
 import factionsData from "../data/factions.json";
-import { Event } from "./Events";
-import { Season } from "./Seasons";
+import {Event} from "./Events";
+import {Season} from "./Seasons";
 
 /**
  * 派系 阵营
@@ -18,11 +18,18 @@ export declare class Faction {
     readonly lastUpdated: Date;
 
     constructor(id: string, firstAppearingSeason: Season, event: Event | undefined, dateAdded: Date, lastUpdated: Date);
+
     static fromRawData(rawData: any): Faction;
+
     static loadFactions(): Record<string, Faction>;
 }
+
 type Factions = {
-    [K in keyof typeof factionsData]: Faction;
+    [p: string]: Factions | unknown;
 };
-export declare const Factions: Factions;
+export const Factions: Factions = {
+    ...Object.fromEntries(
+        Object.entries(factionsData).map(([key, value]) => [key, value])
+    )
+};
 export {};

@@ -8,11 +8,17 @@ export declare class Contract {
     readonly id: string;
 
     constructor(id: string);
+
     static loadContracts(): Record<string, Contract>;
 }
+
 type Contracts = {
-    [K in keyof typeof contractsData]: Contract;
+    [p: string]: Contracts | unknown;
 };
-export declare const Contracts: Contracts;
+
+export const Contracts: Contracts = {
+    ...Object.fromEntries(
+        Object.entries(contractsData).map(([key, value]) => [key, value])
+    )
+};
 export {};
-//# sourceMappingURL=contracts.d.ts.map

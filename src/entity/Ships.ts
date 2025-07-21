@@ -26,19 +26,23 @@ export declare class Ship {
     readonly stamina: number | undefined;
     // 基础分数
     readonly baseRank: number;
-    //
+    // 基本分数
     readonly requiredRank: string | undefined;
     readonly contact: string | undefined;
+    // 船速度
     readonly sailSpeed: {
         halfSail: number;
         fullSail: number;
         travelSail: number;
     };
+    // 货物-容器
     readonly cargo: {
         cargoSlots: number;
         cargoMaxWeight: number;
     };
+    // 所需材料
     readonly required: Map<Material, number> | undefined;
+    // 插槽
     readonly slots: {
         attachement?: SlotWithGunports;
         frontWeapon?: SlotWithGunportsAcrossDecks;
@@ -49,8 +53,11 @@ export declare class Ship {
         furniture?: SlotWithGunports;
         ultimate?: SlotWithGunports;
     };
+    // 词条
     readonly perks: string[];
+    // 添加时间
     readonly dateAdded: Date;
+    // 最后更新时间
     readonly lastUpdated: Date;
 
     constructor(id: string, size: ShipSize, type: string, contract: Contract | undefined, blueprint: string | string[] | undefined, bySeason: Season | undefined, hitpoints: number, braceStrength: number, braceStrengthRecovery: number, stamina: number | undefined, baseRank: number, requiredRank: string | undefined, contact: string | undefined, sailSpeed: {

@@ -17,9 +17,13 @@ export declare class Season {
 }
 
 type Seasons = {
-    [K in keyof typeof seasonsData]: Seasons;
+    [p: string]: Seasons | unknown;
 };
 
-export declare const Seasons: Seasons;
+export const Seasons: Seasons = {
+    ...Object.fromEntries(
+        Object.entries(seasonsData).map(([key, value]) => [key, value])
+    )
+};
 
 export {};

@@ -1,5 +1,5 @@
-import eventsData from '../data/events.json';
 import {Season} from './Seasons';
+import eventsData from "../data/events.json";
 
 /**
  * 事件
@@ -16,7 +16,11 @@ export declare class Event {
 }
 
 type Events = {
-    [K in keyof typeof eventsData]: Event;
+    [p: string]: Events | unknown;
 };
-export declare const Events: Events;
+export const Events: Events = {
+    ...Object.fromEntries(
+        Object.entries(eventsData).map(([key, value]) => [key, value])
+    )
+};
 export {};
