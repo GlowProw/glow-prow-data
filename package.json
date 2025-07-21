@@ -16,8 +16,9 @@
     "build": "tsc"
   },
   "files": [
-    "data",
-    "types",
+    "src/data",
+    "src/types",
+    "src/entity",
     "README.md",
     "LICENSE"
   ],

@@ -1,1 +1,1 @@
-export {Ships} from "./entity/Ships";
+export {Ships, Ship} from "./entity/Ships";
