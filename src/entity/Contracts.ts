@@ -13,7 +13,7 @@ export declare class Contract {
 }
 
 type Contracts = {
-    [p: string]: Contracts | unknown;
+    [p: string]: Contract | unknown;
 };
 
 export const Contracts: Contracts = {

@@ -17,7 +17,7 @@ export declare class Season {
 }
 
 type Seasons = {
-    [p: string]: Seasons | unknown;
+    [p: string]: Season | unknown;
 };
 
 export const Seasons: Seasons = {

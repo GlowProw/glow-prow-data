@@ -25,7 +25,7 @@ export declare class Faction {
 }
 
 type Factions = {
-    [p: string]: Factions | unknown;
+    [p: string]: Faction | unknown;
 };
 export const Factions: Factions = {
     ...Object.fromEntries(

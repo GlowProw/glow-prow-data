@@ -1,0 +1,1083 @@
+{
+    "direPiercing": {
+        "id": "direPiercing",
+        "variants": [
+            {
+                "itemType": ["longGun","culverin","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+                "range": [0.09, 0.15]
+            }
+        ],
+        "effectType": "ignoreResistance",
+        "damageType": "piercing",
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "basic",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-25"
+    },
+    "direElectric": {
+        "id": "direElectric",
+        "variants": [
+            {
+                "itemType": ["longGun","culverin","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+                "range": [0.09, 0.15]
+            }
+        ],
+        "effectType": "ignoreResistance",
+        "damageType": "electric",
+        "requiredDamageType": "electric",
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "basic",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-25"
+    },
+    "direExplosive": {
+        "id": "direExplosive",
+        "variants": [
+            {
+                "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+                "range": [0.09, 0.15]
+            }
+        ],
+        "effectType": "ignoreResistance",
+        "damageType": "explosive",
+        "requiredDamageType": "explosive",
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "basic",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-25"
+    },
+    "direFlooding": {
+        "id": "direFlooding",
+        "variants": [
+            {
+                "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+                "range": [0.09, 0.15]
+            }
+        ],
+        "effectType": "ignoreResistance",
+        "damageType": "flooding",
+        "requiredDamageType": "flooding",
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "basic",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-25"
+    },
+    "incendiary": {
+        "id": "incendiary",
+        "variants": [
+            {
+                "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+                "range": [0.075, 0.125]
+            }
+        ],
+        "effectType": "addElementalDamage",
+        "damageType": "burning",
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "basic",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-25"
+    },
+    "direBurning": {
+        "id": "direBurning",
+        "variants": [
+            {
+                "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+                "range": [0.09, 0.15]
+            }
+        ],
+        "effectType": "ignoreResistance",
+        "damageType": "burning",
+        "requiredDamageType": "burning",
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "basic",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-25"
+    },
+    "firepower": {
+        "id": "firepower",
+        "variants": [
+            {
+                "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+                "range": [0.075, 0.125]
+            }
+        ],
+        "effectType": "increaseDamage",
+        "damageType": "overall",
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "basic",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-25"
+    },
+    "shock": {
+        "id": "shock",
+        "variants": [
+            {
+                "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+                "range": [0.075, 0.125]
+            }
+        ],
+        "effectType": "addElementalDamage",
+        "damageType": "electric",
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "basic",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-25"
+    },
+    "rapidReload": {
+        "id": "rapidReload",
+        "variants": [
+            {
+                "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+                "range": [0.068, 0.113]
+            }
+        ],
+        "effectType": "increaseReloadSpeed",
+        "repairAccess": "shared",
+        "dropOnly": false,
+        "grade": "basic",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-25"
+    },
+    "combust": {
+        "id": "combust",
+        "variants": [
+            {
+                "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+                "range": [38, 63]
+            }
+        ],
+        "effectType": "extraElementalDamage",
+        "damageType": "explosive",
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "basic",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-25"
+    },
+    "flood": {
+        "id": "flood",
+        "variants": [
+            {
+                "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+                "range": [38, 63]
+            }
+        ],
+        "effectType": "extraElementalDamage",
+        "damageType": "flooding",
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "basic",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-25"
+    },
+    "sparks": {
+        "id": "sparks",
+        "variants": [
+            {
+                "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+                "range": [38, 63]
+            }
+        ],
+        "effectType": "extraElementalDamage",
+        "damageType": "electric",
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "basic",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-25"
+    },
+    "damage": {
+        "id": "damage",
+        "variants": [
+            {
+                "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+                "range": [45, 75]
+            }
+        ],
+        "effectType": "extraDamage",
+        "damageType": "base",
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "basic",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-25"
+    },
+    "burn": {
+        "id": "burn",
+        "variants": [
+            {
+                "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+                "range": [38, 63]
+            }
+        ],
+        "effectType": "extraElementalDamage",
+        "damageType": "burning",
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "basic",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-25"
+    },
+    "swift": {
+        "id": "swift",
+        "variants": [
+            {
+                "itemType": ["longGun","culverin","demicannon","bombard","torpedo","ballista"],
+                "range": [0.09, 0.15]
+            }
+        ],
+        "effectType": "increaseProjectileSpeed",
+        "repairAccess": "shared",
+        "dropOnly": false,
+        "grade": "basic",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-25"
+    },
+    "reach": {
+        "id": "reach",
+        "variants": [
+            {
+                "itemType": ["demicannon","rocket","seaFire","mortar","torpedo","springloader"],
+                "range": [0.09, 0.15]
+            }
+        ],
+        "effectType": "increaseProjectileRange",
+        "repairAccess": "shared",
+        "dropOnly": false,
+        "grade": "basic",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-25"
+    },
+    "sharpened": {
+        "id": "sharpened",
+        "variants": [
+            {
+                "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+                "range": [0.075, 0.125]
+            }
+        ],
+        "effectType": "addElementalDamage",
+        "damageType": "piercing",
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "basic",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-25"
+    },
+    "combustion": {
+        "id": "combustion",
+        "variants": [
+            {
+                "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+                "range": [0.075, 0.125]
+            }
+        ],
+        "effectType": "addElementalDamage",
+        "damageType": "explosive",
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "basic",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-25"
+    },
+    "pierce": {
+        "id": "pierce",
+        "variants": [
+            {
+                "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+                "range": [38, 63]
+            }
+        ],
+        "effectType": "extraElementalDamage",
+        "damageType": "piercing",
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "basic",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-25"
+    },
+    "rupturing": {
+        "id": "rupturing",
+        "variants": [
+            {
+                "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+                "range": [0.075, 0.125]
+            }
+        ],
+        "effectType": "addElementalDamage",
+        "damageType": "flooding",
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "basic",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-25"
+    },
+    "haste": {
+        "id": "haste",
+        "variants": [
+            {
+                "itemType": ["rocket","mortar","springloader"],
+                "range": [0.08, 0.134]
+            }
+        ],
+        "effectType": "reduceTimeToTarget",
+        "repairAccess": "shared",
+        "dropOnly": false,
+        "grade": "basic",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-25"
+    },
+    "fix": {
+        "id": "fix",
+        "variants": [
+            {
+                "itemType": ["springloader","longGun","culverin","mortar","bombard"],
+                "range": [113, 188]
+            }
+        ],
+        "effectType": "increaseRepairAmountPerShot",
+        "dropOnly": false,
+        "repairAccess": "exclusive",
+        "grade": "basic",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-25"
+    },
+    "antiBlast": {
+        "id": "antiBlast",
+        "variants": [
+            {
+                "itemType": ["springloader","longGun","culverin","mortar","bombard"],
+                "range": [0.075, 0.125]
+            }
+        ],
+        "dropOnly": false,
+        "repairAccess": "exclusive",
+        "grade": "basic",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-25"
+    },
+    "insulator": {
+        "id": "insulator",
+        "variants": [
+            {
+                "itemType": ["springloader","longGun","culverin","mortar","bombard"],
+                "range": [0.075, 0.125]
+            }
+        ],
+        "dropOnly": false,
+        "repairAccess": "exclusive",
+        "grade": "basic",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-25"
+    },
+    "service": {
+        "id": "service",
+        "variants": [
+            {
+                "itemType": ["springloader","longGun","culverin","mortar","bombard"],
+                "range": [0.09, 0.15]
+            }
+        ],
+        "effectType": "increaseRepairAmount",
+        "dropOnly": false,
+        "repairAccess": "exclusive",
+        "grade": "basic",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-25"
+    },
+    "douser": {
+        "id": "douser",
+        "variants": [
+            {
+                "itemType": ["springloader","longGun","culverin","mortar","bombard"],
+                "range": [0.075, 0.125]
+            }
+        ],
+        "dropOnly": false,
+        "repairAccess": "exclusive",
+        "grade": "basic",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-25"
+    },
+    "sealant": {
+        "id": "sealant",
+        "variants": [
+            {
+                "itemType": ["springloader","longGun","culverin","mortar","bombard"],
+                "range": [0.075, 0.125]
+            }
+        ],
+        "dropOnly": false,
+        "repairAccess": "exclusive",
+        "grade": "basic",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-25"
+    },
+    "reinforcer": {
+        "id": "reinforcer",
+        "variants": [
+            {
+                "itemType": ["springloader","longGun","culverin","mortar","bombard"],
+                "range": [0.075, 0.125]
+            }
+        ],
+        "dropOnly": false,
+        "repairAccess": "exclusive",
+        "grade": "basic",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-25"
+    },
+    "brute": {
+        "id": "brute",
+        "variants": [
+            {
+                "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+                "range": [280, 420]
+            }
+        ],
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "advanced",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-25"
+    },
+    "severity": {
+        "id": "severity",
+        "variants": [
+            {
+                "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+                "range": [0.75, 1.25]
+            }
+        ],
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "advanced",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-25"
+    },
+    "victorsRally": {
+        "id": "victorsRally",
+        "variants": [
+            {
+                "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+                "range": [1400, 2100]
+            }
+        ],
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "advanced",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-25"
+    },
+    "graceOfTheWinds": {
+        "id": "graceOfTheWinds",
+        "variants": [
+            {
+                "itemType": ["longGun","culverin","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+                "range": [0.062, 0.09]
+            },
+            {
+                "itemType": ["demicannon","rocket"],
+                "range": [0.0015, 0.0025]
+            }
+        ],
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "advanced",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-25"
+    },
+    "lethal": {
+        "id": "lethal",
+        "variants": [
+            {
+                "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+                "range": [0.25, 0.41]
+            }
+        ],
+        "effectType": "increaseCritDamage",
+        "damageType": "overall",
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "advanced",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-25"
+    },
+    "energize": {
+        "id": "energize",
+        "variants": [
+            {
+                "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+                "range": [0.045, 0.075]
+            }
+        ],
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "advanced",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-25"
+    },
+    "bloodthirst": {
+        "id": "bloodthirst",
+        "variants": [
+            {
+                "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+                "range": [0.225, 0.375]
+            }
+        ],
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "advanced",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-25"
+    },
+    "raider": {
+        "id": "raider",
+        "variants": [
+            {
+                "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+                "range": [0.25, 0.41]
+            }
+        ],
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "advanced",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-25"
+    },
+    "deathblow": {
+        "id": "deathblow",
+        "variants": [
+            {
+                "itemType": ["longGun","culverin","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+                "range": [0.09, 0.15]
+            },
+            {
+                "itemType": ["demicannon","rocket"],
+                "range": [0.0023, 0.0038]
+            }
+        ],
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "advanced",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-25"
+    },
+    "repairReadiness": {
+        "id": "repairReadiness",
+        "variants": [
+            {
+                "itemType": ["longGun","culverin","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+                "range": [0.093, 0.135]
+            },
+            {
+                "itemType": ["demicannon","rocket"],
+                "range": [0.00225, 0.00375]
+            }
+        ],
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "advanced",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-25"
+    },
+    "precisePatchwork": {
+        "id": "precisePatchwork",
+        "variants": [
+            {
+                "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+                "range": [150, 250]
+            }
+        ],
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "advanced",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-25"
+    },
+    "amplifiedBurning": {
+        "id": "amplifiedBurning",
+        "variants": [
+            {
+                "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+                "range": [0.225, 0.375]
+            }
+        ],
+        "effectType": "bonusElementalDamage",
+        "damageType": "burning",
+        "requiredDamageType": "burning",
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "advanced",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-25"
+    },
+    "siege": {
+        "id": "siege",
+        "variants": [
+            {
+                "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+                "range": [0.25, 0.41]
+            }
+        ],
+        "effectType": "increaseSiegeDamage",
+        "damageType": "overall",
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "advanced",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-25"
+    },
+    "restoreReadiness": {
+        "id": "restoreReadiness",
+        "variants": [
+            {
+                "itemType": ["longGun","culverin","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+                "range": [0.093, 0.135]
+            },
+            {
+                "itemType": ["demicannon","rocket"],
+                "range": [0.00225, 0.00375]
+            }
+        ],
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "advanced",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-25"
+    },
+    "amplifiedPiercing": {
+        "id": "amplifiedPiercing",
+        "variants": [
+            {
+                "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+                "range": [0.225, 0.375]
+            }
+        ],
+        "effectType": "bonusElementalDamage",
+        "damageType": "piercing",
+        "requiredDamageType": "piercing",
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "advanced",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-25"
+    },
+    "amplifiedElectric": {
+        "id": "amplifiedElectric",
+        "variants": [
+            {
+                "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+                "range": [0.225, 0.375]
+            }
+        ],
+        "effectType": "bonusElementalDamage",
+        "damageType": "electric",
+        "requiredDamageType": "electric",
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "advanced",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-25"
+    },
+    "amplifiedExplosive": {
+        "id": "amplifiedExplosive",
+        "variants": [
+            {
+                "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+                "range": [0.225, 0.375]
+            }
+        ],
+        "effectType": "bonusElementalDamage",
+        "damageType": "explosive",
+        "requiredDamageType": "explosive",
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "advanced",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-25"
+    },
+    "amplifiedFlooding": {
+        "id": "amplifiedFlooding",
+        "variants": [
+            {
+                "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+                "range": [0.225, 0.375]
+            }
+        ],
+        "effectType": "bonusElementalDamage",
+        "damageType": "flooding",
+        "requiredDamageType": "flooding",
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "advanced",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-25"
+    },
+    "tearing": {
+        "id": "tearing",
+        "variants": [
+            {
+                "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+                "range": [0.25, 0.41]
+            }
+        ],
+        "effectType": "increaseSailDamage",
+        "damageType": "overall",
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "advanced",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-25"
+    },
+    "roar": {
+        "id": "roar",
+        "variants": [
+            {
+                "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+                "range": [0.053, 0.088]
+            }
+        ],
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "advanced",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-25"
+    },
+    "soulMending": {
+        "id": "soulMending",
+        "variants": [
+            {
+                "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+                "range": [0.045, 0.075]
+            }
+        ],
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "advanced",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-25"
+    },
+    "blastRange": {
+        "id": "blastRange",
+        "variants": [
+            {
+                "itemType": ["rocket","bombard","mortar"],
+                "range": [0.113, 0.188]
+            }
+        ],
+        "effectType": "increaseBlastRadius",
+        "damageType": "overall",
+        "repairAccess": "shared",
+        "dropOnly": false,
+        "grade": "advanced",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-25"
+    },
+    "durableBuoys": {
+        "id": "durableBuoys",
+        "variants": [
+            {
+                "itemType": ["springloader"],
+                "range": [0.188, 0.313]
+            }
+        ],
+        "effectType": "increaseBuoyOperationTime",
+        "repairAccess": "shared",
+        "dropOnly": false,
+        "grade": "advanced",
+        "dateAdded": "2025-05-05",
+
+
+        "lastUpdated": "2025-05-25"
+    },
+    "hardyBuoys": {
+        "id": "hardyBuoys",
+        "variants": [
+            {
+                "itemType": ["springloader"],
+                "range": [0.38, 0.63]
+            }
+        ],
+        "effectType": "increaseBuoyHealth",
+        "repairAccess": "shared",
+        "dropOnly": false,
+        "grade": "advanced",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-25"
+    },
+    "restorative": {
+        "id": "restorative",
+        "variants": [
+            {
+                "itemType": ["springloader","longGun","culverin","mortar","bombard"],
+                "range": [0.15, 0.25]
+            }
+        ],
+        "dropOnly": false,
+        "repairAccess": "exclusive",
+        "grade": "advanced",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-25"
+    },
+    "invigorate": {
+        "id": "invigorate",
+        "variants": [
+            {
+                "itemType": ["springloader","longGun","culverin","mortar","bombard"],
+                "range": [0.0038, 0.0063]
+            }
+        ],
+        "dropOnly": false,
+        "repairAccess": "exclusive",
+        "grade": "advanced",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-25"
+    },
+    "tranquility": {
+        "id": "tranquility",
+        "variants": [
+            {
+                "itemType": ["springloader","longGun","culverin","mortar","bombard"],
+                "range": [0.113, 0.188]
+            }
+        ],
+        "dropOnly": false,
+        "repairAccess": "exclusive",
+        "grade": "advanced",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-25"
+    },
+    "sailorsRespite": {
+        "id": "sailorsRespite",
+        "variants": [
+            {
+                "itemType": ["springloader","longGun","culverin","mortar","bombard"],
+                "range": [2.25, 3.75]
+            }
+        ],
+        "dropOnly": false,
+        "repairAccess": "exclusive",
+        "grade": "advanced",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-25"
+    },
+    "strengthen": {
+        "id": "strengthen",
+        "variants": [
+            {
+                "itemType": ["springloader","longGun","culverin","mortar","bombard"],
+                "range": [0.15, 0.25]
+            }
+        ],
+        "dropOnly": false,
+        "repairAccess": "exclusive",
+        "grade": "advanced",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-25"
+    },
+    "sailMender": {
+        "id": "sailMender",
+        "variants": [
+            {
+                "itemType": ["springloader","longGun","culverin","mortar","bombard"],
+                "range": [0.113, 0.188]
+            }
+        ],
+        "dropOnly": false,
+        "repairAccess": "exclusive",
+        "grade": "advanced",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-25"
+    },
+    "secondStorm": {
+        "id": "secondStorm",
+        "variants": [
+            {
+                "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+                "range": [0.06, 0.1]
+            }
+        ],
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "special",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-25"
+    },
+    "overflow": {
+        "id": "overflow",
+        "variants": [
+            {
+                "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+                "range": [0.06, 0.1]
+            }
+        ],
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "special",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-25"
+    },
+    "sailRipper": {
+        "id": "sailRipper",
+        "variants": [
+            {
+                "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","torpedo","ballista"],
+                "range": [2.25, 3.5]
+            }
+        ],
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "special",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-06-17"
+    },
+    "winningStreak": {
+        "id": "winningStreak",
+        "variants": [
+            {
+                "itemType": ["longGun","culverin","rocket","seaFire","bombard","torpedo","ballista"],
+                "range": [0.2, 0.4]
+            }
+        ],
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "special",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-25"
+    },
+    "deadlyStrike": {
+        "id": "deadlyStrike",
+        "variants": [
+            {
+                "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","ballista"],
+                "range": [0.3, 0.5]
+            }
+        ],
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "special",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-25"
+    },
+    "highPressure": {
+        "id": "highPressure",
+        "variants": [
+            {
+                "itemType": ["seaFire"],
+                "range": [0.09, 0.15]
+            }
+        ],
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "special",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-25"
+    },
+    "longArm": {
+        "id": "longArm",
+        "variants": [
+            {
+                "itemType": ["bombard","rocket","culverin","demicannon","longGun","torpedo","mortar","ballista"],
+                "range": [0.4, 0.6]
+            }
+        ],
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "special",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-25"
+    },
+    "providence": {
+        "id": "providence",
+        "variants": [
+            {
+                "itemType": ["springloader","longGun","culverin","mortar","bombard"],
+                "range": [0.225, 0.375]
+            }
+        ],
+        "dropOnly": false,
+        "repairAccess": "exclusive",
+        "grade": "special",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-25"
+    },
+    "jointSupply": {
+        "id": "jointSupply",
+        "variants": [
+            {
+                "itemType": ["longGun","culverin","mortar","bombard"],
+                "range": [0.28, 0.42]
+            }
+        ],
+        "dropOnly": false,
+        "repairAccess": "exclusive",
+        "grade": "special",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-25"
+    },
+    "preemptiveDefence": {
+        "id": "preemptiveDefence",
+        "variants": [
+            {
+                "itemType": ["springloader","longGun","culverin","mortar","bombard"],
+                "range": [0.048, 0.072]
+            }
+        ],
+        "dropOnly": false,
+        "repairAccess": "exclusive",
+        "grade": "special",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-25"
+    },
+    "empower": {
+        "id": "empower",
+        "variants": [
+            {
+                "itemType": ["springloader","longGun","culverin","mortar","bombard"],
+                "range": [0.032, 0.048]
+            }
+        ],
+        "dropOnly": false,
+        "repairAccess": "exclusive",
+        "grade": "special",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-25"
+    },
+    "longArmRepair": {
+        "id": "longArmRepair",
+        "variants": [
+            {
+                "itemType": ["longGun","culverin","mortar","bombard"],
+                "range": [0.4, 0.6]
+            }
+        ],
+        "dropOnly": false,
+        "repairAccess": "exclusive",
+        "grade": "special",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-25"
+    },
+    "winningStreakRepair": {
+        "id": "winningStreakRepair",
+        "variants": [
+            {
+                "itemType": ["longGun","culverin"],
+                "range": [0.2, 0.4]
+            }
+        ],
+        "dropOnly": false,
+        "repairAccess": "exclusive",
+        "grade": "special",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-25"
+    }
+}

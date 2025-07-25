@@ -16,7 +16,7 @@ export declare class Event {
 }
 
 type Events = {
-    [p: string]: Events | unknown;
+    [p: string]: Event | unknown;
 };
 export const Events: Events = {
     ...Object.fromEntries(

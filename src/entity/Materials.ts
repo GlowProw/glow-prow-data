@@ -31,7 +31,7 @@ export declare class Material {
 }
 
 type Materials = {
-    [p: string]: Materials | unknown;
+    [p: string]: Material | unknown;
 };
 export const Materials: Materials = {
     ...Object.fromEntries(
