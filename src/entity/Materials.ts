@@ -2,8 +2,8 @@ import materialsData from "../data/materials.json";
 
 import {MaterialCategory} from "../types/Category";
 import {Rarity} from "../types/Rarity";
+import {Event, Events} from "./Events";
 import {Faction, Factions} from "./Factions";
-import {Events} from "./Events";
 
 /**
  * 材料
