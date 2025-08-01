@@ -1,6 +1,6 @@
 # 关于
 
-这是glow-prow的数据集，它原来是`@skullandbonestools/snbdata`数据提炼，再次感谢skullandbonestools对数据内容分类编写工作，并且开源，🫡
+这是glow-prow的数据集，它原是`@skullandbonestools/snbdata`数据提炼，作为glow-prow中间层来加载数据，以防止结构变化导致错误，再次感谢skullandbonestools对数据内容分类编写工作，并且开源，🫡
 
 此项目是对`@skullandbonestools/snbdata`数据再次提炼，应用于`glow-prow`程序中，剔除一些不必样式以及内容，它们将交给:
 

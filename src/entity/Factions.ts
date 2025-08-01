@@ -1,35 +1,47 @@
 import factionsData from "../data/factions.json";
-import {Event} from "./Events";
-import {Season} from "./Seasons";
+import {Event, Events} from "./Events";
+import {Season, Seasons} from "./Seasons";
 
 /**
  * 派系 阵营
  */
-export declare class Faction {
-    // 派系id
-    readonly id: string;
-    // 开始于赛季
-    readonly firstAppearingSeason: Season;
-    // 事件
-    readonly event: Event | undefined;
-    // 添加时间
-    readonly dateAdded: Date;
-    // 最后更新
-    readonly lastUpdated: Date;
+export class Faction {
+    constructor(
+        // 派系id
+        public readonly id: string,
+        // 首次出现赛季
+        public readonly firstAppearingSeason: Season,
+        // 事件
+        public readonly event: Event | undefined,
+        // 开始于赛季
+        public readonly dateAdded: Date,
+        // 最后更新
+        public readonly lastUpdated: Date
+    ) {}
 
-    constructor(id: string, firstAppearingSeason: Season, event: Event | undefined, dateAdded: Date, lastUpdated: Date);
+    public static fromRawData(rawData: any): Faction {
+        const season = rawData.firstAppearingSeason as keyof typeof Seasons;
+        const event = rawData.event as keyof typeof Events;
+        return new Faction(
+            rawData.id,
+            Seasons[season],
+            event ? Events[event] : undefined,
+            new Date(rawData.dateAdded),
+            new Date(rawData.lastUpdated)
+        );
+    }
 
-    static fromRawData(rawData: any): Faction;
-
-    static loadFactions(): Record<string, Faction>;
+    public static loadFactions(): Record<string, Faction> {
+        const factions: Record<string, Faction> = {};
+        for (const [key, value] of Object.entries(factionsData)) {
+            factions[key] = Faction.fromRawData(value);
+        }
+        return factions;
+    }
 }
 
 type Factions = {
-    [p: string]: Faction | unknown;
+    [K in keyof typeof factionsData]: Faction;
 };
-export const Factions: Factions = {
-    ...Object.fromEntries(
-        Object.entries(factionsData).map(([key, value]) => [key, value])
-    )
-};
-export {};
+
+export const Factions: Factions = Faction.loadFactions() as Factions;

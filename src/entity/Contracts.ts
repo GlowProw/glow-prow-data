@@ -3,22 +3,25 @@ import contractsData from "../data/contracts.json";
 /**
  * 合同
  */
-export declare class Contract {
-    // 合同id
-    readonly id: string;
+export class Contract {
+    constructor(
+        // 合同id
+        public readonly id: string
+    ) {}
 
-    constructor(id: string);
-
-    static loadContracts(): Record<string, Contract>;
+    public static loadContracts(): Record<string, Contract> {
+        const contracts: Record<string, Contract> = {};
+        for (const [key, value] of Object.entries(contractsData)) {
+            contracts[key] = new Contract(
+                value.id
+            );
+        }
+        return contracts;
+    }
 }
 
 type Contracts = {
-    [p: string]: Contract | unknown;
+    [K in keyof typeof contractsData]: Contract;
 };
 
-export const Contracts: Contracts = {
-    ...Object.fromEntries(
-        Object.entries(contractsData).map(([key, value]) => [key, value])
-    )
-};
-export {};
+export const Contracts = Contract.loadContracts() as Contracts;
