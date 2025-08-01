@@ -5,9 +5,13 @@ import {Factions} from './Factions';
 
 export class WorldEvent {
     constructor(
+        // 事件id
         public readonly id: string,
+        // 事件类型
         public readonly type: WorldEventType,
+        // 事件所属阵营
         public readonly faction?: unknown,
+        // 事件
         public readonly event?: unknown
     ) {
     }

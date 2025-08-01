@@ -2023,8 +2023,9 @@
         "id": "twinWinchBallista",
         "type": "ballista",
         "rarity": "epic",
+        "season": "oathsOfWar",
         "requiredRank": "kingpin1",
-        "obtainable": "theHelmSeasonal",
+        "blueprint": "theHelmSeasonal",
         "value": 1,
         "weight": 750,
         "gearScore": 91,
@@ -2036,11 +2037,16 @@
         "projectileSpeed": 1150,
         "optimalRange": 1350,
         "required": {
-            "sovereigns": 400
+            "planetaryGearset": 16,
+            "torsionSpring": 8,
+            "precisionDrillingBit": 8,
+            "eelSturdyRopes": 1,
+            "orcaIntricateApparatus": 1,
+            "silver": 3960
         },
         "perks": ["doubleDraw", "piercing2"],
         "dateAdded": "2024-02-05",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-07-22"
     },
     "seaFire1": {
         "id": "seaFire1",
@@ -5458,18 +5464,24 @@
         "id": "dummySpringloader1",
         "rarity": "epic",
         "tier": 1,
-        "season": "chorusOfHavoc",
-        "obtainable": "theHelmSeasonal",
+        "season": "oathsOfWar",
+        "blueprint": "theHelmSeasonal",
         "type": "majorFurniture",
         "gearScore": 35,
         "value": 1,
         "weight": 250,
         "required": {
-            "sovereigns": 400
+            "planetaryGearset": 10,
+            "torsionSpring": 8,
+            "rubber": 8,
+            "wyrmsBreath": 4,
+            "gannetDenseNiter": 1,
+            "orcaIntricateApparatus": 1,
+            "silver": 5760
         },
         "perks": ["dummySpringloader1"],
         "dateAdded": "2024-05-29",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-07-22"
     },
     "fatanaStation1": {
         "id": "fatanaStation1",
@@ -5870,16 +5882,25 @@
         "id": "machinistStationRepair1",
         "tier": 1,
         "rarity": "rare",
-        "season": "chorusOfHavoc",
-        "obtainable": ["smugglerPass","williamBlackwoodRotatingStore"],
+        "season": "oathsOfWar",
+        "obtainable": "williamBlackwoodRotatingStore",
+        "blueprint": "williamBlackwoodSeasonalItem",
         "type": "offensiveFurniture",
         "gearScore": 20,
         "value": 1,
         "weight": 80,
         "perks": ["machinistStationRepair1"],
-        "required": {},
+        "required": {
+            "magnetiteIngot": 14,
+            "dryCastingSand": 10,
+            "planetaryGearset": 10,
+            "sinewString": 4,
+            "rubber": 4,
+            "eelSturdyRopes": 2,
+            "silver": 4680
+        },
         "dateAdded": "2024-06-02",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-07-21"
     },
     "raisedQuarterdeck1": {
         "id": "raisedQuarterdeck1",
@@ -5948,17 +5969,26 @@
         "id": "compagnieScreens",
         "rarity": "epic",
         "obtainable": ["whiteAriaChest","williamBlackwoodRotatingStore"],
-        "season": "chorusOfHavoc",
+        "blueprint": "williamBlackwoodSeasonalItem",
+        "season": "oathsOfWar",
         "worldEvent": "verseOfRemorse",
         "bounty": "verseOfRemorse",
         "type": "utilityFurniture",
         "gearScore": 25,
         "value": 1,
         "weight": 80,
-        "required": {},
+        "required": {
+            "greenheartPlank": 12,
+            "magnetiteIngot": 12,
+            "woodPitch": 8,
+            "planetaryGearset": 8,
+            "torsionSpring": 6,
+            "orcaIntricateApparatus": 2,
+            "silver": 3600
+        },
         "perks": ["compagnieScreens"],
         "dateAdded": "2024-06-03",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-07-22"
     },
     "medicineCabinet": {
         "id": "medicineCabinet",
@@ -12012,5 +12042,55 @@
         },
         "dateAdded": "2025-07-19",
         "lastUpdated": "2025-07-19"
+    },
+    "moonshineChest": {
+        "id": "moonshineChest",
+        "rarity": "epic",
+        "type": "chest",
+        "event": "moonshineLarceny",
+        "worldEvent": ["deadMansMoonshine","moonshineMadness"],
+        "value": 1,
+        "weight": 100,
+        "dateAdded": "2025-07-22",
+        "lastUpdated": "2025-07-22"
+    },
+    "moonshineStrongbox": {
+        "id": "moonshineStrongbox",
+        "rarity": "epic",
+        "type": "chest",
+        "event": "moonshineLarceny",
+        "worldEvent": ["deadMansMoonshine","moonshineMadness","theManicMoonshinerFleet"],
+        "value": 1,
+        "weight": 100,
+        "dateAdded": "2025-07-22",
+        "lastUpdated": "2025-07-22"
+    },
+    "ascendedAshbreakerChest": {
+        "id": "ascendedAshbreakerChest",
+        "rarity": "epic",
+        "type": "chest",
+        "event": "moonshineLarceny",
+        "worldEvent": "accountLedgerSainteAnne",
+        "value": 1,
+        "weight": 100,
+        "required": {
+            "illicitMoonshine": 1800
+        },
+        "dateAdded": "2025-07-22",
+        "lastUpdated": "2025-07-22"
+    },
+    "ascendedEventCache": {
+        "id": "ascendedEventCache",
+        "rarity": "epic",
+        "type": "chest",
+        "event": "moonshineLarceny",
+        "worldEvent": "accountLedgerSainteAnne",
+        "value": 1,
+        "weight": 100,
+        "required": {
+            "illicitMoonshine": 1350
+        },
+        "dateAdded": "2025-07-22",
+        "lastUpdated": "2025-07-22"
     }
 }

@@ -3,27 +3,32 @@ import seasonsData from "../data/seasons.json";
 /**
  * 赛季
  */
-export declare class Season {
-    // 赛季id
-    readonly id: string;
-    // 赛季别名，简称
-    readonly alternativeName: string
-    // 开始时间
-    readonly startDate: Date;
-    // 结束时间
-    readonly endDate: Date;
+export class Season {
+    constructor(
+        // 赛季id
+        public readonly id: string,
+        // 赛季开始
+        public readonly startDate: Date,
+        // 赛季结束
+        public readonly endDate: Date,
+    ) {
+    }
 
-    constructor(index: number, id: string, alternativeName: string, startDate: Date, endDate: Date);
+    public static loadSeasons(): Record<string, Season> {
+        const seasons: Record<string, Season> = {};
+        for (const [key, value] of Object.entries(seasonsData)) {
+            seasons[key] = new Season(
+                value.id,
+                new Date(value.startDate),
+                new Date(value.endDate),
+            );
+        }
+        return seasons;
+    }
 }
 
 type Seasons = {
-    [p: string]: Season | unknown;
+    [K in keyof typeof seasonsData]: Season;
 };
 
-export const Seasons: Seasons = {
-    ...Object.fromEntries(
-        Object.entries(seasonsData).map(([key, value]) => [key, value])
-    )
-};
-
-export {};
+export const Seasons: Seasons = Season.loadSeasons() as Seasons;
