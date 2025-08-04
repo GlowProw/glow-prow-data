@@ -7,6 +7,8 @@ export class Season {
     constructor(
         // 赛季id
         public readonly id: string,
+        // 赛季别名
+        public readonly alternativeName: string,
         // 赛季开始
         public readonly startDate: Date,
         // 赛季结束
@@ -19,6 +21,7 @@ export class Season {
         for (const [key, value] of Object.entries(seasonsData)) {
             seasons[key] = new Season(
                 value.id,
+                value.alternativeName,
                 new Date(value.startDate),
                 new Date(value.endDate),
             );
