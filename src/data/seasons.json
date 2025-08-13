@@ -1,4 +1,11 @@
 {
+    "release": {
+        "index": 0,
+        "id": "release",
+        "alternativeName": "y1s0",
+        "startDate": "2024-02-13",
+        "endDate": "2024-02-26"
+    },
     "ragingTides": {
         "id": "ragingTides",
         "alternativeName": "y1s1",

@@ -11,6 +11,7 @@ export class Event {
         // 事件赛季
         public readonly bySeasons: Season[]
     ) {
+        return this
     }
 
     public static loadEvents(): Record<string, Event> {

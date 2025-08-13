@@ -17,7 +17,9 @@ export class Faction {
         public readonly dateAdded: Date,
         // 最后更新
         public readonly lastUpdated: Date
-    ) {}
+    ) {
+        return this
+    }
 
     public static fromRawData(rawData: any): Faction {
         const season = rawData.firstAppearingSeason as keyof typeof Seasons;

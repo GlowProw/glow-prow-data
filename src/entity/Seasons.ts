@@ -8,12 +8,13 @@ export class Season {
         // 赛季id
         public readonly id: string,
         // 赛季别名
-        public readonly alternativeName: string,
+        public readonly alternativeName: string | unknown,
         // 赛季开始
         public readonly startDate: Date,
         // 赛季结束
         public readonly endDate: Date,
     ) {
+        return this
     }
 
     public static loadSeasons(): Record<string, Season> {

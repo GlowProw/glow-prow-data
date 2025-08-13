@@ -7,7 +7,9 @@ export class Contract {
     constructor(
         // 合同id
         public readonly id: string
-    ) {}
+    ) {
+        return this
+    }
 
     public static loadContracts(): Record<string, Contract> {
         const contracts: Record<string, Contract> = {};

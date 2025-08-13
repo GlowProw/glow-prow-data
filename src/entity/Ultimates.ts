@@ -22,7 +22,9 @@ export class Ultimate {
         public readonly dateAdded: Date,
         // 更新时间
         public readonly lastUpdated: Date
-    ) {}
+    ) {
+        return this
+    }
 
     public static loadUltimates(): Record<string, Ultimate> {
         const ultimates: Record<string, Ultimate> = {};

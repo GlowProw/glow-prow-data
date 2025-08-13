@@ -37,6 +37,7 @@ export class Item {
         public readonly damageMitigation?: Record<string, number>,
         public readonly contract?: unknown
     ) {
+        return this
     }
 
     public static fromRawData(rawData: any): Item {
@@ -75,7 +76,7 @@ export class Item {
             rawData.requiredRank ?? undefined,
             rawData.perks ?? [],
             rawData.rarity ?? undefined,
-            rawData.bySeason ? Seasons[season] : undefined,
+            rawData.season ? Seasons[season] : undefined,
             rawData.obtainable ?? undefined,
             rawData.event ? Events[event] : undefined,
             worldEvent ?? undefined,

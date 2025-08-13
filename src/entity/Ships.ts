@@ -63,6 +63,7 @@ export class Ship {
         // 最后更新时间
         public readonly lastUpdated: Date
     ) {
+        return this
     }
 
     // Static method to create a Ship instance from raw data

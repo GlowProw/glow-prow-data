@@ -14,6 +14,7 @@ export class WorldEvent {
         // 事件
         public readonly event?: unknown
     ) {
+        return this
     }
 
     public static fromRawData(rawData: any): WorldEvent {
