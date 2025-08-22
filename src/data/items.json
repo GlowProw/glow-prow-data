@@ -313,7 +313,8 @@
     "blueprint": "smugglerPassPinnacleStore",
     "obtainable": [
       "smugglerPass",
-      "williamBlackwoodRotatingStore"
+      "williamBlackwoodRotatingStore",
+      "teulingsWeaponChest1"
     ],
     "value": 1,
     "weight": 500,
@@ -337,7 +338,7 @@
       "flooding1"
     ],
     "dateAdded": "2024-02-27",
-    "lastUpdated": "2025-07-29"
+    "lastUpdated": "2025-08-17"
   },
   "demicannon1": {
     "id": "demicannon1",
@@ -1460,7 +1461,8 @@
     "blueprint": "williamBlackwoodRotatingStore",
     "obtainable": [
       "smugglerPass",
-      "williamBlackwoodRotatingStore"
+      "williamBlackwoodRotatingStore",
+      "teulingsWeaponChest1"
     ],
     "type": "armor",
     "value": 1,
@@ -1487,7 +1489,7 @@
       "agileGuard"
     ],
     "dateAdded": "2024-02-27",
-    "lastUpdated": "2025-07-29"
+    "lastUpdated": "2025-08-17"
   },
   "royalCustodian": {
     "id": "royalCustodian",
@@ -5947,12 +5949,12 @@
       "precisionDrillingBit": 2,
       "gannetsSaltpeter": 1
     },
-    "obtainable": "williamBlackwoodRotatingStore",
+    "obtainable": ["williamBlackwoodRotatingStore","teulingsWeaponChest1"],
     "perks": [
       "laPotenceSchematics1"
     ],
     "dateAdded": "2024-02-27",
-    "lastUpdated": "2025-07-29"
+    "lastUpdated": "2025-08-17"
   },
   "fauleIlse": {
     "id": "fauleIlse",
@@ -6075,6 +6077,7 @@
     "rarity": "epic",
     "season": "chorusOfHavoc",
     "obtainable": "theHelmSeasonal",
+    "blueprint": "theHelmSeasonOathsOfWar",
     "value": 1,
     "weight": 1000,
     "gearScore": 91,
@@ -6085,7 +6088,12 @@
     "optimalRange": 300,
     "timeToTarget": 2250,
     "required": {
-      "sovereigns": 600
+      "roselleCloth": 8,
+      "sinewString": 4,
+      "torsionSpring": 4,
+      "orcasMechanism": 2,
+      "gannetsSaltpeter": 2,
+      "silver": 4290
     },
     "perks": [
       "rocketArtillery",
@@ -6093,7 +6101,7 @@
       "burning1"
     ],
     "dateAdded": "2024-05-26",
-    "lastUpdated": "2025-07-29"
+    "lastUpdated": "2025-08-05"
   },
   "endlessRequiem": {
     "id": "endlessRequiem",
@@ -6258,18 +6266,25 @@
     "season": "chorusOfHavoc",
     "tier": 1,
     "obtainable": "theHelmSeasonal",
+    "blueprint": "theHelmSeasonOathsOfWar",
     "type": "offensiveFurniture",
     "gearScore": 25,
     "value": 1,
     "weight": 80,
     "required": {
-      "sovereigns": 400
+      "magnetiteIngot": 16,
+      "purifiedSaltpeter": 14,
+      "naphtha": 4,
+      "rubber": 4,
+      "wyrmVolatileNapalm": 1,
+      "gannetDenseNiter": 1,
+      "silver": 4680
     },
     "perks": [
       "tuningStation1"
     ],
     "dateAdded": "2024-05-29",
-    "lastUpdated": "2025-07-29"
+    "lastUpdated": "2025-08-05"
   },
   "mineSpringloader1": {
     "id": "mineSpringloader1",
@@ -6370,7 +6385,8 @@
     "blueprint": "smugglerPassPinnacleStore",
     "obtainable": [
       "smugglerPass",
-      "williamBlackwoodRotatingStore"
+      "williamBlackwoodRotatingStore",
+      "teulingsWeaponChest1"
     ],
     "requiredSize": "medium",
     "type": "springloader",
@@ -6396,7 +6412,7 @@
       "burning3"
     ],
     "dateAdded": "2024-07-06",
-    "lastUpdated": "2025-07-29"
+    "lastUpdated": "2025-08-17"
   },
   "littleGrace1": {
     "id": "littleGrace1",
@@ -6714,7 +6730,8 @@
     "blueprint": "smugglerPassPinnacleStore",
     "obtainable": [
       "smugglerPass",
-      "williamBlackwoodRotatingStore"
+      "williamBlackwoodRotatingStore",
+      "teulingsWeaponChest1"
     ],
     "type": "majorFurniture",
     "gearScore": 35,
@@ -6733,13 +6750,13 @@
       "buoyLocker1"
     ],
     "dateAdded": "2024-06-02",
-    "lastUpdated": "2025-07-29"
+    "lastUpdated": "2025-08-17"
   },
   "brouwersPowderhouse1": {
     "id": "brouwersPowderhouse1",
     "rarity": "rare",
     "season": "chorusOfHavoc",
-    "obtainable": "soleilRoyalCompagnieRoyaleTreasureChest",
+    "obtainable": "soleilRoyalTreasureChest",
     "blueprint": "personScurlockSainteAnne",
     "worldEvent": "symphonieMortelle",
     "bounty": "symphonieMortelle",
@@ -6901,7 +6918,8 @@
     "blueprint": "smugglerPassPinnacleStore",
     "obtainable": [
       "smugglerPass",
-      "williamBlackwoodRotatingStore"
+      "williamBlackwoodRotatingStore",
+      "teulingsWeaponChest1"
     ],
     "value": 1,
     "weight": 500,
@@ -6927,7 +6945,7 @@
       "ironPlastron"
     ],
     "dateAdded": "2024-06-04",
-    "lastUpdated": "2025-07-29"
+    "lastUpdated": "2025-08-17"
   },
   "cursedBanner": {
     "id": "cursedBanner",
@@ -8910,7 +8928,7 @@
     },
     "worldEvent": "symphonieMortelle",
     "bounty": "symphonieMortelle",
-    "obtainable": "soleilRoyalCompagnieRoyaleTreasureChest",
+    "obtainable": "soleilRoyalTreasureChest",
     "blueprint": "personScurlockSainteAnne",
     "perks": [
       "scupperStation1"
@@ -10107,7 +10125,7 @@
     "type": "longGun",
     "rarity": "epic",
     "season": "intoTheDragonsWake",
-    "obtainable": "smugglerPass",
+    "obtainable": ["smugglerPass","williamBlackwoodRotatingStore","teulingsWeaponChest1"],
     "value": 1,
     "weight": 500,
     "gearScore": 91,
@@ -10124,7 +10142,7 @@
       "piercing2"
     ],
     "dateAdded": "2024-08-22",
-    "lastUpdated": "2025-07-29"
+    "lastUpdated": "2025-08-17"
   },
   "immortalVessel": {
     "id": "immortalVessel",
@@ -10144,12 +10162,12 @@
       "electric": 0.09
     },
     "required": {},
-    "obtainable": "smugglerPass",
+    "obtainable": ["smugglerPass","williamBlackwoodRotatingStore","teulingsWeaponChest1"],
     "perks": [
       "indomitable"
     ],
     "dateAdded": "2024-08-22",
-    "lastUpdated": "2025-07-29"
+    "lastUpdated": "2025-08-17"
   },
   "voltasWard": {
     "id": "voltasWard",
@@ -10206,13 +10224,13 @@
     "season": "intoTheDragonsWake",
     "weight": 80,
     "gearScore": 25,
-    "blueprint": "smugglerPass",
+    "obtainable": ["smugglerPass","williamBlackwoodRotatingStore","teulingsWeaponChest1"],
     "required": {},
     "perks": [
       "chargeStores"
     ],
     "dateAdded": "2024-08-22",
-    "lastUpdated": "2025-07-29"
+    "lastUpdated": "2025-08-17"
   },
   "battleJunkUpgrade1": {
     "id": "battleJunkUpgrade1",
@@ -10731,10 +10749,11 @@
     "type": "culverin",
     "rarity": "epic",
     "season": "shadowsOfTheDeep",
-    "event": "enterTheNian",
+    "event": ["enterTheNian","moonshineLarceny"],
     "obtainable": [
       "idolOfTheBeastStatue",
-      "nianStrongbox"
+      "nianStrongbox",
+      "ascendedEventCache"
     ],
     "value": 1,
     "weight": 500,
@@ -10751,7 +10770,7 @@
       "explosive1"
     ],
     "dateAdded": "2025-01-14",
-    "lastUpdated": "2025-07-29"
+    "lastUpdated": "2025-08-17"
   },
   "agnisFury": {
     "id": "agnisFury",
@@ -10785,7 +10804,7 @@
     "type": "mortar",
     "rarity": "epic",
     "season": "shadowsOfTheDeep",
-    "obtainable": "smugglerPass",
+    "obtainable": ["smugglerPass","williamBlackwoodRotatingStore","teulingsWeaponChest1"],
     "value": 1,
     "weight": 1000,
     "gearScore": 91,
@@ -10804,7 +10823,7 @@
       "noDefaultCrit"
     ],
     "dateAdded": "2024-11-19",
-    "lastUpdated": "2025-07-29"
+    "lastUpdated": "2025-08-17"
   },
   "blightkeeper": {
     "id": "blightkeeper",
@@ -10911,7 +10930,7 @@
     "id": "tanashah",
     "rarity": "epic",
     "season": "shadowsOfTheDeep",
-    "obtainable": "smugglerPass",
+    "obtainable": ["smugglerPass","williamBlackwoodRotatingStore","teulingsWeaponChest1"],
     "type": "armor",
     "value": 1,
     "weight": 500,
@@ -10931,7 +10950,7 @@
       "reinforced"
     ],
     "dateAdded": "2024-11-19",
-    "lastUpdated": "2025-07-29"
+    "lastUpdated": "2025-08-17"
   },
   "painPiper": {
     "id": "painPiper",
@@ -11017,12 +11036,12 @@
     "weight": 250,
     "gearScore": 35,
     "required": {},
-    "obtainable": "smugglerPass",
+    "obtainable": ["smugglerPass","williamBlackwoodRotatingStore","teulingsWeaponChest1"],
     "perks": [
       "teulingsGuidance"
     ],
     "dateAdded": "2024-11-19",
-    "lastUpdated": "2025-07-29"
+    "lastUpdated": "2025-08-17"
   },
   "strangeElixir": {
     "id": "strangeElixir",
@@ -11270,9 +11289,10 @@
     "season": "shadowsOfTheDeep",
     "obtainable": [
       "azureStrongbox",
-      "azuriteLodestoneSaintAnne"
+      "azuriteLodestoneSaintAnne",
+      "ascendedEventCache"
     ],
-    "event": "azureSolstice",
+    "event": ["azureSolstice","moonshineLarceny"],
     "worldEvent": "theAzureRoyale",
     "value": 1,
     "weight": 500,
@@ -11292,14 +11312,14 @@
       "piercing1"
     ],
     "dateAdded": "2024-12-03",
-    "lastUpdated": "2025-07-29"
+    "lastUpdated": "2025-08-17"
   },
   "dahaaka": {
     "id": "dahaaka",
     "type": "torpedo",
     "rarity": "epic",
     "season": "shadowsOfTheDeep",
-    "obtainable": "smugglerPass",
+    "obtainable": ["smugglerPass","teulingsWeaponChest1"],
     "value": 1,
     "weight": 500,
     "gearScore": 91,
@@ -11317,7 +11337,7 @@
       "flooding2"
     ],
     "dateAdded": "2024-11-19",
-    "lastUpdated": "2025-07-29"
+    "lastUpdated": "2025-08-17"
   },
   "rumFruitcake": {
     "id": "rumFruitcake",
@@ -11941,7 +11961,7 @@
     "type": "bombard",
     "rarity": "epic",
     "season": "ascentIntoChaos",
-    "event": "theHonorless",
+    "event": ["theHonorless","moonshineLarceny"],
     "value": 1,
     "weight": 500,
     "gearScore": 91,
@@ -11954,7 +11974,8 @@
     "blastRadius": 35,
     "obtainable": [
       "theHelmEvent",
-      "bloodiedStrongbox"
+      "bloodiedStrongbox",
+      "ascendedEventCache"
     ],
     "required": {
       "bloodiedDoubloon": 1000
@@ -11965,7 +11986,7 @@
       "electric1"
     ],
     "dateAdded": "2025-05-06",
-    "lastUpdated": "2025-07-29"
+    "lastUpdated": "2025-08-17"
   },
   "tearingLongGun1": {
     "id": "tearingLongGun1",
@@ -12387,9 +12408,10 @@
     "season": "ascentIntoChaos",
     "obtainable": [
       "theHelmEvent",
-      "bloodiedStrongbox"
+      "bloodiedStrongbox",
+      "ascendedEventCache"
     ],
-    "event": "theHonorless",
+    "event": ["theHonorless","moonshineLarceny"],
     "value": 1,
     "weight": 500,
     "gearScore": 91,
@@ -12407,7 +12429,7 @@
       "combustion3"
     ],
     "dateAdded": "2025-05-06",
-    "lastUpdated": "2025-07-29"
+    "lastUpdated": "2025-08-17"
   },
   "fireCulverin1": {
     "id": "fireCulverin1",
@@ -13039,6 +13061,7 @@
     "rarity": "legendary",
     "season": "chorusOfHavoc",
     "type": "chest",
+    "faction": "compagnieRoyale",
     "worldEvent": "symphonieMortelle",
     "value": 1,
     "weight": 1000,
@@ -13100,6 +13123,7 @@
     "rarity": "legendary",
     "season": "ragingTides",
     "type": "chest",
+    "faction": "dutchMerchantCompany",
     "worldEvent": "theOpwelling",
     "value": 1,
     "weight": 1000,
@@ -13638,7 +13662,7 @@
     "optimalRange": 550,
     "projectileSpeed": 135,
     "blastRadius": 30,
-    "obtainable": ["moonshineStrongbox","accountLedgerSainteAnne"],
+    "obtainable": ["moonshineStrongbox","accountLedgerSainteAnne","ascendedAshbreakerChest","ascendedEventCache"],
     "perks": [
       "marauder",
       "burning2",
@@ -13969,9 +13993,9 @@
     "season": "oathsOfWar",
     "type": "chest",
     "event": "moonshineLarceny",
-    "worldEvent": "accountLedgerSainteAnne",
     "value": 1,
     "weight": 100,
+    "obtainable": "accountLedgerSainteAnne",
     "required": {
       "illicitMoonshine": 1800
     },
@@ -13984,7 +14008,7 @@
     "season": "oathsOfWar",
     "type": "chest",
     "event": "moonshineLarceny",
-    "worldEvent": "accountLedgerSainteAnne",
+    "obtainable": "accountLedgerSainteAnne",
     "value": 1,
     "weight": 100,
     "required": {
@@ -14047,5 +14071,181 @@
     "obtainable": "defeatMegafortWolvenhol",
     "dateAdded": "2025-07-15",
     "lastUpdated": "2025-07-15"
+  },
+  "teulingsMaterialsChest1": {
+    "id": "teulingsMaterialsChest1",
+    "rarity": "epic",
+    "season": "oathsOfWar",
+    "type": "chest",
+    "value": 1,
+    "weight": 100,
+    "obtainable": "smugglerPassPinnacleStore",
+    "required": {
+      "smugglersMark": 1
+    },
+    "dateAdded": "2025-08-17",
+    "lastUpdated": "2025-08-17"
+  },
+  "teulingsItemAscensionChest1": {
+    "id": "teulingsItemAscensionChest1",
+    "rarity": "epic",
+    "season": "oathsOfWar",
+    "type": "chest",
+    "value": 1,
+    "weight": 100,
+    "obtainable": "smugglerPassPinnacleStore",
+    "required": {
+      "smugglersMark": 1
+    },
+    "dateAdded": "2025-08-17",
+    "lastUpdated": "2025-08-17"
+  },
+  "teulingsArmorChest1": {
+    "id": "teulingsArmorChest1",
+    "rarity": "epic",
+    "season": "oathsOfWar",
+    "type": "chest",
+    "value": 1,
+    "weight": 100,
+    "obtainable": "smugglerPassPinnacleStore",
+    "required": {
+      "smugglersMark": 3
+    },
+    "dateAdded": "2025-08-17",
+    "lastUpdated": "2025-08-17"
+  },
+  "teulingsFurnitureChest1": {
+    "id": "teulingsFurnitureChest1",
+    "rarity": "epic",
+    "season": "oathsOfWar",
+    "type": "chest",
+    "value": 1,
+    "weight": 100,
+    "obtainable": "smugglerPassPinnacleStore",
+    "required": {
+      "smugglersMark": 3
+    },
+    "dateAdded": "2025-08-17",
+    "lastUpdated": "2025-08-17"
+  },
+  "teulingsWeaponChest1": {
+    "id": "teulingsWeaponChest1",
+    "rarity": "epic",
+    "season": "oathsOfWar",
+    "type": "chest",
+    "value": 1,
+    "weight": 100,
+    "obtainable": "smugglerPassPinnacleStore",
+    "required": {
+      "smugglersMark": 4
+    },
+    "dateAdded": "2025-08-17",
+    "lastUpdated": "2025-08-17"
+  },
+  "jokaKubwaTreasureChest": {
+    "id": "jokaKubwaTreasureChest",
+    "rarity": "epic",
+    "season": "release",
+    "type": "chest",
+    "faction": "confederationOfUngwana",
+    "worldEvent": "hunterHunted",
+    "value": 1,
+    "weight": 100,
+    "dateAdded": "2025-08-17",
+    "lastUpdated": "2025-08-17"
+  },
+  "dianSinagaTreasureChest": {
+    "id": "dianSinagaTreasureChest",
+    "rarity": "epic",
+    "season": "release",
+    "type": "chest",
+    "faction": "dominionOfRempah",
+    "worldEvent": "aTreacherousTurn",
+    "value": 1,
+    "weight": 100,
+    "dateAdded": "2025-08-17",
+    "lastUpdated": "2025-08-17"
+  },
+  "dirkAnkerenTreasureChest": {
+    "id": "dirkAnkerenTreasureChest",
+    "rarity": "epic",
+    "season": "release",
+    "type": "chest",
+    "faction": "dutchMerchantCompany",
+    "worldEvent": "aShowOfStrength",
+    "value": 1,
+    "weight": 100,
+    "dateAdded": "2025-08-17",
+    "lastUpdated": "2025-08-17"
+  },
+  "galvinRocheTreasureChest": {
+    "id": "galvinRocheTreasureChest",
+    "rarity": "epic",
+    "season": "release",
+    "type": "chest",
+    "faction": "compagnieRoyale",
+    "worldEvent": "bloodDrunk",
+    "value": 1,
+    "weight": 100,
+    "dateAdded": "2025-08-17",
+    "lastUpdated": "2025-08-17"
+  },
+  "tangenaRabeTreasureChest": {
+    "id": "tangenaRabeTreasureChest",
+    "rarity": "epic",
+    "season": "release",
+    "type": "chest",
+    "faction": "clanOfFara",
+    "worldEvent": "fangsOfTheFara",
+    "value": 1,
+    "weight": 100,
+    "dateAdded": "2025-08-17",
+    "lastUpdated": "2025-08-17"
+  },
+  "ahPakTreasureChest": {
+    "id": "ahPakTreasureChest",
+    "rarity": "epic",
+    "season": "release",
+    "type": "chest",
+    "faction": "pirates",
+    "worldEvent": "watchTheThrone",
+    "value": 1,
+    "weight": 100,
+    "dateAdded": "2025-08-17",
+    "lastUpdated": "2025-08-17"
+  },
+  "mizerjaTreasureChest": {
+    "id": "mizerjaTreasureChest",
+    "rarity": "legendary",
+    "season": "ragingTides",
+    "type": "chest",
+    "faction": "clanOfFara",
+    "worldEvent": "theMizerja",
+    "value": 1,
+    "weight": 100,
+    "dateAdded": "2025-08-17",
+    "lastUpdated": "2025-08-17"
+  },
+  "elDoradoCosmeticsChest": {
+    "id": "elDoradoCosmeticsChest",
+    "rarity": "legendary",
+    "season": "oathsOfWar",
+    "type": "chest",
+    "worldEvent": "gloryAdorned",
+    "value": 1,
+    "weight": 100,
+    "dateAdded": "2025-08-19",
+    "lastUpdated": "2025-08-19"
+  },
+  "hellfestShipCosmeticsChest": {
+    "id": "hellfestShipCosmeticsChest",
+    "rarity": "legendary",
+    "season": "ascentIntoChaos",
+    "type": "chest",
+    "worldEvent": "gloryAdorned",
+    "value": 1,
+    "weight": 100,
+    "dateAdded": "2025-08-19",
+    "lastUpdated": "2025-08-19"
   }
 }

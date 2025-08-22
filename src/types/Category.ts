@@ -1,6 +1,17 @@
-export declare const CommodityCategories: readonly ["localFaction", "megacorp", "kingpin", "theHelm", "summoningBell", "unique"];
+export const CommodityCategories = [
+    "localFaction", "megacorp", "kingpin", "theHelm", "summoningBell", "unique"
+] as const;
+
 export type CommodityCategory = (typeof CommodityCategories)[number];
-export declare const MaterialCategories: readonly ["raw", "refined", "specialized", "exotic", "helm", "scrap", "currency"];
+
+export const MaterialCategories = [
+    "raw", "refined", "specialized", "exotic", "helm", "scrap", "currency"
+] as const;
+
 export type MaterialCategory = (typeof MaterialCategories)[number];
-export declare const AchievementCategories: readonly ["mastery", "enterprise", "legends", "cooperative", "seasonal"];
+
+export const AchievementCategories = [
+    "mastery", "enterprise", "legends", "cooperative", "seasonal"
+] as const;
+
 export type AchievementCategory = (typeof AchievementCategories)[number];

@@ -1,16 +1,18 @@
 import itemsData from '../data/items.json';
 import {FurnitureType, GeneralType, Tier, WeaponType} from '../types/ItemProperties';
 import {Rarity} from '../types/Rarity';
-import {Contracts} from './Contracts';
+import {Contract, Contracts} from './Contracts';
 import {Events} from './Events';
 import {Material, Materials} from './Materials';
-import {Seasons} from './Seasons';
-import {WorldEvents} from './WorldEvents';
+import {Season, Seasons} from './Seasons';
+import {WorldEvent, WorldEvents} from './WorldEvents';
+import {Faction, Factions} from "./Factions";
 
 export class Item {
     constructor(
         public readonly id: string,
         public readonly type: GeneralType | WeaponType | FurnitureType,
+        public readonly bySeason: Season,
         public readonly dateAdded: Date,
         public readonly lastUpdated: Date,
         public readonly tier?: Tier,
@@ -21,28 +23,31 @@ export class Item {
         public readonly projectilesPerShot?: number,
         public readonly damagePerShot?: number,
         public readonly rateOfFire?: number,
+        public readonly chargeTime?: number,
         public readonly reloadSpeed?: number,
         public readonly optimalRange?: number,
         public readonly projectileSpeed?: number,
         public readonly timeToTarget?: number,
-        public readonly required?: undefined | Map<Material, number>,
+        public readonly required?: Map<Material, number>,
         public readonly requiredRank?: string,
         public readonly perks?: string[],
         public readonly rarity?: Rarity,
-        public readonly bySeason?: unknown,
-        public readonly obtainable?: string | string[],
-        public readonly event?: unknown,
-        public readonly worldEvent?: unknown,
+        public obtainable?: string | Item | Array<string | Item> | Array<Array<string | Item> | Item | string>,
+        public readonly event?: Event | Event[],
+        public readonly worldEvent?: WorldEvent | WorldEvent[],
         public readonly armor?: number,
         public readonly damageMitigation?: Record<string, number>,
-        public readonly contract?: unknown
+        public readonly contract?: Contract,
+        public readonly faction?: Faction
     ) {
         return this
     }
 
     public static fromRawData(rawData: any): Item {
         const season = rawData.season as keyof typeof Seasons;
-        const event = rawData.event as keyof typeof Events;
+        const event = Array.isArray(rawData.event)
+            ? rawData.event.map((_event: string) => Events[_event as keyof typeof Events])
+            : Events[rawData.event as keyof typeof Events];
         const contract = rawData.contract as keyof typeof Contracts;
         const worldEvent = Array.isArray(rawData.worldEvent)
             ? rawData.worldEvent.map((_worldEvent: string) => WorldEvents[_worldEvent as keyof typeof WorldEvents])
@@ -51,13 +56,15 @@ export class Item {
         if (required) {
             for (const [requiredKey, quantity] of Object.entries(rawData.required)) {
                 const requiredMaterial = requiredKey as keyof typeof Materials;
-                required.set(<Material>Materials[requiredMaterial], quantity as number);
+                required.set(Materials[requiredMaterial], quantity as number);
             }
         }
+        const faction = rawData.faction as keyof typeof Factions;
 
         return new Item(
             rawData.id,
             rawData.type,
+            Seasons[season],
             new Date(rawData.dateAdded),
             new Date(rawData.lastUpdated),
             rawData.tier,
@@ -68,6 +75,7 @@ export class Item {
             rawData.projectilesPerShot ?? undefined,
             rawData.damagePerShot ?? undefined,
             rawData.rateOfFire ?? undefined,
+            rawData.chargeTime ?? undefined,
             rawData.reloadSpeed ?? undefined,
             rawData.optimalRange ?? undefined,
             rawData.projectileSpeed ?? undefined,
@@ -76,20 +84,58 @@ export class Item {
             rawData.requiredRank ?? undefined,
             rawData.perks ?? [],
             rawData.rarity ?? undefined,
-            rawData.season ? Seasons[season] : undefined,
             rawData.obtainable ?? undefined,
-            rawData.event ? Events[event] : undefined,
+            event ?? undefined,
             worldEvent ?? undefined,
             rawData.armor ?? undefined,
             rawData.damageMitigation ?? undefined,
-            rawData.contract ? Contracts[contract] : undefined
+            rawData.contract ? Contracts[contract] : undefined,
+            rawData.faction ? Factions[faction] : undefined
         );
+    }
+
+    public static updateObtainableWithItems(key: string, rawData: any, items: Record<string, Item>) {
+        if (!rawData.obtainable) return;
+        if (Array.isArray(rawData.obtainable)) {
+            const obtainable = new Array<Array<string | Item> | string | Item>();
+            for (const obtainableKey of rawData.obtainable) {
+                if (Array.isArray(obtainableKey)) {
+                    const obtainableGroup = new Array<string | Item>();
+                    for (const subKey of obtainableKey) {
+                        const obtainableItem = items[subKey];
+                        if (obtainableItem && obtainableItem.type === "chest") {
+                            obtainableGroup.push(obtainableItem);
+                        } else {
+                            obtainableGroup.push(subKey);
+                        }
+                    }
+                    obtainable.push(obtainableGroup);
+                } else {
+                    const obtainableItem = items[obtainableKey];
+                    if (obtainableItem && obtainableItem.type === "chest") {
+                        obtainable.push(obtainableItem);
+                    } else {
+                        obtainable.push(obtainableKey);
+                    }
+                }
+            }
+            items[key].obtainable = obtainable;
+        } else {
+            const obtainableItem = items[rawData.obtainable];
+            if (obtainableItem && obtainableItem.type === "chest") {
+                items[key].obtainable = obtainableItem;
+            }
+        }
     }
 
     public static loadItems(): Record<string, Item> {
         const items: Record<string, Item> = {};
         for (const [key, value] of Object.entries(itemsData)) {
             items[key] = Item.fromRawData(value);
+        }
+
+        for (const [key, value] of Object.entries(itemsData)) {
+            Item.updateObtainableWithItems(key, value, items);
         }
         return items;
     }

@@ -1,6 +1,6 @@
 import shipsData from '../data/ships.json';
 
-import {ShipSize, SlotWithGunports, SlotWithGunportsAcrossDecks} from "../types/ShipProperties";
+import {ShipArchetype, ShipSize, SlotWithGunPorts, SlotWithGunPortsAcrossDecks} from "../types/ShipProperties";
 import {Season, Seasons} from "./Seasons";
 import {Contract, Contracts} from "./Contracts";
 import {Material, Materials} from "./Materials";
@@ -16,6 +16,8 @@ export class Ship {
         public readonly size: ShipSize,
         // 类型
         public readonly type: string,
+        // 船只定位
+        public readonly archetype: ShipArchetype,
         // 合同
         public readonly contract: Contract | undefined,
         // 蓝图
@@ -48,14 +50,14 @@ export class Ship {
         public readonly required: Map<Material, number> | undefined,
         // 插槽
         public readonly slots: {
-            attachement?: SlotWithGunports;
-            frontWeapon?: SlotWithGunportsAcrossDecks;
-            leftSideWeapon?: SlotWithGunportsAcrossDecks;
-            rightSideWeapon?: SlotWithGunportsAcrossDecks;
-            aftWeapon?: SlotWithGunportsAcrossDecks;
-            auxiliaryWeapon?: SlotWithGunports;
-            furniture?: SlotWithGunports;
-            ultimate?: SlotWithGunports;
+            attachement?: SlotWithGunPorts;
+            frontWeapon?: SlotWithGunPortsAcrossDecks;
+            leftSideWeapon?: SlotWithGunPortsAcrossDecks;
+            rightSideWeapon?: SlotWithGunPortsAcrossDecks;
+            aftWeapon?: SlotWithGunPortsAcrossDecks;
+            auxiliaryWeapon?: SlotWithGunPorts;
+            furniture?: SlotWithGunPorts;
+            ultimate?: SlotWithGunPorts;
         },
         public readonly perks: string[],
         // 添加
@@ -82,6 +84,7 @@ export class Ship {
             rawData.id,
             rawData.size,
             rawData.type,
+            rawData.archetype,
             rawData.contract ? Contracts[contract] : undefined,
             rawData.blueprint ?? undefined,
             season ? Seasons[season] : undefined,

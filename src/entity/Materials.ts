@@ -21,6 +21,7 @@ export class Material {
     requiredRank?: string;
     // 派系
     faction?: Faction;
+    // 事件
     event?: Event;
 
     constructor(id: string, rarity: Rarity, category: MaterialCategory, requiredRank?: string, faction?: Faction, event?: Event) {

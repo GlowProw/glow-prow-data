@@ -6,3 +6,5 @@ export {Factions, Faction} from "./entity/Factions";
 export {Events, Event} from "./entity/Events";
 export {Modifications, Modification} from "./entity/Modifications";
 export {Ultimates, Ultimate} from "./entity/Ultimates"
+export {Cosmetics, Cosmetic} from "./entity/Cosmetics"
+export {Sets, Set} from "./entity/Sets"
