@@ -270,6 +270,19 @@
         "id": "allureOfPower"
     },
     "theHonorless": {
-        "id": "theHonorlest"
+        "id": "theHonorless"
+    },
+    "reachTheFirmament": {
+        "id": "reachTheFirmament"
+    },
+    "wolvesAtWar": {
+        "id": "wolvesAtWar"
+    },
+    "plunderAndPeril": {
+        "id": "plunderAndPeril"
+    },
+    "riskOfRuin": {
+        "id": "riskOfRuin",
+        "type": "main"
     }
 }

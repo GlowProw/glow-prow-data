@@ -910,9 +910,9 @@
     "type": "wheel",
     "set": "elDorado",
     "effect": "emissive",
-    "obtainable": "ubisoftStore",
+    "obtainable": ["ubisoftStore","elDoradoCosmeticsChest"],
     "dateAdded": "2024-03-16",
-    "lastUpdated": "2024-06-06"
+    "lastUpdated": "2025-08-23"
   },
   "trophyRack": {
     "id": "trophyRack",
@@ -12528,18 +12528,16 @@
   "violentOrchestra": {
     "id": "violentOrchestra",
     "type": "sailsEmblem",
-    "set": "hellfestShip",
-    "obtainable": ["ubisoftStore","hellfestShipCosmeticsChest"],
+    "obtainable": "ubisoftStore",
     "dateAdded": "2024-06-18",
-    "lastUpdated": "2025-06-10"
+    "lastUpdated": "2025-08-28"
   },
   "boltsOfFury": {
     "id": "boltsOfFury",
     "type": "sailsPattern",
-    "set": "hellfestShip",
-    "obtainable": ["ubisoftStore","hellfestShipCosmeticsChest"],
+    "obtainable": "ubisoftStore",
     "dateAdded": "2024-06-18",
-    "lastUpdated": "2025-06-10"
+    "lastUpdated": "2025-08-28"
   },
   "solemnMuse": {
     "id": "solemnMuse",
@@ -25696,5 +25694,359 @@
     "set": "cardsOfFate",
     "dateAdded": "2025-08-19",
     "lastUpdated": "2025-08-19"
+  },
+  "hellbentHellfest": {
+    "id": "hellbentHellfest",
+    "type": "sailsEmblem",
+    "set": "hellfestShip",
+    "obtainable": ["ubisoftStore","hellfestShipCosmeticsChest"],
+    "dateAdded": "2025-08-28",
+    "lastUpdated": "2025-08-28"
+  },
+  "flamesOfTheStyx": {
+    "id": "flamesOfTheStyx",
+    "type": "sailsPattern",
+    "set": "hellfestShip",
+    "obtainable": ["ubisoftStore","hellfestShipCosmeticsChest"],
+    "dateAdded": "2025-08-28",
+    "lastUpdated": "2025-08-28"
+  },
+  "rattleTheBars": {
+    "id": "rattleTheBars",
+    "type": "sailsPattern",
+    "set": "cagedFury",
+    "obtainable": ["twitchDrop","twitchDropDarktidesLullabyRelease"],
+    "dateAdded": "2025-09-02",
+    "lastUpdated": "2025-09-02"
+  },
+  "ironTang": {
+    "id": "ironTang",
+    "type": "sailsColor",
+    "set": "cagedFury",
+    "obtainable": ["twitchDrop","twitchDropDarktidesLullabyRelease"],
+    "dateAdded": "2025-09-02",
+    "lastUpdated": "2025-09-02"
+  },
+  "stingingSun": {
+    "id": "stingingSun",
+    "type": "hull",
+    "set": "cagedFury",
+    "obtainable": ["twitchDrop","twitchDropDarktidesLullabyRelease"],
+    "dateAdded": "2025-09-02",
+    "lastUpdated": "2025-09-02"
+  },
+  "freeRein": {
+    "id": "freeRein",
+    "type": "sailsEmblem",
+    "set": "cagedFury",
+    "obtainable": ["twitchDrop","twitchDropDarktidesLullabyRelease"],
+    "dateAdded": "2025-09-02",
+    "lastUpdated": "2025-09-02"
+  },
+  "soulSpurned": {
+    "id": "soulSpurned",
+    "type": "armorSkin",
+    "effect": "emissive",
+    "event": "darktideLullaby",
+    "obtainable": "premiumEventPass",
+    "dateAdded": "2025-09-02",
+    "lastUpdated": "2025-09-02"
+  },
+  "tali": {
+    "id": "tali",
+    "type": "pet",
+    "event": "darktideLullaby",
+    "obtainable": "premiumEventPass",
+    "dateAdded": "2025-09-02",
+    "lastUpdated": "2025-09-02"
+  },
+  "corpseDriven": {
+    "id": "corpseDriven",
+    "type": "crewLook",
+    "event": "darktideLullaby",
+    "set": "xianYuan",
+    "obtainable": "premiumEventPass",
+    "dateAdded": "2025-09-02",
+    "lastUpdated": "2025-09-02"
+  },
+  "iHunt": {
+    "id": "iHunt",
+    "type": "hull",
+    "set": "paleMother",
+    "event": "darktideLullaby",
+    "obtainable": "eventPass",
+    "dateAdded": "2025-09-02",
+    "lastUpdated": "2025-09-02"
+  },
+  "iYearn": {
+    "id": "iYearn",
+    "type": "sailsPattern",
+    "set": "paleMother",
+    "event": "darktideLullaby",
+    "obtainable": "eventPass",
+    "dateAdded": "2025-09-02",
+    "lastUpdated": "2025-09-02"
+  },
+  "iVow": {
+    "id": "iVow",
+    "type": "sailsColor",
+    "set": "paleMother",
+    "effect": "emissive",
+    "event": "darktideLullaby",
+    "obtainable": "eventPass",
+    "dateAdded": "2025-09-02",
+    "lastUpdated": "2025-09-02"
+  },
+  "iSing": {
+    "id": "iSing",
+    "type": "sailsEmblem",
+    "set": "paleMother",
+    "event": "darktideLullaby",
+    "obtainable": "eventPass",
+    "dateAdded": "2025-09-02",
+    "lastUpdated": "2025-09-02"
+  },
+  "elusiveRest": {
+    "id": "elusiveRest",
+    "type": "sailsEmblem",
+    "event": "darktideLullaby",
+    "set": "darktideMother",
+    "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+    "dateAdded": "2025-09-02",
+    "lastUpdated": "2025-09-02"
+  },
+  "scribblesOfHope": {
+    "id": "scribblesOfHope",
+    "type": "sailsPattern",
+    "event": "darktideLullaby",
+    "set": "darktideMother",
+    "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+    "dateAdded": "2025-09-02",
+    "lastUpdated": "2025-09-02"
+  },
+  "toPieces": {
+    "id": "toPieces",
+    "type": "sailsColor",
+    "effect": "emissive",
+    "event": "darktideLullaby",
+    "set": "darktideMother",
+    "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+    "dateAdded": "2025-09-02",
+    "lastUpdated": "2025-09-02"
+  },
+  "sheWhoWeeps": {
+    "id": "sheWhoWeeps",
+    "type": "figureHead",
+    "event": "darktideLullaby",
+    "set": "darktideMother",
+    "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+    "dateAdded": "2025-09-02",
+    "lastUpdated": "2025-09-02"
+  },
+  "mothersComforts": {
+    "id": "mothersComforts",
+    "type": "ornaments",
+    "effect": "emissive",
+    "event": "darktideLullaby",
+    "set": "darktideMother",
+    "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+    "dateAdded": "2025-09-02",
+    "lastUpdated": "2025-09-02"
+  },
+  "driftingSong": {
+    "id": "driftingSong",
+    "type": "hull",
+    "event": "darktideLullaby",
+    "set": "darktideMother",
+    "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+    "dateAdded": "2025-09-02",
+    "lastUpdated": "2025-09-02"
+  },
+  "mortalOne": {
+    "id": "mortalOne",
+    "type": "nameplate",
+    "effect": "emissive",
+    "event": "darktideLullaby",
+    "set": "darktideMother",
+    "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+    "dateAdded": "2025-09-02",
+    "lastUpdated": "2025-09-02"
+  },
+  "disturbUsNot": {
+    "id": "disturbUsNot",
+    "type": "trophy",
+    "event": "darktideLullaby",
+    "set": "darktideMother",
+    "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+    "dateAdded": "2025-09-02",
+    "lastUpdated": "2025-09-02"
+  },
+  "soothingSmoke": {
+    "id": "soothingSmoke",
+    "type": "helmDecor",
+    "effect": "emissive",
+    "event": "darktideLullaby",
+    "set": "darktideMother",
+    "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+    "dateAdded": "2025-09-02",
+    "lastUpdated": "2025-09-02"
+  },
+  "fuluCap": {
+    "id": "fuluCap",
+    "type": "headwear",
+    "event": "darktideLullaby",
+    "set": "creatureOfNight",
+    "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+    "dateAdded": "2025-09-02",
+    "lastUpdated": "2025-09-02"
+  },
+  "lastOfQi": {
+    "id": "lastOfQi",
+    "type": "faceAccessory",
+    "event": "darktideLullaby",
+    "set": "creatureOfNight",
+    "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+    "dateAdded": "2025-09-02",
+    "lastUpdated": "2025-09-02"
+  },
+  "mirroredGaze": {
+    "id": "mirroredGaze",
+    "type": "eyeColor",
+    "event": "darktideLullaby",
+    "set": "creatureOfNight",
+    "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+    "dateAdded": "2025-09-02",
+    "lastUpdated": "2025-09-02"
+  },
+  "stiffenedTunic": {
+    "id": "stiffenedTunic",
+    "type": "torso",
+    "event": "darktideLullaby",
+    "set": "creatureOfNight",
+    "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+    "dateAdded": "2025-09-02",
+    "lastUpdated": "2025-09-02"
+  },
+  "soulsOfThePo": {
+    "id": "soulsOfThePo",
+    "type": "neck",
+    "event": "darktideLullaby",
+    "set": "creatureOfNight",
+    "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+    "dateAdded": "2025-09-02",
+    "lastUpdated": "2025-09-02"
+  },
+  "laidToRestTooFarFromALovedOne": {
+    "id": "laidToRestTooFarFromALovedOne",
+    "type": "forearm",
+    "event": "darktideLullaby",
+    "set": "creatureOfNight",
+    "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+    "dateAdded": "2025-09-02",
+    "lastUpdated": "2025-09-02"
+  },
+  "holdOnesBreath": {
+    "id": "holdOnesBreath",
+    "type": "waist",
+    "event": "darktideLullaby",
+    "set": "creatureOfNight",
+    "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+    "dateAdded": "2025-09-02",
+    "lastUpdated": "2025-09-02"
+  },
+  "earthlyWraps": {
+    "id": "earthlyWraps",
+    "type": "hand",
+    "event": "darktideLullaby",
+    "set": "creatureOfNight",
+    "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+    "dateAdded": "2025-09-02",
+    "lastUpdated": "2025-09-02"
+  },
+  "improperBurial": {
+    "id": "improperBurial",
+    "type": "bottom",
+    "event": "darktideLullaby",
+    "set": "creatureOfNight",
+    "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+    "dateAdded": "2025-09-02",
+    "lastUpdated": "2025-09-02"
+  },
+  "trampledOfferings": {
+    "id": "trampledOfferings",
+    "type": "footwear",
+    "event": "darktideLullaby",
+    "set": "creatureOfNight",
+    "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+    "dateAdded": "2025-09-02",
+    "lastUpdated": "2025-09-02"
+  },
+  "rigorMortis": {
+    "id": "rigorMortis",
+    "type": "bodyCosmetics",
+    "event": "darktideLullaby",
+    "set": "creatureOfNight",
+    "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+    "dateAdded": "2025-09-02",
+    "lastUpdated": "2025-09-02"
+  },
+  "mournTheLost": {
+    "id": "mournTheLost",
+    "type": "aura",
+    "event": "darktideLullaby",
+    "effect": "bossKillReactive",
+    "season": "oathsOfWar",
+    "obtainable": ["ubisoftStore"],
+    "dateAdded": "2025-09-02",
+    "lastUpdated": "2025-09-02"
+  },
+  "corruptedTribute": {
+    "id": "corruptedTribute",
+    "type": "trophy",
+    "event": "darktideLullaby",
+    "set": "xianYuan",
+    "dateAdded": "2025-09-02",
+    "lastUpdated": "2025-09-02"
+  },
+  "brinedInBlood": {
+    "id": "brinedInBlood",
+    "type": "hull",
+    "event": "darktideLullaby",
+    "set": "xianYuan",
+    "dateAdded": "2025-09-02",
+    "lastUpdated": "2025-09-02"
+  },
+  "hellsGold": {
+    "id": "hellsGold",
+    "type": "sailsColor",
+    "effect": "emissive",
+    "event": "darktideLullaby",
+    "set": "xianYuan",
+    "dateAdded": "2025-09-02",
+    "lastUpdated": "2025-09-02"
+  },
+  "ritualCompass": {
+    "id": "ritualCompass",
+    "type": "helmDecor",
+    "event": "darktideLullaby",
+    "set": "xianYuan",
+    "dateAdded": "2025-09-02",
+    "lastUpdated": "2025-09-02"
+  },
+  "deathCouplets": {
+    "id": "deathCouplets",
+    "type": "sailsPattern",
+    "event": "darktideLullaby",
+    "set": "xianYuan",
+    "dateAdded": "2025-09-02",
+    "lastUpdated": "2025-09-02"
+  },
+  "voraciousDead": {
+    "id": "voraciousDead",
+    "type": "sailsEmblem",
+    "event": "darktideLullaby",
+    "set": "xianYuan",
+    "dateAdded": "2025-09-02",
+    "lastUpdated": "2025-09-02"
   }
 }

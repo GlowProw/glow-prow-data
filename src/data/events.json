@@ -29,10 +29,18 @@
     },
     "gloryAdorned": {
         "id": "gloryAdorned",
-        "seasons": ["ascentIntoChaos"]
+        "seasons": ["ascentIntoChaos","oathsOfWar"]
     },
     "theHonorless": {
         "id": "theHonorless",
         "seasons": ["ascentIntoChaos"]
+    },
+    "darktideLullaby": {
+        "id": "darktideLullaby",
+        "seasons": ["oathsOfWar"]
+    },
+    "moonshineLarceny": {
+        "id": "moonshineLarceny",
+        "seasons": ["oathsOfWar"]
     }
 }
