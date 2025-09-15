@@ -109,6 +109,12 @@
         "dateAdded": "2025-05-23",
         "lastUpdated": "2025-05-23"
     },
+    "theHelmEmpire": {
+        "id": "theHelmEmpire",
+        "firstAppearingSeason": "release",
+        "dateAdded": "2025-09-15",
+        "lastUpdated": "2025-09-15"
+    },
     "scavengers": {
         "id": "scavengers",
         "firstAppearingSeason": "shadowsOfTheDeep",

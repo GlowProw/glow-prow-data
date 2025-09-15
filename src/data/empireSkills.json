@@ -1,0 +1,1033 @@
+{
+  "root": {
+    "id": "root",
+    "requisite": []
+  },
+  "improvedLaboratoryEquipment": {
+    "id": "improvedLaboratoryEquipment",
+    "requisite": [
+      "root"
+    ],
+    "faction": "",
+    "stage": 3,
+    "requiredCost": {
+      "piecesOfEight": [
+        2500,
+        3000,
+        3500
+      ]
+    },
+    "type": "theHelm"
+  },
+  "masterApothecaries": {
+    "id": "masterApothecaries",
+    "requisite": [
+      "improvedLaboratoryEquipment"
+    ],
+    "stage": 3,
+    "requiredCost": {
+      "piecesOfEight": [
+        2500,
+        3000,
+        3500
+      ]
+    },
+    "type": "theHelm"
+  },
+  "telokPenjarah'sFavor": {
+    "id": "telokPenjarah'sFavor",
+    "requisite": [
+      "masterApothecaries"
+    ],
+    "stage": 3,
+    "requiredCost": {
+      "piecesOfEight": [
+        2500,
+        3000,
+        3500
+      ]
+    },
+    "type": "theHelm"
+  },
+  "insideIntel": {
+    "id": "insideIntel",
+    "requisite": [
+      "improvedLaboratoryEquipment"
+    ],
+    "stage": 3,
+    "requiredCost": {
+      "piecesOfEight": [
+        2500,
+        3000,
+        3500
+      ]
+    },
+    "type": "theHelm"
+  },
+  "betterOeals": {
+    "id": "betterOeals",
+    "requisite": [
+      "insideIntel"
+    ],
+    "stage": 3,
+    "requiredCost": {
+      "piecesOfEight": [
+        2500,
+        3000,
+        3500
+      ]
+    },
+    "type": "theHelm"
+  },
+  "bloodiedOrders": {
+    "id": "bloodiedOrders",
+    "requisite": [
+      "betterOeals"
+    ],
+    "stage": 3,
+    "requiredCost": {
+      "piecesOfEight": [
+        0,
+        0,
+        0
+      ]
+    },
+    "type": "theHelm"
+  },
+  "improvedDistilleryEquipment": {
+    "id": "improvedDistilleryEquipment",
+    "requisite": [
+      "root"
+    ],
+    "stage": 3,
+    "requiredCost": {
+      "piecesOfEight": [
+        0,
+        0,
+        0
+      ]
+    },
+    "type": "theHelm"
+  },
+  "masterDistillers": {
+    "id": "masterDistillers",
+    "requisite": [
+      "improvedDistilleryEquipment"
+    ],
+    "stage": 3,
+    "requiredCost": {
+      "piecesOfEight": [
+        0,
+        0,
+        0
+      ]
+    },
+    "type": "theHelm"
+  },
+  "sainet-anne'sFavor": {
+    "id": "sainet-anne'sFavor",
+    "requisite": [
+      "masterDistillers"
+    ],
+    "stage": 3,
+    "requiredCost": {
+      "piecesOfEight": [
+        0,
+        0,
+        0
+      ]
+    },
+    "type": "theHelm"
+  },
+  "rogueScavenger": {
+    "id": "rogueScavenger",
+    "requisite": [
+      "primeTargets"
+    ],
+    "stage": 3,
+    "requiredCost": {
+      "piecesOfEight": [
+        0,
+        0,
+        0
+      ]
+    },
+    "type": "theHelm"
+  },
+  "primeTargets": {
+    "id": "primeTargets",
+    "requisite": [
+      "improvedDistilleryEquipment"
+    ],
+    "stage": 3,
+    "requiredCost": {
+      "piecesOfEight": [
+        0,
+        0,
+        0
+      ]
+    },
+    "type": "theHelm"
+  },
+  "bulkOffers": {
+    "id": "bulkOffers",
+    "requisite": [
+      "primeTargets"
+    ],
+    "stage": 3,
+    "requiredCost": {
+      "piecesOfEight": [
+        0,
+        0,
+        0
+      ]
+    },
+    "type": "theHelm"
+  },
+  "ruthlessDeals": {
+    "id": "ruthlessDeals",
+    "requisite": [
+      "bulkOffers"
+    ],
+    "stage": 2,
+    "requiredCost": {
+      "piecesOfEight": [
+        0,
+        0
+      ]
+    },
+    "type": "theHelm"
+  },
+  "gangButcher": {
+    "id": "gangButcher",
+    "requisite": [
+      "ruthlessDeals",
+      "bloodiedOrders",
+      "rogueScavenger"
+    ],
+    "stage": 2,
+    "requiredCost": {
+      "piecesOfEight": [
+        0,
+        0
+      ]
+    },
+    "type": "theHelm"
+  },
+  "manufactoryExpansion": {
+    "id": "manufactoryExpansion",
+    "requisite": [
+      "root"
+    ],
+    "type": "compagnieRoyale"
+  },
+  "refinedMaterialProduction": {
+    "id": "refinedMaterialProduction",
+    "requisite": [
+      "manufactoryExpansion"
+    ],
+    "type": "compagnieRoyale"
+  },
+  "processBreakthrough-refined": {
+    "id": "processBreakthrough-refined",
+    "requisite": [
+      "refinedMaterialProduction"
+    ],
+    "stage": 3,
+    "requiredCost": {
+      "piecesOfEight": [
+        2000,
+        0,
+        0
+      ]
+    },
+    "type": "compagnieRoyale"
+  },
+  "processBreakthrough-specialized": {
+    "id": "processBreakthrough-specialized",
+    "requisite": [
+      "refinedMaterialProduction"
+    ],
+    "stage": 3,
+    "requiredCost": {
+      "piecesOfEight": [
+        2500,
+        0,
+        0
+      ]
+    },
+    "type": "compagnieRoyale"
+  },
+  "refinedSpecializedMaterialProductionRefined": {
+    "id": "refinedSpecializedMaterialProductionRefined",
+    "requisite": [
+      "refinedMaterialProduction"
+    ],
+    "stage": 1,
+    "requiredCost": {
+      "piecesOfEight": [
+        7000
+      ]
+    },
+    "type": "compagnieRoyale"
+  },
+  "processBreakthrough-refinedSpecialized-compagnieRoyale": {
+    "id": "processBreakthrough-refinedSpecialized",
+    "requisite": [
+      "refinedSpecializedMaterialProductionRefined"
+    ],
+    "stage": 3,
+    "requiredCost": {
+      "piecesOfEight": [
+        4000,
+        0,
+        0
+      ]
+    },
+    "type": "compagnieRoyale"
+  },
+  "exoticMaterialProduction": {
+    "id": "exoticMaterialProduction",
+    "requisite": [
+      "refinedSpecializedMaterialProductionRefined"
+    ],
+    "stage": 1,
+    "requiredCost": {
+      "piecesOfEight": [
+        12500
+      ]
+    },
+    "type": "compagnieRoyale"
+  },
+  "compagnieRoyaleDominance": {
+    "id": "compagnieRoyaleDominance",
+    "requisite": [
+      "exoticMaterialProduction"
+    ],
+    "stage": 1,
+    "requiredCost": {
+      "piecesOfEight": [
+        35000
+      ]
+    },
+    "type": "compagnieRoyale"
+  },
+  "ascensionModuleProduction": {
+    "id": "ascensionModuleProduction",
+    "requisite": [
+      "compagnieRoyaleDominance",
+      "dependableLaborers"
+    ],
+    "stage": 1,
+    "requiredCost": {
+      "piecesOfEight": [
+        25000
+      ]
+    },
+    "type": "compagnieRoyale"
+  },
+  "advancedGinProcessing": {
+    "id": "advancedGinProcessing",
+    "requisite": [
+      "manufactoryExpansion"
+    ],
+    "stage": 2,
+    "requiredCost": {
+      "piecesOfEight": [
+        4000,
+        0
+      ]
+    },
+    "type": "compagnieRoyale"
+  },
+  "improvedEquipment": {
+    "id": "improvedEquipment",
+    "requisite": [
+      "manufactoryExpansion"
+    ],
+    "stage": 1,
+    "requiredCost": {
+      "piecesOfEight": [
+        4000
+      ]
+    },
+    "type": "compagnieRoyale"
+  },
+  "manufactoryExpansion2": {
+    "id": "manufactoryExpansion2",
+    "requisite": [
+      "improvedEquipment"
+    ],
+    "stage": 1,
+    "requiredCost": {
+      "piecesOfEight": [
+        2500
+      ]
+    },
+    "type": "compagnieRoyale"
+  },
+  "empireAdministration": {
+    "id": "empireAdministration",
+    "requisite": [
+      "manufactoryExpansion2"
+    ],
+    "stage": 1,
+    "requiredCost": {
+      "piecesOfEight": [
+        7000
+      ]
+    },
+    "type": "compagnieRoyale"
+  },
+  "goldSkullGinProduction": {
+    "id": "goldSkullGinProduction",
+    "requisite": [
+      "empireAdministration"
+    ],
+    "stage": 1,
+    "requiredCost": {
+      "piecesOfEight": [
+        11000
+      ]
+    },
+    "type": "compagnieRoyale"
+  },
+  "manufactoryExpansion-compagnieRoyale": {
+    "id": "manufactoryExpansion-compagnieRoyale",
+    "requisite": [
+      "empireAdministration"
+    ],
+    "stage": 1,
+    "requiredCost": {
+      "piecesOfEight": [
+        11000
+      ]
+    },
+    "type": "compagnieRoyale"
+  },
+  "dependableLaborers": {
+    "id": "dependableLaborers",
+    "requisite": [
+      "manufactoryExpansion-compagnieRoyale"
+    ],
+    "stage": 1,
+    "requiredCost": {
+      "piecesOfEight": [
+        12500
+      ]
+    },
+    "type": "compagnieRoyale"
+  },
+  "manufactoryExpansion-clanOfFara-1": {
+    "id": "manufactoryExpansion-clanOfFara",
+    "requisite": [
+      "root"
+    ],
+    "stage": 1,
+    "requiredCost": {
+      "piecesOfEight": [
+        1000
+      ]
+    },
+    "type": "clanOfFara"
+  },
+  "improvedEquipment-clanOfFara": {
+    "id": "improvedEquipment-clanOfFara",
+    "requisite": [
+      "manufactoryExpansion-clanOfFara-1"
+    ],
+    "stage": 1,
+    "requiredCost": {
+      "piecesOfEight": [
+        2500
+      ]
+    },
+    "type": "clanOfFara"
+  },
+  "manufactoryExpansion-clanOfFara-2": {
+    "id": "manufactoryExpansion-clanOfFara-2",
+    "requisite": [
+      "improvedEquipment-clanOfFara"
+    ],
+    "stage": 1,
+    "requiredCost": {
+      "piecesOfEight": [
+        2500
+      ]
+    },
+    "type": "clanOfFara"
+  },
+  "empireAdministration-clanOfFara": {
+    "id": "empireAdministration-clanOfFara",
+    "requisite": [
+      "manufactoryExpansion-clanOfFara-2"
+    ],
+    "stage": 1,
+    "requiredCost": {
+      "piecesOfEight": [
+        7000
+      ]
+    },
+    "type": "clanOfFara"
+  },
+  "goldSkullRumProduction": {
+    "id": "goldSkullRumProduction",
+    "requisite": [
+      "empireAdministration-clanOfFara"
+    ],
+    "stage": 1,
+    "requiredCost": {
+      "piecesOfEight": [
+        11000
+      ]
+    },
+    "type": "clanOfFara"
+  },
+  "upgradePartProduction": {
+    "id": "upgradePartProduction",
+    "requisite": [
+      "empireAdministration-clanOfFara",
+      "refinedSpecializedMaterialProduction"
+    ],
+    "stage": 1,
+    "requiredCost": {
+      "piecesOfEight": [
+        20000
+      ]
+    },
+    "type": "clanOfFara"
+  },
+  "manufactoryExpansion-clanOfFara-3": {
+    "id": "manufactoryExpansion-clanOfFara-3",
+    "requisite": [
+      "empireAdministration-clanOfFara"
+    ],
+    "stage": 1,
+    "requiredCost": {
+      "piecesOfEight": [
+        10000
+      ]
+    },
+    "type": "clanOfFara"
+  },
+  "dependableLaborers-clanOfFara": {
+    "id": "dependableLaborers-clanOfFara",
+    "requisite": [
+      "manufactoryExpansion-clanOfFara-3"
+    ],
+    "stage": 1,
+    "requiredCost": {
+      "piecesOfEight": [
+        12500
+      ]
+    },
+    "type": "clanOfFara"
+  },
+  "ascensionModuleProduction-clanOfFara": {
+    "id": "ascensionModuleProduction-clanOfFara",
+    "requisite": [
+      "dependableLaborers-clanOfFara",
+      "clanOfFaraDominance"
+    ],
+    "stage": 1,
+    "requiredCost": {
+      "piecesOfEight": [
+        25000
+      ]
+    },
+    "type": "clanOfFara"
+  },
+  "advancedRumProcessing": {
+    "id": "advancedRumProcessing",
+    "requisite": [
+      "manufactoryExpansion-clanOfFara-1"
+    ],
+    "stage": 1,
+    "requiredCost": {
+      "piecesOfEight": [
+        4000
+      ]
+    },
+    "type": "clanOfFara"
+  },
+  "refinedMaterialProduction-clanOfFara": {
+    "id": "refinedMaterialProduction-clanOfFara",
+    "requisite": [
+      "manufactoryExpansion-clanOfFara-1"
+    ],
+    "stage": 1,
+    "requiredCost": {
+      "piecesOfEight": [
+        2500
+      ]
+    },
+    "type": "clanOfFara"
+  },
+  "processBreakhrough-refined": {
+    "id": "processBreakhrough-refined",
+    "requisite": [
+      "refinedMaterialProduction-clanOfFara"
+    ],
+    "stage": 3,
+    "requiredCost": {
+      "piecesOfEight": [
+        2000,
+        0,
+        0
+      ]
+    },
+    "type": "clanOfFara"
+  },
+  "processBreakthrough-specialized-clanOfFara": {
+    "id": "processBreakthrough-specialized-clanOfFara",
+    "requisite": [
+      "refinedMaterialProduction-clanOfFara"
+    ],
+    "stage": 3,
+    "requiredCost": {
+      "piecesOfEight": [
+        2500,
+        0,
+        0
+      ]
+    },
+    "type": "clanOfFara"
+  },
+  "refinedSpecializedMaterialProduction": {
+    "id": "refinedSpecializedMaterialProduction",
+    "requisite": [
+      "processBreakthrough-specialized-clanOfFara"
+    ],
+    "stage": 1,
+    "requiredCost": {
+      "piecesOfEight": [
+        7000
+      ]
+    },
+    "type": "clanOfFara"
+  },
+  "processBreakthrough-refinedSpecialized-clanOfFara": {
+    "id": "processBreakthrough-refinedSpecialized-clanOfFara",
+    "requisite": [
+      "refinedSpecializedMaterialProduction"
+    ],
+    "stage": 3,
+    "requiredCost": {
+      "piecesOfEight": [
+        4000,
+        0,
+        0
+      ]
+    },
+    "type": "clanOfFara"
+  },
+  "exoticMaterialProduction-clanOfFara": {
+    "id": "exoticMaterialProduction-clanOfFara",
+    "requisite": [
+      "processBreakthrough-refinedSpecialized-clanOfFara"
+    ],
+    "stage": 1,
+    "requiredCost": {
+      "piecesOfEight": [
+        12000
+      ]
+    },
+    "type": "clanOfFara"
+  },
+  "clanOfFaraDominance": {
+    "id": "clanOfFaraDominance",
+    "requisite": [
+      "exoticMaterialProduction-clanOfFara"
+    ],
+    "stage": 1,
+    "requiredCost": {
+      "piecesOfEight": [
+        35000
+      ]
+    },
+    "type": "clanOfFara"
+  },
+  "manufactoryExpansion-seaPeople-1": {
+    "id": "manufactoryExpansion",
+    "requisite": [
+      "root"
+    ],
+    "stage": 1,
+    "requiredCost": {
+      "piecesOfEight": [
+        1000
+      ]
+    },
+    "type": "seaPeople"
+  },
+  "improvedEquipment-seaPeople": {
+    "id": "improvedEquipment-seaPeople",
+    "requisite": [
+      "manufactoryExpansion-seaPeople-1"
+    ],
+    "stage": 1,
+    "requiredCost": {
+      "piecesOfEight": [
+        2500
+      ]
+    },
+    "type": "seaPeople"
+  },
+  "manufactoryExpansion-seaPeople-2": {
+    "id": "improvedEquipment",
+    "requisite": [
+      "improvedEquipment-seaPeople"
+    ],
+    "stage": 1,
+    "requiredCost": {
+      "piecesOfEight": [
+        2500
+      ]
+    },
+    "type": "seaPeople"
+  },
+  "empireAdministration-seaPeople": {
+    "id": "empireAdministration",
+    "requisite": [
+      "manufactoryExpansion-seaPeople-2"
+    ],
+    "stage": 1,
+    "requiredCost": {
+      "piecesOfEight": [
+        7000
+      ]
+    },
+    "type": "seaPeople"
+  },
+  "carvedImperialJadeProduction": {
+    "id": "carvedImperialJadeProduction",
+    "requisite": [
+      "empireAdministration-seaPeople"
+    ],
+    "stage": 1,
+    "requiredCost": {
+      "piecesOfEight": [
+        1000
+      ]
+    },
+    "type": "seaPeople"
+  },
+  "manufactoryExpansion-seaPeople": {
+    "id": "manufactoryExpansion",
+    "requisite": [
+      "empireAdministration-seaPeople"
+    ],
+    "stage": 1,
+    "requiredCost": {
+      "piecesOfEight": [
+        10000
+      ]
+    },
+    "type": "seaPeople"
+  },
+  "dependableLaborers-seaPeople": {
+    "id": "dependableLaborers",
+    "requisite": [
+      "manufactoryExpansion-seaPeople"
+    ],
+    "stage": 1,
+    "requiredCost": {
+      "piecesOfEight": [
+        12500
+      ]
+    },
+    "type": "seaPeople"
+  },
+  "advancedImperialJadeProcessing": {
+    "id": "advancedImperialJadeProcessing",
+    "requisite": [
+      "manufactoryExpansion-seaPeople-1"
+    ],
+    "stage": 2,
+    "requiredCost": {
+      "piecesOfEight": [
+        4000,
+        0
+      ]
+    },
+    "type": "seaPeople"
+  },
+  "refinedMaterialProduction-seaPeople": {
+    "id": "refinedMaterialProduction",
+    "requisite": [
+      "manufactoryExpansion-seaPeople-1"
+    ],
+    "stage": 1,
+    "requiredCost": {
+      "piecesOfEight": [
+        2500
+      ]
+    },
+    "type": "seaPeople"
+  },
+  "processBreakthrough-refined-seaPeople": {
+    "id": "processBreakthrough-refined",
+    "requisite": [
+      "refinedMaterialProduction-seaPeople"
+    ],
+    "stage": 3,
+    "requiredCost": {
+      "piecesOfEight": [
+        2000,
+        0,
+        0
+      ]
+    },
+    "type": "seaPeople"
+  },
+  "processBreakthrough-specialized-seaPeople": {
+    "id": "processBreakthrough-specialized",
+    "requisite": [
+      "refinedMaterialProduction-seaPeople"
+    ],
+    "stage": 3,
+    "requiredCost": {
+      "piecesOfEight": [
+        2500,
+        0,
+        0
+      ]
+    },
+    "type": "seaPeople"
+  },
+  "refinedSpecializedMaterialProduction-seaPeople": {
+    "id": "refinedSpecializedMaterialProduction",
+    "requisite": [
+      "processBreakthrough-specialized-seaPeople"
+    ],
+    "stage": 1,
+    "requiredCost": {
+      "piecesOfEight": [
+        7000
+      ]
+    },
+    "type": "seaPeople"
+  },
+  "upgradePartProduction-seaPeople": {
+    "id": "upgradePartProduction",
+    "requisite": [
+      "refinedSpecializedMaterialProduction-seaPeople",
+      "empireAdministration-seaPeople"
+    ],
+    "stage": 1,
+    "requiredCost": {
+      "piecesOfEight": [
+        7000
+      ]
+    },
+    "type": "seaPeople"
+  },
+  "processBreakthrough-refinedSpecialized": {
+    "id": "upgradePartProduction",
+    "requisite": [
+      "refinedSpecializedMaterialProduction-seaPeople"
+    ],
+    "stage": 3,
+    "requiredCost": {
+      "piecesOfEight": [
+        4000,
+        0,
+        0
+      ]
+    },
+    "type": "seaPeople"
+  },
+  "exoticMaterialProduction-seaPeople": {
+    "id": "exoticMaterialProduction",
+    "requisite": [
+      "refinedSpecializedMaterialProduction-seaPeople"
+    ],
+    "stage": 1,
+    "requiredCost": {
+      "piecesOfEight": [
+        12500
+      ]
+    },
+    "type": "seaPeople"
+  },
+  "seaPeopleDominance": {
+    "id": "seaPeopleDominance",
+    "requisite": [
+      "exoticMaterialProduction-seaPeople"
+    ],
+    "stage": 1,
+    "requiredCost": {
+      "piecesOfEight": [
+        35000
+      ]
+    },
+    "type": "seaPeople"
+  },
+
+
+
+  "empireAdministration-theHelmEmpire": {
+    "id": "empireAdministration",
+    "requisite": [
+      "root"
+    ],
+    "stage": 1,
+    "requiredCost": {
+      "piecesOfEight": [
+        0
+      ]
+    },
+    "type": "theHelmEmpire"
+  },
+  "coerciveGrowth": {
+    "id": "coerciveGrowth",
+    "requisite": [
+      "empireAdministration-theHelmEmpire"
+    ],
+    "stage": 1,
+    "requiredCost": {
+      "piecesOfEight": [
+        0
+      ]
+    },
+    "type": "theHelmEmpire"
+  },
+  "empireAdministration-theHelmEmpire-2": {
+    "id": "empireAdministration",
+    "requisite": [
+      "coerciveGrowth"
+    ],
+    "stage": 1,
+    "requiredCost": {
+      "piecesOfEight": [
+        0
+      ]
+    },
+    "type": "theHelmEmpire"
+  },
+  "manufactoryFortification": {
+    "id": "manufactoryFortification",
+    "requisite": [
+      "empireAdministration-theHelmEmpire-2"
+    ],
+    "stage": 3,
+    "requiredCost": {
+      "piecesOfEight": [
+        0,
+        0,
+        0
+      ]
+    },
+    "type": "theHelmEmpire"
+  },
+  "territorialDominance": {
+    "id": "territorialDominance",
+    "requisite": [
+      "manufactoryFortification"
+    ],
+    "stage": 1,
+    "requiredCost": {
+      "piecesOfEight": [
+        0
+      ]
+    },
+    "type": "theHelmEmpire"
+  },
+  "empireAdministration-theHelmEmpire-3": {
+    "id": "empireAdministration",
+    "requisite": [
+      "territorialDominance"
+    ],
+    "stage": 1,
+    "requiredCost": {
+      "piecesOfEight": [
+        0
+      ]
+    },
+    "type": "theHelmEmpire"
+  },
+
+  "savvyTraders": {
+    "id": "savvyTraders",
+    "requisite": [
+      "empireAdministration-theHelmEmpire"
+    ],
+    "stage": 3,
+    "requiredCost": {
+      "piecesOfEight": [
+        0,
+        0,
+        0
+      ]
+    },
+    "type": "theHelmEmpire"
+  },
+  "empireAdministration-theHelmEmpire-4": {
+    "id": "empireAdministration",
+    "requisite": [
+      "savvyTraders"
+    ],
+    "stage": 1,
+    "requiredCost": {
+      "piecesOfEight": [
+        0
+      ]
+    },
+    "type": "theHelmEmpire"
+  },
+  "efficientShipping": {
+    "id": "efficientShipping",
+    "requisite": [
+      "empireAdministration-theHelmEmpire-4"
+    ],
+    "stage": 3,
+    "requiredCost": {
+      "piecesOfEight": [
+        0,
+        0,
+        0
+      ]
+    },
+    "type": "theHelmEmpire"
+  },
+  "empireAdministration-theHelmEmpire-5": {
+    "id": "empireAdministration",
+    "requisite": [
+      "efficientShipping",
+      "manufactoryFortification"
+    ],
+    "stage": 1,
+    "requiredCost": {
+      "piecesOfEight": [
+        0
+      ]
+    },
+    "type": "theHelmEmpire"
+  },
+  "tradeDominance": {
+    "id": "tradeDominance",
+    "requisite": [
+      "efficientShipping"
+    ],
+    "stage": 1,
+    "requiredCost": {
+      "piecesOfEight": [
+        0
+      ]
+    },
+    "type": "theHelmEmpire"
+  },
+  "empireAdministration-theHelmEmpire-6": {
+    "id": "empireAdministration",
+    "requisite": [
+      "tradeDominance"
+    ],
+    "stage": 1,
+    "requiredCost": {
+      "piecesOfEight": [
+        0
+      ]
+    },
+    "type": "theHelmEmpire"
+  }
+}
