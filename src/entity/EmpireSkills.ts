@@ -1,5 +1,6 @@
 import empireSkillData from "../data/empireSkills.json";
 import {Faction} from "./Factions";
+import {Season, Seasons} from "./Seasons";
 
 export class EmpireSkill {
     constructor(
@@ -11,6 +12,12 @@ export class EmpireSkill {
         public readonly requisite: string[],
         // 分类
         public readonly type: string,
+        // 赛季
+        public readonly bySeason: Season,
+        // 添加
+        public readonly dateAdded: Date,
+        // 更新
+        public readonly lastUpdated: Date,
         // 阶段
         public readonly stage: number,
         // 阵营
@@ -22,14 +29,19 @@ export class EmpireSkill {
     }
 
     public static fromRawData(key: string, rawData: any): EmpireSkill {
+        const season = rawData.season as keyof typeof Seasons;
+
         return new EmpireSkill(
             key,
             rawData.id,
             rawData.requisite,
             rawData.type,
+            Seasons[season],
+            new Date(rawData.dateAdded),
+            new Date(rawData.lastUpdated),
             rawData.stage,
             rawData.faction,
-            rawData.requiredCost
+            rawData.requiredCost,
         );
     }
 

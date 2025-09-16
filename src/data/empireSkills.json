@@ -1,7 +1,10 @@
 {
   "root": {
     "id": "root",
-    "requisite": []
+    "requisite": [],
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos"
   },
   "improvedLaboratoryEquipment": {
     "id": "improvedLaboratoryEquipment",
@@ -17,6 +20,9 @@
         3500
       ]
     },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
     "type": "theHelm"
   },
   "masterApothecaries": {
@@ -32,10 +38,13 @@
         3500
       ]
     },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
     "type": "theHelm"
   },
-  "telokPenjarah'sFavor": {
-    "id": "telokPenjarah'sFavor",
+  "telokPenjarahsFavor": {
+    "id": "telokPenjarahsFavor",
     "requisite": [
       "masterApothecaries"
     ],
@@ -47,6 +56,9 @@
         3500
       ]
     },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
     "type": "theHelm"
   },
   "insideIntel": {
@@ -62,6 +74,9 @@
         3500
       ]
     },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
     "type": "theHelm"
   },
   "betterOeals": {
@@ -77,6 +92,9 @@
         3500
       ]
     },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
     "type": "theHelm"
   },
   "bloodiedOrders": {
@@ -92,6 +110,9 @@
         0
       ]
     },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
     "type": "theHelm"
   },
   "improvedDistilleryEquipment": {
@@ -107,6 +128,9 @@
         0
       ]
     },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
     "type": "theHelm"
   },
   "masterDistillers": {
@@ -122,10 +146,13 @@
         0
       ]
     },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
     "type": "theHelm"
   },
-  "sainet-anne'sFavor": {
-    "id": "sainet-anne'sFavor",
+  "sainte-annesFavor": {
+    "id": "sainte-annesFavor",
     "requisite": [
       "masterDistillers"
     ],
@@ -137,6 +164,9 @@
         0
       ]
     },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
     "type": "theHelm"
   },
   "rogueScavenger": {
@@ -152,6 +182,9 @@
         0
       ]
     },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
     "type": "theHelm"
   },
   "primeTargets": {
@@ -167,6 +200,9 @@
         0
       ]
     },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
     "type": "theHelm"
   },
   "bulkOffers": {
@@ -182,6 +218,9 @@
         0
       ]
     },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
     "type": "theHelm"
   },
   "ruthlessDeals": {
@@ -196,6 +235,9 @@
         0
       ]
     },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
     "type": "theHelm"
   },
   "gangButcher": {
@@ -205,13 +247,17 @@
       "bloodiedOrders",
       "rogueScavenger"
     ],
-    "stage": 2,
+    "stage": 3,
     "requiredCost": {
       "piecesOfEight": [
+        0,
         0,
         0
       ]
     },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
     "type": "theHelm"
   },
   "manufactoryExpansion": {
@@ -219,6 +265,15 @@
     "requisite": [
       "root"
     ],
+    "stage": 1,
+    "requiredCost": {
+      "piecesOfEight": [
+        0
+      ]
+    },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
     "type": "compagnieRoyale"
   },
   "refinedMaterialProduction": {
@@ -226,6 +281,15 @@
     "requisite": [
       "manufactoryExpansion"
     ],
+    "stage": 1,
+    "requiredCost": {
+      "piecesOfEight": [
+        0
+      ]
+    },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
     "type": "compagnieRoyale"
   },
   "processBreakthrough-refined": {
@@ -241,6 +305,9 @@
         0
       ]
     },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
     "type": "compagnieRoyale"
   },
   "processBreakthrough-specialized": {
@@ -256,6 +323,9 @@
         0
       ]
     },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
     "type": "compagnieRoyale"
   },
   "refinedSpecializedMaterialProductionRefined": {
@@ -269,6 +339,9 @@
         7000
       ]
     },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
     "type": "compagnieRoyale"
   },
   "processBreakthrough-refinedSpecialized-compagnieRoyale": {
@@ -284,6 +357,9 @@
         0
       ]
     },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
     "type": "compagnieRoyale"
   },
   "exoticMaterialProduction": {
@@ -297,6 +373,9 @@
         12500
       ]
     },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
     "type": "compagnieRoyale"
   },
   "compagnieRoyaleDominance": {
@@ -310,6 +389,9 @@
         35000
       ]
     },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
     "type": "compagnieRoyale"
   },
   "ascensionModuleProduction": {
@@ -324,6 +406,9 @@
         25000
       ]
     },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
     "type": "compagnieRoyale"
   },
   "advancedGinProcessing": {
@@ -338,6 +423,9 @@
         0
       ]
     },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
     "type": "compagnieRoyale"
   },
   "improvedEquipment": {
@@ -351,10 +439,13 @@
         4000
       ]
     },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
     "type": "compagnieRoyale"
   },
-  "manufactoryExpansion2": {
-    "id": "manufactoryExpansion2",
+  "manufactoryExpansion-compagnieRoyale-2": {
+    "id": "manufactoryExpansion",
     "requisite": [
       "improvedEquipment"
     ],
@@ -364,25 +455,34 @@
         2500
       ]
     },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
     "type": "compagnieRoyale"
   },
-  "empireAdministration": {
+  "empireAdministration-compagnieRoyale": {
     "id": "empireAdministration",
     "requisite": [
-      "manufactoryExpansion2"
+      "manufactoryExpansion-compagnieRoyale-2"
     ],
+    "attr": {
+      "index": 1
+    },
     "stage": 1,
     "requiredCost": {
       "piecesOfEight": [
         7000
       ]
     },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
     "type": "compagnieRoyale"
   },
   "goldSkullGinProduction": {
     "id": "goldSkullGinProduction",
     "requisite": [
-      "empireAdministration"
+      "empireAdministration-compagnieRoyale"
     ],
     "stage": 1,
     "requiredCost": {
@@ -390,12 +490,15 @@
         11000
       ]
     },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
     "type": "compagnieRoyale"
   },
   "manufactoryExpansion-compagnieRoyale": {
-    "id": "manufactoryExpansion-compagnieRoyale",
+    "id": "manufactoryExpansion",
     "requisite": [
-      "empireAdministration"
+      "empireAdministration-compagnieRoyale"
     ],
     "stage": 1,
     "requiredCost": {
@@ -403,6 +506,9 @@
         11000
       ]
     },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
     "type": "compagnieRoyale"
   },
   "dependableLaborers": {
@@ -416,10 +522,13 @@
         12500
       ]
     },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
     "type": "compagnieRoyale"
   },
   "manufactoryExpansion-clanOfFara-1": {
-    "id": "manufactoryExpansion-clanOfFara",
+    "id": "manufactoryExpansion",
     "requisite": [
       "root"
     ],
@@ -429,10 +538,13 @@
         1000
       ]
     },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
     "type": "clanOfFara"
   },
   "improvedEquipment-clanOfFara": {
-    "id": "improvedEquipment-clanOfFara",
+    "id": "improvedEquipment",
     "requisite": [
       "manufactoryExpansion-clanOfFara-1"
     ],
@@ -442,10 +554,13 @@
         2500
       ]
     },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
     "type": "clanOfFara"
   },
   "manufactoryExpansion-clanOfFara-2": {
-    "id": "manufactoryExpansion-clanOfFara-2",
+    "id": "manufactoryExpansion",
     "requisite": [
       "improvedEquipment-clanOfFara"
     ],
@@ -455,10 +570,13 @@
         2500
       ]
     },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
     "type": "clanOfFara"
   },
   "empireAdministration-clanOfFara": {
-    "id": "empireAdministration-clanOfFara",
+    "id": "empireAdministration",
     "requisite": [
       "manufactoryExpansion-clanOfFara-2"
     ],
@@ -468,6 +586,9 @@
         7000
       ]
     },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
     "type": "clanOfFara"
   },
   "goldSkullRumProduction": {
@@ -481,6 +602,9 @@
         11000
       ]
     },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
     "type": "clanOfFara"
   },
   "upgradePartProduction": {
@@ -495,10 +619,13 @@
         20000
       ]
     },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
     "type": "clanOfFara"
   },
   "manufactoryExpansion-clanOfFara-3": {
-    "id": "manufactoryExpansion-clanOfFara-3",
+    "id": "manufactoryExpansion",
     "requisite": [
       "empireAdministration-clanOfFara"
     ],
@@ -508,10 +635,13 @@
         10000
       ]
     },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
     "type": "clanOfFara"
   },
   "dependableLaborers-clanOfFara": {
-    "id": "dependableLaborers-clanOfFara",
+    "id": "dependableLaborers",
     "requisite": [
       "manufactoryExpansion-clanOfFara-3"
     ],
@@ -521,10 +651,13 @@
         12500
       ]
     },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
     "type": "clanOfFara"
   },
   "ascensionModuleProduction-clanOfFara": {
-    "id": "ascensionModuleProduction-clanOfFara",
+    "id": "ascensionModuleProduction",
     "requisite": [
       "dependableLaborers-clanOfFara",
       "clanOfFaraDominance"
@@ -535,6 +668,9 @@
         25000
       ]
     },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
     "type": "clanOfFara"
   },
   "advancedRumProcessing": {
@@ -548,10 +684,13 @@
         4000
       ]
     },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
     "type": "clanOfFara"
   },
   "refinedMaterialProduction-clanOfFara": {
-    "id": "refinedMaterialProduction-clanOfFara",
+    "id": "refinedMaterialProduction",
     "requisite": [
       "manufactoryExpansion-clanOfFara-1"
     ],
@@ -561,10 +700,13 @@
         2500
       ]
     },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
     "type": "clanOfFara"
   },
-  "processBreakhrough-refined": {
-    "id": "processBreakhrough-refined",
+  "processBreakthrough-refined-clanOfFara": {
+    "id": "processBreakthrough-refined",
     "requisite": [
       "refinedMaterialProduction-clanOfFara"
     ],
@@ -576,10 +718,13 @@
         0
       ]
     },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
     "type": "clanOfFara"
   },
   "processBreakthrough-specialized-clanOfFara": {
-    "id": "processBreakthrough-specialized-clanOfFara",
+    "id": "processBreakthrough-specialized",
     "requisite": [
       "refinedMaterialProduction-clanOfFara"
     ],
@@ -591,6 +736,9 @@
         0
       ]
     },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
     "type": "clanOfFara"
   },
   "refinedSpecializedMaterialProduction": {
@@ -604,10 +752,13 @@
         7000
       ]
     },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
     "type": "clanOfFara"
   },
   "processBreakthrough-refinedSpecialized-clanOfFara": {
-    "id": "processBreakthrough-refinedSpecialized-clanOfFara",
+    "id": "processBreakthrough-refinedSpecialized",
     "requisite": [
       "refinedSpecializedMaterialProduction"
     ],
@@ -619,10 +770,13 @@
         0
       ]
     },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
     "type": "clanOfFara"
   },
   "exoticMaterialProduction-clanOfFara": {
-    "id": "exoticMaterialProduction-clanOfFara",
+    "id": "exoticMaterialProduction",
     "requisite": [
       "processBreakthrough-refinedSpecialized-clanOfFara"
     ],
@@ -632,6 +786,9 @@
         12000
       ]
     },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
     "type": "clanOfFara"
   },
   "clanOfFaraDominance": {
@@ -645,6 +802,9 @@
         35000
       ]
     },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
     "type": "clanOfFara"
   },
   "manufactoryExpansion-seaPeople-1": {
@@ -658,10 +818,13 @@
         1000
       ]
     },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
     "type": "seaPeople"
   },
   "improvedEquipment-seaPeople": {
-    "id": "improvedEquipment-seaPeople",
+    "id": "improvedEquipment",
     "requisite": [
       "manufactoryExpansion-seaPeople-1"
     ],
@@ -671,10 +834,13 @@
         2500
       ]
     },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
     "type": "seaPeople"
   },
   "manufactoryExpansion-seaPeople-2": {
-    "id": "improvedEquipment",
+    "id": "manufactoryExpansion",
     "requisite": [
       "improvedEquipment-seaPeople"
     ],
@@ -684,6 +850,9 @@
         2500
       ]
     },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
     "type": "seaPeople"
   },
   "empireAdministration-seaPeople": {
@@ -697,6 +866,9 @@
         7000
       ]
     },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
     "type": "seaPeople"
   },
   "carvedImperialJadeProduction": {
@@ -710,6 +882,9 @@
         1000
       ]
     },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
     "type": "seaPeople"
   },
   "manufactoryExpansion-seaPeople": {
@@ -723,6 +898,9 @@
         10000
       ]
     },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
     "type": "seaPeople"
   },
   "dependableLaborers-seaPeople": {
@@ -736,6 +914,9 @@
         12500
       ]
     },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
     "type": "seaPeople"
   },
   "advancedImperialJadeProcessing": {
@@ -750,6 +931,9 @@
         0
       ]
     },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
     "type": "seaPeople"
   },
   "refinedMaterialProduction-seaPeople": {
@@ -763,6 +947,9 @@
         2500
       ]
     },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
     "type": "seaPeople"
   },
   "processBreakthrough-refined-seaPeople": {
@@ -778,6 +965,9 @@
         0
       ]
     },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
     "type": "seaPeople"
   },
   "processBreakthrough-specialized-seaPeople": {
@@ -793,6 +983,9 @@
         0
       ]
     },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
     "type": "seaPeople"
   },
   "refinedSpecializedMaterialProduction-seaPeople": {
@@ -806,6 +999,9 @@
         7000
       ]
     },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
     "type": "seaPeople"
   },
   "upgradePartProduction-seaPeople": {
@@ -817,13 +1013,16 @@
     "stage": 1,
     "requiredCost": {
       "piecesOfEight": [
-        7000
+        20000
       ]
     },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
     "type": "seaPeople"
   },
   "processBreakthrough-refinedSpecialized": {
-    "id": "upgradePartProduction",
+    "id": "processBreakthrough-refinedSpecialized",
     "requisite": [
       "refinedSpecializedMaterialProduction-seaPeople"
     ],
@@ -835,6 +1034,9 @@
         0
       ]
     },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
     "type": "seaPeople"
   },
   "exoticMaterialProduction-seaPeople": {
@@ -848,6 +1050,9 @@
         12500
       ]
     },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
     "type": "seaPeople"
   },
   "seaPeopleDominance": {
@@ -861,11 +1066,11 @@
         35000
       ]
     },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
     "type": "seaPeople"
   },
-
-
-
   "empireAdministration-theHelmEmpire": {
     "id": "empireAdministration",
     "requisite": [
@@ -877,6 +1082,9 @@
         0
       ]
     },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
     "type": "theHelmEmpire"
   },
   "coerciveGrowth": {
@@ -890,6 +1098,9 @@
         0
       ]
     },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
     "type": "theHelmEmpire"
   },
   "empireAdministration-theHelmEmpire-2": {
@@ -903,6 +1114,9 @@
         0
       ]
     },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
     "type": "theHelmEmpire"
   },
   "manufactoryFortification": {
@@ -918,6 +1132,9 @@
         0
       ]
     },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
     "type": "theHelmEmpire"
   },
   "territorialDominance": {
@@ -931,6 +1148,9 @@
         0
       ]
     },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
     "type": "theHelmEmpire"
   },
   "empireAdministration-theHelmEmpire-3": {
@@ -944,9 +1164,11 @@
         0
       ]
     },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
     "type": "theHelmEmpire"
   },
-
   "savvyTraders": {
     "id": "savvyTraders",
     "requisite": [
@@ -960,6 +1182,9 @@
         0
       ]
     },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
     "type": "theHelmEmpire"
   },
   "empireAdministration-theHelmEmpire-4": {
@@ -973,6 +1198,9 @@
         0
       ]
     },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
     "type": "theHelmEmpire"
   },
   "efficientShipping": {
@@ -988,6 +1216,9 @@
         0
       ]
     },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
     "type": "theHelmEmpire"
   },
   "empireAdministration-theHelmEmpire-5": {
@@ -1002,6 +1233,9 @@
         0
       ]
     },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
     "type": "theHelmEmpire"
   },
   "tradeDominance": {
@@ -1015,6 +1249,9 @@
         0
       ]
     },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
     "type": "theHelmEmpire"
   },
   "empireAdministration-theHelmEmpire-6": {
@@ -1028,6 +1265,799 @@
         0
       ]
     },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
     "type": "theHelmEmpire"
+  },
+  "manufactoryExpansion-dominionOfRempah": {
+    "id": "manufactoryExpansion",
+    "requisite": [
+      "root"
+    ],
+    "stage": 1,
+    "requiredCost": {
+      "piecesOfEight": [
+        0
+      ]
+    },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
+    "type": "dominionOfRempah"
+  },
+  "refinedMaterialProduction-dominionOfRempah": {
+    "id": "refinedMaterialProduction",
+    "requisite": [
+      "manufactoryExpansion-dominionOfRempah"
+    ],
+    "stage": 1,
+    "requiredCost": {
+      "piecesOfEight": [
+        0
+      ]
+    },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
+    "type": "dominionOfRempah"
+  },
+  "processBreakthrough-refined-dominionOfRempah": {
+    "id": "processBreakthrough-refined",
+    "requisite": [
+      "refinedMaterialProduction-dominionOfRempah"
+    ],
+    "stage": 1,
+    "requiredCost": {
+      "piecesOfEight": [
+        0
+      ]
+    },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
+    "type": "dominionOfRempah"
+  },
+  "processBreakthrough-specialized-dominionOfRempah": {
+    "id": "processBreakthrough-specialized",
+    "requisite": [
+      "refinedMaterialProduction-dominionOfRempah"
+    ],
+    "stage": 3,
+    "requiredCost": {
+      "piecesOfEight": [
+        0,
+        5000,
+        0
+      ]
+    },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
+    "type": "dominionOfRempah"
+  },
+  "refinedSpecializedMaterialProduction-dominionOfRempah": {
+    "id": "refinedSpecializedMaterialProduction",
+    "requisite": [
+      "processBreakthrough-specialized-dominionOfRempah"
+    ],
+    "stage": 1,
+    "requiredCost": {
+      "piecesOfEight": [
+        0
+      ]
+    },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
+    "type": "dominionOfRempah"
+  },
+  "processBreakthrough-refinedSpecialized-dominionOfRempah": {
+    "id": "processBreakthrough-refinedSpecialized",
+    "requisite": [
+      "processBreakthrough-specialized-dominionOfRempah"
+    ],
+    "stage": 3,
+    "requiredCost": {
+      "piecesOfEight": [
+        0,
+        0,
+        0
+      ]
+    },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
+    "type": "dominionOfRempah"
+  },
+  "exoticMaterialProduction-dominionOfRempah": {
+    "id": "exoticMaterialProduction",
+    "requisite": [
+      "refinedSpecializedMaterialProduction-dominionOfRempah"
+    ],
+    "stage": 1,
+    "requiredCost": {
+      "piecesOfEight": [
+        0
+      ]
+    },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
+    "type": "dominionOfRempah"
+  },
+  "dominionOfRempahDominance": {
+    "id": "dominionOfRempahDominance",
+    "requisite": [
+      "exoticMaterialProduction-dominionOfRempah"
+    ],
+    "stage": 1,
+    "requiredCost": {
+      "piecesOfEight": [
+        0
+      ]
+    },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
+    "type": "dominionOfRempah"
+  },
+  "ascensionModuleProduction-dominionOfRempah": {
+    "id": "ascensionModuleProduction",
+    "requisite": [
+      "dominionOfRempahDominance",
+      "dependableLaborers-dominionOfRempah"
+    ],
+    "stage": 1,
+    "requiredCost": {
+      "piecesOfEight": [
+        0
+      ]
+    },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
+    "type": "dominionOfRempah"
+  },
+  "advancedHeavenSmokeProcessing": {
+    "id": "advancedHeavenSmokeProcessing",
+    "requisite": [
+      "manufactoryExpansion-dominionOfRempah"
+    ],
+    "stage": 2,
+    "requiredCost": {
+      "piecesOfEight": [
+        0,
+        0
+      ]
+    },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
+    "type": "dominionOfRempah"
+  },
+  "improvedEquipment-dominionOfRempah": {
+    "id": "improvedEquipment",
+    "requisite": [
+      "manufactoryExpansion-dominionOfRempah"
+    ],
+    "stage": 1,
+    "requiredCost": {
+      "piecesOfEight": [
+        0
+      ]
+    },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
+    "type": "dominionOfRempah"
+  },
+  "manufactoryExpansion-dominionOfRempah-2": {
+    "id": "manufactoryExpansion",
+    "requisite": [
+      "improvedEquipment-dominionOfRempah"
+    ],
+    "stage": 1,
+    "requiredCost": {
+      "piecesOfEight": [
+        0
+      ]
+    },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
+    "type": "dominionOfRempah"
+  },
+  "empireAdministration-dominionOfRempah": {
+    "id": "empireAdministration",
+    "requisite": [
+      "manufactoryExpansion-dominionOfRempah-2"
+    ],
+    "stage": 1,
+    "requiredCost": {
+      "piecesOfEight": [
+        0
+      ]
+    },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
+    "type": "dominionOfRempah"
+  },
+  "upgradePartProduction-dominionOfRempah": {
+    "id": "upgradePartProduction",
+    "requisite": [
+      "empireAdministration-dominionOfRempah",
+      "refinedSpecializedSpecializedMaterialProduction"
+    ],
+    "stage": 1,
+    "requiredCost": {
+      "piecesOfEight": [
+        0
+      ]
+    },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
+    "type": "dominionOfRempah"
+  },
+  "manufactoryExpansion-dominionOfRempah-3": {
+    "id": "manufactoryExpansion",
+    "requisite": [
+      "empireAdministration-dominionOfRempah"
+    ],
+    "stage": 1,
+    "requiredCost": {
+      "piecesOfEight": [
+        0
+      ]
+    },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
+    "type": "dominionOfRempah"
+  },
+  "blackFlowerHeavenSmokeProduction": {
+    "id": "blackFlowerHeavenSmokeProduction",
+    "requisite": [
+      "empireAdministration-dominionOfRempah"
+    ],
+    "stage": 1,
+    "requiredCost": {
+      "piecesOfEight": [
+        0
+      ]
+    },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
+    "type": "dominionOfRempah"
+  },
+  "dependableLaborers-dominionOfRempah": {
+    "id": "dependableLaborers",
+    "requisite": [
+      "manufactoryExpansion-dominionOfRempah-3"
+    ],
+    "stage": 1,
+    "requiredCost": {
+      "piecesOfEight": [
+        0
+      ]
+    },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
+    "type": "dominionOfRempah"
+  },
+  "manufactoryExpansion-dutchMerchantCompany": {
+    "id": "manufactoryExpansion",
+    "requisite": [
+      "root"
+    ],
+    "stage": 1,
+    "requiredCost": {
+      "piecesOfEight": [
+        0
+      ]
+    },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
+    "type": "dutchMerchantCompany"
+  },
+  "refinedMaterialProduction-dutchMerchantCompany": {
+    "id": "refinedMaterialProduction",
+    "requisite": [
+      "manufactoryExpansion-dutchMerchantCompany"
+    ],
+    "stage": 1,
+    "requiredCost": {
+      "piecesOfEight": [
+        0
+      ]
+    },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
+    "type": "dutchMerchantCompany"
+  },
+  "processBreakthrough-refined-dutchMerchantCompany": {
+    "id": "processBreakthrough-refined",
+    "requisite": [
+      "refinedMaterialProduction-dutchMerchantCompany"
+    ],
+    "stage": 3,
+    "requiredCost": {
+      "piecesOfEight": [
+        0,
+        4000,
+        8000
+      ]
+    },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
+    "type": "dutchMerchantCompany"
+  },
+  "processBreakthrough-specialized-dutchMerchantCompany": {
+    "id": "processBreakthrough-specialized",
+    "requisite": [
+      "processBreakthrough-refined-dutchMerchantCompany"
+    ],
+    "stage": 3,
+    "requiredCost": {
+      "piecesOfEight": [
+        0,
+        5000,
+        0
+      ]
+    },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
+    "type": "dutchMerchantCompany"
+  },
+  "refinedSpecializedMaterialProduction-dutchMerchantCompany": {
+    "id": "refinedSpecializedMaterialProduction",
+    "requisite": [
+      "processBreakthrough-specialized-dutchMerchantCompany"
+    ],
+    "stage": 1,
+    "requiredCost": {
+      "piecesOfEight": [
+        0
+      ]
+    },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
+    "type": "dutchMerchantCompany"
+  },
+  "processBreakthrough-refinedSpecialized-dutchMerchantCompany": {
+    "id": "processBreakthrough-refinedSpecialized",
+    "requisite": [
+      "refinedSpecializedMaterialProduction-dutchMerchantCompany"
+    ],
+    "stage": 3,
+    "requiredCost": {
+      "piecesOfEight": [
+        0,
+        7000,
+        12000
+      ]
+    },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
+    "type": "dutchMerchantCompany"
+  },
+  "exoticMaterialProduction-dutchMerchantCompany": {
+    "id": "exoticMaterialProduction",
+    "requisite": [
+      "refinedSpecializedMaterialProduction-dutchMerchantCompany"
+    ],
+    "stage": 1,
+    "requiredCost": {
+      "piecesOfEight": [
+        0
+      ]
+    },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
+    "type": "dutchMerchantCompany"
+  },
+  "dutchMerchantCompanyDominance": {
+    "id": "dutchMerchantCompanyDominance",
+    "requisite": [
+      "exoticMaterialProduction-dutchMerchantCompany"
+    ],
+    "stage": 1,
+    "requiredCost": {
+      "piecesOfEight": [
+        0
+      ]
+    },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
+    "type": "dutchMerchantCompany"
+  },
+  "ascensionModuleProduction-dutchMerchantCompany": {
+    "id": "ascensionModuleProduction",
+    "requisite": [
+      "dutchMerchantCompanyDominance"
+    ],
+    "stage": 1,
+    "requiredCost": {
+      "piecesOfEight": [
+        0
+      ]
+    },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
+    "type": "dutchMerchantCompany"
+  },
+  "advancedSnuffProcessing": {
+    "id": "advancedSnuffProcessing",
+    "requisite": [
+      "manufactoryExpansion-dutchMerchantCompany"
+    ],
+    "stage": 2,
+    "requiredCost": {
+      "piecesOfEight": [
+        0,
+        10000
+      ]
+    },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
+    "type": "dutchMerchantCompany"
+  },
+  "improvedEquipment-dutchMerchantCompany": {
+    "id": "improvedEquipment",
+    "requisite": [
+      "manufactoryExpansion-dutchMerchantCompany"
+    ],
+    "stage": 1,
+    "requiredCost": {
+      "piecesOfEight": [
+        0
+      ]
+    },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
+    "type": "dutchMerchantCompany"
+  },
+  "manufactoryExpansion-dutchMerchantCompany-2": {
+    "id": "manufactoryExpansion",
+    "requisite": [
+      "improvedEquipment-dutchMerchantCompany"
+    ],
+    "stage": 1,
+    "requiredCost": {
+      "piecesOfEight": [
+        0
+      ]
+    },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
+    "type": "dutchMerchantCompany"
+  },
+  "empireAdministration-dutchMerchantCompany": {
+    "id": "empireAdministration",
+    "requisite": [
+      "manufactoryExpansion-dutchMerchantCompany-2"
+    ],
+    "stage": 1,
+    "requiredCost": {
+      "piecesOfEight": [
+        0
+      ]
+    },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
+    "type": "dutchMerchantCompany"
+  },
+  "silverSnuffProduction": {
+    "id": "silverSnuffProduction",
+    "requisite": [
+      "empireAdministration-dutchMerchantCompany"
+    ],
+    "stage": 1,
+    "requiredCost": {
+      "piecesOfEight": [
+        0
+      ]
+    },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
+    "type": "dutchMerchantCompany"
+  },
+  "manufactoryExpansion-dutchMerchantCompany-3": {
+    "id": "manufactoryExpansion",
+    "requisite": [
+      "empireAdministration-dutchMerchantCompany"
+    ],
+    "stage": 1,
+    "requiredCost": {
+      "piecesOfEight": [
+        0
+      ]
+    },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
+    "type": "dutchMerchantCompany"
+  },
+  "dependableLaborers-dutchMerchantCompany": {
+    "id": "dependableLaborers",
+    "requisite": [
+      "manufactoryExpansion-dutchMerchantCompany-3",
+      "ascensionModuleProduction-dutchMerchantCompany"
+    ],
+    "stage": 1,
+    "requiredCost": {
+      "piecesOfEight": [
+        0
+      ]
+    },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
+    "type": "dutchMerchantCompany"
+  },
+  "manufactoryExpansion-confederationOfUngwana": {
+    "id": "manufactoryExpansion",
+    "requisite": [
+      "root"
+    ],
+    "stage": 1,
+    "requiredCost": {
+      "piecesOfEight": [
+        0
+      ]
+    },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
+    "type": "confederationOfUngwana"
+  },
+  "refinedMaterialProduction-confederationOfUngwana": {
+    "id": "refinedMaterialProduction",
+    "requisite": [
+      "manufactoryExpansion-confederationOfUngwana"
+    ],
+    "stage": 1,
+    "requiredCost": {
+      "piecesOfEight": [
+        0
+      ]
+    },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
+    "type": "confederationOfUngwana"
+  },
+  "processBreakthrough-refined-confederationOfUngwana": {
+    "id": "processBreakthrough-refined",
+    "requisite": [
+      "refinedMaterialProduction-confederationOfUngwana"
+    ],
+    "stage": 3,
+    "requiredCost": {
+      "piecesOfEight": [
+        2000,
+        4000,
+        8000
+      ]
+    },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
+    "type": "confederationOfUngwana"
+  },
+  "processBreakthrough-specialized-confederationOfUngwana": {
+    "id": "processBreakthrough-specialized",
+    "requisite": [
+      "refinedMaterialProduction-confederationOfUngwana"
+    ],
+    "stage": 3,
+    "requiredCost": {
+      "piecesOfEight": [
+        0,
+        5000,
+        10000
+      ]
+    },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
+    "type": "confederationOfUngwana"
+  },
+  "refinedSpecializedMaterialProduction-confederationOfUngwana": {
+    "id": "refinedSpecializedMaterialProduction",
+    "requisite": [
+      "processBreakthrough-specialized-confederationOfUngwana"
+    ],
+    "stage": 1,
+    "requiredCost": {
+      "piecesOfEight": [
+        0
+      ]
+    },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
+    "type": "confederationOfUngwana"
+  },
+  "processBreakthrough-refinedSpecialized-confederationOfUngwana": {
+    "id": "processBreakthrough-refinedSpecialized",
+    "requisite": [
+      "refinedSpecializedMaterialProduction-confederationOfUngwana"
+    ],
+    "stage": 3,
+    "requiredCost": {
+      "piecesOfEight": [
+        4000,
+        0,
+        0
+      ]
+    },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
+    "type": "confederationOfUngwana"
+  },
+  "exoticMaterialProduction-confederationOfUngwana": {
+    "id": "exoticMaterialProduction",
+    "requisite": [
+      "refinedSpecializedMaterialProduction-confederationOfUngwana"
+    ],
+    "stage": 1,
+    "requiredCost": {
+      "piecesOfEight": [
+        0
+      ]
+    },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
+    "type": "confederationOfUngwana"
+  },
+  "upgradePartProduction-confederationOfUngwana": {
+    "id": "upgradePartProduction",
+    "requisite": [
+      "refinedSpecializedMaterialProduction-confederationOfUngwana",
+      "empireAdministration-confederationOfUngwana"
+    ],
+    "stage": 1,
+    "requiredCost": {
+      "piecesOfEight": [
+        0
+      ]
+    },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
+    "type": "confederationOfUngwana"
+  },
+  "confederationOfUngwanaDominance": {
+    "id": "confederationOfUngwanaDominance",
+    "requisite": [
+      "exoticMaterialProduction-confederationOfUngwana"
+    ],
+    "stage": 1,
+    "requiredCost": {
+      "piecesOfEight": [
+        35000
+      ]
+    },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
+    "type": "confederationOfUngwana"
+  },
+  "advancedRumProcessing-confederationOfUngwana": {
+    "id": "advancedRumProcessing",
+    "requisite": [
+      "manufactoryExpansion-confederationOfUngwana"
+    ],
+    "stage": 1,
+    "requiredCost": {
+      "piecesOfEight": [
+        35000
+      ]
+    },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
+    "type": "confederationOfUngwana"
+  },
+  "improvedEquipment-confederationOfUngwana": {
+    "id": "improvedEquipment",
+    "requisite": [
+      "manufactoryExpansion-confederationOfUngwana"
+    ],
+    "stage": 1,
+    "requiredCost": {
+      "piecesOfEight": [
+        0
+      ]
+    },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
+    "type": "confederationOfUngwana"
+  },
+  "manufactoryExpansion-confederationOfUngwana-2": {
+    "id": "manufactoryExpansion",
+    "requisite": [
+      "improvedEquipment-confederationOfUngwana"
+    ],
+    "stage": 1,
+    "requiredCost": {
+      "piecesOfEight": [
+        0
+      ]
+    },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
+    "type": "confederationOfUngwana"
+  },
+  "empireAdministration-confederationOfUngwana": {
+    "id": "empireAdministration",
+    "requisite": [
+      "manufactoryExpansion-confederationOfUngwana-2"
+    ],
+    "stage": 1,
+    "requiredCost": {
+      "piecesOfEight": [
+        0
+      ]
+    },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
+    "type": "confederationOfUngwana"
+  },
+  "manufactoryExpansion-confederationOfUngwana-3": {
+    "id": "manufactoryExpansion",
+    "requisite": [
+      "empireAdministration-confederationOfUngwana"
+    ],
+    "stage": 1,
+    "requiredCost": {
+      "piecesOfEight": [
+        0
+      ]
+    },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
+    "type": "confederationOfUngwana"
+  },
+  "dependableLaborers-confederationOfUngwana": {
+    "id": "dependableLaborers",
+    "requisite": [
+      "manufactoryExpansion-confederationOfUngwana-3"
+    ],
+    "stage": 1,
+    "requiredCost": {
+      "piecesOfEight": [
+        0
+      ]
+    },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
+    "type": "confederationOfUngwana"
   }
 }
