@@ -18,6 +18,8 @@ export class EmpireSkill {
         public readonly dateAdded: Date,
         // 更新
         public readonly lastUpdated: Date,
+        // 额外属性
+        public readonly attr: {},
         // 阶段
         public readonly stage: number,
         // 阵营
@@ -39,6 +41,7 @@ export class EmpireSkill {
             Seasons[season],
             new Date(rawData.dateAdded),
             new Date(rawData.lastUpdated),
+            rawData.attr || {},
             rawData.stage,
             rawData.faction,
             rawData.requiredCost,

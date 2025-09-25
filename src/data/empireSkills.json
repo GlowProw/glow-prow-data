@@ -580,6 +580,9 @@
     "requisite": [
       "manufactoryExpansion-clanOfFara-2"
     ],
+    "attr": {
+      "index": 2
+    },
     "stage": 1,
     "requiredCost": {
       "piecesOfEight": [
@@ -860,6 +863,9 @@
     "requisite": [
       "manufactoryExpansion-seaPeople-2"
     ],
+    "attr": {
+      "index": 3
+    },
     "stage": 1,
     "requiredCost": {
       "piecesOfEight": [
@@ -1076,6 +1082,9 @@
     "requisite": [
       "root"
     ],
+    "attr": {
+      "index": 4
+    },
     "stage": 1,
     "requiredCost": {
       "piecesOfEight": [
@@ -1108,6 +1117,9 @@
     "requisite": [
       "coerciveGrowth"
     ],
+    "attr": {
+      "index": 5
+    },
     "stage": 1,
     "requiredCost": {
       "piecesOfEight": [
@@ -1158,6 +1170,9 @@
     "requisite": [
       "territorialDominance"
     ],
+    "attr": {
+      "index": 6
+    },
     "stage": 1,
     "requiredCost": {
       "piecesOfEight": [
@@ -1192,6 +1207,9 @@
     "requisite": [
       "savvyTraders"
     ],
+    "attr": {
+      "index": 7
+    },
     "stage": 1,
     "requiredCost": {
       "piecesOfEight": [
@@ -1227,6 +1245,9 @@
       "efficientShipping",
       "manufactoryFortification"
     ],
+    "attr": {
+      "index": 8
+    },
     "stage": 1,
     "requiredCost": {
       "piecesOfEight": [
@@ -1259,6 +1280,9 @@
     "requisite": [
       "tradeDominance"
     ],
+    "attr": {
+      "index": 9
+    },
     "stage": 1,
     "requiredCost": {
       "piecesOfEight": [
@@ -1473,6 +1497,9 @@
     "requisite": [
       "manufactoryExpansion-dominionOfRempah-2"
     ],
+    "attr": {
+      "index": 10
+    },
     "stage": 1,
     "requiredCost": {
       "piecesOfEight": [
@@ -1753,6 +1780,9 @@
     "requisite": [
       "manufactoryExpansion-dutchMerchantCompany-2"
     ],
+    "attr": {
+      "index": 11
+    },
     "stage": 1,
     "requiredCost": {
       "piecesOfEight": [
@@ -2017,6 +2047,9 @@
     "requisite": [
       "manufactoryExpansion-confederationOfUngwana-2"
     ],
+    "attr": {
+      "index": 12
+    },
     "stage": 1,
     "requiredCost": {
       "piecesOfEight": [
