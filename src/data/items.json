@@ -1426,7 +1426,7 @@
     "blueprint": "williamBlackwoodRotatingStore",
     "obtainable": [
       "theHelm",
-      "laPesteStrongbox",
+      "laPestesStrongbox",
       "legacyCache1"
     ],
     "worldEvent": "thePlagueKing",
@@ -1454,7 +1454,7 @@
       "venemousVengeance"
     ],
     "dateAdded": "2024-02-27",
-    "lastUpdated": "2025-09-04"
+    "lastUpdated": "2025-09-06"
   },
   "wailingWard": {
     "id": "wailingWard",
@@ -1828,7 +1828,7 @@
     "rarity": "epic",
     "season": "ragingTides",
     "requiredRank": "kingpin1",
-    "obtainable": ["theHelmSeasonal","legacyCache1"],
+    "obtainable": ["laPestesStrongbox","theHelmSeasonal","legacyCache1"],
     "value": 1,
     "weight": 1000,
     "gearScore": 91,
@@ -1848,7 +1848,7 @@
       "noDefaultCrit"
     ],
     "dateAdded": "2024-02-27",
-    "lastUpdated": "2025-09-04"
+    "lastUpdated": "2025-09-06"
   },
   "rocket1": {
     "id": "rocket1",
@@ -6064,7 +6064,7 @@
     "rarity": "rare",
     "season": "chorusOfHavoc",
     "worldEvent": "thePlagueKing",
-    "obtainable": "laPesteStrongbox",
+    "obtainable": "laPestesStrongbox",
     "blueprint": "williamBlackwoodRotatingStore",
     "value": 1,
     "weight": 500,
@@ -6088,7 +6088,7 @@
       "toxic3"
     ],
     "dateAdded": "2024-06-02",
-    "lastUpdated": "2025-08-23"
+    "lastUpdated": "2025-09-06"
   },
   "theWarhammer": {
     "id": "theWarhammer",
@@ -6845,8 +6845,8 @@
     "id": "medicineCabinet",
     "rarity": "epic",
     "obtainable": [
-      "laPesteChest",
-      "laPesteStrongbox"
+      "laPestesLocker",
+      "laPestesStrongbox"
     ],
     "blueprint": "williamBlackwoodSeasonalItemOathsOfWar",
     "season": "chorusOfHavoc",
@@ -6871,7 +6871,7 @@
       "medicineCabinet"
     ],
     "dateAdded": "2024-06-03",
-    "lastUpdated": "2025-07-29"
+    "lastUpdated": "2025-09-06"
   },
   "compagnieSpiritsLocker": {
     "id": "compagnieSpiritsLocker",
@@ -6881,18 +6881,24 @@
       "blackAriaChest",
       "williamBlackwoodRotatingStore"
     ],
+    "blueprint": "williamBlackwoodSeasonalItemOathsOfWar",
     "worldEvent": "verseOfVengeance",
     "bounty": "verseOfVengeance",
     "type": "utilityFurniture",
     "gearScore": 25,
     "value": 1,
     "weight": 80,
-    "required": {},
+    "required": {
+      "magnetiteIngot": 12,
+      "woodPitch": 8,
+      "plateGlass": 8,
+      "torsionSpring": 4
+    },
     "perks": [
       "compagnieSpiritsLocker"
     ],
     "dateAdded": "2024-06-03",
-    "lastUpdated": "2025-07-29"
+    "lastUpdated": "2025-09-09"
   },
   "secretCache1": {
     "id": "secretCache1",
@@ -10551,17 +10557,26 @@
     "value": 1,
     "weight": 80,
     "gearScore": 20,
-    "required": {},
+    "blueprint": "williamBlackwoodRotatingStoreOathsOfWar",
+    "required": {
+      "greenheartPlank": 8,
+      "magnetiteIngot": 8,
+      "roselleCloth": 8,
+      "plagueDust": 6,
+      "blightedFuel": 4,
+      "wyrmVolatileNapalm": 2,
+      "silver": 3600
+    },
     "obtainable": [
       "williamBlackwoodRotatingStore",
-      "laPesteChest"
+      "laPestesLocker"
     ],
     "worldEvent": "tidesOfTerror",
     "perks": [
       "plaguebringersWard"
     ],
     "dateAdded": "2024-08-22",
-    "lastUpdated": "2025-07-29"
+    "lastUpdated": "2025-09-16"
   },
   "quickIgnitingPowder": {
     "id": "quickIgnitingPowder",
@@ -12875,12 +12890,6 @@
   "mortarGrinder1": {
     "id": "mortarGrinder1",
     "tier": 1,
-    "blueprint": [
-      [
-        "corruptDmcOfficerOutpost",
-        "outpostTheRuinedLighthouse"
-      ]
-    ],
     "type": "offensiveFurniture",
     "season": "ascentIntoChaos",
     "gearScore": 15,
@@ -12898,8 +12907,9 @@
       "torsionSpring": 1,
       "silver": 3370
     },
+    "obtainable": "notIntendedToBeObtainable",
     "dateAdded": "2025-04-15",
-    "lastUpdated": "2025-07-29"
+    "lastUpdated": "2025-09-23"
   },
   "infamyChest": {
     "id": "infamyChest",
@@ -13977,12 +13987,6 @@
   "rocketGrinder1": {
     "id": "rocketGrinder1",
     "tier": 1,
-    "blueprint": [
-      [
-        "rempahMerchant",
-        "outpostParujarsCry"
-      ]
-    ],
     "type": "offensiveFurniture",
     "season": "oathsOfWar",
     "gearScore": 15,
@@ -14000,8 +14004,9 @@
       "precisionDrillingBit": 1,
       "silver": 3370
     },
+    "obtainable": "notIntendedToBeObtainable",
     "dateAdded": "2025-07-19",
-    "lastUpdated": "2025-07-29"
+    "lastUpdated": "2025-09-23"
   },
   "moonshineChest": {
     "id": "moonshineChest",
@@ -14484,16 +14489,103 @@
     "id": "locketOfTheDamned",
     "rarity": "common",
     "season": "chorusOfHavoc",
+    "worldEvent": "symphonieMortelle",
     "type": "quest",
     "dateAdded": "2025-09-03",
-    "lastUpdated": "2025-09-03"
+    "lastUpdated": "2025-09-23"
   },
   "tianNingsImperialCloak": {
     "id": "tianNingsImperialCloak",
     "rarity": "common",
     "season": "intoTheDragonsWake",
+    "worldEvent": "theGloriousPhoenix",
     "type": "quest",
     "dateAdded": "2025-09-03",
-    "lastUpdated": "2025-09-03"
+    "lastUpdated": "2025-09-23"
+  },
+  "laPestesHead": {
+    "id": "laPestesHead",
+    "rarity": "common",
+    "season": "ragingTides",
+    "worldEvent": "thePlagueKing",
+    "type": "quest",
+    "dateAdded": "2025-09-06",
+    "lastUpdated": "2025-09-23"
+  },
+  "laPestesLocker": {
+    "id": "laPestesLocker",
+    "rarity": "legendary",
+    "season": "ragingTides",
+    "type": "chest",
+    "value": 1,
+    "worldEvent": "tidesOfTerror",
+    "weight": 100,
+    "dateAdded": "2025-09-06",
+    "lastUpdated": "2025-09-06"
+  },
+  "laPestesStrongbox": {
+    "id": "laPestesStrongbox",
+    "rarity": "legendary",
+    "season": "ragingTides",
+    "type": "chest",
+    "value": 1,
+    "worldEvent": "thePlagueKing",
+    "weight": 100,
+    "dateAdded": "2025-09-06",
+    "lastUpdated": "2025-09-06"
+  },
+  "wreckedConductorBuoy": {
+    "id": "wreckedConductorBuoy",
+    "rarity": "common",
+    "season": "chorusOfHavoc",
+    "worldEvent": "chorusOfHavoc",
+    "type": "quest",
+    "dateAdded": "2025-09-16",
+    "lastUpdated": "2025-09-16"
+  },
+  "shadowyBracelet": {
+    "id": "shadowyBracelet",
+    "rarity": "common",
+    "season": "shadowsOfTheDeep",
+    "worldEvent": "curseOfTheSchaduw",
+    "type": "quest",
+    "dateAdded": "2025-09-23",
+    "lastUpdated": "2025-09-23"
+  },
+  "necklaceOfTheSkyGoddess": {
+    "id": "necklaceOfTheSkyGoddess",
+    "rarity": "common",
+    "season": "intoTheDragonsWake",
+    "worldEvent": "flamesOfThePhoenix",
+    "type": "quest",
+    "dateAdded": "2025-09-23",
+    "lastUpdated": "2025-09-23"
+  },
+  "flaskOfClearLiquid": {
+    "id": "flaskOfClearLiquid",
+    "rarity": "common",
+    "season": "shadowsOfTheDeep",
+    "worldEvent": "theLoomingShadow",
+    "type": "quest",
+    "dateAdded": "2025-09-23",
+    "lastUpdated": "2025-09-23"
+  },
+  "gildedCompass": {
+    "id": "gildedCompass",
+    "rarity": "common",
+    "season": "shadowsOfTheDeep",
+    "worldEvent": "theWolfHunter",
+    "type": "quest",
+    "dateAdded": "2025-09-23",
+    "lastUpdated": "2025-09-23"
+  },
+  "zhangsClaw": {
+    "id": "zhangsClaw",
+    "rarity": "common",
+    "season": "intoTheDragonsWake",
+    "worldEvent": "theSerpentsWrath",
+    "type": "quest",
+    "dateAdded": "2025-09-23",
+    "lastUpdated": "2025-09-23"
   }
 }

@@ -1263,10 +1263,10 @@
     "type": "hull",
     "set": "anpakasRot",
     "worldEvent": "tidesOfTerror",
-    "obtainable": "laPesteChest",
+    "obtainable": "laPestesLocker",
     "season": "ragingTides",
     "dateAdded": "2024-03-17",
-    "lastUpdated": "2024-04-09"
+    "lastUpdated": "2025-09-06"
   },
   "grimTidings": {
     "id": "grimTidings",
@@ -2546,9 +2546,9 @@
     "set": "anpakasRot",
     "worldEvent": "tidesOfTerror",
     "season": "ragingTides",
-    "obtainable": "laPesteChest",
+    "obtainable": "laPestesLocker",
     "dateAdded": "2024-03-19",
-    "lastUpdated": "2024-04-09"
+    "lastUpdated": "2025-09-06"
   },
   "grinnersSheets": {
     "id": "grinnersSheets",
@@ -3269,9 +3269,9 @@
     "effect": "emissive",
     "bounty": "theBlightedBastion",
     "worldEvent": "thePlagueKing",
-    "obtainable": "laPesteStrongbox",
+    "obtainable": "laPestesStrongbox",
     "dateAdded": "2024-03-22",
-    "lastUpdated": "2024-06-06"
+    "lastUpdated": "2025-09-06"
   },
   "anpakasHand": {
     "id": "anpakasHand",
@@ -3281,9 +3281,9 @@
     "bounty": "theBlightedBastion",
     "worldEvent": "thePlagueKing",
     "effect": "emissive",
-    "obtainable": "laPesteStrongbox",
+    "obtainable": "laPestesStrongbox",
     "dateAdded": "2024-03-22",
-    "lastUpdated": "2024-06-06"
+    "lastUpdated": "2025-09-06"
   },
   "anpakasTears": {
     "id": "anpakasTears",
@@ -5389,9 +5389,9 @@
     "bounty": "theBlightedBastion",
     "worldEvent": "thePlagueKing",
     "season": "ragingTides",
-    "obtainable": "laPesteStrongbox",
+    "obtainable": "laPestesStrongbox",
     "dateAdded": "2024-04-20",
-    "lastUpdated": "2024-04-20"
+    "lastUpdated": "2025-09-06"
   },
   "anpakasRobe": {
     "id": "anpakasRobe",
@@ -25996,9 +25996,9 @@
     "event": "darktideLullaby",
     "effect": "bossKillReactive",
     "season": "oathsOfWar",
-    "obtainable": ["ubisoftStore"],
+    "obtainable": "premiumEventPass",
     "dateAdded": "2025-09-02",
-    "lastUpdated": "2025-09-02"
+    "lastUpdated": "2025-09-12"
   },
   "corruptedTribute": {
     "id": "corruptedTribute",
@@ -26048,5 +26048,493 @@
     "set": "xianYuan",
     "dateAdded": "2025-09-02",
     "lastUpdated": "2025-09-02"
+  },
+  "scarletTricorne": {
+    "id": "scarletTricorne",
+    "type": "headwear",
+    "set": "redPrivateer",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2025-09-09",
+    "lastUpdated": "2025-09-09"
+  },
+  "privateersPatch": {
+    "id": "privateersPatch",
+    "type": "faceAccessory",
+    "set": "redPrivateer",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2025-09-09",
+    "lastUpdated": "2025-09-09"
+  },
+  "rebelsRegalia": {
+    "id": "rebelsRegalia",
+    "type": "torso",
+    "set": "redPrivateer",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2025-09-09",
+    "lastUpdated": "2025-09-09"
+  },
+  "throatWranglers": {
+    "id": "throatWranglers",
+    "type": "forearm",
+    "set": "redPrivateer",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2025-09-09",
+    "lastUpdated": "2025-09-09"
+  },
+  "mutineerMastery": {
+    "id": "mutineerMastery",
+    "type": "waist",
+    "set": "redPrivateer",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2025-09-09",
+    "lastUpdated": "2025-09-09"
+  },
+  "silverLinedBreeches": {
+    "id": "silverLinedBreeches",
+    "type": "bottom",
+    "set": "redPrivateer",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2025-09-09",
+    "lastUpdated": "2025-09-09"
+  },
+  "pirateStompers": {
+    "id": "pirateStompers",
+    "type": "footwear",
+    "set": "redPrivateer",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2025-09-09",
+    "lastUpdated": "2025-09-09"
+  },
+  "crossMeIfYouDare": {
+    "id": "crossMeIfYouDare",
+    "type": "sailsEmblem",
+    "set": "forTheHoard",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2025-09-09",
+    "lastUpdated": "2025-09-09"
+  },
+  "nighthawk": {
+    "id": "nighthawk",
+    "type": "sailsPattern",
+    "set": "forTheHoard",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2025-09-09",
+    "lastUpdated": "2025-09-09"
+  },
+  "soundReckoning": {
+    "id": "soundReckoning",
+    "type": "sailsColor",
+    "set": "forTheHoard",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2025-09-09",
+    "lastUpdated": "2025-09-09"
+  },
+  "gloryBoundFigureHead": {
+    "id": "gloryBoundFigureHead",
+    "type": "figureHead",
+    "effect": "emissive",
+    "set": "forTheHoard",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2025-09-09",
+    "lastUpdated": "2025-09-09"
+  },
+  "sanctumsWelcome": {
+    "id": "sanctumsWelcome",
+    "type": "hull",
+    "set": "forTheHoard",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2025-09-09",
+    "lastUpdated": "2025-09-09"
+  },
+  "redWithRage": {
+    "id": "redWithRage",
+    "type": "firework",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2025-09-09",
+    "lastUpdated": "2025-09-09"
+  },
+  "furiousWake": {
+    "id": "furiousWake",
+    "type": "aura",
+    "effect": "bossKillReactive",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2025-09-09",
+    "lastUpdated": "2025-09-09"
+  },
+  "crimsonPlume": {
+    "id": "crimsonPlume",
+    "type": "headwear",
+    "set": "nocturnesChampion",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2025-09-09",
+    "lastUpdated": "2025-09-09"
+  },
+  "regaleEmAll": {
+    "id": "regaleEmAll",
+    "type": "faceAccessory",
+    "set": "nocturnesChampion",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2025-09-09",
+    "lastUpdated": "2025-09-09"
+  },
+  "lavishedAttentions": {
+    "id": "lavishedAttentions",
+    "type": "torso",
+    "set": "nocturnesChampion",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2025-09-09",
+    "lastUpdated": "2025-09-09"
+  },
+  "showmansScarf": {
+    "id": "showmansScarf",
+    "type": "neck",
+    "set": "nocturnesChampion",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2025-09-09",
+    "lastUpdated": "2025-09-09"
+  },
+  "sunsetBelt": {
+    "id": "sunsetBelt",
+    "type": "waist",
+    "set": "nocturnesChampion",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2025-09-09",
+    "lastUpdated": "2025-09-09"
+  },
+  "rubyCharm": {
+    "id": "rubyCharm",
+    "type": "hand",
+    "set": "nocturnesChampion",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2025-09-09",
+    "lastUpdated": "2025-09-09"
+  },
+  "ambitiousAir": {
+    "id": "ambitiousAir",
+    "type": "bottom",
+    "set": "nocturnesChampion",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2025-09-09",
+    "lastUpdated": "2025-09-09"
+  },
+  "stepLively": {
+    "id": "stepLively",
+    "type": "footwear",
+    "set": "nocturnesChampion",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2025-09-09",
+    "lastUpdated": "2025-09-09"
+  },
+  "courtlyContender": {
+    "id": "courtlyContender",
+    "type": "sailsEmblem",
+    "set": "nocturnesGrace",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2025-09-09",
+    "lastUpdated": "2025-09-09"
+  },
+  "reignLikeKings": {
+    "id": "reignLikeKings",
+    "type": "sailsPattern",
+    "set": "nocturnesGrace",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2025-09-09",
+    "lastUpdated": "2025-09-09"
+  },
+  "sweepingSerenade": {
+    "id": "sweepingSerenade",
+    "type": "sailsColor",
+    "set": "nocturnesGrace",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2025-09-09",
+    "lastUpdated": "2025-09-09"
+  },
+  "songOfBlades": {
+    "id": "songOfBlades",
+    "type": "figureHead",
+    "set": "nocturnesGrace",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2025-09-09",
+    "lastUpdated": "2025-09-09"
+  },
+  "lordlyFortunes": {
+    "id": "lordlyFortunes",
+    "type": "ornaments",
+    "set": "nocturnesGrace",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2025-09-09",
+    "lastUpdated": "2025-09-09"
+  },
+  "tranquilNight": {
+    "id": "tranquilNight",
+    "type": "hull",
+    "set": "nocturnesGrace",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2025-09-09",
+    "lastUpdated": "2025-09-09"
+  },
+  "fantomeNoir": {
+    "id": "fantomeNoir",
+    "type": "nameplate",
+    "set": "nocturnesGrace",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2025-09-09",
+    "lastUpdated": "2025-09-09"
+  },
+  "plagueOmen": {
+    "id": "plagueOmen",
+    "type": "sailsEmblem",
+    "set": "plagueReaper",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2025-09-09",
+    "lastUpdated": "2025-09-09"
+  },
+  "flowingIchor": {
+    "id": "flowingIchor",
+    "type": "sailsPattern",
+    "set": "plagueReaper",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2025-09-09",
+    "lastUpdated": "2025-09-09"
+  },
+  "deathlyMiasma": {
+    "id": "deathlyMiasma",
+    "type": "sailsColor",
+    "effects": "emissive",
+    "set": "plagueReaper",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2025-09-09",
+    "lastUpdated": "2025-09-09"
+  },
+  "blightborn": {
+    "id": "blightborn",
+    "type": "figureHead",
+    "set": "plagueReaper",
+    "effects": "emissive",
+    "upgrades": ["crimsonHerald","pestilentShadow"],
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2025-09-09",
+    "lastUpdated": "2025-09-09"
+  },
+  "crimsonHerald": {
+    "id": "crimsonHerald",
+    "tier": 1,
+    "type": "hull",
+    "set": "plagueReaper",
+    "effects": "emissive",
+    "basic": "blightborn",
+    "upgrades": ["pestilentShadow"],
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2025-09-09",
+    "lastUpdated": "2025-09-09"
+  },
+  "pestilentShadow": {
+    "id": "pestilentShadow",
+    "tier": 2,
+    "type": "nameplate",
+    "set": "plagueReaper",
+    "effects": ["emissive","combatReactive"],
+    "basic": "blightborn",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2025-09-09",
+    "lastUpdated": "2025-09-09"
+  },
+  "seaScourge": {
+    "id": "seaScourge",
+    "type": "hull",
+    "set": "plagueReaper",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2025-09-09",
+    "lastUpdated": "2025-09-09"
+  },
+  "noxdoctor": {
+    "id": "noxdoctor",
+    "type": "nameplate",
+    "set": "plagueReaper",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2025-09-09",
+    "lastUpdated": "2025-09-09"
+  },
+  "hollowMask": {
+    "id": "hollowMask",
+    "type": "trophy",
+    "effects": "emissive",
+    "set": "plagueReaper",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2025-09-09",
+    "lastUpdated": "2025-09-09"
+  },
+  "vileCure": {
+    "id": "vileCure",
+    "type": "firework",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2025-09-09",
+    "lastUpdated": "2025-09-09"
+  },
+  "plagueTouchedHat": {
+    "id": "plagueTouchedHat",
+    "type": "headwear",
+    "set": "harbingerOfDeath",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2025-09-09",
+    "lastUpdated": "2025-09-09"
+  },
+  "beakedVisage": {
+    "id": "beakedVisage",
+    "type": "faceAccessory",
+    "effects": "emissive",
+    "set": "harbingerOfDeath",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2025-09-09",
+    "lastUpdated": "2025-09-09"
+  },
+  "sterileGown": {
+    "id": "sterileGown",
+    "type": "torso",
+    "set": "harbingerOfDeath",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2025-09-09",
+    "lastUpdated": "2025-09-09"
+  },
+  "glovesOfPrecision": {
+    "id": "glovesOfPrecision",
+    "type": "neck",
+    "set": "harbingerOfDeath",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2025-09-09",
+    "lastUpdated": "2025-09-09"
+  },
+  "bloodBindings": {
+    "id": "bloodBindings",
+    "type": "forearm",
+    "set": "harbingerOfDeath",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2025-09-09",
+    "lastUpdated": "2025-09-09"
+  },
+  "toolsOfTorture": {
+    "id": "toolsOfTorture",
+    "type": "waist",
+    "effects": "emissive",
+    "set": "harbingerOfDeath",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2025-09-09",
+    "lastUpdated": "2025-09-09"
+  },
+  "burialBreeches": {
+    "id": "burialBreeches",
+    "type": "bottom",
+    "set": "harbingerOfDeath",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2025-09-09",
+    "lastUpdated": "2025-09-09"
+  },
+  "plaguePits": {
+    "id": "plaguePits",
+    "type": "footwear",
+    "set": "harbingerOfDeath",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2025-09-09",
+    "lastUpdated": "2025-09-09"
+  },
+  "aPaleSteed": {
+    "id": "aPaleSteed",
+    "type": "sailsEmblem",
+    "set": "deathStrides",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2025-09-09",
+    "lastUpdated": "2025-09-09"
+  },
+  "scythesEdge": {
+    "id": "scythesEdge",
+    "type": "sailsPattern",
+    "set": "deathStrides",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2025-09-09",
+    "lastUpdated": "2025-09-09"
+  },
+  "deliciouslyMacabre": {
+    "id": "deliciouslyMacabre",
+    "type": "sailsColor",
+    "effects": "emissive",
+    "set": "deathStrides",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2025-09-09",
+    "lastUpdated": "2025-09-09"
+  },
+  "theEndbringer": {
+    "id": "theEndbringer",
+    "type": "figureHead",
+    "effects": ["emissive","combatReactive"],
+    "set": "deathStrides",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2025-09-09",
+    "lastUpdated": "2025-09-09"
+  },
+  "endTimes": {
+    "id": "endTimes",
+    "type": "hull",
+    "set": "deathStrides",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2025-09-09",
+    "lastUpdated": "2025-09-09"
+  },
+  "deathRider": {
+    "id": "deathRider",
+    "type": "nameplate",
+    "set": "deathStrides",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2025-09-09",
+    "lastUpdated": "2025-09-09"
+  },
+  "deathDivine": {
+    "id": "deathDivine",
+    "type": "wheel",
+    "effects": "emissive",
+    "set": "deathStrides",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2025-09-09",
+    "lastUpdated": "2025-09-09"
+  },
+  "bonepicker": {
+    "id": "bonepicker",
+    "type": "sailsEmblem",
+    "set": "seaScavengers",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2025-09-09",
+    "lastUpdated": "2025-09-09"
+  },
+  "doomCircles": {
+    "id": "doomCircles",
+    "type": "sailsPattern",
+    "set": "seaScavengers",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2025-09-09",
+    "lastUpdated": "2025-09-09"
+  },
+  "blotTheSun": {
+    "id": "blotTheSun",
+    "type": "sailsColor",
+    "effects": "emissive",
+    "set": "seaScavengers",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2025-09-09",
+    "lastUpdated": "2025-09-09"
+  },
+  "theFinalFeast": {
+    "id": "theFinalFeast",
+    "type": "figureHead",
+    "set": "seaScavengers",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2025-09-09",
+    "lastUpdated": "2025-09-09"
+  },
+  "driftIntoOblivion": {
+    "id": "driftIntoOblivion",
+    "type": "hull",
+    "set": "seaScavengers",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2025-09-09",
+    "lastUpdated": "2025-09-09"
   }
 }
