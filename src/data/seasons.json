@@ -41,6 +41,12 @@
         "id": "oathsOfWar",
         "alternativeName": "y2s2",
         "startDate": "2025-07-15",
-        "endDate": "2025-10-14"
+        "endDate": "2025-10-21"
+    },
+    "gutsAndGlory": {
+        "id": "gutsAndGlory",
+        "alternativeName": "y2s3",
+        "startDate": "2025-10-21",
+        "endDate": "2026-02-10"
     }
 }
