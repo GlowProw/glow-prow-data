@@ -6910,17 +6910,26 @@
       "moonshineStrongbox",
       "williamBlackwoodRotatingStore"
     ],
+    "blueprint": "williamBlackwoodRotatingStoreOathsOfWar",
     "event": "dragonsRegatta",
     "type": "utilityFurniture",
     "gearScore": 25,
     "value": 1,
     "weight": 80,
-    "required": {},
+    "required": {
+      "roselleCloth": 8,
+      "greenheartPlank": 8,
+      "magnetiteIngot": 8,
+      "azureDragonHead": 6,
+      "yellowDragonBanner": 4,
+      "eelSturdyRopes": 2,
+      "silver": 3600
+    },
     "perks": [
       "secretCache1"
     ],
     "dateAdded": "2024-06-03",
-    "lastUpdated": "2025-07-29"
+    "lastUpdated": "2025-10-07"
   },
   "bombardMenuiserie1": {
     "id": "bombardMenuiserie1",
@@ -9171,12 +9180,21 @@
       "convoyShipDrop",
       "williamBlackwoodRotatingStore"
     ],
-    "required": {},
+    "blueprint": "williamBlackwoodRotatingStoreOathsOfWar",
+    "required": {
+      "roselleCloth": 12,
+      "magnetiteIngot": 12,
+      "greenheartPlank": 12,
+      "quicklime": 6,
+      "purifiedSaltpeter": 6,
+      "wyrmVolatileNapalm": 2,
+      "silver": 3600
+    },
     "perks": [
       "leatherFashioningStation1"
     ],
     "dateAdded": "2024-07-05",
-    "lastUpdated": "2025-07-29"
+    "lastUpdated": "2025-10-07"
   },
   "lestariTrophy": {
     "id": "lestariTrophy",
@@ -12907,7 +12925,7 @@
       "torsionSpring": 1,
       "silver": 3370
     },
-    "obtainable": "notIntendedToBeObtainable",
+    "unobtainable": true,
     "dateAdded": "2025-04-15",
     "lastUpdated": "2025-09-23"
   },
@@ -13758,7 +13776,7 @@
     "type": "rocket",
     "rarity": "epic",
     "season": "oathsOfWar",
-    "obtainable": "williamBlackwoodSeasonalItem",
+    "obtainable": "williamBlackwoodSeasonalItemOathsOfWar",
     "value": 1,
     "weight": 1000,
     "gearScore": 91,
@@ -13821,7 +13839,7 @@
     "required": {
       "gildmarks": 700
     },
-    "obtainable": "williamBlackwoodSeasonalItem",
+    "obtainable": "williamBlackwoodSeasonalItemOathsOfWar",
     "perks": [
       "impregnable"
     ],
@@ -13873,7 +13891,7 @@
     "required": {
       "gildmarks": 1000
     },
-    "obtainable": "williamBlackwoodSeasonalItem",
+    "obtainable": "williamBlackwoodSeasonalItemOathsOfWar",
     "perks": [
       "volatileVestment"
     ],
@@ -13922,7 +13940,7 @@
     "gearScore": 25,
     "value": 1,
     "weight": 80,
-    "obtainable": "williamBlackwoodSeasonalItem",
+    "obtainable": "williamBlackwoodSeasonalItemOathsOfWar",
     "perks": [
       "ammoPrimingBench"
     ],
@@ -13937,7 +13955,7 @@
     "rarity": "epic",
     "season": "oathsOfWar",
     "obtainable": [
-      "williamBlackwoodRotatingStore"
+      "williamBlackwoodSeasonalItemOathsOfWar"
     ],
     "requiredSize": "medium",
     "type": "springloader",
@@ -13963,7 +13981,7 @@
     "rarity": "epic",
     "season": "oathsOfWar",
     "obtainable": [
-      "williamBlackwoodSeasonalItem"
+      "williamBlackwoodSeasonalItemOathsOfWar"
     ],
     "value": 1,
     "weight": 1000,
@@ -14004,7 +14022,7 @@
       "precisionDrillingBit": 1,
       "silver": 3370
     },
-    "obtainable": "notIntendedToBeObtainable",
+    "unobtainable": true,
     "dateAdded": "2025-07-19",
     "lastUpdated": "2025-09-23"
   },
@@ -14351,7 +14369,7 @@
     "weight": 250,
     "gearScore": 35,
     "required": {},
-    "obtainable": "williamBlackwoodRotatingStoreOathsOfWar",
+    "obtainable": "williamBlackwoodSeasonalItemOathsOfWar",
     "perks": [
       "royalSterilizationTent"
     ],
@@ -14367,7 +14385,7 @@
     "weight": 250,
     "gearScore": 35,
     "required": {},
-    "obtainable": "williamBlackwoodRotatingStoreOathsOfWar",
+    "obtainable": "williamBlackwoodSeasonalItemOathsOfWar",
     "perks": [
       "atelierDeCuivrage"
     ],
@@ -14383,7 +14401,7 @@
     "weight": 250,
     "gearScore": 35,
     "required": {},
-    "obtainable": "williamBlackwoodRotatingStoreOathsOfWar",
+    "obtainable": "williamBlackwoodSeasonalItemOathsOfWar",
     "perks": [
       "rampantCarriageHold"
     ],
@@ -14399,7 +14417,7 @@
     "weight": 250,
     "gearScore": 35,
     "required": {},
-    "obtainable": "williamBlackwoodRotatingStoreOathsOfWar",
+    "obtainable": "williamBlackwoodSeasonalItemOathsOfWar",
     "perks": [
       "sandbagPaintingStation"
     ],

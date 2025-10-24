@@ -331,7 +331,7 @@
   "refinedSpecializedMaterialProductionRefined": {
     "id": "refinedSpecializedMaterialProductionRefined",
     "requisite": [
-      "refinedMaterialProduction"
+      "processBreakthrough-specialized"
     ],
     "stage": 1,
     "requiredCost": {
@@ -449,6 +449,9 @@
     "requisite": [
       "improvedEquipment"
     ],
+    "attr": {
+      "index": 1
+    },
     "stage": 1,
     "requiredCost": {
       "piecesOfEight": [
@@ -466,7 +469,7 @@
       "manufactoryExpansion-compagnieRoyale-2"
     ],
     "attr": {
-      "index": 1
+      "index": 3
     },
     "stage": 1,
     "requiredCost": {
@@ -500,6 +503,9 @@
     "requisite": [
       "empireAdministration-compagnieRoyale"
     ],
+    "attr": {
+      "index": 1
+    },
     "stage": 1,
     "requiredCost": {
       "piecesOfEight": [
@@ -564,6 +570,9 @@
     "requisite": [
       "improvedEquipment-clanOfFara"
     ],
+    "attr": {
+      "index": 1
+    },
     "stage": 1,
     "requiredCost": {
       "piecesOfEight": [
@@ -581,7 +590,7 @@
       "manufactoryExpansion-clanOfFara-2"
     ],
     "attr": {
-      "index": 2
+      "index": 3
     },
     "stage": 1,
     "requiredCost": {
@@ -610,6 +619,25 @@
     "season": "ascentIntoChaos",
     "type": "clanOfFara"
   },
+  "manufactoryExpansion-clanOfFara-3": {
+    "id": "manufactoryExpansion",
+    "requisite": [
+      "empireAdministration-clanOfFara"
+    ],
+    "attr": {
+      "index": 1
+    },
+    "stage": 1,
+    "requiredCost": {
+      "piecesOfEight": [
+        10000
+      ]
+    },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
+    "type": "clanOfFara"
+  },
   "upgradePartProduction": {
     "id": "upgradePartProduction",
     "requisite": [
@@ -620,22 +648,6 @@
     "requiredCost": {
       "piecesOfEight": [
         20000
-      ]
-    },
-    "dateAdded": "2025-09-10",
-    "lastUpdated": "2025-09-10",
-    "season": "ascentIntoChaos",
-    "type": "clanOfFara"
-  },
-  "manufactoryExpansion-clanOfFara-3": {
-    "id": "manufactoryExpansion",
-    "requisite": [
-      "empireAdministration-clanOfFara"
-    ],
-    "stage": 1,
-    "requiredCost": {
-      "piecesOfEight": [
-        10000
       ]
     },
     "dateAdded": "2025-09-10",
@@ -708,24 +720,6 @@
     "season": "ascentIntoChaos",
     "type": "clanOfFara"
   },
-  "processBreakthrough-refined-clanOfFara": {
-    "id": "processBreakthrough-refined",
-    "requisite": [
-      "refinedMaterialProduction-clanOfFara"
-    ],
-    "stage": 3,
-    "requiredCost": {
-      "piecesOfEight": [
-        2000,
-        0,
-        0
-      ]
-    },
-    "dateAdded": "2025-09-10",
-    "lastUpdated": "2025-09-10",
-    "season": "ascentIntoChaos",
-    "type": "clanOfFara"
-  },
   "processBreakthrough-specialized-clanOfFara": {
     "id": "processBreakthrough-specialized",
     "requisite": [
@@ -735,6 +729,24 @@
     "requiredCost": {
       "piecesOfEight": [
         2500,
+        0,
+        0
+      ]
+    },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
+    "type": "clanOfFara"
+  },
+  "processBreakthrough-refined-clanOfFara": {
+    "id": "processBreakthrough-refined",
+    "requisite": [
+      "refinedMaterialProduction-clanOfFara"
+    ],
+    "stage": 3,
+    "requiredCost": {
+      "piecesOfEight": [
+        2000,
         0,
         0
       ]
@@ -760,28 +772,11 @@
     "season": "ascentIntoChaos",
     "type": "clanOfFara"
   },
-  "processBreakthrough-refinedSpecialized-clanOfFara": {
-    "id": "processBreakthrough-refinedSpecialized",
-    "requisite": [
-      "refinedSpecializedMaterialProduction"
-    ],
-    "stage": 3,
-    "requiredCost": {
-      "piecesOfEight": [
-        4000,
-        0,
-        0
-      ]
-    },
-    "dateAdded": "2025-09-10",
-    "lastUpdated": "2025-09-10",
-    "season": "ascentIntoChaos",
-    "type": "clanOfFara"
-  },
+
   "exoticMaterialProduction-clanOfFara": {
     "id": "exoticMaterialProduction",
     "requisite": [
-      "processBreakthrough-refinedSpecialized-clanOfFara"
+      "refinedSpecializedMaterialProduction"
     ],
     "stage": 1,
     "requiredCost": {
@@ -810,11 +805,32 @@
     "season": "ascentIntoChaos",
     "type": "clanOfFara"
   },
+  "processBreakthrough-refinedSpecialized-clanOfFara": {
+    "id": "processBreakthrough-refinedSpecialized",
+    "requisite": [
+      "refinedSpecializedMaterialProduction"
+    ],
+    "stage": 3,
+    "requiredCost": {
+      "piecesOfEight": [
+        4000,
+        0,
+        0
+      ]
+    },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
+    "type": "clanOfFara"
+  },
   "manufactoryExpansion-seaPeople-1": {
     "id": "manufactoryExpansion",
     "requisite": [
       "root"
     ],
+    "attr": {
+      "index": 1
+    },
     "stage": 1,
     "requiredCost": {
       "piecesOfEight": [
@@ -847,6 +863,9 @@
     "requisite": [
       "improvedEquipment-seaPeople"
     ],
+    "attr": {
+      "index": 1
+    },
     "stage": 1,
     "requiredCost": {
       "piecesOfEight": [
@@ -885,7 +904,7 @@
     "stage": 1,
     "requiredCost": {
       "piecesOfEight": [
-        1000
+        11000
       ]
     },
     "dateAdded": "2025-09-10",
@@ -898,6 +917,9 @@
     "requisite": [
       "empireAdministration-seaPeople"
     ],
+    "attr": {
+      "index": 1
+    },
     "stage": 1,
     "requiredCost": {
       "piecesOfEight": [
@@ -934,7 +956,7 @@
     "requiredCost": {
       "piecesOfEight": [
         4000,
-        0
+        10000
       ]
     },
     "dateAdded": "2025-09-10",
@@ -958,24 +980,6 @@
     "season": "ascentIntoChaos",
     "type": "seaPeople"
   },
-  "processBreakthrough-refined-seaPeople": {
-    "id": "processBreakthrough-refined",
-    "requisite": [
-      "refinedMaterialProduction-seaPeople"
-    ],
-    "stage": 3,
-    "requiredCost": {
-      "piecesOfEight": [
-        2000,
-        0,
-        0
-      ]
-    },
-    "dateAdded": "2025-09-10",
-    "lastUpdated": "2025-09-10",
-    "season": "ascentIntoChaos",
-    "type": "seaPeople"
-  },
   "processBreakthrough-specialized-seaPeople": {
     "id": "processBreakthrough-specialized",
     "requisite": [
@@ -985,6 +989,24 @@
     "requiredCost": {
       "piecesOfEight": [
         2500,
+        0,
+        0
+      ]
+    },
+    "dateAdded": "2025-09-10",
+    "lastUpdated": "2025-09-10",
+    "season": "ascentIntoChaos",
+    "type": "seaPeople"
+  },
+  "processBreakthrough-refined-seaPeople": {
+    "id": "processBreakthrough-refined",
+    "requisite": [
+      "refinedMaterialProduction-seaPeople"
+    ],
+    "stage": 3,
+    "requiredCost": {
+      "piecesOfEight": [
+        2000,
         0,
         0
       ]
