@@ -1,0 +1,20 @@
+{
+  "pillarTomb1": {
+    "id": "pillarTomb1",
+    "rarity": "recently",
+    "obtainable": [
+      "outpostPillarTomb"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "bukitCandi1": {
+    "id": "bukitCandi1",
+    "rarity": "recently",
+    "obtainable": [],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  }
+}

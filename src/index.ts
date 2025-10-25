@@ -8,3 +8,4 @@ export {Modifications, Modification} from "./entity/Modifications";
 export {Ultimates, Ultimate} from "./entity/Ultimates"
 export {Cosmetics, Cosmetic} from "./entity/Cosmetics"
 export {Sets, Set} from "./entity/Sets"
+export {TreasureMaps, TreasureMap} from "./entity/TreasureMaps"

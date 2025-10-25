@@ -8,7 +8,9 @@ export class Set {
     constructor(
         public readonly id: string,
         public readonly type: SetType
-    ) {}
+    ) {
+        return this
+    }
 
     public static loadSets(): Record<string, Set> {
         const sets: Record<string, Set> = {};
