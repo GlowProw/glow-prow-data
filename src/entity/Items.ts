@@ -38,7 +38,8 @@ export class Item {
         public readonly armor?: number,
         public readonly damageMitigation?: Record<string, number>,
         public readonly contract?: Contract,
-        public readonly faction?: Faction
+        public readonly faction?: Faction,
+        public readonly unobtainable?: boolean
     ) {
         return this
     }
@@ -90,15 +91,16 @@ export class Item {
             rawData.armor ?? undefined,
             rawData.damageMitigation ?? undefined,
             rawData.contract ? Contracts[contract] : undefined,
-            rawData.faction ? Factions[faction] : undefined
+            rawData.faction ? Factions[faction] : undefined,
+            rawData.unobtainable ?? false
         );
     }
 
-    public static updateObtainableWithItems(key: string, rawData: any, items: Record<string, Item>) {
-        if (!rawData.obtainable) return;
-        if (Array.isArray(rawData.obtainable)) {
+    public static updateObtainableWithItems(key:string, rawData:any, items: Record<string, Item>) {
+        if(!rawData.obtainable) return;
+        if(Array.isArray(rawData.obtainable)) {
             const obtainable = new Array<Array<string | Item> | string | Item>();
-            for (const obtainableKey of rawData.obtainable) {
+            for(const obtainableKey of rawData.obtainable) {
                 if (Array.isArray(obtainableKey)) {
                     const obtainableGroup = new Array<string | Item>();
                     for (const subKey of obtainableKey) {
