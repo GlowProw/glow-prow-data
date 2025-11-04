@@ -10,8 +10,8 @@ export const MaterialCategories = [
 
 export type MaterialCategory = (typeof MaterialCategories)[number];
 
-export const AchievementCategories = [
-    "mastery", "enterprise", "legends", "cooperative", "seasonal"
+export const MapLocationCategories = [
+    "capitalSettlement", "outpost", "den", "foundry", "lumberyard", "militaryBase", "megafort"
 ] as const;
 
-export type AchievementCategory = (typeof AchievementCategories)[number];
+export type MapLocationCategory = (typeof MapLocationCategories)[number];
