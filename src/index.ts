@@ -1,5 +1,6 @@
 export {Ships, Ship} from "./entity/Ships";
 export {Items, Item} from "./entity/Items";
+export {Commodities, Commodity} from "./entity/Commodities"
 export {Seasons, Season} from "./entity/Seasons";
 export {Materials, Material} from "./entity/Materials";
 export {Factions, Faction} from "./entity/Factions";

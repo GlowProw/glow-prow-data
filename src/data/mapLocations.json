@@ -6,38 +6,161 @@
     "category": "capitalSettlement",
     "territories": [],
     "dateAdded": "2025-10-01",
-    "lastUpdated": "2025-10-01"
+    "lastUpdated": "2025-10-01",
+    "baseRank": 16,
+    "season": "gutsAndGlory",
+    "faction": "compagnieRoyale",
+    "possibleLoot": {
+      "torsionSpring": {
+        "lv": 3,
+        "category": "material"
+      },
+      "repairLongGun2": {
+        "lv": 2,
+        "category": "item"
+      },
+      "theBastion3": {
+        "lv": 2,
+        "category": "item"
+      },
+      "cogwheel": {
+        "lv": 3,
+        "category": "material"
+      }
+    }
   },
   "oostenCapital": {
     "id": "oostenCapital",
     "latitude": 0.62652210464304,
     "longitude": -0.49081317636484,
-    "category": "capitalSettlement"
+    "category": "capitalSettlement",
+    "baseRank": 12,
+    "season": "gutsAndGlory",
+    "faction": "dutchMerchantCompany",
+    "possibleLoot": {
+      "precisionDrillingBit": {
+        "lv": 3,
+        "category": "material"
+      },
+      "shalei2": {
+        "lv": 1,
+        "category": "item"
+      },
+      "ironHusk5": {
+        "lv": 1,
+        "category": "item"
+      },
+      "screwMechanism": {
+        "lv": 3,
+        "category": "material"
+      }
+    }
   },
   "sunyCapital": {
     "id": "sunyCapital",
     "latitude": 0.92387884733698,
     "longitude": -0.45121273537055,
-    "category": "capitalSettlement"
+    "category": "capitalSettlement",
+    "baseRank": 12,
+    "season": "gutsAndGlory",
+    "faction": "dutchMerchantCompany",
+    "possibleLoot": {
+      "rubber": {
+        "lv": 3,
+        "category": "material"
+      },
+      "layeredScales5": {
+        "lv": 1,
+        "category": "item"
+      },
+      "screwMechanism": {
+        "lv": 3,
+        "category": "material"
+      },
+      "crudeSaltpeter": {
+        "lv": 3,
+        "category": "material"
+      }
+    }
   },
   "teninaTown": {
     "id": "teninaTown",
     "latitude": 0.46668054325004,
     "longitude": -0.81080289982961,
-    "category": "capitalSettlement"
+    "category": "capitalSettlement",
+    "baseRank": 12,
+    "season": "gutsAndGlory",
+    "faction": "seaPeople",
+    "possibleLoot": {
+      "lambaCloth": {
+        "lv": 3,
+        "category": "commoditie"
+      },
+      "fineJute": {
+        "lv": 3,
+        "category": "material"
+      },
+      "castIronIngot": {
+        "lv": 3,
+        "category": "material"
+      },
+      "acaciaPlank": {
+        "lv": 3,
+        "category": "material"
+      }
+    }
   },
   "ankohonana": {
     "id": "ankohonana",
     "latitude": 0.52419691134,
     "longitude": -0.82074388861687,
-    "category": "capitalSettlement"
+    "category": "capitalSettlement",
+    "baseRank": 12,
+    "season": "gutsAndGlory",
+    "faction": "seaPeople",
+    "possibleLoot": {
+      "cloves": {
+        "lv": 3,
+        "category": "commoditie"
+      },
+      "sinewString": {
+        "lv": 3,
+        "category": "material"
+      },
+      "frankincense": {
+        "lv": 3,
+        "category": "commoditie"
+      },
+      "fineJute": {
+        "lv": 3,
+        "category": "material"
+      }
+    }
   },
   "jiwe": {
     "id": "jiwe",
     "latitude": 0.70773843601349,
     "longitude": -0.92405785966429,
     "faction": "confederationOfUngwana",
-    "category": "capitalSettlement"
+    "category": "capitalSettlement",
+    "possibleLoot": {
+      "naphtha": {
+        "lv": 2,
+        "category": "material"
+      },
+      "castingSand": {
+        "lv": 3,
+        "category": "material"
+      },
+      "ivory": {
+        "lv": 3,
+        "category": "commoditie"
+      },
+      "snuff": {
+        "lv": 3,
+        "category": "commoditie"
+      }
+    }
   },
   "sainteAnne": {
     "id": "sainteAnne",
@@ -55,67 +178,142 @@
     "id": "fonderieRoyale",
     "latitude": 0.48940979326899,
     "longitude": -0.75545100516098,
-    "category": "foundry"
+    "category": "foundry",
+    "baseRank": 12,
+    "season": "gutsAndGlory",
+    "faction": "seaPeople",
+    "possibleLoot": {
+      "castIronIngot": {
+        "lv": 3,
+        "category": "material"
+      }
+    }
   },
   "duisterEastFoundry": {
     "id": "duisterEastFoundry",
     "latitude": 0.54673354351455,
     "longitude": -0.41831473058696,
-    "category": "foundry"
+    "category": "foundry",
+    "faction": "dutchMerchantCompany"
   },
   "duisterWestFoundry": {
     "id": "duisterWestFoundry",
     "latitude": 0.56467389388651,
     "longitude": -0.43765126455386,
-    "category": "foundry"
+    "category": "foundry",
+    "faction": "dutchMerchantCompany"
   },
   "duisterNorthFoundry": {
     "id": "duisterNorthFoundry",
     "latitude": 0.56390034339228,
     "longitude": -0.41623206977354,
-    "category": "foundry"
+    "category": "foundry",
+    "faction": "dutchMerchantCompany"
   },
   "trisulaFoundry": {
     "id": "trisulaFoundry",
     "latitude": 0.67626515644291,
     "longitude": -0.43412699936229,
-    "category": "foundry"
+    "category": "foundry",
+    "baseRank": 12,
+    "season": "gutsAndGlory",
+    "faction": "dutchMerchantCompany",
+    "possibleLoot": {
+      "zincIngot": {
+        "lv": 3,
+        "category": "material"
+      }
+    }
   },
   "ladaFoundry": {
     "id": "ladaFoundry",
     "latitude": 0.69064154374138,
     "longitude": -0.51940391974429,
-    "category": "foundry"
+    "category": "foundry",
+    "baseRank": 12,
+    "season": "gutsAndGlory",
+    "faction": "dutchMerchantCompany",
+    "possibleLoot": {
+      "zincIngot": {
+        "lv": 3,
+        "category": "material"
+      }
+    }
   },
   "kotaLamaFoundry": {
     "id": "kotaLamaFoundry",
     "latitude": 0.76237877359759,
     "longitude": -0.5676727277918,
-    "category": "foundry"
+    "category": "foundry",
+    "baseRank": 12,
+    "season": "gutsAndGlory",
+    "faction": "seaPeople",
+    "possibleLoot": {
+      "zincIngot": {
+        "lv": 3,
+        "category": "material"
+      }
+    }
   },
   "southDamaiFoundry": {
     "id": "southDamaiFoundry",
     "latitude": 0.81656756960025,
     "longitude": -0.49556002424089,
-    "category": "foundry"
+    "category": "foundry",
+    "baseRank": 12,
+    "season": "gutsAndGlory",
+    "faction": "seaPeople",
+    "possibleLoot": {
+      "zincIngot": {
+        "lv": 3,
+        "category": "material"
+      }
+    }
   },
   "sunyFoundry": {
     "id": "sunyFoundry",
     "latitude": 0.96111067147869,
     "longitude": -0.45639567074477,
-    "category": "foundry"
+    "category": "foundry",
+    "baseRank": 12,
+    "season": "gutsAndGlory",
+    "faction": "dominionOfRempah",
+    "possibleLoot": {
+      "zincIngot": {
+        "lv": 3,
+        "category": "material"
+      }
+    }
   },
   "sadjoaFoundry": {
     "id": "sadjoaFoundry",
     "latitude": 0.48526679486351,
     "longitude": -0.82535344296977,
-    "category": "foundry"
+    "category": "foundry",
+    "baseRank": 12,
+    "season": "gutsAndGlory",
+    "faction": "seaPeople",
+    "possibleLoot": {
+      "castIronIngot": {
+        "lv": 3,
+        "category": "material"
+      }
+    }
   },
   "tambyFoundry": {
     "id": "tambyFoundry",
     "latitude": 0.56559837273188,
     "longitude": -0.79952567865735,
-    "category": "foundry"
+    "category": "foundry",
+    "baseRank": 12,
+    "season": "gutsAndGlory",
+    "faction": "seaPeople",
+    "possibleLoot": {
+      "castIronIngot": {
+        "lv": 3,
+        "category": "material"
+      }
+    }
   },
   "pembeFoundry": {
     "id": "pembeFoundry",
@@ -125,7 +323,10 @@
     "season": "gutsAndGlory",
     "faction": "confederationOfUngwana",
     "possibleLoot": {
-      "cobaltIngot": 3
+      "cobaltIngot": {
+        "lv": 3,
+        "category": "material"
+      }
     },
     "category": "foundry"
   },
@@ -133,25 +334,61 @@
     "id": "jiweFoundry",
     "latitude": 0.67579258838575,
     "longitude": -0.97532982696913,
-    "category": "foundry"
+    "baseRank": 12,
+    "category": "foundry",
+    "season": "gutsAndGlory",
+    "faction": "confederationOfUngwana",
+    "possibleLoot": {
+      "cobaltIngot": {
+        "lv": 3,
+        "category": "material"
+      }
+    }
   },
   "wawuviFoundry": {
     "id": "wawuviFoundry",
     "latitude": 0.64352518438049,
     "longitude": -0.9990060867074,
-    "category": "foundry"
+    "category": "foundry",
+    "baseRank": 12,
+    "season": "gutsAndGlory",
+    "faction": "confederationOfUngwana",
+    "possibleLoot": {
+      "cobaltIngot": {
+        "lv": 3,
+        "category": "material"
+      }
+    }
   },
   "mumaliFoundry": {
     "id": "mumaliFoundry",
     "latitude": 0.53686879667077,
     "longitude": -1.0155088105752,
-    "category": "foundry"
+    "category": "foundry",
+    "baseRank": 12,
+    "season": "gutsAndGlory",
+    "faction": "confederationOfUngwana",
+    "possibleLoot": {
+      "cobaltIngot": {
+        "lv": 3,
+        "category": "material"
+      }
+    }
   },
   "northDamaiFoundry": {
     "id": "northDamaiFoundry",
     "latitude": 0.86173357818018,
     "longitude": -0.5077867313216,
-    "category": "foundry"
+    "category": "foundry",
+    "baseRank": 12,
+    "season": "gutsAndGlory",
+    "faction": "confederationOfUngwana",
+    "possibleLoot": {
+      "cobaltIngot": {
+        "lv": 3,
+        "category": "material"
+      }
+    }
   },
   "duBoisLumberyard": {
     "id": "duBoisLumberyard",
@@ -265,7 +502,10 @@
     "id": "fortGranbie",
     "latitude": 0.8612338638868,
     "longitude": -0.40290164873755,
-    "category": "militaryBase"
+    "category": "militaryBase",
+    "baseRank": 14,
+    "season": "gutsAndGlory",
+    "faction": "dutchMerchantCompany"
   },
   "fortDuBout": {
     "id": "fortDuBout",
@@ -481,6 +721,31 @@
     "id": "theWolvesHollow",
     "latitude": 0.53517379001256,
     "longitude": -0.65164564987688,
-    "category": "megafort"
+    "category": "megafort",
+    "baseRank": 14,
+    "season": "gutsAndGlory",
+    "faction": "none",
+    "possibleLoot": {
+      "piecesOfEight": {
+        "lv": 0,
+        "category": "material"
+      },
+      "megafortCache": {
+        "lv": 0,
+        "category": "item"
+      },
+      "upgradeParts": {
+        "lv": 0,
+        "category": "material"
+      },
+      "ascensionModule": {
+        "lv": 0,
+        "category": "material"
+      },
+      "masterworkKit": {
+        "lv": 0,
+        "category": "material"
+      }
+    }
   }
 }
