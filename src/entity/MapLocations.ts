@@ -2,6 +2,7 @@ import mapLocationsData from '../data/mapLocations.json'
 import {MapLocationCategory} from "../types/Category";
 import {Season, Seasons} from "./Seasons";
 import {Faction, Factions} from "./Factions";
+import {MapDifficulty} from "../types/MapLocationProperties";
 
 /**
  * 地图坐标点
@@ -20,6 +21,8 @@ export class MapLocation {
         public readonly dateAdded: Date,
         // 最后更新时间
         public readonly lastUpdated: Date,
+        // 挑战难度
+        public readonly difficulty: MapDifficulty,
         // 掉落
         public readonly possibleLoot?: any,
         // 赛季
@@ -44,6 +47,7 @@ export class MapLocation {
             rawData.category,
             new Date(rawData.dateAdded),
             new Date(rawData.lastUpdated),
+            rawData.difficulty,
             rawData.possibleLoot,
             Seasons[season],
             rawData.faction ? Factions[faction] : undefined,

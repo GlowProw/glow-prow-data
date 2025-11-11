@@ -7,6 +7,10 @@
     "territories": [],
     "dateAdded": "2025-10-01",
     "lastUpdated": "2025-10-01",
+    "difficulty": {
+      "type": "coop",
+      "minimumPeople": 1
+    },
     "baseRank": 16,
     "season": "gutsAndGlory",
     "faction": "compagnieRoyale",
@@ -26,6 +30,10 @@
       "cogwheel": {
         "lv": 3,
         "category": "material"
+      },
+      "capitalCompagnieRelic": {
+        "lv": 3,
+        "category": "commoditie"
       }
     }
   },
@@ -34,6 +42,10 @@
     "latitude": 0.62652210464304,
     "longitude": -0.49081317636484,
     "category": "capitalSettlement",
+    "difficulty": {
+      "type": "coop",
+      "minimumPeople": 1
+    },
     "baseRank": 12,
     "season": "gutsAndGlory",
     "faction": "dutchMerchantCompany",
@@ -53,6 +65,10 @@
       "screwMechanism": {
         "lv": 3,
         "category": "material"
+      },
+      "capitalDmcRelic": {
+        "lv": 3,
+        "category": "commoditie"
       }
     }
   },
@@ -61,6 +77,10 @@
     "latitude": 0.92387884733698,
     "longitude": -0.45121273537055,
     "category": "capitalSettlement",
+    "difficulty": {
+      "type": "coop",
+      "minimumPeople": 1
+    },
     "baseRank": 12,
     "season": "gutsAndGlory",
     "faction": "dutchMerchantCompany",
@@ -80,6 +100,10 @@
       "crudeSaltpeter": {
         "lv": 3,
         "category": "material"
+      },
+      "capitalRempahRelic": {
+        "lv": 3,
+        "category": "commoditie"
       }
     }
   },
@@ -88,10 +112,18 @@
     "latitude": 0.46668054325004,
     "longitude": -0.81080289982961,
     "category": "capitalSettlement",
+    "difficulty": {
+      "type": "coop",
+      "minimumPeople": 1
+    },
     "baseRank": 12,
     "season": "gutsAndGlory",
     "faction": "seaPeople",
     "possibleLoot": {
+      "capitalSeaPeopleRelic": {
+        "lv": 3,
+        "category": "commoditie"
+      },
       "lambaCloth": {
         "lv": 3,
         "category": "commoditie"
@@ -115,6 +147,10 @@
     "latitude": 0.52419691134,
     "longitude": -0.82074388861687,
     "category": "capitalSettlement",
+    "difficulty": {
+      "type": "coop",
+      "minimumPeople": 1
+    },
     "baseRank": 12,
     "season": "gutsAndGlory",
     "faction": "seaPeople",
@@ -143,6 +179,10 @@
     "longitude": -0.92405785966429,
     "faction": "confederationOfUngwana",
     "category": "capitalSettlement",
+    "difficulty": {
+      "type": "coop",
+      "minimumPeople": 1
+    },
     "possibleLoot": {
       "naphtha": {
         "lv": 2,
@@ -151,6 +191,10 @@
       "castingSand": {
         "lv": 3,
         "category": "material"
+      },
+      "capitalUngwanaRelic": {
+        "lv": 3,
+        "category": "commoditie"
       },
       "ivory": {
         "lv": 3,
@@ -174,11 +218,810 @@
     "longitude": -0.49118122155917,
     "category": "den"
   },
+  "guerande": {
+    "id": "guerande",
+    "latitude": 0.51929573847553,
+    "longitude": -0.75853898018053,
+    "category": "settlement",
+    "difficulty": {
+      "type": "coop",
+      "minimumPeople": 1
+    },
+    "baseRank": 12,
+    "season": "gutsAndGlory",
+    "faction": "compagnieRoyale",
+    "possibleLoot": {
+      "basicCompagnieRelic": {
+        "lv": 3,
+        "category": "commoditie"
+      },
+      "ale": {
+        "lv": 3,
+        "category": "commoditie"
+      },
+      "fineJute": {
+        "lv": 3,
+        "category": "material"
+      },
+      "castIronIngot": {
+        "lv": 3,
+        "category": "material"
+      },
+      "acaciaPlank": {
+        "lv": 3,
+        "category": "material"
+      }
+    }
+  },
+  "sainteAmelie": {
+    "id": "sainteAmelie",
+    "latitude": 0.46895964897162,
+    "longitude": -0.73070365538481,
+    "category": "settlement",
+    "difficulty": {
+      "type": "coop",
+      "minimumPeople": 1
+    },
+    "baseRank": 12,
+    "season": "gutsAndGlory",
+    "faction": "compagnieRoyale",
+    "possibleLoot": {
+      "laForteresse3": {
+        "lv": 1,
+        "category": "item"
+      },
+      "cogwheel": {
+        "lv": 3,
+        "category": "material"
+      },
+      "fineCompagnieRelic": {
+        "lv": 3,
+        "category": "commoditie"
+      },
+      "vanilla": {
+        "lv": 3,
+        "category": "commoditie"
+      },
+      "roselleCloth": {
+        "lv": 3,
+        "category": "material"
+      }
+    }
+  },
+  "laar": {
+    "id": "laar",
+    "latitude": 0.64003872221522,
+    "longitude": -0.39877783921492,
+    "category": "settlement",
+    "difficulty": {
+      "type": "coop",
+      "minimumPeople": 1
+    },
+    "baseRank": 12,
+    "season": "gutsAndGlory",
+    "faction": "dutchMerchantCompany",
+    "possibleLoot": {
+      "fineDmcRelic": {
+        "lv": 3,
+        "category": "commoditie"
+      },
+      "cacao": {
+        "lv": 3,
+        "category": "commoditie"
+      },
+      "fineAbaka": {
+        "lv": 3,
+        "category": "material"
+      },
+      "zincIngot": {
+        "lv": 3,
+        "category": "material"
+      },
+      "juniperPlank": {
+        "lv": 3,
+        "category": "material"
+      }
+    }
+  },
+  "kampongSubur": {
+    "id": "kampongSubur",
+    "latitude": 0.73312913840674,
+    "longitude": -0.41933243931615,
+    "category": "settlement",
+    "difficulty": {
+      "type": "coop",
+      "minimumPeople": 1
+    },
+    "baseRank": 12,
+    "season": "gutsAndGlory",
+    "faction": "dutchMerchantCompany",
+    "possibleLoot": {
+      "fineDmcRelic": {
+        "lv": 3,
+        "category": "commoditie"
+      },
+      "cacao": {
+        "lv": 3,
+        "category": "commoditie"
+      },
+      "fineHemp": {
+        "lv": 3,
+        "category": "material"
+      },
+      "zincIngot": {
+        "lv": 3,
+        "category": "material"
+      },
+      "juniperPlank": {
+        "lv": 3,
+        "category": "material"
+      }
+    }
+  },
+  "kencur": {
+    "id": "kencur",
+    "latitude": 0.73871297073619,
+    "longitude": -0.53283992237454,
+    "category": "settlement",
+    "difficulty": {
+      "type": "coop",
+      "minimumPeople": 1
+    },
+    "baseRank": 12,
+    "season": "gutsAndGlory",
+    "faction": "dominionOfRempah",
+    "possibleLoot": {
+      "ironHusk4": {
+        "lv": 1,
+        "category": "item"
+      },
+      "crudeSaltpeter": {
+        "lv": 3,
+        "category": "material"
+      },
+      "fineRempahRelic": {
+        "lv": 3,
+        "category": "commoditie"
+      },
+      "batik": {
+        "lv": 3,
+        "category": "commoditie"
+      },
+      "fineAbaka": {
+        "lv": 3,
+        "category": "material"
+      }
+    }
+  },
+  "kotaLama": {
+    "id": "kotaLama",
+    "latitude": 0.80005160321011,
+    "longitude": -0.60409530582726,
+    "category": "settlement",
+    "difficulty": {
+      "type": "coop",
+      "minimumPeople": 1
+    },
+    "baseRank": 12,
+    "season": "gutsAndGlory",
+    "faction": "dominionOfRempah",
+    "possibleLoot": {
+      "crudeSaltpeter": {
+        "lv": 3,
+        "category": "material"
+      },
+      "fineRempahRelic": {
+        "lv": 3,
+        "category": "commoditie"
+      },
+      "batik": {
+        "lv": 3,
+        "category": "commoditie"
+      },
+      "fineAbaka": {
+        "lv": 3,
+        "category": "material"
+      },
+      "zincIngot": {
+        "lv": 3,
+        "category": "material"
+      }
+    }
+  },
+  "damai": {
+    "id": "damai",
+    "latitude": 0.84460498641469,
+    "longitude": -0.52486380205679,
+    "category": "settlement",
+    "difficulty": {
+      "type": "coop",
+      "minimumPeople": 1
+    },
+    "baseRank": 12,
+    "season": "gutsAndGlory",
+    "faction": "dominionOfRempah",
+    "possibleLoot": {
+      "theBastion2": {
+        "lv": 1,
+        "category": "item"
+      },
+      "crudeSaltpeter": {
+        "lv": 3,
+        "category": "material"
+      },
+      "fineRempahRelic": {
+        "lv": 3,
+        "category": "commoditie"
+      },
+      "batik": {
+        "lv": 3,
+        "category": "commoditie"
+      },
+      "fineAbaka": {
+        "lv": 3,
+        "category": "material"
+      }
+    }
+  },
+  "sangdad": {
+    "id": "sangdad",
+    "latitude": 0.90160439012226,
+    "longitude": -0.47569145690539,
+    "category": "settlement",
+    "difficulty": {
+      "type": "coop",
+      "minimumPeople": 1
+    },
+    "baseRank": 12,
+    "season": "gutsAndGlory",
+    "faction": "dominionOfRempah",
+    "possibleLoot": {
+      "layeredScales4": {
+        "lv": 1,
+        "category": "item"
+      },
+      "crudeSaltpeter": {
+        "lv": 3,
+        "category": "material"
+      },
+      "fineRempahRelic": {
+        "lv": 3,
+        "category": "commoditie"
+      },
+      "batik": {
+        "lv": 3,
+        "category": "commoditie"
+      },
+      "fineAbaka": {
+        "lv": 3,
+        "category": "material"
+      }
+    }
+  },
+  "hovohovo": {
+    "id": "hovohovo",
+    "latitude": 0.46931154655796,
+    "longitude": -0.84301909794945,
+    "category": "settlement",
+    "difficulty": {
+      "type": "coop",
+      "minimumPeople": 1
+    },
+    "baseRank": 12,
+    "season": "gutsAndGlory",
+    "faction": "clanOfFara",
+    "possibleLoot": {
+      "theBastion1": {
+        "lv": 1,
+        "category": "item"
+      },
+      "fineFaraRelic": {
+        "lv": 1,
+        "category": "commoditie"
+      },
+      "cloves": {
+        "lv": 3,
+        "category": "commoditie"
+      },
+      "fineJute": {
+        "lv": 3,
+        "category": "material"
+      },
+      "castIronIngot": {
+        "lv": 3,
+        "category": "material"
+      }
+    }
+  },
+  "tanjona": {
+    "id": "tanjona",
+    "latitude": 0.5348636010133,
+    "longitude": -0.84888562560184,
+    "category": "settlement",
+    "difficulty": {
+      "type": "coop",
+      "minimumPeople": 1
+    },
+    "baseRank": 12,
+    "season": "gutsAndGlory",
+    "faction": "clanOfFara",
+    "possibleLoot": {
+      "ironHusk2": {
+        "lv": 1,
+        "category": "item"
+      },
+      "fineFaraRelic": {
+        "lv": 3,
+        "category": "commoditie"
+      },
+      "cloves": {
+        "lv": 3,
+        "category": "commoditie"
+      },
+      "fineJute": {
+        "lv": 3,
+        "category": "material"
+      },
+      "castIronIngot": {
+        "lv": 3,
+        "category": "material"
+      }
+    }
+  },
+  "palisadeBay": {
+    "id": "palisadeBay",
+    "latitude": 0.58030611523986,
+    "longitude": -0.77542394399555,
+    "category": "settlement",
+    "difficulty": {
+      "type": "coop",
+      "minimumPeople": 1
+    },
+    "baseRank": 12,
+    "season": "gutsAndGlory",
+    "faction": "seaPeople",
+    "possibleLoot": {
+      "layeredScales2": {
+        "lv": 1,
+        "category": "item"
+      },
+      "fineSeaPeopleRelic": {
+        "lv": 3,
+        "category": "commoditie"
+      },
+      "lambaCloth": {
+        "lv": 3,
+        "category": "commoditie"
+      },
+      "fineJute": {
+        "lv": 3,
+        "category": "material"
+      },
+      "castIronIngot": {
+        "lv": 3,
+        "category": "material"
+      }
+    }
+  },
+  "sitrana": {
+    "id": "sitrana",
+    "latitude": 0.59895586795101,
+    "longitude": -0.80207437276826,
+    "category": "settlement",
+    "difficulty": {
+      "type": "coop",
+      "minimumPeople": 1
+    },
+    "baseRank": 12,
+    "season": "gutsAndGlory",
+    "faction": "clanOfFara",
+    "possibleLoot": {
+      "fineFaraRelic": {
+        "lv": 3,
+        "category": "commoditie"
+      },
+      "cloves": {
+        "lv": 3,
+        "category": "commoditie"
+      },
+      "fineJute": {
+        "lv": 3,
+        "category": "material"
+      },
+      "castIronIngot": {
+        "lv": 3,
+        "category": "material"
+      },
+      "acaciaPlank": {
+        "lv": 3,
+        "category": "material"
+      }
+    }
+  },
+  "shijavu": {
+    "id": "shijavu",
+    "latitude": 0.6139296939817,
+    "longitude": -0.84989988385439,
+    "category": "settlement",
+    "difficulty": {
+      "type": "coop",
+      "minimumPeople": 1
+    },
+    "baseRank": 12,
+    "season": "gutsAndGlory",
+    "faction": "clanOfFara",
+    "possibleLoot": {
+      "fineFaraRelic": {
+        "lv": 3,
+        "category": "commoditie"
+      },
+      "cloves": {
+        "lv": 3,
+        "category": "commoditie"
+      },
+      "fineJute": {
+        "lv": 3,
+        "category": "material"
+      },
+      "castIronIngot": {
+        "lv": 3,
+        "category": "material"
+      },
+      "acaciaPlank": {
+        "lv": 3,
+        "category": "material"
+      }
+    }
+  },
+  "mchanga": {
+    "id": "mchanga",
+    "latitude": 0.76415701305504,
+    "longitude": -0.89467730849393,
+    "category": "settlement",
+    "difficulty": {
+      "type": "coop",
+      "minimumPeople": 1
+    },
+    "baseRank": 12,
+    "season": "gutsAndGlory",
+    "faction": "confederationOfUngwana",
+    "possibleLoot": {
+      "castingSand": {
+        "lv": 3,
+        "category": "material"
+      },
+      "fineUngwanaRelic": {
+        "lv": 3,
+        "category": "commoditie"
+      },
+      "snuff": {
+        "lv": 3,
+        "category": "commoditie"
+      },
+      "fineAbaka": {
+        "lv": 3,
+        "category": "material"
+      },
+      "cobaltIngot": {
+        "lv": 3,
+        "category": "material"
+      }
+    }
+  },
+  "pembe": {
+    "id": "pembe",
+    "latitude": 0.75553267451268,
+    "longitude": -0.92389427129737,
+    "category": "settlement",
+    "difficulty": {
+      "type": "coop",
+      "minimumPeople": 1
+    },
+    "baseRank": 12,
+    "season": "gutsAndGlory",
+    "faction": "confederationOfUngwana",
+    "possibleLoot": {
+      "ironHusk3": {
+        "lv": 1,
+        "category": "item"
+      },
+      "castingSand": {
+        "lv": 3,
+        "category": "material"
+      },
+      "fineUngwanaRelic": {
+        "lv": 3,
+        "category": "commoditie"
+      },
+      "snuff": {
+        "lv": 3,
+        "category": "commoditie"
+      },
+      "fineAbaka": {
+        "lv": 3,
+        "category": "material"
+      }
+    }
+  },
+  "wavuviIsland": {
+    "id": "wavuviIsland",
+    "latitude": 0.65715867036664,
+    "longitude": -1.0154963559089,
+    "category": "settlement",
+    "difficulty": {
+      "type": "coop",
+      "minimumPeople": 1
+    },
+    "baseRank": 12,
+    "season": "gutsAndGlory",
+    "faction": "confederationOfUngwana",
+    "possibleLoot": {
+      "Fine Relic": "",
+      "Casting Sand": "",
+      "Snuff": "",
+      "Fine Sisal": "",
+      "Cobalt Ingot": ""
+    }
+  },
+  "kusini": {
+    "id": "kusini",
+    "latitude": 0.59889299665821,
+    "longitude": -1.0075167270216,
+    "category": "settlement",
+    "difficulty": {
+      "type": "coop",
+      "minimumPeople": 1
+    },
+    "baseRank": 12,
+    "season": "gutsAndGlory",
+    "faction": "confederationOfUngwana",
+    "possibleLoot": {
+      "Fine Relic": "",
+      "Casting Sand": "",
+      "Snuff": "",
+      "Fine Hemp": "",
+      "Cobalt Ingot": ""
+    }
+  },
+  "bandari": {
+    "id": "bandari",
+    "latitude": 0.61014645635208,
+    "longitude": -0.92672261804168,
+    "category": "settlement",
+    "difficulty": {
+      "type": "coop",
+      "minimumPeople": 1
+    },
+    "baseRank": 12,
+    "season": "gutsAndGlory",
+    "faction": "confederationOfUngwana",
+    "possibleLoot": {
+      "layeredScales3": {
+        "lv": 1,
+        "category": "item"
+      },
+      "castingSand": {
+        "lv": 3,
+        "category": "material"
+      },
+      "fineUngwanaRelic": {
+        "lv": 3,
+        "category": "commoditie"
+      },
+      "snuff": {
+        "lv": 3,
+        "category": "commoditie"
+      },
+      "fineAbaka": {
+        "lv": 3,
+        "category": "material"
+      }
+    }
+  },
+  "harufu": {
+    "id": "harufu",
+    "latitude": 0.65401352654166,
+    "longitude": -0.92571121789945,
+    "category": "settlement",
+    "difficulty": {
+      "type": "coop",
+      "minimumPeople": 1
+    },
+    "baseRank": 12,
+    "season": "gutsAndGlory",
+    "faction": "confederationOfUngwana",
+    "possibleLoot": {
+      "layeredScales3": {
+        "lv": 1,
+        "category": "item"
+      },
+      "castingSand": {
+        "lv": 3,
+        "category": "material"
+      },
+      "fineUngwanaRelic": {
+        "lv": 3,
+        "category": "commoditie"
+      },
+      "snuff": {
+        "lv": 3,
+        "category": "commoditie"
+      },
+      "fineAbaka": {
+        "lv": 3,
+        "category": "material"
+      }
+    }
+  },
+  "laColonie": {
+    "id": "laColonie",
+    "latitude": 0.55160779295802,
+    "longitude": -0.96431502437858,
+    "category": "settlement",
+    "difficulty": {
+      "type": "coop",
+      "minimumPeople": 1
+    },
+    "baseRank": 12,
+    "season": "gutsAndGlory",
+    "faction": "compagnieRoyale",
+    "possibleLoot": {
+      "Fine Relic": "",
+      "Wood Tar": "",
+      "Ambergris": "",
+      "Fine Hemp": "",
+      "Cobalt Ingot": ""
+    }
+  },
+  "portDesMines": {
+    "id": "portDesMines",
+    "latitude": 0.50599165009824,
+    "longitude": -0.98904623153064,
+    "category": "settlement",
+    "difficulty": {
+      "type": "coop",
+      "minimumPeople": 1
+    },
+    "baseRank": 12,
+    "season": "gutsAndGlory",
+    "faction": "compagnieRoyale",
+    "possibleLoot": {
+      "laForteresse2": {
+        "lv": 1,
+        "category": "item"
+      },
+      "cogwheel": {
+        "lv": 3,
+        "category": "material"
+      },
+      "fineCompagnieRelic": {
+        "lv": 3,
+        "category": "commoditie"
+      },
+      "ambergris": {
+        "lv": 3,
+        "category": "commoditie"
+      },
+      "fineHemp": {
+        "lv": 3,
+        "category": "material"
+      }
+    }
+  },
+  "fondDeLaBaie": {
+    "id": "fondDeLaBaie",
+    "latitude": 0.46847522175086,
+    "longitude": -0.98385542066245,
+    "category": "settlement",
+    "difficulty": {
+      "type": "coop",
+      "minimumPeople": 1
+    },
+    "baseRank": 12,
+    "season": "gutsAndGlory",
+    "faction": "compagnieRoyale",
+    "possibleLoot": {
+      "cogwheel": {
+        "lv": 3,
+        "category": "material"
+      },
+      "fineCompagnieRelic": {
+        "lv": 3,
+        "category": "commoditie"
+      },
+      "ambergris": {
+        "lv": 3,
+        "category": "commoditie"
+      },
+      "fineHemp": {
+        "lv": 3,
+        "category": "material"
+      },
+      "cobaltIngot": {
+        "lv": 3,
+        "category": "material"
+      }
+    }
+  },
+  "granbie": {
+    "id": "granbie",
+    "latitude": 0.88462438061637,
+    "longitude": -0.37782883423219,
+    "category": "settlement",
+    "difficulty": {
+      "type": "coop",
+      "minimumPeople": 1
+    },
+    "baseRank": 12,
+    "season": "gutsAndGlory",
+    "faction": "dutchMerchantCompany",
+    "possibleLoot": {
+      "screwMechanism": {
+        "lv": 3,
+        "category": "material"
+      },
+      "fineDmcRelic": {
+        "lv": 3,
+        "category": "commoditie"
+      },
+      "cacao": {
+        "lv": 3,
+        "category": "commoditie"
+      },
+      "fineAbaka": {
+        "lv": 3,
+        "category": "material"
+      },
+      "zincIngot": {
+        "lv": 3,
+        "category": "material"
+      }
+    }
+  },
+  "laDa": {
+    "id": "laDa",
+    "latitude": 0.68289609193377,
+    "longitude": -0.54987083738268,
+    "category": "settlement",
+    "difficulty": {
+      "type": "coop",
+      "minimumPeople": 1
+    },
+    "baseRank": 12,
+    "season": "gutsAndGlory",
+    "faction": "dutchMerchantCompany",
+    "possibleLoot": {
+      "fineDmcRelic": {
+        "lv": 3,
+        "category": "commoditie"
+      },
+      "cacao": {
+        "lv": 3,
+        "category": "commoditie"
+      },
+      "fineHemp": {
+        "lv": 3,
+        "category": "material"
+      },
+      "zincIngot": {
+        "lv": 3,
+        "category": "material"
+      },
+      "juniperPlank": {
+        "lv": 3,
+        "category": "material"
+      }
+    }
+  },
   "fonderieRoyale": {
     "id": "fonderieRoyale",
     "latitude": 0.48940979326899,
     "longitude": -0.75545100516098,
     "category": "foundry",
+    "difficulty": {
+      "type": "coop",
+      "minimumPeople": 1
+    },
     "baseRank": 12,
     "season": "gutsAndGlory",
     "faction": "seaPeople",
@@ -194,6 +1037,10 @@
     "latitude": 0.54673354351455,
     "longitude": -0.41831473058696,
     "category": "foundry",
+    "difficulty": {
+      "type": "coop",
+      "minimumPeople": 1
+    },
     "faction": "dutchMerchantCompany"
   },
   "duisterWestFoundry": {
@@ -201,6 +1048,10 @@
     "latitude": 0.56467389388651,
     "longitude": -0.43765126455386,
     "category": "foundry",
+    "difficulty": {
+      "type": "coop",
+      "minimumPeople": 1
+    },
     "faction": "dutchMerchantCompany"
   },
   "duisterNorthFoundry": {
@@ -208,6 +1059,10 @@
     "latitude": 0.56390034339228,
     "longitude": -0.41623206977354,
     "category": "foundry",
+    "difficulty": {
+      "type": "coop",
+      "minimumPeople": 1
+    },
     "faction": "dutchMerchantCompany"
   },
   "trisulaFoundry": {
@@ -215,6 +1070,10 @@
     "latitude": 0.67626515644291,
     "longitude": -0.43412699936229,
     "category": "foundry",
+    "difficulty": {
+      "type": "coop",
+      "minimumPeople": 1
+    },
     "baseRank": 12,
     "season": "gutsAndGlory",
     "faction": "dutchMerchantCompany",
@@ -230,6 +1089,10 @@
     "latitude": 0.69064154374138,
     "longitude": -0.51940391974429,
     "category": "foundry",
+    "difficulty": {
+      "type": "coop",
+      "minimumPeople": 1
+    },
     "baseRank": 12,
     "season": "gutsAndGlory",
     "faction": "dutchMerchantCompany",
@@ -245,6 +1108,10 @@
     "latitude": 0.76237877359759,
     "longitude": -0.5676727277918,
     "category": "foundry",
+    "difficulty": {
+      "type": "coop",
+      "minimumPeople": 1
+    },
     "baseRank": 12,
     "season": "gutsAndGlory",
     "faction": "seaPeople",
@@ -260,6 +1127,10 @@
     "latitude": 0.81656756960025,
     "longitude": -0.49556002424089,
     "category": "foundry",
+    "difficulty": {
+      "type": "coop",
+      "minimumPeople": 1
+    },
     "baseRank": 12,
     "season": "gutsAndGlory",
     "faction": "seaPeople",
@@ -275,6 +1146,10 @@
     "latitude": 0.96111067147869,
     "longitude": -0.45639567074477,
     "category": "foundry",
+    "difficulty": {
+      "type": "coop",
+      "minimumPeople": 1
+    },
     "baseRank": 12,
     "season": "gutsAndGlory",
     "faction": "dominionOfRempah",
@@ -290,6 +1165,10 @@
     "latitude": 0.48526679486351,
     "longitude": -0.82535344296977,
     "category": "foundry",
+    "difficulty": {
+      "type": "coop",
+      "minimumPeople": 1
+    },
     "baseRank": 12,
     "season": "gutsAndGlory",
     "faction": "seaPeople",
@@ -305,6 +1184,10 @@
     "latitude": 0.56559837273188,
     "longitude": -0.79952567865735,
     "category": "foundry",
+    "difficulty": {
+      "type": "coop",
+      "minimumPeople": 1
+    },
     "baseRank": 12,
     "season": "gutsAndGlory",
     "faction": "seaPeople",
@@ -328,7 +1211,11 @@
         "category": "material"
       }
     },
-    "category": "foundry"
+    "category": "foundry",
+    "difficulty": {
+      "type": "coop",
+      "minimumPeople": 1
+    }
   },
   "jiweFoundry": {
     "id": "jiweFoundry",
@@ -343,6 +1230,10 @@
         "lv": 3,
         "category": "material"
       }
+    },
+    "difficulty": {
+      "type": "coop",
+      "minimumPeople": 1
     }
   },
   "wawuviFoundry": {
@@ -350,6 +1241,10 @@
     "latitude": 0.64352518438049,
     "longitude": -0.9990060867074,
     "category": "foundry",
+    "difficulty": {
+      "type": "coop",
+      "minimumPeople": 1
+    },
     "baseRank": 12,
     "season": "gutsAndGlory",
     "faction": "confederationOfUngwana",
@@ -365,6 +1260,10 @@
     "latitude": 0.53686879667077,
     "longitude": -1.0155088105752,
     "category": "foundry",
+    "difficulty": {
+      "type": "coop",
+      "minimumPeople": 1
+    },
     "baseRank": 12,
     "season": "gutsAndGlory",
     "faction": "confederationOfUngwana",
@@ -380,6 +1279,10 @@
     "latitude": 0.86173357818018,
     "longitude": -0.5077867313216,
     "category": "foundry",
+    "difficulty": {
+      "type": "coop",
+      "minimumPeople": 1
+    },
     "baseRank": 12,
     "season": "gutsAndGlory",
     "faction": "confederationOfUngwana",
@@ -394,130 +1297,686 @@
     "id": "duBoisLumberyard",
     "latitude": 0.49450456116628,
     "longitude": -0.70217217281845,
-    "category": "lumberyard"
+    "category": "lumberyard",
+    "difficulty": {
+      "type": "coop",
+      "minimumPeople": 1
+    },
+    "baseRank": 12,
+    "season": "gutsAndGlory",
+    "faction": "compagnieRoyale",
+    "possibleLoot": {
+      "greenheartPlank": {
+        "lv": 3,
+        "category": "material"
+      }
+    }
   },
   "laarSouthLumbery": {
     "id": "laarSouthLumbery",
     "latitude": 0.59116149166765,
     "longitude": -0.3975961268429,
-    "category": "lumberyard"
+    "category": "lumberyard",
+    "difficulty": {
+      "type": "coop",
+      "minimumPeople": 1
+    },
+    "baseRank": 12,
+    "season": "gutsAndGlory",
+    "faction": "dutchMerchantCompany",
+    "possibleLoot": {
+      "juniperPlank": {
+        "lv": 3,
+        "category": "material"
+      }
+    }
   },
   "laarWestLumbery": {
     "id": "laarWestLumbery",
     "latitude": 0.63452727647224,
     "longitude": -0.43800082251644,
-    "category": "lumberyard"
+    "category": "lumberyard",
+    "difficulty": {
+      "type": "coop",
+      "minimumPeople": 1
+    },
+    "baseRank": 12,
+    "season": "gutsAndGlory",
+    "faction": "dutchMerchantCompany",
+    "possibleLoot": {
+      "juniperPlank": {
+        "lv": 3,
+        "category": "material"
+      }
+    }
   },
   "suburLumberyard": {
     "id": "suburLumberyard",
     "latitude": 0.73648542549302,
     "longitude": -0.46537698069406,
-    "category": "lumberyard"
+    "category": "lumberyard",
+    "difficulty": {
+      "type": "coop",
+      "minimumPeople": 1
+    },
+    "baseRank": 12,
+    "season": "gutsAndGlory",
+    "faction": "dutchMerchantCompany",
+    "possibleLoot": {
+      "juniperPlank": {
+        "lv": 3,
+        "category": "material"
+      }
+    }
   },
   "kencurLumberyard": {
     "id": "kencurLumberyard",
     "latitude": 0.77203199290169,
     "longitude": -0.50465224933376,
-    "category": "lumberyard"
+    "category": "lumberyard",
+    "difficulty": {
+      "type": "coop",
+      "minimumPeople": 1
+    },
+    "baseRank": 12,
+    "season": "gutsAndGlory",
+    "faction": "dutchMerchantCompany",
+    "possibleLoot": {
+      "juniperPlank": {
+        "lv": 3,
+        "category": "material"
+      }
+    }
   },
   "suntLumberyard": {
     "id": "suntLumberyard",
     "latitude": 0.90745543382636,
     "longitude": -0.43596257633206,
-    "category": "lumberyard"
+    "category": "lumberyard",
+    "difficulty": {
+      "type": "coop",
+      "minimumPeople": 1
+    },
+    "baseRank": 12,
+    "season": "gutsAndGlory",
+    "faction": "dutchMerchantCompany",
+    "possibleLoot": {
+      "juniperPlank": {
+        "lv": 3,
+        "category": "material"
+      }
+    }
   },
   "tankazoLumberyard": {
     "id": "tankazoLumberyard",
     "latitude": 0.48668295029914,
     "longitude": -0.85266905960617,
-    "category": "lumberyard"
+    "category": "lumberyard",
+    "difficulty": {
+      "type": "coop",
+      "minimumPeople": 1
+    },
+    "baseRank": 12,
+    "season": "gutsAndGlory",
+    "faction": "clanOfFara",
+    "possibleLoot": {
+      "acaciaPlank": {
+        "lv": 3,
+        "category": "material"
+      }
+    }
   },
   "tsifoLumberyard": {
     "id": "tsifoLumberyard",
     "latitude": 0.55182702102108,
     "longitude": -0.78029532817095,
-    "category": "lumberyard"
+    "category": "lumberyard",
+    "difficulty": {
+      "type": "coop",
+      "minimumPeople": 1
+    },
+    "baseRank": 12,
+    "season": "gutsAndGlory",
+    "faction": "seaPeople",
+    "possibleLoot": {
+      "acaciaPlank": {
+        "lv": 3,
+        "category": "material"
+      }
+    }
   },
   "kambiLumberyard": {
     "id": "kambiLumberyard",
     "latitude": 0.59605844857701,
     "longitude": -0.95498894056362,
-    "category": "lumberyard"
+    "category": "lumberyard",
+    "difficulty": {
+      "type": "coop",
+      "minimumPeople": 1
+    },
+    "baseRank": 12,
+    "season": "gutsAndGlory",
+    "faction": "confederationOfUngwana",
+    "possibleLoot": {
+      "teakPlank": {
+        "lv": 3,
+        "category": "material"
+      }
+    }
   },
   "harufuLumberyard": {
     "id": "harufuLumberyard",
     "latitude": 0.64030865191799,
     "longitude": -0.94087181095742,
-    "category": "lumberyard"
+    "category": "lumberyard",
+    "difficulty": {
+      "type": "coop",
+      "minimumPeople": 1
+    },
+    "baseRank": 12,
+    "season": "gutsAndGlory",
+    "faction": "confederationOfUngwana",
+    "possibleLoot": {
+      "teakPlank": {
+        "lv": 3,
+        "category": "material"
+      }
+    }
   },
   "rondavelsLumberyard": {
     "id": "rondavelsLumberyard",
     "latitude": 0.46446097820805,
     "longitude": -1.0064506530769,
-    "category": "lumberyard"
+    "category": "lumberyard",
+    "difficulty": {
+      "type": "coop",
+      "minimumPeople": 1
+    },
+    "baseRank": 12,
+    "season": "gutsAndGlory",
+    "faction": "compagnieRoyale",
+    "possibleLoot": {
+      "teakPlank": {
+        "lv": 3,
+        "category": "material"
+      }
+    }
   },
   "kotaLamaLumberyard": {
     "id": "kotaLamaLumberyard",
     "latitude": 0.78170399592423,
     "longitude": -0.59312657858428,
-    "category": "lumberyard"
+    "category": "lumberyard",
+    "difficulty": {
+      "type": "coop",
+      "minimumPeople": 1
+    },
+    "baseRank": 12,
+    "season": "gutsAndGlory",
+    "faction": "dominionOfRempah",
+    "possibleLoot": {
+      "teakPlank": {
+        "lv": 3,
+        "category": "material"
+      }
+    }
+  },
+  "kencurWeaver": {
+    "id": "kencurWeaver",
+    "latitude": 0.74678216514852,
+    "longitude": -0.55235880693337,
+    "category": "weaver",
+    "difficulty": {
+      "type": "coop",
+      "minimumPeople": 1
+    },
+    "baseRank": 12,
+    "season": "gutsAndGlory",
+    "faction": "dominionOfRempah",
+    "possibleLoot": {
+      "fineHemp": {
+        "lv": 3,
+        "category": "material"
+      }
+    }
+  },
+  "southSunyWeaver": {
+    "id": "southSunyWeaver",
+    "latitude": 0.86468943507835,
+    "longitude": -0.42305877915464,
+    "category": "weaver",
+    "difficulty": {
+      "type": "coop",
+      "minimumPeople": 1
+    },
+    "baseRank": 12,
+    "season": "gutsAndGlory",
+    "faction": "dominionOfRempah",
+    "possibleLoot": {
+      "fineAbaka": {
+        "lv": 3,
+        "category": "material"
+      }
+    }
+  },
+  "northSunyWeaver": {
+    "id": "northSunyWeaver",
+    "latitude": 0.95956034739284,
+    "longitude": -0.48232380420717,
+    "category": "weaver",
+    "difficulty": {
+      "type": "coop",
+      "minimumPeople": 1
+    },
+    "baseRank": 12,
+    "season": "gutsAndGlory",
+    "faction": "dominionOfRempah",
+    "possibleLoot": {
+      "fineAbaka": {
+        "lv": 3,
+        "category": "material"
+      }
+    }
+  },
+  "raofiaWeaver": {
+    "id": "raofiaWeaver",
+    "latitude": 0.55801738439841,
+    "longitude": -0.84422646511786,
+    "category": "weaver",
+    "difficulty": {
+      "type": "coop",
+      "minimumPeople": 1
+    },
+    "baseRank": 12,
+    "season": "gutsAndGlory",
+    "faction": "clanOfFara",
+    "possibleLoot": {
+      "fineJute": {
+        "lv": 3,
+        "category": "material"
+      }
+    }
+  },
+  "lambaWeaver": {
+    "id": "lambaWeaver",
+    "latitude": 0.60776864517914,
+    "longitude": -0.75558585286601,
+    "category": "weaver",
+    "difficulty": {
+      "type": "coop",
+      "minimumPeople": 1
+    },
+    "baseRank": 12,
+    "season": "gutsAndGlory",
+    "faction": "seaPeople",
+    "possibleLoot": {
+      "fineJute": {
+        "lv": 3,
+        "category": "material"
+      }
+    }
+  },
+  "jiweWeaver": {
+    "id": "jiweWeaver",
+    "latitude": 0.72041709205817,
+    "longitude": -0.90361667199275,
+    "category": "weaver",
+    "difficulty": {
+      "type": "coop",
+      "minimumPeople": 1
+    },
+    "baseRank": 12,
+    "season": "gutsAndGlory",
+    "faction": "confederationOfUngwana",
+    "possibleLoot": {
+      "fineAbaka": {
+        "lv": 3,
+        "category": "material"
+      }
+    }
+  },
+  "harufuWeaver": {
+    "id": "harufuWeaver",
+    "latitude": 0.6718401842452,
+    "longitude": -0.93638917630958,
+    "category": "weaver",
+    "difficulty": {
+      "type": "coop",
+      "minimumPeople": 1
+    },
+    "baseRank": 12,
+    "season": "gutsAndGlory",
+    "faction": "confederationOfUngwana",
+    "possibleLoot": {
+      "fineHemp": {
+        "lv": 3,
+        "category": "material"
+      }
+    }
+  },
+  "laCordeWeaver": {
+    "id": "laCordeWeaver",
+    "latitude": 0.53426371380111,
+    "longitude": -0.92964933740197,
+    "category": "weaver",
+    "difficulty": {
+      "type": "coop",
+      "minimumPeople": 1
+    },
+    "baseRank": 12,
+    "season": "gutsAndGlory",
+    "faction": "compagnieRoyale",
+    "possibleLoot": {
+      "fineAbaka": {
+        "lv": 3,
+        "category": "material"
+      }
+    }
+  },
+  "pilotBayWeaver": {
+    "id": "pilotBayWeaver",
+    "latitude": 0.44619118675256,
+    "longitude": -0.99307371438496,
+    "category": "weaver",
+    "difficulty": {
+      "type": "coop",
+      "minimumPeople": 1
+    },
+    "baseRank": 12,
+    "season": "gutsAndGlory",
+    "faction": "compagnieRoyale",
+    "possibleLoot": {
+      "fineJute": {
+        "lv": 3,
+        "category": "material"
+      }
+    }
   },
   "fortDuLys": {
     "id": "fortDuLys",
     "latitude": 0.50910551299728,
     "longitude": -0.71019911811698,
-    "category": "militaryBase"
+    "category": "militaryBase",
+    "difficulty": {
+      "type": "coop",
+      "minimumPeople": 1
+    },
+    "baseRank": 12,
+    "season": "gutsAndGlory",
+    "faction": "dutchMerchantCompany",
+    "possibleLoot": {
+      "upgradeParts": {
+        "lv": 3,
+        "category": "material"
+      },
+      "torsionSpring": {
+        "lv": 3,
+        "category": "material"
+      },
+      "zamzama2": {
+        "lv": 1,
+        "category": "item"
+      },
+      "fireBombard3": {
+        "lv": 1,
+        "category": "item"
+      },
+      "cogwheel": {
+        "lv": 3,
+        "category": "material"
+      }
+    }
   },
   "fortDuister": {
     "id": "fortDuister",
     "latitude": 0.55620081441828,
     "longitude": -0.429248583788,
-    "category": "militaryBase"
+    "category": "militaryBase",
+    "difficulty": {
+      "type": "coop",
+      "minimumPeople": 1
+    },
+    "baseRank": 12,
+    "season": "gutsAndGlory",
+    "faction": "dutchMerchantCompany",
+    "possibleLoot": {
+      "upgradeParts": {
+        "lv": 3,
+        "category": "material"
+      },
+      "precisionDrillingBit": {
+        "lv": 3,
+        "category": "material"
+      },
+      "screwMechanism": {
+        "lv": 3,
+        "category": "material"
+      },
+      "militaryDmcRelic": {
+        "lv": 3,
+        "category": "commoditie"
+      },
+      "camphor": {
+        "lv": 3,
+        "category": "commoditie"
+      }
+    }
   },
   "megafortOosten": {
     "id": "megafortOosten",
     "latitude": 0.64723777871181,
     "longitude": -0.50132254330927,
-    "category": "militaryBase"
+    "category": "militaryBase",
+    "difficulty": {
+      "type": "coop",
+      "minimumPeople": 1
+    },
+    "baseRank": 12,
+    "season": "gutsAndGlory",
+    "faction": "dutchMerchantCompany",
+    "possibleLoot": {
+      "tobaccoLeaves": {
+        "lv": 1,
+        "category": "commoditie"
+      },
+      "sugarCane": {
+        "lv": 1,
+        "category": "commoditie"
+      },
+      "piecesOfEight": {
+        "lv": 3,
+        "category": "material"
+      },
+      "gannetsSaltpeter": {
+        "lv": 1,
+        "category": "material"
+      },
+      "orcasMechanism": {
+        "lv": 1,
+        "category": "material"
+      }
+    }
   },
   "fortPremie": {
     "id": "fortPremie",
     "latitude": 0.60942486806371,
     "longitude": -0.40571990047459,
-    "category": "militaryBase"
+    "category": "militaryBase",
+    "difficulty": {
+      "type": "coop",
+      "minimumPeople": 1
+    }
   },
   "fortPrakoso": {
     "id": "fortPrakoso",
     "latitude": 0.7072656071594,
     "longitude": -0.51002592783604,
-    "category": "militaryBase"
+    "category": "militaryBase",
+    "difficulty": {
+      "type": "coop",
+      "minimumPeople": 1
+    },
+    "baseRank": 12,
+    "season": "gutsAndGlory",
+    "faction": "dutchMerchantCompany",
+    "possibleLoot": {
+      "upgradeParts": {
+        "lv": 3,
+        "category": "material"
+      },
+      "precisionDrillingBit": {
+        "lv": 3,
+        "category": "material"
+      },
+      "screwMechanism": {
+        "lv": 3,
+        "category": "material"
+      },
+      "militaryDmcRelic": {
+        "lv": 3,
+        "category": "commoditie"
+      },
+      "camphor": {
+        "lv": 3,
+        "category": "commoditie"
+      }
+    }
   },
   "fortHarimau": {
     "id": "fortHarimau",
     "latitude": 0.80277884775074,
     "longitude": -0.51920841286042,
-    "category": "militaryBase"
+    "category": "militaryBase",
+    "difficulty": {
+      "type": "coop",
+      "minimumPeople": 1
+    },
+    "baseRank": 12,
+    "season": "gutsAndGlory",
+    "faction": "dutchMerchantCompany",
+    "possibleLoot": {
+      "upgradeParts": {
+        "lv": 3,
+        "category": "material"
+      },
+      "precisionDrillingBit": {
+        "lv": 3,
+        "category": "material"
+      },
+      "screwMechanism": {
+        "lv": 3,
+        "category": "material"
+      },
+      "militaryDmcRelic": {
+        "lv": 3,
+        "category": "commoditie"
+      },
+      "camphor": {
+        "lv": 3,
+        "category": "commoditie"
+      }
+    }
   },
   "fortGranbie": {
     "id": "fortGranbie",
     "latitude": 0.8612338638868,
     "longitude": -0.40290164873755,
     "category": "militaryBase",
+    "difficulty": {
+      "type": "coop",
+      "minimumPeople": 1
+    },
     "baseRank": 14,
     "season": "gutsAndGlory",
-    "faction": "dutchMerchantCompany"
+    "faction": "dutchMerchantCompany",
+    "possibleLoot": {
+      "upgradeParts": {
+        "lv": 3,
+        "category": "material"
+      },
+      "precisionDrillingBit": {
+        "lv": 3,
+        "category": "material"
+      },
+      "theTermitesRocket2": {
+        "lv": 1,
+        "category": "item"
+      },
+      "screwMechanism": {
+        "lv": 3,
+        "category": "material"
+      }
+    }
   },
   "fortDuBout": {
     "id": "fortDuBout",
     "latitude": 0.56225449850737,
     "longitude": -0.92380465425501,
-    "category": "militaryBase"
+    "category": "militaryBase",
+    "difficulty": {
+      "type": "coop",
+      "minimumPeople": 1
+    },
+    "baseRank": 12,
+    "season": "gutsAndGlory",
+    "faction": "compagnieRoyale",
+    "possibleLoot": {
+      "upgradeParts": {
+        "lv": 3,
+        "category": "material"
+      },
+      "torsionSpring": {
+        "lv": 3,
+        "category": "material"
+      },
+      "cogwheel": {
+        "lv": 3,
+        "category": "material"
+      },
+      "militaryCompagnieRelic": {
+        "lv": 3,
+        "category": "commoditie"
+      },
+      "tobaccoLeaves": {
+        "lv": 3,
+        "category": "commoditie"
+      }
+    }
   },
   "grandFort": {
     "id": "grandFort",
     "latitude": 0.436685720095,
     "longitude": -0.96865488349528,
-    "category": "militaryBase"
+    "category": "militaryBase",
+    "difficulty": {
+      "type": "coop",
+      "minimumPeople": 1
+    },
+    "baseRank": 15,
+    "season": "gutsAndGlory",
+    "faction": "compagnieRoyale",
+    "possibleLoot": {
+      "upgradeParts": {
+        "lv": 3,
+        "category": "material"
+      },
+      "torsionSpring": {
+        "lv": 3,
+        "category": "material"
+      },
+      "masterworkKit": {
+        "lv": 3,
+        "category": "material"
+      },
+      "kallinikosFlame2": {
+        "lv": 1,
+        "category": "item"
+      },
+      "fireLongGun3": {
+        "lv": 1,
+        "category": "item"
+      }
+    }
   },
   "bukitCandi": {
     "id": "bukitCandi",
@@ -722,6 +2181,10 @@
     "latitude": 0.53517379001256,
     "longitude": -0.65164564987688,
     "category": "megafort",
+    "difficulty": {
+      "type": "coop",
+      "minimumPeople": 1
+    },
     "baseRank": 14,
     "season": "gutsAndGlory",
     "faction": "none",
