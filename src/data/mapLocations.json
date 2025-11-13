@@ -756,11 +756,26 @@
     "season": "gutsAndGlory",
     "faction": "confederationOfUngwana",
     "possibleLoot": {
-      "Fine Relic": "",
-      "Casting Sand": "",
-      "Snuff": "",
-      "Fine Sisal": "",
-      "Cobalt Ingot": ""
+      "castingSand": {
+        "lv": 3,
+        "category": "material"
+      },
+      "fineUngwanaRelic": {
+        "lv": 3,
+        "category": "commoditie"
+      },
+      "snuff": {
+        "lv": 3,
+        "category": "commoditie"
+      },
+      "fineAbaka": {
+        "lv": 3,
+        "category": "material"
+      },
+      "cobaltIngot": {
+        "lv": 3,
+        "category": "material"
+      }
     }
   },
   "kusini": {
@@ -776,11 +791,26 @@
     "season": "gutsAndGlory",
     "faction": "confederationOfUngwana",
     "possibleLoot": {
-      "Fine Relic": "",
-      "Casting Sand": "",
-      "Snuff": "",
-      "Fine Hemp": "",
-      "Cobalt Ingot": ""
+      "castingSand": {
+        "lv": 3,
+        "category": "material"
+      },
+      "fineUngwanaRelic": {
+        "lv": 3,
+        "category": "commoditie"
+      },
+      "snuff": {
+        "lv": 3,
+        "category": "commoditie"
+      },
+      "fineAbaka": {
+        "lv": 3,
+        "category": "material"
+      },
+      "cobaltIngot": {
+        "lv": 3,
+        "category": "material"
+      }
     }
   },
   "bandari": {

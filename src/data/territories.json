@@ -1,0 +1,408 @@
+{
+  "islandsOfTheMoon": {
+    "id": "islandsOfTheMoon",
+    "factions": ["compagnieRoyale","clanOfFara","seaPeople"],
+    "region": "redIsle",
+    "dateAdded": "2025-09-24",
+    "lastUpdated": "2025-09-24"
+  },
+  "angayaCoast": {
+    "id": "angayaCoast",
+    "factions": ["compagnieRoyale","clanOfFara","seaPeople"],
+    "region": "redIsle",
+    "dateAdded": "2025-09-24",
+    "lastUpdated": "2025-09-24"
+  },
+  "theGiantsLeap": {
+    "id": "theGiantsLeap",
+    "factions": ["pirates","seaPeople"],
+    "region": "redIsle",
+    "dateAdded": "2025-09-24",
+    "lastUpdated": "2025-09-24"
+  },
+  "riverMouths": {
+    "id": "riverMouths",
+    "factions": ["compagnieRoyale","clanOfFara","seaPeople"],
+    "region": "redIsle",
+    "dateAdded": "2025-09-24",
+    "lastUpdated": "2025-09-24"
+  },
+  "rovaHill": {
+    "id": "rovaHill",
+    "factions": ["compagnieRoyale","clanOfFara","seaPeople"],
+    "region": "redIsle",
+    "dateAdded": "2025-09-24",
+    "lastUpdated": "2025-09-24"
+  },
+  "reefSea": {
+    "id": "reefSea",
+    "factions": ["compagnieRoyale","clanOfFara"],
+    "region": "redIsle",
+    "dateAdded": "2025-09-24",
+    "lastUpdated": "2025-09-24"
+  },
+  "southwestPassage": {
+    "id": "southwestPassage",
+    "factions": ["compagnieRoyale","clanOfFara"],
+    "region": "redIsle",
+    "dateAdded": "2025-09-24",
+    "lastUpdated": "2025-09-24"
+  },
+  "learntMensHill": {
+    "id": "learntMensHill",
+    "factions": ["compagnieRoyale","clanOfFara","seaPeople"],
+    "region": "redIsle",
+    "dateAdded": "2025-09-24",
+    "lastUpdated": "2025-09-24"
+  },
+  "noisyBe": {
+    "id": "noisyBe",
+    "factions": ["compagnieRoyale","clanOfFara","seaPeople"],
+    "region": "redIsle",
+    "dateAdded": "2025-09-24",
+    "lastUpdated": "2025-09-24"
+  },
+  "teninaCoast": {
+    "id": "teninaCoast",
+    "factions": ["compagnieRoyale","clanOfFara","seaPeople"],
+    "region": "redIsle",
+    "dateAdded": "2025-09-24",
+    "lastUpdated": "2025-09-24"
+  },
+  "sainteAnne": {
+    "id": "sainteAnne",
+    "factions": ["pirates","seaPeople","compagnieRoyale"],
+    "region": "redIsle",
+    "dateAdded": "2025-09-24",
+    "lastUpdated": "2025-09-24"
+  },
+  "bloodyChannel": {
+    "id": "bloodyChannel",
+    "factions": ["compagnieRoyale","seaPeople"],
+    "region": "redIsle",
+    "dateAdded": "2025-09-24",
+    "lastUpdated": "2025-09-24"
+  },
+  "ileRoyale": {
+    "id": "ileRoyale",
+    "factions": ["compagnieRoyale","seaPeople"],
+    "region": "redIsle",
+    "dateAdded": "2025-09-24",
+    "lastUpdated": "2025-09-24"
+  },
+  "portLHermine": {
+    "id": "portLHermine",
+    "factions": ["compagnieRoyale","seaPeople"],
+    "region": "redIsle",
+    "dateAdded": "2025-09-24",
+    "lastUpdated": "2025-09-24"
+  },
+  "baixioGrande": {
+    "id": "baixioGrande",
+    "factions": ["compagnieRoyale","pirates"],
+    "region": "openSeas",
+    "dateAdded": "2025-09-24",
+    "lastUpdated": "2025-09-24"
+  },
+  "lEscale": {
+    "id": "lEscale",
+    "factions": ["compagnieRoyale","pirates"],
+    "region": "openSeas",
+    "dateAdded": "2025-09-24",
+    "lastUpdated": "2025-09-24"
+  },
+  "easternBasin": {
+    "id": "easternBasin",
+    "factions": ["compagnieRoyale","pirates"],
+    "region": "openSeas",
+    "dateAdded": "2025-09-24",
+    "lastUpdated": "2025-09-24"
+  },
+  "centralBasin": {
+    "id": "centralBasin",
+    "factions": ["dutchMerchantCompany","pirates"],
+    "region": "openSeas",
+    "dateAdded": "2025-09-24",
+    "lastUpdated": "2025-09-24"
+  },
+  "southernBasin": {
+    "id": "southernBasin",
+    "factions": ["dutchMerchantCompany","pirates"],
+    "region": "openSeas",
+    "dateAdded": "2025-09-24",
+    "lastUpdated": "2025-09-24"
+  },
+  "bataviaReefs": {
+    "id": "bataviaReefs",
+    "factions": ["dutchMerchantCompany","pirates"],
+    "region": "openSeas",
+    "dateAdded": "2025-09-24",
+    "lastUpdated": "2025-09-24"
+  },
+  "westernBasin": {
+    "id": "westernBasin",
+    "factions": ["compagnieRoyale","confederationOfUngwana"],
+    "region": "coastOfAfrica",
+    "dateAdded": "2025-09-24",
+    "lastUpdated": "2025-09-24"
+  },
+  "pembe": {
+    "id": "pembe",
+    "factions": ["compagnieRoyale","confederationOfUngwana"],
+    "region": "coastOfAfrica",
+    "dateAdded": "2025-09-24",
+    "lastUpdated": "2025-09-24"
+  },
+  "lakeBwawa": {
+    "id": "lakeBwawa",
+    "factions": ["compagnieRoyale","confederationOfUngwana"],
+    "region": "coastOfAfrica",
+    "dateAdded": "2025-09-24",
+    "lastUpdated": "2025-09-24"
+  },
+  "jiwe": {
+    "id": "jiwe",
+    "factions": ["compagnieRoyale","confederationOfUngwana"],
+    "region": "coastOfAfrica",
+    "dateAdded": "2025-09-24",
+    "lastUpdated": "2025-09-24"
+  },
+  "ziwaKubwa": {
+    "id": "ziwaKubwa",
+    "factions": ["compagnieRoyale","confederationOfUngwana"],
+    "region": "coastOfAfrica",
+    "dateAdded": "2025-09-24",
+    "lastUpdated": "2025-09-24"
+  },
+  "harufu": {
+    "id": "harufu",
+    "factions": ["compagnieRoyale","confederationOfUngwana"],
+    "region": "coastOfAfrica",
+    "dateAdded": "2025-09-24",
+    "lastUpdated": "2025-09-24"
+  },
+  "lakeBuri": {
+    "id": "lakeBuri",
+    "factions": ["compagnieRoyale","confederationOfUngwana"],
+    "region": "coastOfAfrica",
+    "dateAdded": "2025-09-24",
+    "lastUpdated": "2025-09-24"
+  },
+  "sultaniIsland": {
+    "id": "sultaniIsland",
+    "factions": ["compagnieRoyale","confederationOfUngwana"],
+    "region": "coastOfAfrica",
+    "dateAdded": "2025-09-24",
+    "lastUpdated": "2025-09-24"
+  },
+  "rondavels": {
+    "id": "rondavels",
+    "factions": ["compagnieRoyale","confederationOfUngwana"],
+    "region": "coastOfAfrica",
+    "dateAdded": "2025-09-24",
+    "lastUpdated": "2025-09-24"
+  },
+  "pilotBay": {
+    "id": "pilotBay",
+    "factions": ["compagnieRoyale","confederationOfUngwana"],
+    "region": "coastOfAfrica",
+    "dateAdded": "2025-09-24",
+    "lastUpdated": "2025-09-24"
+  },
+  "panyarJungle": {
+    "id": "panyarJungle",
+    "factions": ["dutchMerchantCompany","dominionOfRempah"],
+    "region": "eastIndies",
+    "dateAdded": "2025-09-24",
+    "lastUpdated": "2025-09-24"
+  },
+  "deltaOfSain": {
+    "id": "deltaOfSain",
+    "factions": ["dutchMerchantCompany","dominionOfRempah"],
+    "region": "eastIndies",
+    "dateAdded": "2025-09-24",
+    "lastUpdated": "2025-09-24"
+  },
+  "patamyarMountains": {
+    "id": "patamyarMountains",
+    "factions": ["dutchMerchantCompany","dominionOfRempah"],
+    "region": "eastIndies",
+    "dateAdded": "2025-09-24",
+    "lastUpdated": "2025-09-24"
+  },
+  "sunyOutskirts": {
+    "id": "sunyOutskirts",
+    "factions": ["dutchMerchantCompany","dominionOfRempah"],
+    "region": "eastIndies",
+    "dateAdded": "2025-09-24",
+    "lastUpdated": "2025-09-24"
+  },
+  "berukSea": {
+    "id": "berukSea",
+    "factions": ["dutchMerchantCompany","dominionOfRempah"],
+    "region": "eastIndies",
+    "dateAdded": "2025-09-24",
+    "lastUpdated": "2025-09-24"
+  },
+  "chichomneahJungle": {
+    "id": "chichomneahJungle",
+    "factions": ["dutchMerchantCompany","dominionOfRempah"],
+    "region": "eastIndies",
+    "dateAdded": "2025-09-24",
+    "lastUpdated": "2025-09-24"
+  },
+  "deltaOfMe": {
+    "id": "deltaOfMe",
+    "factions": ["dutchMerchantCompany","dominionOfRempah"],
+    "region": "eastIndies",
+    "dateAdded": "2025-09-24",
+    "lastUpdated": "2025-09-24"
+  },
+  "kaongkangCoast": {
+    "id": "kaongkangCoast",
+    "factions": ["dutchMerchantCompany","dominionOfRempah"],
+    "region": "eastIndies",
+    "dateAdded": "2025-09-24",
+    "lastUpdated": "2025-09-24"
+  },
+  "gulfOfNakh": {
+    "id": "gulfOfNakh",
+    "factions": ["dutchMerchantCompany","dominionOfRempah"],
+    "region": "eastIndies",
+    "dateAdded": "2025-09-24",
+    "lastUpdated": "2025-09-24"
+  },
+  "harimauPeninsula": {
+    "id": "harimauPeninsula",
+    "factions": ["dutchMerchantCompany","dominionOfRempah"],
+    "region": "eastIndies",
+    "dateAdded": "2025-09-24",
+    "lastUpdated": "2025-09-24"
+  },
+  "fortHarimau": {
+    "id": "fortHarimau",
+    "factions": ["dutchMerchantCompany","dominionOfRempah"],
+    "region": "eastIndies",
+    "dateAdded": "2025-09-24",
+    "lastUpdated": "2025-09-24"
+  },
+  "telokPenjarah": {
+    "id": "telokPenjarah",
+    "factions": ["dutchMerchantCompany","dominionOfRempah"],
+    "region": "eastIndies",
+    "dateAdded": "2025-09-24",
+    "lastUpdated": "2025-09-24"
+  },
+  "straitOfHarimau": {
+    "id": "straitOfHarimau",
+    "factions": ["dutchMerchantCompany","dominionOfRempah"],
+    "region": "eastIndies",
+    "dateAdded": "2025-09-24",
+    "lastUpdated": "2025-09-24"
+  },
+  "pemburuIslands": {
+    "id": "pemburuIslands",
+    "factions": ["dutchMerchantCompany","dominionOfRempah"],
+    "region": "eastIndies",
+    "dateAdded": "2025-09-24",
+    "lastUpdated": "2025-09-24"
+  },
+  "zamrud": {
+    "id": "zamrud",
+    "factions": ["dutchMerchantCompany","dominionOfRempah"],
+    "region": "eastIndies",
+    "dateAdded": "2025-09-24",
+    "lastUpdated": "2025-09-24"
+  },
+  "easternGateSea": {
+    "id": "easternGateSea",
+    "factions": ["dutchMerchantCompany","dominionOfRempah"],
+    "region": "eastIndies",
+    "dateAdded": "2025-09-24",
+    "lastUpdated": "2025-09-24"
+  },
+  "nilamSea": {
+    "id": "nilamSea",
+    "factions": ["dutchMerchantCompany","dominionOfRempah"],
+    "region": "eastIndies",
+    "dateAdded": "2025-09-24",
+    "lastUpdated": "2025-09-24"
+  },
+  "logamHighlands": {
+    "id": "logamHighlands",
+    "factions": ["dutchMerchantCompany","dominionOfRempah"],
+    "region": "eastIndies",
+    "dateAdded": "2025-09-24",
+    "lastUpdated": "2025-09-24"
+  },
+  "musonStrait": {
+    "id": "musonStrait",
+    "factions": ["dutchMerchantCompany","dominionOfRempah"],
+    "region": "eastIndies",
+    "dateAdded": "2025-09-24",
+    "lastUpdated": "2025-09-24"
+  },
+  "hutanRainforest": {
+    "id": "hutanRainforest",
+    "factions": ["dutchMerchantCompany","dominionOfRempah"],
+    "region": "eastIndies",
+    "dateAdded": "2025-09-24",
+    "lastUpdated": "2025-09-24"
+  },
+  "hutanHighlands": {
+    "id": "hutanHighlands",
+    "factions": ["dutchMerchantCompany","dominionOfRempah"],
+    "region": "eastIndies",
+    "dateAdded": "2025-09-24",
+    "lastUpdated": "2025-09-24"
+  },
+  "trisulaSea": {
+    "id": "trisulaSea",
+    "factions": ["dutchMerchantCompany","dominionOfRempah"],
+    "region": "eastIndies",
+    "dateAdded": "2025-09-24",
+    "lastUpdated": "2025-09-24"
+  },
+  "nagaSea": {
+    "id": "nagaSea",
+    "factions": ["dutchMerchantCompany","dominionOfRempah"],
+    "region": "eastIndies",
+    "dateAdded": "2025-09-24",
+    "lastUpdated": "2025-09-24"
+  },
+  "cendonoStrait": {
+    "id": "cendonoStrait",
+    "factions": ["dutchMerchantCompany","dominionOfRempah"],
+    "region": "eastIndies",
+    "dateAdded": "2025-09-24",
+    "lastUpdated": "2025-09-24"
+  },
+  "trisulaCoast": {
+    "id": "trisulaCoast",
+    "factions": ["dutchMerchantCompany","dominionOfRempah"],
+    "region": "eastIndies",
+    "dateAdded": "2025-09-24",
+    "lastUpdated": "2025-09-24"
+  },
+  "nagaCoast": {
+    "id": "nagaCoast",
+    "factions": ["dutchMerchantCompany","dominionOfRempah"],
+    "region": "eastIndies",
+    "dateAdded": "2025-09-24",
+    "lastUpdated": "2025-09-24"
+  },
+  "spiceIslands": {
+    "id": "spiceIslands",
+    "factions": ["dutchMerchantCompany","dominionOfRempah"],
+    "region": "eastIndies",
+    "dateAdded": "2025-09-24",
+    "lastUpdated": "2025-09-24"
+  },
+  "ringOfFire": {
+    "id": "ringOfFire",
+    "factions": ["dutchMerchantCompany","dominionOfRempah"],
+    "region": "eastIndies",
+    "dateAdded": "2025-09-24",
+    "lastUpdated": "2025-09-24"
+  }
+}
