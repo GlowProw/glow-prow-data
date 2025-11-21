@@ -9,6 +9,8 @@ import { Material, Materials } from './Materials';
 import { Season, Seasons } from './Seasons';
 import { Set, Sets } from './Sets';
 import { WorldEvent, WorldEvents } from './WorldEvents';
+import {Faction, Factions} from "./Factions";
+import {Ship, Ships} from "./Ships";
 
 /**
  * 装饰
@@ -26,6 +28,8 @@ export class Cosmetic {
         public readonly pieces?: Array<ShipCosmeticType>,
         public readonly effect?: CosmeticEffect | CosmeticEffect[],
         public readonly season?: Season,
+        public readonly faction?: Faction,
+        public readonly ship?: Ship,
         public readonly contract?: Contract,
         public basic?: Cosmetic,
         public upgrades?: Cosmetic[],
@@ -38,6 +42,8 @@ export class Cosmetic {
 
     public static fromRawData(rawData: any): Cosmetic {
         const season = rawData.season as keyof typeof Seasons;
+        const faction = rawData.faction as keyof typeof Factions;
+        const ship = rawData.ship as keyof typeof Ships;
         const set = rawData.set as keyof typeof Sets;
         const contract = rawData.contract as keyof typeof Contracts;
         const event = rawData.event as keyof typeof Events;
@@ -95,6 +101,8 @@ export class Cosmetic {
             rawData.pieces ?? undefined,
             rawData.effect ?? undefined,
             rawData.season ? Seasons[season] : undefined,
+            rawData.faction ? Factions[faction] : undefined,
+            rawData.ship ? Ships[ship] : undefined,
             rawData.contract ? Contracts[contract] : undefined,
             undefined,
             undefined,

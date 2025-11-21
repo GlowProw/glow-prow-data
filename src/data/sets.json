@@ -1338,5 +1338,173 @@
   "xianYuan": {
     "id": "xianYuan",
     "type": "ship"
+  },
+  "plagueReaper": {
+    "id": "plagueReaper",
+    "type": "ship"
+  },
+  "nocturnesGrace": {
+    "id": "nocturnesGrace",
+    "type": "ship"
+  },
+  "seaScavengers": {
+    "id": "seaScavengers",
+    "type": "ship"
+  },
+  "deathStrides": {
+    "id": "deathStrides",
+    "type": "ship"
+  },
+  "redPrivateer": {
+    "id": "redPrivateer",
+    "type": "player"
+  },
+  "nocturnesChampion": {
+    "id": "nocturnesChampion",
+    "type": "player"
+  },
+  "forTheHoard": {
+    "id": "forTheHoard",
+    "type": "ship"
+  },
+  "harbingerOfDeath": {
+    "id": "harbingerOfDeath",
+    "type": "player"
+  },
+  "kingOfChains": {
+    "id": "kingOfChains",
+    "type": "ship"
+  },
+  "2024HellfestShip": {
+    "id": "2024HellfestShip",
+    "type": "ship"
+  },
+  "theAnchorborn": {
+    "id": "theAnchorborn",
+    "type": "ship"
+  },
+  "gutsOfWar": {
+    "id": "gutsOfWar",
+    "type": "ship"
+  },
+  "daggersOath": {
+    "id": "daggersOath",
+    "type": "ship"
+  },
+  "goldenGlory": {
+    "id": "goldenGlory",
+    "type": "ship"
+  },
+  "bonehooked": {
+    "id": "bonehooked",
+    "type": "ship"
+  },
+  "deathsMuse": {
+    "id": "deathsMuse",
+    "type": "ship"
+  },
+  "flamesOfWar": {
+    "id": "flamesOfWar",
+    "type": "ship"
+  },
+  "hallowedChildren": {
+    "id": "hallowedChildren",
+    "type": "ship"
+  },
+  "hallowedShadow": {
+    "id": "hallowedShadow",
+    "type": "player"
+  },
+  "cursedSteel": {
+    "id": "cursedSteel",
+    "type": "ship"
+  },
+  "joyfulReaper": {
+    "id": "joyfulReaper",
+    "type": "ship"
+  },
+  "cursedFortunes": {
+    "id": "cursedFortunes",
+    "type": "ship"
+  },
+  "devilsPact": {
+    "id": "devilsPact",
+    "type": "ship"
+  },
+  "saintOfWrath": {
+    "id": "saintOfWrath",
+    "type": "ship"
+  },
+  "nightWight": {
+    "id": "nightWight",
+    "type": "player"
+  },
+  "goldDrunk": {
+    "id": "goldDrunk",
+    "type": "player"
+  },
+  "bardsSoul": {
+    "id": "bardsSoul",
+    "type": "player"
+  },
+  "rumAndGold": {
+    "id": "rumAndGold",
+    "type": "player"
+  },
+  "ashesOfMemories": {
+    "id": "ashesOfMemories",
+    "type": "player"
+  },
+  "bladeBallet": {
+    "id": "bladeBallet",
+    "type": "ship"
+  },
+  "majesticMadness": {
+    "id": "majesticMadness",
+    "type": "ship"
+  },
+  "rawFury": {
+    "id": "rawFury",
+    "type": "ship"
+  },
+  "wolfheartsSeas": {
+    "id": "wolfheartsSeas",
+    "type": "ship"
+  },
+  "valiantBlood": {
+    "id": "valiantBlood",
+    "type": "ship"
+  },
+  "sinnersGrasp": {
+    "id": "sinnersGrasp",
+    "type": "ship"
+  },
+  "theLastHowl": {
+    "id": "theLastHowl",
+    "type": "player"
+  },
+  "bloodQueen": {
+    "id": "bloodQueen",
+    "type": "player"
+  },
+  "waveConqueror": {
+    "id": "waveConqueror",
+    "type": "ship"
+  },
+  "coilsOfFate": {
+    "id": "coilsOfFate",
+    "type": "ship"
+  },
+  "seaOfKingdoms": {
+    "id": "seaOfKingdoms",
+    "type": "ship"
+  },
+  "theFaceless": {
+    "id": "theFaceless",
+    "type": "ship"
+  },
+  "kingdomsWarrior": {
+    "id": "kingdomsWarrior",
+    "type": "player"
   }
 }

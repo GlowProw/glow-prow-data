@@ -1,0 +1,337 @@
+{
+  "cookery": {
+    "id": "cookery",
+    "type": "structure",
+    "category": [
+      "factory"
+    ],
+    "season": "release",
+    "slots": {
+      "grill": {
+        "data":  [
+          "grilledDurian",
+          "grilledScrewpine",
+          "grilledLestariMeat",
+          "grilledPrimeCrocodile",
+          "grilledDurian",
+          "grilledBeef",
+          "grilledCoconut",
+          "grilledFish",
+          "grilledCrocodile",
+          "grilledShark",
+          "grilledMutton",
+          "grilledChicken",
+          "grilledBread",
+          "grilledBanana",
+          "grilledPrimeHippo",
+          "grilledScrewpine",
+          "grilledVegetables",
+          "grilledHippo"
+        ]
+      }
+    },
+    "location": [
+      "anyoneOutpost",
+      "anyoneDen"
+    ]
+  },
+  "water": {
+    "id": "water",
+    "type": "structure",
+    "category": [
+      "water"
+    ],
+    "season": "release",
+    "slots": {
+      "container": {
+        "data":  [
+          "water"
+        ]
+      }
+    },
+    "location": [
+      "anyoneOutpost"
+    ]
+  },
+  "piratesBonfire": {
+    "id": "piratesBonfire",
+    "type": "structure",
+    "category": [
+      "powder"
+    ],
+    "season": "release",
+    "location": [
+      "anyoneOutpost"
+    ]
+  },
+  "helmLiaison": {
+    "id": "helmLiaison",
+    "type": "npc",
+    "category": [
+      "helmTask"
+    ],
+    "season": "release",
+    "location": [
+      "anyoneOutpost"
+    ]
+  },
+  "mailbox": {
+    "id": "mailbox",
+    "type": "structure",
+    "category": [
+      "mail"
+    ],
+    "season": "release",
+    "slots": {
+      "grill": [
+        "grilledDurian",
+        "grilledScrewpine",
+        "grilledLestariMeat",
+        "grilledPrimeCrocodile",
+        "grilledDurian",
+        "grilledBeef",
+        "grilledCoconut",
+        "grilledFish",
+        "grilledCrocodile",
+        "grilledShark",
+        "grilledMutton",
+        "grilledChicken",
+        "grilledBread",
+        "grilledBanana",
+        "grilledPrimeHippo",
+        "grilledScrewpine",
+        "grilledVegetables",
+        "grilledHippo"
+      ]
+    },
+    "location": [
+      "anyoneDen"
+    ]
+  },
+  "smugglersNetwork-sainteAnne": {
+    "id": "smugglersNetwork",
+    "type": "npc",
+    "category": [
+      "task",
+      "shop"
+    ],
+    "season": "release",
+    "location": [
+      "sainteAnne"
+    ]
+  },
+  "jobBoard-sainteAnne": {
+    "id": "jobBoard",
+    "type": "npc",
+    "category": [
+      "task"
+    ],
+    "season": "release",
+    "location": [
+      "sainteAnne"
+    ]
+  },
+  "bountyBoard-sainteAnne": {
+    "id": "bountyBoard",
+    "type": "structure",
+    "category": [
+      "objective"
+    ],
+    "season": "release",
+    "location": [
+      "sainteAnne"
+    ]
+  },
+  "warehouse-sainteAnne": {
+    "id": "warehouse",
+    "type": "npc",
+    "category": [
+      "warehouse"
+    ],
+    "season": "release",
+    "location": [
+      "sainteAnne"
+    ]
+  },
+  "vanityAtelier-sainteAnne": {
+    "id": "vanityAtelier",
+    "type": "npc",
+    "category": [
+    ],
+    "season": "release",
+    "location": [
+      "sainteAnne"
+    ]
+  },
+  "johnScurlocksOffice-sainteAnne": {
+    "id": "johnScurlocksOffice",
+    "type": "npc",
+    "category": [
+      "task",
+      "shop"
+    ],
+    "season": "release",
+    "location": [
+      "sainteAnne"
+    ]
+  },
+  "hallowedGravestone-sainteAnne": {
+    "id": "hallowedGravestone",
+    "type": "structure",
+    "category": [
+      "shop"
+    ],
+    "season": "release",
+    "location": [
+      "sainteAnne"
+    ]
+  },
+  "factionBroker-sainteAnne": {
+    "id": "factionBroker",
+    "type": "npc",
+    "category": [
+      "task"
+    ],
+    "season": "gutsAndGlory",
+    "location": [
+      "sainteAnne"
+    ]
+  },
+  "deathTides-sainteAnne": {
+    "id": "deathTides",
+    "type": "npc",
+    "category": [
+      "task",
+      "pvpMode"
+    ],
+    "season": "gutsAndGlory",
+    "location": [
+      "sainteAnne"
+    ]
+  },
+  "refinery-sainteAnne": {
+    "id": "refinery",
+    "type": "npc",
+    "category": [
+      "task",
+      "shop",
+      "factory"
+    ],
+    "season": "release",
+    "slots": {
+      "worker": {
+        "data": [
+          "acaciaPlank",
+          "teakPlank",
+          "juniperPlank",
+          "greenheartPlank",
+          "castIronIngor",
+          "cobaltIngot",
+          "zincIngor",
+          "MagnetiteIngot",
+          "fineHemp",
+          "fineAbaka",
+          "riselleCloth",
+          "fineJute",
+          "crocodileLeather",
+          "hippoLeather",
+          "sharkLeather",
+          "thickCrocodileLeather",
+          "apexCrocodileLeather",
+          "apexHippoLeather",
+          "putrefiedZamaharibuScale",
+          "deepIronPlates",
+          "putrefiedLestariSkin",
+          "crudeSaltpeter",
+          "castingSand",
+          "screwMechanism",
+          "cogwheel",
+          "wormDrive",
+          "planetaryGearset",
+          "purifiedSaltpeter",
+          "drySand",
+          "ascensionModule",
+          "dannetDenseNiter",
+          "upgradeParts",
+          "sinewString",
+          "torsionSpring",
+          "precisionDrillingBit",
+          "rubber",
+          "naphtha",
+          "wyrmVolatileNapalm",
+          "eelSturdyRopes",
+          "orcaIntricateApparatus",
+          "upgradeParts",
+          "lacquer",
+          "quicklime",
+          "plateGlass",
+          "woodPitch",
+          "woodTar",
+          "sheetGlass",
+          "lime",
+          "shellac",
+          "fineLinen",
+          "fineSisal",
+          "fineRamie",
+          "bronzeIngot",
+          "nickelIngot",
+          "ironwoodPlank",
+          "mopanePlank",
+          "irokoPlank",
+          "steelIngot"
+        ]
+      }
+    },
+    "location": [
+      "sainteAnne"
+    ]
+  },
+  "blacksmith-sainteAnne": {
+    "id": "blacksmith",
+    "type": "npc",
+    "category": [
+      "task",
+      "shop"
+    ],
+    "season": "release",
+    "location": [
+      "sainteAnne"
+    ]
+  },
+  "shipwright-sainteAnne": {
+    "id": "shipwright",
+    "type": "npc",
+    "category": [
+      "task",
+      "shop"
+    ],
+    "season": "release",
+    "slots": {
+      "upgradeShips": true,
+      "craftNewShips": true,
+      "manageShips": true,
+      "upgradeShipCosmetic": true
+    },
+    "location": [
+      "sainteAnne"
+    ]
+  },
+  "carpenter-sainteAnne": {
+    "id": "carpenter",
+    "type": "npc",
+    "category": [
+      "task",
+      "shop"
+    ],
+    "season": "release",
+    "location": [
+      "sainteAnne"
+    ]
+  },
+  "smugglersNetwork-telokPenjarah": {
+    "id": "smugglersNetwork",
+    "location": [
+      "telokPenjarah"
+    ]
+  }
+}

@@ -29,7 +29,7 @@ export class Ship {
         // 增强力量
         public readonly braceStrength: number,
         public readonly braceStrengthRecovery: number,
-        // stamina
+        // 耐力
         public readonly stamina: number | undefined,
         // 基础分数
         public readonly baseRank: number,

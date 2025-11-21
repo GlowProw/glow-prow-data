@@ -302,9 +302,9 @@
       "raider",
       "piercing2"
     ],
-    "obtainable": ["darktideChest"],
+    "obtainable": ["darktideChest","hauntedReapersCache"],
     "dateAdded": "2024-02-12",
-    "lastUpdated": "2025-09-04"
+    "lastUpdated": "2025-10-21"
   },
   "carronade": {
     "id": "carronade",
@@ -315,7 +315,8 @@
     "obtainable": [
       "smugglerPass",
       "williamBlackwoodRotatingStore",
-      "teulingsWeaponChest1"
+      "teulingsWeaponChest1",
+      "laPestesLockerMythic"
     ],
     "value": 1,
     "weight": 500,
@@ -339,7 +340,7 @@
       "flooding1"
     ],
     "dateAdded": "2024-02-27",
-    "lastUpdated": "2025-08-17"
+    "lastUpdated": "2025-10-21"
   },
   "demicannon1": {
     "id": "demicannon1",
@@ -1382,7 +1383,7 @@
     "perks": [
       "resolute"
     ],
-    "obtainable": ["legacyCache3","legacyCache1"],
+    "obtainable": ["legacyCache3","legacyCache1","exoticArmorAscendedCache"],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-10-21"
   },
@@ -1391,6 +1392,7 @@
     "rarity": "epic",
     "season": "release",
     "blueprint": "seaPeopleHunterMasterOutpostLanitra",
+    "obtainable": "gildedProtectorChest",
     "requiredRank": "kingpin1",
     "type": "armor",
     "value": 1,
@@ -1430,7 +1432,8 @@
     "obtainable": [
       "theHelm",
       "laPestesStrongbox",
-      "legacyCache1"
+      "legacyCache1",
+      "laPestesLockerMythic"
     ],
     "worldEvent": "thePlagueKing",
     "type": "armor",
@@ -1469,7 +1472,8 @@
     "obtainable": [
       "smugglerPass",
       "williamBlackwoodRotatingStore",
-      "teulingsWeaponChest1"
+      "teulingsWeaponChest1",
+      "exoticArmorAscendedCache"
     ],
     "type": "armor",
     "value": 1,
@@ -1504,7 +1508,7 @@
     "rarity": "epic",
     "season": "release",
     "requiredRank": "kingpin1",
-    "obtainable": "worldEventMerchantConvoy",
+    "obtainable": ["worldEventMerchantConvoy","exoticArmorAscendedCache"],
     "blueprint": "theHelm",
     "type": "armor",
     "value": 1,
@@ -1835,7 +1839,7 @@
     "rarity": "epic",
     "season": "ragingTides",
     "requiredRank": "kingpin1",
-    "obtainable": ["laPestesStrongbox","legacyCache1"],
+    "obtainable": ["laPestesStrongbox","legacyCache1","laPestesLockerMythic"],
     "value": 1,
     "weight": 1000,
     "gearScore": 91,
@@ -2220,6 +2224,7 @@
     "season": "release",
     "requiredRank": "kingpin1",
     "blueprint": "seaPeopleHunterMasterOutpostLanitra",
+    "obtainable": ["slayersChest","gildedSlayersChest"],
     "value": 1,
     "weight": 750,
     "gearScore": 83,
@@ -2244,7 +2249,7 @@
       "tearing2"
     ],
     "dateAdded": "2024-02-12",
-    "lastUpdated": "2025-07-29"
+    "lastUpdated": "2025-10-21"
   },
   "twinWinchBallista": {
     "id": "twinWinchBallista",
@@ -2252,7 +2257,7 @@
     "rarity": "epic",
     "season": "release",
     "requiredRank": "kingpin1",
-    "obtainable": ["theHelmSeasonal","legacyCache3","legacyCache1"],
+    "obtainable": ["theHelmSeasonal","legacyCache3","legacyCache1","laPestesLockerMythic"],
     "blueprint": "theHelmSeasonOathsOfWar",
     "value": 1,
     "weight": 750,
@@ -2277,7 +2282,7 @@
       "piercing2"
     ],
     "dateAdded": "2024-02-05",
-    "lastUpdated": "2025-09-04"
+    "lastUpdated": "2025-10-21"
   },
   "seaFire1": {
     "id": "seaFire1",
@@ -6070,7 +6075,7 @@
     "rarity": "rare",
     "season": "chorusOfHavoc",
     "worldEvent": "thePlagueKing",
-    "obtainable": "laPestesStrongbox",
+    "obtainable": ["laPestesStrongbox","dropDuringMythicLaPesteEncounter","laPestesLockerMythic"],
     "blueprint": "williamBlackwoodRotatingStore",
     "value": 1,
     "weight": 500,
@@ -6094,7 +6099,7 @@
       "toxic3"
     ],
     "dateAdded": "2024-06-02",
-    "lastUpdated": "2025-09-06"
+    "lastUpdated": "2025-10-21"
   },
   "theWarhammer": {
     "id": "theWarhammer",
@@ -6234,7 +6239,7 @@
     "perks": [
       "bloodAndGold"
     ],
-    "obtainable": ["legacyCache3","legacyCache1"],
+    "obtainable": ["legacyCache3","legacyCache1","exoticArmorAscendedCache"],
     "dateAdded": "2024-05-26",
     "lastUpdated": "2025-10-21"
   },
@@ -6608,6 +6613,7 @@
     "rarity": "epic",
     "season": "chorusOfHavoc",
     "blueprint": "seaPeopleHunterMasterOutpostLanitra",
+    "obtainable": "gildedProtectorChest",
     "type": "armor",
     "value": 1,
     "weight": 500,
@@ -9559,7 +9565,15 @@
     "reloadSpeed": 6000,
     "optimalRange": 600,
     "projectileSpeed": 210,
-    "required": {},
+    "required": {
+      "planetaryGearset": 12,
+      "torsionSpring": 10,
+      "precisionDrillingBit": 10,
+      "orcaIntricateApparatus": 1,
+      "eelSturdyRopes": 1,
+      "silver": 3300
+    },
+    "blueprint": "theHelmSeasonGutsAndGlory",
     "obtainable": ["legacyCache3","legacyCache4"],
     "perks": [
       "sharedSupply",
@@ -9606,6 +9620,7 @@
     "rarity": "epic",
     "season": "intoTheDragonsWake",
     "obtainable": ["legacyCache3"],
+    "blueprint": "theHelmSeasonGutsAndGlory",
     "value": 1,
     "weight": 1000,
     "gearScore": 91,
@@ -9616,7 +9631,14 @@
     "optimalRange": 600,
     "timeToTarget": 5750,
     "blastRadius": 50,
-    "required": {},
+    "required": {
+      "dryCastingSand": 14,
+      "naphtha": 6,
+      "rubber": 6,
+      "precisionDrillingBit": 6,
+      "eelSturdyRopes": 2,
+      "silver": 4290
+    },
     "perks": [
       "taunting",
       "blast",
@@ -9634,7 +9656,16 @@
     "value": 1,
     "weight": 250,
     "gearScore": 35,
-    "required": {},
+    "required": {
+      "wormDrive": 8,
+      "torsionSpring": 6,
+      "precisionDrillingBit": 6,
+      "eelSturdyRopes": 1,
+      "wyrmVolatileNapalm": 1,
+      "gannetDenseNiter": 1,
+      "silver": 5760
+    },
+    "blueprint": "theHelmSeasonGutsAndGlory",
     "obtainable": ["legacyCache3"],
     "perks": [
       "spitefulSpikesStation"
@@ -9671,7 +9702,7 @@
     "id": "celestialDance",
     "rarity": "epic",
     "season": "intoTheDragonsWake",
-    "obtainable": ["legacyCache3","legacyCache1"],
+    "obtainable": ["legacyCache3","legacyCache1","gildedProtectorChest"],
     "type": "armor",
     "value": 1,
     "weight": 500,
@@ -9686,7 +9717,15 @@
       "electric": 0.2,
       "toxic": 0.05
     },
-    "required": {},
+    "required": {
+      "planetaryGearset": 12,
+      "wormDrive": 12,
+      "sinewString": 10,
+      "wyrmVolatileNapalm": 1,
+      "gannetDenseNiter": 1,
+      "silver": 3800
+    },
+    "blueprint": "theHelmSeasonGutsAndGlory",
     "perks": [
       "lightningStream"
     ],
@@ -9736,10 +9775,10 @@
     "type": "culverin",
     "rarity": "epic",
     "season": "intoTheDragonsWake",
-    "blueprint": "seaPeopleHunterMasterOutpostLanitra",
+    "blueprint": ["seaPeopleHunterMasterOutpostLanitra","smugglerPassPinnacleStore"],
     "bounty": "divineRetribution",
     "worldEvent": "divineRetribution",
-    "obtainable": "elderShadowbeastChest",
+    "obtainable": ["elderShadowbeastChest","slayersChest","gildedSlayersChest"],
     "value": 1,
     "weight": 500,
     "gearScore": 91,
@@ -9751,7 +9790,7 @@
     "projectileSpeed": 210,
     "required": {
       "lightningDragonClaw": 6,
-      "quicklime": 12,
+      "dryCastingSand": 12,
       "naphtha": 8,
       "wyrmVolatileNapalm": 1,
       "gannetDenseNiter": 1,
@@ -9762,7 +9801,7 @@
       "electric2"
     ],
     "dateAdded": "2024-08-22",
-    "lastUpdated": "2025-07-29"
+    "lastUpdated": "2025-10-21"
   },
   "phoenixTalons": {
     "id": "phoenixTalons",
@@ -9964,7 +10003,9 @@
         "contractReward",
         "personRahmaTelokPenjarah"
       ],
-      "dragonsClawMysteriousChest"
+      "dragonsClawMysteriousChest",
+      "slayersChest",
+      "gildedSlayersChest"
     ],
     "blueprint": "seaPeopleHunterMasterOutpostLanitra",
     "contract": "scorchedHorizon",
@@ -9991,7 +10032,7 @@
       "flooding2"
     ],
     "dateAdded": "2024-08-22",
-    "lastUpdated": "2025-07-29"
+    "lastUpdated": "2025-10-21"
   },
   "lestariStew": {
     "id": "lestariStew",
@@ -10026,7 +10067,8 @@
         "contractReward",
         "shipwrightSainteAnne"
       ],
-      "mooncakeRegattaChest"
+      "mooncakeRegattaChest",
+      "hauntedReapersCache"
     ],
     "required": {},
     "perks": [
@@ -10189,19 +10231,27 @@
     "season": "intoTheDragonsWake",
     "weight": 80,
     "gearScore": 20,
-    "blueprint": "williamBlackwoodRotatingStore",
+    "blueprint": ["williamBlackwoodRotatingStore","williamBlackwoodRotatingStoreGutsAndGlory"],
     "obtainable": [
       "dragonsClawGreenChest",
       "williamBlackwoodRotatingStore"
     ],
     "bounty": "flamesOfTheDragon",
     "worldEvent": "flamesOfTheDragon",
-    "required": {},
+    "required": {
+      "magnetiteIngot": 10,
+      "greenheartPlank": 10,
+      "phoenixBeak": 4,
+      "phoenixPinion": 4,
+      "jadePhoenixStatue": 2,
+      "eelSturdyRopes": 2,
+      "silver": 3600
+    },
     "perks": [
       "beamSupports"
     ],
     "dateAdded": "2024-08-22",
-    "lastUpdated": "2025-07-29"
+    "lastUpdated": "2025-11-15"
   },
   "divineThunder": {
     "id": "divineThunder",
@@ -10245,8 +10295,16 @@
       "electric": 0.09,
       "toxic": 0.09
     },
-    "required": {},
-    "obtainable": ["smugglerPass","williamBlackwoodRotatingStore","teulingsWeaponChest1"],
+    "required": {
+      "magnetiteIngot": 16,
+      "wormDrive": 10,
+      "precisionDrillingBit": 6,
+      "torsionSpring": 6,
+      "orcaIntricateApparatus": 2,
+      "silver": 3800
+    },
+    "blueprint": "smugglerPassPinnacleStore",
+    "obtainable": ["smugglerPass","williamBlackwoodRotatingStore","teulingsWeaponChest1","exoticArmorAscendedCache"],
     "perks": [
       "indomitable"
     ],
@@ -10310,12 +10368,21 @@
     "weight": 80,
     "gearScore": 25,
     "obtainable": ["smugglerPass","williamBlackwoodRotatingStore","teulingsWeaponChest1"],
-    "required": {},
+    "blueprint": "smugglerPassPinnacleStore",
+    "required": {
+      "lightningDragonScale": 6,
+      "monstrousTooth": 6,
+      "dryCastingSand": 4,
+      "planetaryGearset": 4,
+      "sinewString": 2,
+      "eelSturdyRopes": 2,
+      "silver": 4680
+    },
     "perks": [
       "chargeStores"
     ],
     "dateAdded": "2024-08-22",
-    "lastUpdated": "2025-08-17"
+    "lastUpdated": "2025-10-21"
   },
   "battleJunkUpgrade1": {
     "id": "battleJunkUpgrade1",
@@ -10515,8 +10582,10 @@
     "event": "requiemOfTheLost",
     "obtainable": [
       "hallowedGravestoneSaintAnne",
-      "reapersCache"
+      "reapersCache",
+      "ascendedRequiemOfTheLostEventCache"
     ],
+    "blueprint": "hallowedGravestoneSaintAnne",
     "value": 1,
     "weight": 500,
     "gearScore": 91,
@@ -10527,14 +10596,19 @@
     "optimalRange": 600,
     "projectileSpeed": 210,
     "required": {
-      "reapersToll": 600
+      "vengefulEssence": 12,
+      "xanthousStone": 12,
+      "sinewString": 6,
+      "naphtha": 6,
+      "gannetDenseNiter": 2,
+      "silver": 3300
     },
     "perks": [
       "phantomMending",
       "burning2"
     ],
     "dateAdded": "2024-08-22",
-    "lastUpdated": "2025-07-29"
+    "lastUpdated": "2025-10-28"
   },
   "freemansEmbrace": {
     "id": "freemansEmbrace",
@@ -10544,7 +10618,16 @@
     "value": 1,
     "weight": 250,
     "gearScore": 35,
-    "required": {},
+    "required": {
+      "greenheartPlank": 12,
+      "magnetiteIngot": 12,
+      "phoenixPinion": 4,
+      "purifiedSaltpeter": 4,
+      "jadePhoenixStatue": 4,
+      "gannetDenseNiter": 2,
+      "silver": 5760
+    },
+    "blueprint": "smugglerPassPinnacleStore",
     "bounty": "theGloriousPhoenix",
     "worldEvent": "theGloriousPhoenix",
     "obtainable": [
@@ -10555,7 +10638,7 @@
       "freemansEmbrace"
     ],
     "dateAdded": "2024-08-22",
-    "lastUpdated": "2025-07-29"
+    "lastUpdated": "2025-10-21"
   },
   "cannonballCarvingStation": {
     "id": "cannonballCarvingStation",
@@ -10565,13 +10648,22 @@
     "value": 1,
     "weight": 250,
     "gearScore": 35,
-    "required": {},
+    "required": {
+      "greenheartPlank": 8,
+      "phoenixBeak": 6,
+      "azureDragonHead": 6,
+      "jadePhoenixStatue": 4,
+      "yellowDragonBanner": 4,
+      "wyrmVolatileNapalm": 1,
+      "silver": 5760
+    },
+    "blueprint": "smugglerPassPinnacleStore",
     "obtainable": "williamBlackwoodRotatingStore",
     "perks": [
       "cannonballCarvingStation"
     ],
     "dateAdded": "2024-08-22",
-    "lastUpdated": "2025-07-29"
+    "lastUpdated": "2025-10-21"
   },
   "bloodyRed": {
     "id": "bloodyRed",
@@ -10581,7 +10673,16 @@
     "value": 1,
     "weight": 250,
     "gearScore": 35,
-    "required": {},
+    "required": {
+      "phoenixBeak": 8,
+      "rubber": 4,
+      "jadePhoenixStatue": 4,
+      "precisionDrillingBit": 4,
+      "eelSturdyRopes": 1,
+      "wyrmVolatileNapalm": 1,
+      "silver": 5760
+    },
+    "blueprint": "smugglerPassPinnacleStore",
     "bounty": "theGloriousPhoenix",
     "worldEvent": "theGloriousPhoenix",
     "obtainable": [
@@ -10593,7 +10694,7 @@
       "bloodyRed"
     ],
     "dateAdded": "2024-08-22",
-    "lastUpdated": "2025-09-04"
+    "lastUpdated": "2025-10-21"
   },
   "plaguebringersWard": {
     "id": "plaguebringersWard",
@@ -10615,14 +10716,15 @@
     },
     "obtainable": [
       "williamBlackwoodRotatingStore",
-      "laPestesLocker"
+      "laPestesLocker",
+      "laPestesLockerMythic"
     ],
     "worldEvent": "tidesOfTerror",
     "perks": [
       "plaguebringersWard"
     ],
     "dateAdded": "2024-08-22",
-    "lastUpdated": "2025-09-16"
+    "lastUpdated": "2025-10-21"
   },
   "quickIgnitingPowder": {
     "id": "quickIgnitingPowder",
@@ -10634,18 +10736,25 @@
     "weight": 80,
     "gearScore": 20,
     "required": {
-      "reapersToll": 300
+      "magnetiteIngot": 12,
+      "greenheartPlank": 12,
+      "roselleCloth": 12,
+      "purifiedSaltpeter": 6,
+      "naphtha": 4,
+      "gannetDenseNiter": 2,
+      "silver": 3600
     },
     "obtainable": [
       "hallowedGravestoneSaintAnne",
       "reapersCache",
       "darktideChest"
     ],
+    "blueprint": "hallowedGravestoneSaintAnne",
     "perks": [
       "quickIgnitingPowder"
     ],
     "dateAdded": "2024-08-22",
-    "lastUpdated": "2025-09-04"
+    "lastUpdated": "2025-10-21"
   },
   "ballistaFurnace1": {
     "id": "ballistaFurnace1",
@@ -10995,7 +11104,7 @@
     "season": "shadowsOfTheDeep",
     "blueprint": "seaPeopleHunterMasterOutpostLanitra",
     "worldEvent": "reaversVengeance",
-    "obtainable": ["risenZamaharibuChest","risenMegaLestariChest"],
+    "obtainable": ["risenZamaharibuChest","risenMegaLestariChest","gildedProtectorChest"],
     "type": "armor",
     "value": 1,
     "weight": 500,
@@ -12058,7 +12167,7 @@
     "type": "bombard",
     "rarity": "epic",
     "season": "ascentIntoChaos",
-    "event": ["theHonorless","moonshineLarceny","darktideLullaby"],
+    "event": ["theHonorless","moonshineLarceny","darktideLullaby","requiemOfTheLost"],
     "value": 1,
     "weight": 500,
     "gearScore": 91,
@@ -12074,10 +12183,13 @@
       "bloodiedStrongbox",
       "ascendedEventCache",
       "darktideAltarTelokPenjarah",
-      "ascendedDarktideLullabyEventCache"
+      "ascendedDarktideLullabyEventCache",
+      "hallowedGravestoneSaintAnne",
+      "ascendedRequiemOfTheLostEventCache"
     ],
     "required": {
-      "bloodiedDoubloon": 1000
+      "bloodiedDoubloon": 1000,
+      "reapersToll": 1100
     },
     "perks": [
       "afterShock",
@@ -12085,7 +12197,7 @@
       "electric1"
     ],
     "dateAdded": "2025-05-06",
-    "lastUpdated": "2025-08-17"
+    "lastUpdated": "2025-10-28"
   },
   "tearingLongGun1": {
     "id": "tearingLongGun1",
@@ -12247,7 +12359,7 @@
       "theHelm",
       "corruptDmcOfficerOutpost"
     ],
-    "obtainable": ["moonshineChest","moonshineStrongbox"],
+    "obtainable": ["moonshineChest","moonshineStrongbox","hauntedReapersCache"],
     "value": 1,
     "weight": 500,
     "gearScore": 83,
@@ -12510,9 +12622,10 @@
       "bloodiedStrongbox",
       "ascendedEventCache",
       "darktideAltarTelokPenjarah",
-      "ascendedDarktideLullabyEventCache"
+      "ascendedDarktideLullabyEventCache",
+      "ascendedRequiemOfTheLostEventCache"
     ],
-    "event": ["theHonorless","moonshineLarceny","darktideLullaby"],
+    "event": ["theHonorless","moonshineLarceny","darktideLullaby","requiemOfTheLost"],
     "value": 1,
     "weight": 500,
     "gearScore": 91,
@@ -12530,7 +12643,7 @@
       "combustion3"
     ],
     "dateAdded": "2025-05-06",
-    "lastUpdated": "2025-08-17"
+    "lastUpdated": "2025-10-28"
   },
   "fireCulverin1": {
     "id": "fireCulverin1",
@@ -13113,10 +13226,11 @@
     "season": "intoTheDragonsWake",
     "type": "chest",
     "event": "requiemOfTheLost",
+    "worldEvent": "reaperOfTheLost",
     "value": 1,
     "weight": 100,
     "dateAdded": "2025-05-11",
-    "lastUpdated": "2025-07-29"
+    "lastUpdated": "2025-10-28"
   },
   "legacyCache1": {
     "id": "legacyCache1",
@@ -13515,9 +13629,9 @@
     "rarity": "epic",
     "season": "oathsOfWar",
     "type": "consumable",
-    "event": "moonshineLarceny",
+    "event": ["moonshineLarceny","requiemOfTheLost"],
     "worldEvent": "theManicMoonshinerFleet",
-    "obtainable": "defeatingMoonshiners",
+    "obtainable": ["defeatingMoonshiners","hallowedGravestoneSaintAnne"],
     "value": 1,
     "weight": 10,
     "buffDuration": 20,
@@ -14697,7 +14811,7 @@
   },
   "sumuSunder": {
     "id": "sumuSunder",
-    "rarity": "epic",
+    "rarity": "rare",
     "season": "gutsAndGlory",
     "type": "armor",
     "value": 1,
@@ -14790,7 +14904,7 @@
     "gearScore": 25,
     "value": 1,
     "weight": 80,
-    "obtainable": "hallowedGravestoneSaintAnne",
+    "obtainable": ["hallowedGravestoneSaintAnne","hauntedReapersCache"],
     "perks": [
       "causticSpallStation"
     ],
@@ -14917,7 +15031,7 @@
     "type": "torpedo",
     "rarity": "epic",
     "season": "gutsAndGlory",
-    "obtainable": "williamBlackwoodSeasonalItemGutsAndGlory",
+    "obtainable": ["williamBlackwoodSeasonalItemGutsAndGlory","laPestesLockerMythic"],
     "value": 1,
     "weight": 500,
     "gearScore": 91,
@@ -14942,7 +15056,7 @@
     "rarity": "epic",
     "season": "gutsAndGlory",
     "event": "requiemOfTheLost",
-    "obtainable": "hallowedGravestoneSaintAnne",
+    "obtainable": ["hallowedGravestoneSaintAnne","ascendedRequiemOfTheLostEventCache","ascendedTheDrownedOneChest","hauntedReapersCache"],
     "value": 1,
     "weight": 500,
     "gearScore": 91,
@@ -14958,7 +15072,7 @@
       "piercing2"
     ],
     "dateAdded": "2025-10-21",
-    "lastUpdated": "2025-10-21"
+    "lastUpdated": "2025-10-28"
   },
   "frostwail": {
     "id": "frostwail",
@@ -15160,5 +15274,137 @@
     ],
     "dateAdded": "2025-10-21",
     "lastUpdated": "2025-10-21"
+  },
+  "ascendedRequiemOfTheLostEventCache": {
+    "id": "ascendedRequiemOfTheLostEventCache",
+    "rarity": "epic",
+    "season": "gutsAndGlory",
+    "type": "chest",
+    "event": "requiemOfTheLost",
+    "obtainable": "hallowedGravestoneSaintAnne",
+    "value": 1,
+    "weight": 100,
+    "required": {
+      "reapersToll": 1200
+    },
+    "dateAdded": "2025-10-28",
+    "lastUpdated": "2025-10-28"
+  },
+  "ascendedTheDrownedOneChest": {
+    "id": "ascendedTheDrownedOneChest",
+    "rarity": "epic",
+    "season": "gutsAndGlory",
+    "type": "chest",
+    "event": "requiemOfTheLost",
+    "obtainable": ["hallowedGravestoneSaintAnne","eventPass"],
+    "value": 1,
+    "weight": 100,
+    "required": {
+      "reapersToll": 1300
+    },
+    "dateAdded": "2025-10-28",
+    "lastUpdated": "2025-10-28"
+  },
+  "exoticArmorAscendedCache": {
+    "id": "exoticArmorAscendedCache",
+    "rarity": "epic",
+    "season": "gutsAndGlory",
+    "type": "chest",
+    "obtainable": "hallowedGravestoneSaintAnne",
+    "value": 1,
+    "weight": 100,
+    "dateAdded": "2025-10-21",
+    "lastUpdated": "2025-10-21"
+  },
+  "hauntedReapersCache": {
+    "id": "hauntedReapersCache",
+    "rarity": "epic",
+    "season": "gutsAndGlory",
+    "type": "chest",
+    "event": "requiemOfTheLost",
+    "obtainable": "unboundReaperReward",
+    "worldEvent": "reapItAndWeep",
+    "value": 1,
+    "weight": 100,
+    "dateAdded": "2025-10-28",
+    "lastUpdated": "2025-10-28"
+  },
+  "gildedProtectorChest": {
+    "id": "gildedProtectorChest",
+    "rarity": "common",
+    "season": "gutsAndGlory",
+    "type": "chest",
+    "obtainable": "seaPeopleHunterMasterOutpostLanitra",
+    "required": {
+      "primevalFang": 5
+    },
+    "value": 1,
+    "weight": 100,
+    "dateAdded": "2025-10-21",
+    "lastUpdated": "2025-10-21"
+  },
+  "slayersChest": {
+    "id": "slayersChest",
+    "rarity": "common",
+    "season": "oathsOfWar",
+    "type": "chest",
+    "obtainable": "seaPeopleHunterMasterOutpostLanitra",
+    "required": {
+      "primevalFang": 3
+    },
+    "value": 1,
+    "weight": 100,
+    "dateAdded": "2025-07-15",
+    "lastUpdated": "2025-10-21"
+  },
+  "gildedSlayersChest": {
+    "id": "gildedSlayersChest",
+    "rarity": "common",
+    "season": "oathsOfWar",
+    "type": "chest",
+    "obtainable": "seaPeopleHunterMasterOutpostLanitra",
+    "required": {
+      "primevalFang": 5
+    },
+    "value": 1,
+    "weight": 100,
+    "dateAdded": "2025-07-15",
+    "lastUpdated": "2025-10-21"
+  },
+  "laPestesLockerMythic": {
+    "id": "laPestesLockerMythic",
+    "rarity": "legendary",
+    "season": "gutsAndGlory",
+    "type": "chest",
+    "value": 1,
+    "weight": 100,
+    "dateAdded": "2025-10-21",
+    "lastUpdated": "2025-10-21"
+  },
+  "emeraldSkullTalisman": {
+    "id": "emeraldSkullTalisman",
+    "season": "gutsAndGlory",
+    "type": "quest",
+    "dateAdded": "2025-10-21",
+    "lastUpdated": "2025-10-21"
+  },
+  "eerieRing": {
+    "id": "eerieRing",
+    "season": "ragingTides",
+    "worldEvent": "anguishFromTheAbyss",
+    "type": "quest",
+    "dateAdded": "2025-10-21",
+    "lastUpdated": "2025-10-21"
+  },
+  "seaOfKingdomsCosmeticsChest": {
+    "id": "seaOfKingdomsCosmeticsChest",
+    "rarity": "legendary",
+    "season": "gutsAndGlory",
+    "type": "chest",
+    "worldEvent": "gloryAdorned",
+    "value": 1,
+    "weight": 100,
+    "dateAdded": "2025-11-18",
+    "lastUpdated": "2025-11-18"
   }
 }
