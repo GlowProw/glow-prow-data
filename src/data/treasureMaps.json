@@ -1,8 +1,778 @@
 {
+  "dragonsBack-old-1": {
+    "id": "dragonsBack-old-1",
+    "rarity": "common",
+    "category": "old",
+    "territory": "none",
+    "obtainable": [
+      "dragonsBack"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "dragonsBack-old-2": {
+    "id": "dragonsBack-old-2",
+    "rarity": "common",
+    "category": "old",
+    "territory": "none",
+    "obtainable": [
+      "dragonsBack"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "dragonsBack-old-3": {
+    "id": "dragonsBack-old-3",
+    "rarity": "common",
+    "category": "old",
+    "territory": "none",
+    "obtainable": [
+      "dragonsBack"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "dragonsBack-old-4": {
+    "id": "dragonsBack-old-4",
+    "rarity": "common",
+    "category": "old",
+    "territory": "none",
+    "obtainable": [
+      "dragonsBack"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "dragonsBack-old-5": {
+    "id": "dragonsBack-old-5",
+    "rarity": "common",
+    "category": "old",
+    "territory": "none",
+    "obtainable": [
+      "dragonsBack"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "theForgottenCandi-old-1": {
+    "id": "theForgottenCandi-old-1",
+    "rarity": "common",
+    "category": "old",
+    "territory": "none",
+    "obtainable": [
+      "theForgottenCandi"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "fortLouis-old-1": {
+    "id": "fortLouis-old-1",
+    "rarity": "common",
+    "category": "old",
+    "territory": "none",
+    "obtainable": [
+      "fortLouis"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "fortLouis-old-2": {
+    "id": "fortLouis-old-2",
+    "rarity": "common",
+    "category": "old",
+    "territory": "none",
+    "obtainable": [
+      "fortLouis"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "fortLouis-old-3": {
+    "id": "fortLouis-old-3",
+    "rarity": "common",
+    "category": "old",
+    "territory": "none",
+    "obtainable": [
+      "fortLouis"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "ileMichel-old-1": {
+    "id": "ileMichel-old-1",
+    "rarity": "common",
+    "category": "old",
+    "territory": "none",
+    "obtainable": [
+      "ileMichel"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "ruinedLighthouse-old-1": {
+    "id": "ruinedLighthouse-old-1",
+    "rarity": "common",
+    "category": "old",
+    "territory": "none",
+    "obtainable": [
+      "ruinedLighthouse"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "parujarsCry-old-1": {
+    "id": "parujarsCry-old-1",
+    "rarity": "common",
+    "category": "old",
+    "territory": "none",
+    "obtainable": [
+      "parujarsCry"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "parujarsCry-old-2": {
+    "id": "parujarsCry-old-2",
+    "rarity": "common",
+    "category": "old",
+    "territory": "none",
+    "obtainable": [
+      "parujarsCry"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "parujarsCry-old-3": {
+    "id": "parujarsCry-old-3",
+    "rarity": "common",
+    "category": "old",
+    "territory": "none",
+    "obtainable": [
+      "parujarsCry"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "theOubliette-old-1": {
+    "id": "theOubliette-old-1",
+    "rarity": "common",
+    "category": "old",
+    "territory": "none",
+    "obtainable": [
+      "theOubliette"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "returnFleetBight-old-1": {
+    "id": "returnFleetBight-old-1",
+    "rarity": "common",
+    "category": "old",
+    "territory": "none",
+    "obtainable": [
+      "returnFleetBight"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "returnFleetBight-old-2": {
+    "id": "returnFleetBight-old-2",
+    "rarity": "common",
+    "category": "old",
+    "territory": "none",
+    "obtainable": [
+      "returnFleetBight"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "returnFleetBight-old-3": {
+    "id": "returnFleetBight-old-3",
+    "rarity": "common",
+    "category": "old",
+    "territory": "none",
+    "obtainable": [
+      "returnFleetBight"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "moyenneCrique-old-1": {
+    "id": "moyenneCrique-old-1",
+    "rarity": "common",
+    "category": "old",
+    "territory": "none",
+    "obtainable": [
+      "moyenneCrique"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "moyenneCrique-old-2": {
+    "id": "moyenneCrique-old-2",
+    "rarity": "common",
+    "category": "old",
+    "territory": "none",
+    "obtainable": [
+      "moyenneCrique"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "moyenneCrique-old-3": {
+    "id": "moyenneCrique-old-3",
+    "rarity": "common",
+    "category": "old",
+    "territory": "none",
+    "obtainable": [
+      "moyenneCrique"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "moyenneCrique-old-4": {
+    "id": "moyenneCrique-old-4",
+    "rarity": "common",
+    "category": "old",
+    "territory": "none",
+    "obtainable": [
+      "moyenneCrique"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "moyenneCrique-old-5": {
+    "id": "moyenneCrique-old-5",
+    "rarity": "common",
+    "category": "old",
+    "territory": "none",
+    "obtainable": [
+      "moyenneCrique"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "theNavigatorsCross-old-1": {
+    "id": "theNavigatorsCross-old-1",
+    "rarity": "common",
+    "category": "old",
+    "territory": "none",
+    "obtainable": [
+      "theNavigatorsCross"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "theNavigatorsCross-old-2": {
+    "id": "theNavigatorsCross-old-2",
+    "rarity": "common",
+    "category": "old",
+    "territory": "none",
+    "obtainable": [
+      "theNavigatorsCross"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "theNavigatorsCross-old-3": {
+    "id": "theNavigatorsCross-old-3",
+    "rarity": "common",
+    "category": "old",
+    "territory": "none",
+    "obtainable": [
+      "theNavigatorsCross"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "theNavigatorsCross-old-4": {
+    "id": "theNavigatorsCross-old-4",
+    "rarity": "common",
+    "category": "old",
+    "territory": "none",
+    "obtainable": [
+      "theNavigatorsCross"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "theNavigatorsCross-old-5": {
+    "id": "theNavigatorsCross-old-5",
+    "rarity": "common",
+    "category": "old",
+    "territory": "none",
+    "obtainable": [
+      "theNavigatorsCross"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+
+  "sunkenGoldmine-old-1": {
+    "id": "sunkenGoldmine-old-1",
+    "rarity": "common",
+    "category": "old",
+    "territory": "none",
+    "obtainable": [
+      "sunkenGoldmine"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "sunkenGoldmine-old-2": {
+    "id": "sunkenGoldmine-old-2",
+    "rarity": "common",
+    "category": "old",
+    "territory": "none",
+    "obtainable": [
+      "sunkenGoldmine"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "sunkenGoldmine-old-3": {
+    "id": "sunkenGoldmine-old-3",
+    "rarity": "common",
+    "category": "old",
+    "territory": "none",
+    "obtainable": [
+      "sunkenGoldmine"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "sunkenGoldmine-old-4": {
+    "id": "sunkenGoldmine-old-4",
+    "rarity": "common",
+    "category": "old",
+    "territory": "none",
+    "obtainable": [
+      "sunkenGoldmine"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "sunkenGoldmine-old-5": {
+    "id": "sunkenGoldmine-old-5",
+    "rarity": "common",
+    "category": "old",
+    "territory": "none",
+    "obtainable": [
+      "sunkenGoldmine"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "sacredTree-old-1": {
+    "id": "sacredTree-old-5",
+    "rarity": "common",
+    "category": "old",
+    "territory": "none",
+    "obtainable": [
+      "sacredTree"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "kaaMangrove-old-1": {
+    "id": "kaaMangrove-old-1",
+    "rarity": "common",
+    "category": "old",
+    "territory": "none",
+    "obtainable": [
+      "kaaMangrove"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "pillarTomb-old-1": {
+    "id": "pillarTomb-old-1",
+    "rarity": "common",
+    "category": "old",
+    "territory": "none",
+    "obtainable": [
+      "pillarTomb"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "pillarTomb-old-2": {
+    "id": "pillarTomb-old-2",
+    "rarity": "common",
+    "category": "old",
+    "territory": "none",
+    "obtainable": [
+      "pillarTomb"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "pillarTomb-old-3": {
+    "id": "pillarTomb-old-3",
+    "rarity": "common",
+    "category": "old",
+    "territory": "none",
+    "obtainable": [
+      "pillarTomb"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "lostCityOfPrei-old-1": {
+    "id": "lostCityOfPrei-old-1",
+    "rarity": "common",
+    "category": "old",
+    "territory": "none",
+    "obtainable": [
+      "lostCityOfPrei"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "eldersCave-old-1": {
+    "id": "eldersCave-old-1",
+    "rarity": "common",
+    "category": "old",
+    "territory": "none",
+    "obtainable": [
+      "eldersCave"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "kokokTerapung-old-1": {
+    "id": "kokokTerapung-old-1",
+    "rarity": "common",
+    "category": "old",
+    "territory": "none",
+    "obtainable": [
+      "kokokTerapung"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "royalBurialGround-old-1": {
+    "id": "royalBurialGround-old-1",
+    "rarity": "common",
+    "category": "old",
+    "territory": "none",
+    "obtainable": [
+      "royalBurialGround"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "royalBurialGround-old-2": {
+    "id": "royalBurialGround-old-2",
+    "rarity": "common",
+    "category": "old",
+    "territory": "none",
+    "obtainable": [
+      "royalBurialGround"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "ankohonana-old-1": {
+    "id": "ankohonana-old-1",
+    "rarity": "common",
+    "category": "old",
+    "territory": "none",
+    "obtainable": [
+      "ankohonana"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "ankohonana-old-2": {
+    "id": "ankohonana-old-2",
+    "rarity": "common",
+    "category": "old",
+    "territory": "none",
+    "obtainable": [
+      "ankohonana"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "ankohonana-old-3": {
+    "id": "ankohonana-old-3",
+    "rarity": "common",
+    "category": "old",
+    "territory": "none",
+    "obtainable": [
+      "ankohonana"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "ankohonana-old-4": {
+    "id": "ankohonana-old-4",
+    "rarity": "common",
+    "category": "old",
+    "territory": "none",
+    "obtainable": [
+      "ankohonana"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "lanitra-old-1": {
+    "id": "lanitra-old-1",
+    "rarity": "common",
+    "category": "old",
+    "territory": "none",
+    "obtainable": [
+      "lanitra"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "lanitra-old-2": {
+    "id": "lanitra-old-2",
+    "rarity": "common",
+    "category": "old",
+    "territory": "none",
+    "obtainable": [
+      "lanitra"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "lanitra-old-3": {
+    "id": "lanitra-old-3",
+    "rarity": "common",
+    "category": "old",
+    "territory": "none",
+    "obtainable": [
+      "lanitra"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "lanitra-old-4": {
+    "id": "lanitra-old-4",
+    "rarity": "common",
+    "category": "old",
+    "territory": "none",
+    "obtainable": [
+      "lanitra"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "lanitra-old-5": {
+    "id": "lanitra-old-5",
+    "rarity": "common",
+    "category": "old",
+    "territory": "none",
+    "obtainable": [
+      "lanitra"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "motherOfShipwrecks-old-1": {
+    "id": "motherOfShipwrecks-old-1",
+    "rarity": "common",
+    "category": "old",
+    "territory": "none",
+    "obtainable": [
+      "motherOfShipwrecks"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "motherOfShipwrecks-old-2": {
+    "id": "motherOfShipwrecks-old-2",
+    "rarity": "common",
+    "category": "old",
+    "territory": "none",
+    "obtainable": [
+      "motherOfShipwrecks"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "motherOfShipwrecks-old-3": {
+    "id": "motherOfShipwrecks-old-3",
+    "rarity": "common",
+    "category": "old",
+    "territory": "none",
+    "obtainable": [
+      "motherOfShipwrecks"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "grandeFalaise-old-1": {
+    "id": "grandeFalaise-old-1",
+    "rarity": "common",
+    "category": "old",
+    "territory": "none",
+    "obtainable": [
+      "grandeFalaise"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "grandeFalaise-old-2": {
+    "id": "grandeFalaise-old-2",
+    "rarity": "common",
+    "category": "old",
+    "territory": "none",
+    "obtainable": [
+      "grandeFalaise"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "theNecropolis-old-1": {
+    "id": "theNecropolis-old-1",
+    "rarity": "common",
+    "category": "old",
+    "territory": "none",
+    "obtainable": [
+      "theNecropolis"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "theNecropolis-old-2": {
+    "id": "theNecropolis-old-2",
+    "rarity": "common",
+    "category": "old",
+    "territory": "none",
+    "obtainable": [
+      "theNecropolis"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "poachersCache-old-1": {
+    "id": "poachersCache-old-1",
+    "rarity": "common",
+    "category": "old",
+    "territory": "none",
+    "obtainable": [
+      "poachersCache"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "poachersCache-old-2": {
+    "id": "poachersCache-old-2",
+    "rarity": "common",
+    "category": "old",
+    "territory": "none",
+    "obtainable": [
+      "poachersCache"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "poachersCache-old-3": {
+    "id": "poachersCache-old-3",
+    "rarity": "common",
+    "category": "old",
+    "territory": "none",
+    "obtainable": [
+      "poachersCache"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "poachersCache-old-4": {
+    "id": "poachersCache-old-4",
+    "rarity": "common",
+    "category": "old",
+    "territory": "none",
+    "obtainable": [
+      "poachersCache"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+
   "pillarTomb-veryOld-1": {
     "id": "pillarTomb-veryOld-1",
     "rarity": "epic",
-    "category": "old",
+    "category": "veryOld",
+    "territory": "none",
+    "obtainable": [
+      "pillarTomb"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "pillarTomb-veryOld-2": {
+    "id": "pillarTomb-veryOld-2",
+    "rarity": "epic",
+    "category": "veryOld",
     "territory": "none",
     "obtainable": [
       "pillarTomb"
@@ -14,7 +784,7 @@
   "bukitCandi-veryOld-1": {
     "id": "bukitCandi-veryOld-1",
     "rarity": "epic",
-    "category": "old",
+    "category": "veryOld",
     "territory": "none",
     "obtainable": [
       "bukitCandi"
@@ -26,7 +796,7 @@
   "parujarsCry-veryOld-1": {
     "id": "parujarsCry-veryOld-1",
     "rarity": "epic",
-    "category": "old",
+    "category": "veryOld",
     "territory": "none",
     "obtainable": [
       "parujarsCry"
@@ -38,7 +808,7 @@
   "motherOfShipwrecks-veryOld-1": {
     "id": "motherOfShipwrecks-veryOld-1",
     "rarity": "epic",
-    "category": "old",
+    "category": "veryOld",
     "territory": "none",
     "obtainable": [
       "motherOfShipwrecks"
@@ -50,7 +820,7 @@
   "threeBrothers-veryOld-1": {
     "id": "threeBrothers-veryOld-1",
     "rarity": "epic",
-    "category": "old",
+    "category": "veryOld",
     "territory": "none",
     "obtainable": [
       "threeBrothers"
@@ -62,7 +832,7 @@
   "threeBrothers-veryOld-2": {
     "id": "threeBrothers-veryOld-2",
     "rarity": "epic",
-    "category": "old",
+    "category": "veryOld",
     "territory": "none",
     "obtainable": [
       "threeBrothers"
@@ -74,7 +844,43 @@
   "returnFleetBight-veryOld-1": {
     "id": "returnFleetBight-veryOld-1",
     "rarity": "epic",
-    "category": "old",
+    "category": "veryOld",
+    "territory": "none",
+    "obtainable": [
+      "returnFleetBight"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "returnFleetBight-veryOld-2": {
+    "id": "returnFleetBight-veryOld-2",
+    "rarity": "epic",
+    "category": "veryOld",
+    "territory": "none",
+    "obtainable": [
+      "returnFleetBight"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "returnFleetBight-veryOld-3": {
+    "id": "returnFleetBight-veryOld-3",
+    "rarity": "epic",
+    "category": "veryOld",
+    "territory": "none",
+    "obtainable": [
+      "returnFleetBight"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "returnFleetBight-veryOld-4": {
+    "id": "returnFleetBight-veryOld-4",
+    "rarity": "epic",
+    "category": "veryOld",
     "territory": "none",
     "obtainable": [
       "returnFleetBight"
@@ -86,7 +892,7 @@
   "kaaMangrove-veryOld-1": {
     "id": "kaaMangrove-veryOld-1",
     "rarity": "epic",
-    "category": "old",
+    "category": "veryOld",
     "territory": "none",
     "obtainable": [
       "kaaMangrove"
@@ -98,7 +904,19 @@
   "lanitra-veryOld-1": {
     "id": "lanitra-veryOld-1",
     "rarity": "epic",
-    "category": "old",
+    "category": "veryOld",
+    "territory": "none",
+    "obtainable": [
+      "lanitra"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "lanitra-veryOld-2": {
+    "id": "lanitra-veryOld-2",
+    "rarity": "epic",
+    "category": "veryOld",
     "territory": "none",
     "obtainable": [
       "lanitra"
@@ -110,7 +928,7 @@
   "motherOfShipwrecks-veryOld-2": {
     "id": "motherOfShipwrecks-veryOld-2",
     "rarity": "epic",
-    "category": "old",
+    "category": "veryOld",
     "territory": "none",
     "obtainable": [
       "returnFleetBight"
@@ -122,7 +940,31 @@
   "motherOfShipwrecks-veryOld-3": {
     "id": "motherOfShipwrecks-veryOld-3",
     "rarity": "epic",
-    "category": "old",
+    "category": "veryOld",
+    "territory": "none",
+    "obtainable": [
+      "returnFleetBight"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "motherOfShipwrecks-veryOld-4": {
+    "id": "motherOfShipwrecks-veryOld-4",
+    "rarity": "epic",
+    "category": "veryOld",
+    "territory": "none",
+    "obtainable": [
+      "returnFleetBight"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "motherOfShipwrecks-veryOld-5": {
+    "id": "motherOfShipwrecks-veryOld-5",
+    "rarity": "epic",
+    "category": "veryOld",
     "territory": "none",
     "obtainable": [
       "returnFleetBight"
@@ -134,7 +976,7 @@
   "parujarsCry-veryOld-2": {
     "id": "parujarsCry-veryOld-2",
     "rarity": "epic",
-    "category": "old",
+    "category": "veryOld",
     "territory": "none",
     "obtainable": [
       "parujarsCry"
@@ -146,7 +988,19 @@
   "parujarsCry-veryOld-3": {
     "id": "parujarsCry-veryOld-3",
     "rarity": "epic",
-    "category": "old",
+    "category": "veryOld",
+    "territory": "none",
+    "obtainable": [
+      "parujarsCry"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "parujarsCry-veryOld-4": {
+    "id": "parujarsCry-veryOld-4",
+    "rarity": "epic",
+    "category": "veryOld",
     "territory": "none",
     "obtainable": [
       "parujarsCry"
@@ -158,7 +1012,7 @@
   "moyenneCrique-veryOld-1": {
     "id": "moyenneCrique-veryOld-1",
     "rarity": "epic",
-    "category": "old",
+    "category": "veryOld",
     "territory": "none",
     "obtainable": [
       "moyenneCrique"
@@ -170,7 +1024,55 @@
   "dragonsBack-veryOld-1": {
     "id": "dragonsBack-veryOld-1",
     "rarity": "epic",
-    "category": "old",
+    "category": "veryOld",
+    "territory": "none",
+    "obtainable": [
+      "dragonsBack"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "dragonsBack-veryOld-2": {
+    "id": "dragonsBack-veryOld-2",
+    "rarity": "epic",
+    "category": "veryOld",
+    "territory": "none",
+    "obtainable": [
+      "dragonsBack"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "dragonsBack-veryOld-3": {
+    "id": "dragonsBack-veryOld-3",
+    "rarity": "epic",
+    "category": "veryOld",
+    "territory": "none",
+    "obtainable": [
+      "dragonsBack"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "dragonsBack-veryOld-4": {
+    "id": "dragonsBack-veryOld-4",
+    "rarity": "epic",
+    "category": "veryOld",
+    "territory": "none",
+    "obtainable": [
+      "dragonsBack"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "dragonsBack-veryOld-5": {
+    "id": "dragonsBack-veryOld-5",
+    "rarity": "epic",
+    "category": "veryOld",
     "territory": "none",
     "obtainable": [
       "dragonsBack"
@@ -182,7 +1084,7 @@
   "kelelawarChamber-veryOld-1": {
     "id": "kelelawarChamber-veryOld-1",
     "rarity": "epic",
-    "category": "old",
+    "category": "veryOld",
     "territory": "none",
     "obtainable": [
       "kelelawarChamber"
@@ -194,7 +1096,7 @@
   "ileMichel-veryOld-1": {
     "id": "ileMichel-veryOld-1",
     "rarity": "epic",
-    "category": "old",
+    "category": "veryOld",
     "territory": "none",
     "obtainable": [
       "ileMichel"
@@ -203,22 +1105,11 @@
     "dateAdded": "2025-10-24",
     "lastUpdated": "2025-10-24"
   },
-  "dragonsBack-veryOld-2": {
-    "id": "dragonsBack-veryOld-2",
-    "rarity": "epic",
-    "category": "old",
-    "territory": "none",
-    "obtainable": [
-      "dragonsBack"
-    ],
-    "type": "treasure",
-    "dateAdded": "2025-10-24",
-    "lastUpdated": "2025-10-24"
-  },
+
   "royalBurialGround-veryOld-1": {
     "id": "royalBurialGround-veryOld-1",
     "rarity": "epic",
-    "category": "old",
+    "category": "veryOld",
     "territory": "none",
     "obtainable": [
       "royalBurialGround"
@@ -230,7 +1121,19 @@
   "royalBurialGround-veryOld-2": {
     "id": "royalBurialGround-veryOld-2",
     "rarity": "epic",
-    "category": "old",
+    "category": "veryOld",
+    "territory": "none",
+    "obtainable": [
+      "royalBurialGround"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "royalBurialGround-veryOld-3": {
+    "id": "royalBurialGround-veryOld-3",
+    "rarity": "epic",
+    "category": "veryOld",
     "territory": "none",
     "obtainable": [
       "royalBurialGround"
@@ -242,7 +1145,19 @@
   "theNavigatorsCross-veryOld-1": {
     "id": "theNavigatorsCross-veryOld-1",
     "rarity": "epic",
-    "category": "old",
+    "category": "veryOld",
+    "territory": "none",
+    "obtainable": [
+      "theNavigatorsCross"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "theNavigatorsCross-veryOld-2": {
+    "id": "theNavigatorsCross-veryOld-2",
+    "rarity": "epic",
+    "category": "veryOld",
     "territory": "none",
     "obtainable": [
       "theNavigatorsCross"
@@ -254,10 +1169,22 @@
   "kokokTerapung-veryOld-1": {
     "id": "kokokTerapung-veryOld-1",
     "rarity": "epic",
-    "category": "old",
+    "category": "veryOld",
     "territory": "none",
     "obtainable": [
       "kokokTerapung"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "theForgottenCandi-veryOld-1": {
+    "id": "theForgottenCandi-veryOld-1",
+    "rarity": "epic",
+    "category": "veryOld",
+    "territory": "none",
+    "obtainable": [
+      "theForgottenCandi"
     ],
     "type": "treasure",
     "dateAdded": "2025-10-24",
@@ -266,7 +1193,7 @@
   "kokokTerapung-veryOld-2": {
     "id": "kokokTerapung-veryOld-2",
     "rarity": "epic",
-    "category": "old",
+    "category": "veryOld",
     "territory": "none",
     "obtainable": [
       "kokokTerapung"
@@ -275,6 +1202,223 @@
     "dateAdded": "2025-10-24",
     "lastUpdated": "2025-10-24"
   },
+  "dutchmansCamp-veryOld-1": {
+    "id": "dutchmansCamp-veryOld-1",
+    "rarity": "epic",
+    "category": "veryOld",
+    "territory": "none",
+    "obtainable": [
+      "dutchmansCamp"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "dutchmansCamp-veryOld-2": {
+    "id": "dutchmansCamp-veryOld-2",
+    "rarity": "epic",
+    "category": "veryOld",
+    "territory": "none",
+    "obtainable": [
+      "dutchmansCamp"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "khmoyEstate-veryOld-1": {
+    "id": "khmoyEstate-veryOld-1",
+    "rarity": "epic",
+    "category": "veryOld",
+    "territory": "none",
+    "obtainable": [
+      "khmoyEstate"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "khmoyEstate-veryOld-2": {
+    "id": "khmoyEstate-veryOld-2",
+    "rarity": "epic",
+    "category": "veryOld",
+    "territory": "none",
+    "obtainable": [
+      "khmoyEstate"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "varonaFalls-veryOld-1": {
+    "id": "varonaFalls-veryOld-1",
+    "rarity": "epic",
+    "category": "veryOld",
+    "territory": "none",
+    "obtainable": [
+      "varonaFalls"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "varonaFalls-veryOld-2": {
+    "id": "varonaFalls-veryOld-2",
+    "rarity": "epic",
+    "category": "veryOld",
+    "territory": "none",
+    "obtainable": [
+      "varonaFalls"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "varonaFalls-veryOld-3": {
+    "id": "varonaFalls-veryOld-3",
+    "rarity": "epic",
+    "category": "veryOld",
+    "territory": "none",
+    "obtainable": [
+      "varonaFalls"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "sunkenGoldmine-veryOld-1": {
+    "id": "sunkenGoldmine-veryOld-1",
+    "rarity": "epic",
+    "category": "veryOld",
+    "territory": "none",
+    "obtainable": [
+      "sunkenGoldmine"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "sunkenGoldmine-veryOld-2": {
+    "id": "sunkenGoldmine-veryOld-2",
+    "rarity": "epic",
+    "category": "veryOld",
+    "territory": "none",
+    "obtainable": [
+      "sunkenGoldmine"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "sunkenGoldmine-veryOld-3": {
+    "id": "sunkenGoldmine-veryOld-3",
+    "rarity": "epic",
+    "category": "veryOld",
+    "territory": "none",
+    "obtainable": [
+      "sunkenGoldmine"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "sacredTree-veryOld-1": {
+    "id": "sacredTree-veryOld-1",
+    "rarity": "epic",
+    "category": "veryOld",
+    "territory": "none",
+    "obtainable": [
+      "sacredTree"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "sacredTree-veryOld-2": {
+    "id": "sacredTree-veryOld-2",
+    "rarity": "epic",
+    "category": "veryOld",
+    "territory": "none",
+    "obtainable": [
+      "sacredTree"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "fortLouis-veryOld-1": {
+    "id": "fortLouis-veryOld-1",
+    "rarity": "epic",
+    "category": "veryOld",
+    "territory": "none",
+    "obtainable": [
+      "fortLouis"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "fortLouis-veryOld-2": {
+    "id": "fortLouis-veryOld-2",
+    "rarity": "epic",
+    "category": "veryOld",
+    "territory": "none",
+    "obtainable": [
+      "fortLouis"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "grandeFalaise-veryOld-1": {
+    "id": "grandeFalaise-veryOld-1",
+    "rarity": "epic",
+    "category": "veryOld",
+    "territory": "none",
+    "obtainable": [
+      "grandeFalaise"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "ruinedLighthouse-veryOld-1": {
+    "id": "ruinedLighthouse-veryOld-1",
+    "rarity": "epic",
+    "category": "veryOld",
+    "territory": "none",
+    "obtainable": [
+      "ruinedLighthouse"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "ruinedLighthouse-veryOld-2": {
+    "id": "ruinedLighthouse-veryOld-2",
+    "rarity": "epic",
+    "category": "veryOld",
+    "territory": "none",
+    "obtainable": [
+      "ruinedLighthouse"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "ruinedLighthouse-veryOld-3": {
+    "id": "ruinedLighthouse-veryOld-3",
+    "rarity": "epic",
+    "category": "veryOld",
+    "territory": "none",
+    "obtainable": [
+      "ruinedLighthouse"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+
   "sacredTree-recent-1": {
     "id": "sacredTree-recent-1",
     "rarity": "common",
@@ -295,6 +1439,66 @@
     "territory": "rovaHill",
     "obtainable": [
       "ruinedLighthouse"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "sunkenGoldmine-recent-1": {
+    "id": "sunkenGoldmine-recent-1",
+    "rarity": "common",
+    "category": "recent",
+    "territory": "rovaHill",
+    "obtainable": [
+      "sunkenGoldmine"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "theNecropolis-recent-1": {
+    "id": "theNecropolis-recent-1",
+    "rarity": "common",
+    "category": "recent",
+    "territory": "rovaHill",
+    "obtainable": [
+      "theNecropolis"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "theNecropolis-recent-2": {
+    "id": "theNecropolis-recent-2",
+    "rarity": "common",
+    "category": "recent",
+    "territory": "rovaHill",
+    "obtainable": [
+      "theNecropolis"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "kelelawarChamber-recent-1": {
+    "id": "kelelawarChamber-recent-1",
+    "rarity": "common",
+    "category": "recent",
+    "territory": "rovaHill",
+    "obtainable": [
+      "kelelawarChamber"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "parujarsCry-recent-1": {
+    "id": "parujarsCry-recent-1",
+    "rarity": "common",
+    "category": "recent",
+    "territory": "rovaHill",
+    "obtainable": [
+      "parujarsCry"
     ],
     "type": "treasure",
     "dateAdded": "2025-10-24",
