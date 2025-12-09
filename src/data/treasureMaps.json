@@ -335,7 +335,6 @@
     "dateAdded": "2025-10-24",
     "lastUpdated": "2025-10-24"
   },
-
   "sunkenGoldmine-old-1": {
     "id": "sunkenGoldmine-old-1",
     "rarity": "common",
@@ -397,7 +396,7 @@
     "lastUpdated": "2025-10-24"
   },
   "sacredTree-old-1": {
-    "id": "sacredTree-old-5",
+    "id": "sacredTree-old-1",
     "rarity": "common",
     "category": "old",
     "territory": "none",
@@ -516,6 +515,18 @@
     "dateAdded": "2025-10-24",
     "lastUpdated": "2025-10-24"
   },
+  "royalBurialGround-old-3": {
+    "id": "royalBurialGround-old-3",
+    "rarity": "common",
+    "category": "old",
+    "territory": "none",
+    "obtainable": [
+      "royalBurialGround"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
   "ankohonana-old-1": {
     "id": "ankohonana-old-1",
     "rarity": "common",
@@ -612,8 +623,32 @@
     "dateAdded": "2025-10-24",
     "lastUpdated": "2025-10-24"
   },
+  "lanitra-old-4-2": {
+    "id": "lanitra-old-4-2",
+    "rarity": "common",
+    "category": "old",
+    "territory": "none",
+    "obtainable": [
+      "lanitra"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
   "lanitra-old-5": {
     "id": "lanitra-old-5",
+    "rarity": "common",
+    "category": "old",
+    "territory": "none",
+    "obtainable": [
+      "lanitra"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "lanitra-old-6": {
+    "id": "lanitra-old-6",
     "rarity": "common",
     "category": "old",
     "territory": "none",
@@ -756,7 +791,6 @@
     "dateAdded": "2025-10-24",
     "lastUpdated": "2025-10-24"
   },
-
   "pillarTomb-veryOld-1": {
     "id": "pillarTomb-veryOld-1",
     "rarity": "epic",
@@ -1105,7 +1139,6 @@
     "dateAdded": "2025-10-24",
     "lastUpdated": "2025-10-24"
   },
-
   "royalBurialGround-veryOld-1": {
     "id": "royalBurialGround-veryOld-1",
     "rarity": "epic",
@@ -1418,7 +1451,19 @@
     "dateAdded": "2025-10-24",
     "lastUpdated": "2025-10-24"
   },
-
+  "ruinsOfLukKhun-recent-1": {
+    "id": "ruinsOfLukKhun-recent-1",
+    "rarity": "common",
+    "category": "recent",
+    "territory": "none",
+    "territorie": "rovaHill",
+    "obtainable": [
+      "ruinsOfLukKhun"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
   "sacredTree-recent-1": {
     "id": "sacredTree-recent-1",
     "rarity": "common",
@@ -1535,6 +1580,162 @@
     "territory": "none",
     "obtainable": [
       "kokokTerapung"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "dragonsBack-legendary-1": {
+    "id": "dragonsBack-legendary-1",
+    "rarity": "legendary",
+    "category": "legend",
+    "territory": "none",
+    "obtainable": [
+      "dragonsBack"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "theForgottenCandi-legendary-1": {
+    "id": "theForgottenCandi-legendary-1",
+    "rarity": "legendary",
+    "category": "legend",
+    "territory": "none",
+    "obtainable": [
+      "theForgottenCandi"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "ruinedLighthouse-legendary-1": {
+    "id": "ruinedLighthouse-legendary-1",
+    "rarity": "legendary",
+    "category": "legend",
+    "territory": "none",
+    "obtainable": [
+      "ruinedLighthouse"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "sunkenGoldmine-legendary-1": {
+    "id": "sunkenGoldmine-legendary-1",
+    "rarity": "legendary",
+    "category": "legend",
+    "territory": "none",
+    "obtainable": [
+      "sunkenGoldmine"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "lanitra-legendary-1": {
+    "id": "lanitra-legendary-1",
+    "rarity": "legendary",
+    "category": "legend",
+    "territory": "none",
+    "obtainable": [
+      "lanitra"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "lostCityOfPrei-legendary-1": {
+    "id": "lostCityOfPrei-legendary-1",
+    "rarity": "legendary",
+    "category": "legend",
+    "territory": "none",
+    "obtainable": [
+      "lostCityOfPrei"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "grandeFalaise-legendary-1": {
+    "id": "grandeFalaise-legendary-1",
+    "rarity": "legendary",
+    "category": "legend",
+    "territory": "none",
+    "obtainable": [
+      "grandeFalaise"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "theNecropolis-legendary-1": {
+    "id": "theNecropolis-legendary-1",
+    "rarity": "legendary",
+    "category": "legend",
+    "territory": "none",
+    "obtainable": [
+      "theNecropolis"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "bukitCandi-legendary-1": {
+    "id": "bukitCandi-legendary-1",
+    "rarity": "legendary",
+    "category": "legend",
+    "territory": "none",
+    "obtainable": [
+      "bukitCandi"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "returnFleetBight-legendary-1": {
+    "id": "returnFleetBight-legendary-1",
+    "rarity": "legendary",
+    "category": "legend",
+    "territory": "none",
+    "obtainable": [
+      "returnFleetBight"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "kaaMangrove-legendary-1": {
+    "id": "kaaMangrove-legendary-1",
+    "rarity": "legendary",
+    "category": "legend",
+    "territory": "none",
+    "obtainable": [
+      "kaaMangrove"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "greatUkuta-legendary-1": {
+    "id": "greatUkuta-legendary-1",
+    "rarity": "legendary",
+    "category": "legend",
+    "territory": "none",
+    "obtainable": [
+      "greatUkuta"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "threeBrothers-legendary-1": {
+    "id": "threeBrothers-legendary-1",
+    "rarity": "legendary",
+    "category": "legend",
+    "territory": "none",
+    "obtainable": [
+      "threeBrothers"
     ],
     "type": "treasure",
     "dateAdded": "2025-10-24",
