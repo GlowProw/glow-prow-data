@@ -1,9 +1,10 @@
 import seasonsData from "../data/seasons.json";
+import {BaseType} from "./BaseType";
 
 /**
  * 赛季
  */
-export class Season {
+export class Season extends BaseType {
     constructor(
         // 赛季id
         public readonly id: string,
@@ -14,6 +15,8 @@ export class Season {
         // 赛季结束
         public readonly endDate: Date,
     ) {
+        super()
+        this.entityType = Season;
         return this
     }
 

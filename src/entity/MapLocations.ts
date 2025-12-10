@@ -2,12 +2,16 @@ import mapLocationsData from '../data/mapLocations.json'
 import {MapLocationCategory} from "../types/Category";
 import {Season, Seasons} from "./Seasons";
 import {Faction, Factions} from "./Factions";
-import {MapDifficulty} from "../types/MapLocationProperties";
+import {LootItem, MapDifficulty} from "../types/MapLocationProperties";
+import {BaseType} from "./BaseType";
+import {Items} from "./Items";
+import {Materials} from "./Materials";
+import {Commodities} from "./Commodities";
 
 /**
  * 地图坐标点
  */
-export class MapLocation {
+export class MapLocation extends BaseType {
     constructor(
         // 坐标id
         public readonly id: string,
@@ -32,6 +36,8 @@ export class MapLocation {
         // 基础等级
         public readonly baseRank?: number,
     ) {
+        super();
+        this.entityType = MapLocation;
         return this
     }
 
@@ -39,6 +45,16 @@ export class MapLocation {
     public static fromRawData(rawData: any): MapLocation {
         const season = rawData.season as keyof typeof Seasons;
         const faction = rawData.faction as keyof typeof Factions;
+        const possibleLoot = Object.fromEntries(
+            Object.entries(rawData.possibleLoot || {}).map(([key, data]: [string, any]) => {
+                const {lv, ...rest} = data;
+                let d = null
+                if (key in Items) d = Items[key as keyof typeof Items];
+                if (key in Materials) d = Materials[key as keyof typeof Materials];
+                if (key in Commodities) d = Commodities[key as keyof typeof Commodities];
+                return [key, new LootItem(d, {lv, ...rest})];
+            })
+        );
 
         return new MapLocation(
             rawData.id,
@@ -48,7 +64,7 @@ export class MapLocation {
             new Date(rawData.dateAdded),
             new Date(rawData.lastUpdated),
             rawData.difficulty,
-            rawData.possibleLoot,
+            possibleLoot,
             Seasons[season],
             rawData.faction ? Factions[faction] : undefined,
             rawData.baseRank,

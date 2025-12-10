@@ -7,8 +7,9 @@ import {Material, Materials} from './Materials';
 import {Season, Seasons} from './Seasons';
 import {WorldEvent, WorldEvents} from './WorldEvents';
 import {Faction, Factions} from "./Factions";
+import {BaseType} from "./BaseType";
 
-export class Item {
+export class Item extends BaseType {
     constructor(
         public readonly id: string,
         public readonly type: GeneralType | WeaponType | FurnitureType,
@@ -41,6 +42,8 @@ export class Item {
         public readonly faction?: Faction,
         public readonly unobtainable?: boolean
     ) {
+        super();
+        this.entityType = Item;
         return this
     }
 
@@ -96,11 +99,11 @@ export class Item {
         );
     }
 
-    public static updateObtainableWithItems(key:string, rawData:any, items: Record<string, Item>) {
-        if(!rawData.obtainable) return;
-        if(Array.isArray(rawData.obtainable)) {
+    public static updateObtainableWithItems(key: string, rawData: any, items: Record<string, Item>) {
+        if (!rawData.obtainable) return;
+        if (Array.isArray(rawData.obtainable)) {
             const obtainable = new Array<Array<string | Item> | string | Item>();
-            for(const obtainableKey of rawData.obtainable) {
+            for (const obtainableKey of rawData.obtainable) {
                 if (Array.isArray(obtainableKey)) {
                     const obtainableGroup = new Array<string | Item>();
                     for (const subKey of obtainableKey) {

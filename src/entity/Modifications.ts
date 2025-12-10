@@ -1,6 +1,7 @@
 import modificationsData from '../data/modifications.json';
 import {DamageType, EffectType, Grade, RepairAccess} from "../types/ModificationProperties";
 import {WeaponType} from "../types/ItemProperties";
+import {BaseType} from "./BaseType";
 
 export type ModificationVariant = {
     itemType: WeaponType[];
@@ -10,7 +11,7 @@ export type ModificationVariant = {
 /**
  * 模组
  */
-export class Modification {
+export class Modification extends BaseType {
     // 模组id
     readonly id: string;
     readonly effectType: EffectType | undefined;
@@ -27,6 +28,8 @@ export class Modification {
 
     constructor(id: any, effectType: any, damageType: any,
                 requiredDamageType: any, variants: any, dropOnly: any, repairAccess: any, grade: any, dateAdded: Date, lastUpdated: Date) {
+        super();
+
         this.id = id;
         this.effectType = effectType;
         this.damageType = damageType;
@@ -37,6 +40,9 @@ export class Modification {
         this.grade = grade;
         this.dateAdded = dateAdded;
         this.lastUpdated = lastUpdated;
+
+        this.entityType = Modification;
+        return this
     }
 
     static fromRawData(rawData: any) {

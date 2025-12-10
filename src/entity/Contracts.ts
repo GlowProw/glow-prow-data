@@ -1,13 +1,16 @@
 import contractsData from "../data/contracts.json";
+import {BaseType} from "./BaseType";
 
 /**
  * 合同
  */
-export class Contract {
+export class Contract extends BaseType {
     constructor(
         // 合同id
         public readonly id: string
     ) {
+        super();
+        this.entityType = Contract;
         return this
     }
 

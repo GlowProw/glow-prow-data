@@ -8,7 +8,7 @@
     "season": "release",
     "slots": {
       "grill": {
-        "data":  [
+        "data": [
           "grilledDurian",
           "grilledScrewpine",
           "grilledLestariMeat",
@@ -44,8 +44,8 @@
     "season": "release",
     "slots": {
       "container": {
-        "data":  [
-          "water"
+        "data": [
+          "waterFlask"
         ]
       }
     },
@@ -62,6 +62,38 @@
     "season": "release",
     "location": [
       "anyoneOutpost"
+    ]
+  },
+  "azuriteLodestone": {
+    "id": "azuriteLodestone",
+    "role": "entrepreneur",
+    "category": [
+      "shop"
+    ],
+    "location": [
+      "anyoneDen"
+    ]
+  },
+  "woridTier": {
+    "id": "woridTier",
+    "type": "structure",
+    "location": [
+      "anyoneDen"
+    ]
+  },
+  "managerOfLePontMuet": {
+    "id": "managerOfLePontMuet",
+    "type": "npc",
+    "role": "yanitaNara",
+    "location": [
+      "anyoneDen"
+    ]
+  },
+  "sumugglersHideout": {
+    "id": "sumugglersHideout",
+    "type": "structure",
+    "location": [
+      "anyoneDen"
     ]
   },
   "helmLiaison": {
@@ -82,28 +114,6 @@
       "mail"
     ],
     "season": "release",
-    "slots": {
-      "grill": [
-        "grilledDurian",
-        "grilledScrewpine",
-        "grilledLestariMeat",
-        "grilledPrimeCrocodile",
-        "grilledDurian",
-        "grilledBeef",
-        "grilledCoconut",
-        "grilledFish",
-        "grilledCrocodile",
-        "grilledShark",
-        "grilledMutton",
-        "grilledChicken",
-        "grilledBread",
-        "grilledBanana",
-        "grilledPrimeHippo",
-        "grilledScrewpine",
-        "grilledVegetables",
-        "grilledHippo"
-      ]
-    },
     "location": [
       "anyoneDen"
     ]
@@ -153,6 +163,28 @@
       "sainteAnne"
     ]
   },
+  "hawker-sainteAnne": {
+    "id": "hawker",
+    "type": "npc",
+    "category": [
+      "shop"
+    ],
+    "season": "release",
+    "location": [
+      "sainteAnne"
+    ]
+  },
+  "commodityTrader-sainteAnne": {
+    "id": "commodityTrader",
+    "type": "npc",
+    "category": [
+      "shop"
+    ],
+    "season": "release",
+    "location": [
+      "sainteAnne"
+    ]
+  },
   "vanityAtelier-sainteAnne": {
     "id": "vanityAtelier",
     "type": "npc",
@@ -188,6 +220,7 @@
   },
   "factionBroker-sainteAnne": {
     "id": "factionBroker",
+    "role": "'two-face'turner",
     "type": "npc",
     "category": [
       "task"
@@ -289,6 +322,7 @@
   "blacksmith-sainteAnne": {
     "id": "blacksmith",
     "type": "npc",
+    "role": "thomasRaferty",
     "category": [
       "task",
       "shop"
@@ -332,6 +366,77 @@
     "id": "smugglersNetwork",
     "location": [
       "telokPenjarah"
+    ]
+  },
+  "docks": {
+    "id": "docks",
+    "location": [
+      "anyoneOutpost",
+      "anyoneDen"
+    ]
+  },
+  "cache": {
+    "id": "cache",
+    "location": [
+      "anyoneOutpost"
+    ]
+  },
+  "liTianNing": {
+    "id": "liTianNing",
+    "type": "structure",
+    "location": [
+      "ruinsOfLukKhun"
+    ]
+  },
+  "rempahTrader": {
+    "id": "rempahTrader",
+    "role": "trader",
+    "category": [
+      "shop"
+    ],
+    "location": [
+      "lostCityOfPrei"
+    ]
+  },
+  "rogueTrader": {
+    "id": "rogueTrader",
+    "role": "jasper'theBull'Ragsdale",
+    "category": [
+      "shop"
+    ],
+    "location": [
+      "telokPenjarah"
+    ]
+  },
+  "vendor-overseasSmuggler": {
+    "id": "vendor-overseasSmuggler",
+    "role": "overseasSmuggler",
+    "category": [
+      "shop"
+    ],
+    "location": [
+      "ruinsOfLukKhun",
+      "lostCityOfPrei"
+    ]
+  },
+  "vendor-rempahWarrior": {
+    "id": "vendor-rempahWarrior",
+    "role": "rempahWarrior",
+    "category": [
+      "shop"
+    ],
+    "location": [
+      "rangnokCave"
+    ]
+  },
+  "overseasSmuggler": {
+    "id": "overseasSmuggler",
+    "role": "entrepreneur",
+    "category": [
+      "hts"
+    ],
+    "location": [
+      "ruinsOfLukKhun"
     ]
   }
 }

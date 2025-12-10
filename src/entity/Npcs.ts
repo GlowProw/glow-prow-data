@@ -1,11 +1,14 @@
 import npcsData from '../data/npcs.json';
 import {Season, Seasons} from "./Seasons";
-import {NpcCategory, NpcType, SlotGrillPorts} from "../types/NpcProperties";
+import {NpcCategory, NpcSlots, NpcType} from "../types/NpcProperties";
+import {Items} from "./Items";
+import {Materials} from "./Materials";
+import {BaseType} from "./BaseType";
 
 /**
  * Npc
  */
-export class Npc {
+export class Npc extends BaseType {
     constructor(
         // key
         public readonly key: string,
@@ -24,21 +27,47 @@ export class Npc {
         // 最后更新时间
         public readonly lastUpdated: Date,
         // 插槽
-        public readonly slots?: {
-            grill?: SlotGrillPorts | unknown,
-        } | {
-            upgradeShips?: boolean,
-            craftNewShips?: boolean,
-            manageShips?: boolean,
-            upgradeShipCosmetic?: boolean
-        },
+        public readonly slots?: NpcSlots,
     ) {
+        super()
+        this.entityType = Npc;
         return this
     }
 
     // Static method to create a Npc instance from raw data
     public static fromRawData(key: string, rawData: any): Npc {
         const season = rawData.season as keyof typeof Seasons;
+        const slots: any = {};
+
+        if (rawData?.slots?.container !== undefined) {
+            const container = {
+                ...rawData?.slots?.container,
+                data: rawData.slots.container.data.map((_item: string) => Items[_item as keyof typeof Items])
+            }
+            slots.container = container;
+        }
+        if (rawData?.slots?.worker !== undefined) {
+            const worker = {
+                ...rawData?.slots?.worker,
+                data: rawData.slots.worker.data.map((_item: string) => Materials[_item as keyof typeof Materials])
+            }
+            slots.worker = worker;
+        }
+        if (rawData?.slots?.grill !== undefined) {
+            slots.grill = rawData.slots.grill;
+        }
+        if (rawData?.slots?.upgradeShips !== undefined) {
+            slots.upgradeShips = rawData.slots.upgradeShips;
+        }
+        if (rawData?.slots?.craftNewShips !== undefined) {
+            slots.craftNewShips = rawData.slots.craftNewShips;
+        }
+        if (rawData?.slots?.manageShips !== undefined) {
+            slots.manageShips = rawData.slots.manageShips;
+        }
+        if (rawData?.slots?.upgradeShipCosmetic !== undefined) {
+            slots.upgradeShipCosmetic = rawData.slots.upgradeShipCosmetic;
+        }
 
         return new Npc(
             key,
@@ -49,13 +78,7 @@ export class Npc {
             rawData.location,
             new Date(rawData.dateAdded),
             new Date(rawData.lastUpdated),
-            {
-                grill: rawData?.slots?.grill ?? undefined,
-                upgradeShips: rawData?.slots?.upgradeShips ?? false,
-                craftNewShips: rawData?.slots?.craftNewShips ?? false,
-                manageShips: rawData?.slots?.manageShips ?? false,
-                upgradeShipCosmetic: rawData?.slots?.upgradeShipCosmetic ?? false,
-            },
+            Object.keys(slots).length > 0 ? slots : undefined,
         );
     }
 

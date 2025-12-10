@@ -2,8 +2,9 @@ import worldEventsData from '../data/worldEvents.json';
 import {WorldEventType} from '../types/WorldEventProperties';
 import {Events} from './Events';
 import {Factions} from './Factions';
+import {BaseType} from "./BaseType";
 
-export class WorldEvent {
+export class WorldEvent extends BaseType {
     constructor(
         // 事件id
         public readonly id: string,
@@ -14,6 +15,8 @@ export class WorldEvent {
         // 事件
         public readonly event?: unknown
     ) {
+        super()
+        this.entityType = WorldEvent;
         return this
     }
 

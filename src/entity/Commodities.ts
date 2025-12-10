@@ -4,11 +4,12 @@ import {Rarity} from "../types/Rarity";
 import {Contract, Contracts} from "./Contracts";
 import {Event, Events} from "./Events";
 import {Faction, Factions} from "./Factions";
+import {BaseType} from "./BaseType";
 
 /**
  * 商品
  */
-export class Commodity {
+export class Commodity extends BaseType {
     // @ts-ignore
     constructor(
         // 杂货id
@@ -28,6 +29,9 @@ export class Commodity {
         // 是否弃用
         public readonly deprecated?: boolean
     ) {
+        super();
+        this.entityType = Commodity;
+        return this
     }
 
     public static fromRawData(key: string, rawData: any): Commodity {

@@ -1,16 +1,19 @@
 import {Season, Seasons} from './Seasons';
 import eventsData from "../data/events.json";
+import {BaseType} from "./BaseType";
 
 /**
  * 事件
  */
-export class Event {
+export class Event extends BaseType {
     constructor(
         // 事件id
         public readonly id: string,
         // 事件赛季
         public readonly bySeasons: Season[]
     ) {
+        super();
+        this.entityType = Event;
         return this
     }
 

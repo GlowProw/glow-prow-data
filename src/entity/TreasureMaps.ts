@@ -2,11 +2,12 @@ import treasureMapsData from '../data/treasureMaps.json';
 import {TreasureMapCategory, TreasureMapType} from "../types/TreasureMapProperties";
 import {Rarity} from "../types/Rarity";
 import {Territory} from "./Territories";
+import {BaseType} from "./BaseType";
 
 /**
  * 藏宝图
  */
-export class TreasureMap {
+export class TreasureMap extends BaseType {
     constructor(
         public readonly id: string,
         public readonly type: TreasureMapType,
@@ -17,6 +18,8 @@ export class TreasureMap {
         public readonly lastUpdated: Date,
         public readonly territory?: Territory | Territory[] | string
     ) {
+        super()
+        this.entityType = TreasureMap;
         return this
     }
 

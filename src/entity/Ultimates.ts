@@ -1,12 +1,13 @@
 import ultimatesData from '../data/ultimates.json';
-import { Rarity } from '../types/Rarity';
-import { UltimateType } from '../types/UltimateProperties';
-import { Season, Seasons } from './Seasons';
+import {Rarity} from '../types/Rarity';
+import {UltimateType} from '../types/UltimateProperties';
+import {Season, Seasons} from './Seasons';
+import {BaseType} from "./BaseType";
 
 /**
  * 终结技能
  */
-export class Ultimate {
+export class Ultimate extends BaseType {
     constructor(
         // 技能id
         public readonly id: string,
@@ -23,6 +24,8 @@ export class Ultimate {
         // 更新时间
         public readonly lastUpdated: Date
     ) {
+        super()
+        this.entityType = Ultimate;
         return this
     }
 

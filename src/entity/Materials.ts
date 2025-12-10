@@ -4,11 +4,12 @@ import {MaterialCategory} from "../types/Category";
 import {Rarity} from "../types/Rarity";
 import {Event, Events} from "./Events";
 import {Faction, Factions} from "./Factions";
+import {BaseType} from "./BaseType";
 
 /**
  * 材料
  */
-export class Material {
+export class Material extends BaseType {
     // 材料id
     id!: string;
     // 稀有性
@@ -25,12 +26,17 @@ export class Material {
     event?: Event;
 
     constructor(id: string, rarity: Rarity, category: MaterialCategory, requiredRank?: string, faction?: Faction, event?: Event) {
+        super();
+
         this.id = id;
         this.rarity = rarity;
         this.category = category;
         this.requiredRank = requiredRank;
         this.faction = faction;
         this.event = event;
+
+        this.entityType = Material;
+        return this
     }
 
     public static fromRawData(key: string, rawData: any): Material {

@@ -1,15 +1,23 @@
 import territoriesData from "../data/territories.json";
-import { Faction, Factions } from "./Factions";
-import { Region, Regions } from "./Regions";
+import {Faction, Factions} from "./Factions";
+import {Region, Regions} from "./Regions";
+import {BaseType} from "./BaseType";
 
-export class Territory {
+/**
+ * 地区领地
+ */
+export class Territory extends BaseType {
     constructor(
         public readonly id: string,
         public readonly factions: Faction[],
         public readonly region: Region,
         public readonly dateAdded: Date,
         public readonly lastUpdated: Date
-    ) {}
+    ) {
+        super()
+        this.entityType = Territory;
+        return this
+    }
 
     public static fromRawData(rawData: any): Territory {
         const factions: Faction[] = rawData.factions.map((_faction: string) => {

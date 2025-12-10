@@ -4,11 +4,12 @@ import {ShipArchetype, ShipSize, SlotWithGunPorts, SlotWithGunPortsAcrossDecks} 
 import {Season, Seasons} from "./Seasons";
 import {Contract, Contracts} from "./Contracts";
 import {Material, Materials} from "./Materials";
+import {BaseType} from "./BaseType";
 
 /**
  * 船只
  */
-export class Ship {
+export class Ship extends BaseType {
     constructor(
         // 船只id
         public readonly id: string,
@@ -65,6 +66,8 @@ export class Ship {
         // 最后更新时间
         public readonly lastUpdated: Date
     ) {
+        super()
+        this.entityType = Ship;
         return this
     }
 

@@ -1,14 +1,17 @@
 import setsData from '../data/sets.json';
-import { SetType } from '../types/SetProperties';
+import {SetType} from '../types/SetProperties';
+import {BaseType} from "./BaseType";
 
 /**
- * 点
+ * 集合
  */
-export class Set {
+export class Set extends BaseType {
     constructor(
         public readonly id: string,
         public readonly type: SetType
     ) {
+        super()
+        this.entityType = Set;
         return this
     }
 

@@ -1,11 +1,12 @@
 import factionsData from "../data/factions.json";
 import {Event, Events} from "./Events";
 import {Season, Seasons} from "./Seasons";
+import {BaseType} from "./BaseType";
 
 /**
  * 派系 阵营
  */
-export class Faction {
+export class Faction extends BaseType {
     constructor(
         // 派系id
         public readonly id: string,
@@ -18,6 +19,8 @@ export class Faction {
         // 最后更新
         public readonly lastUpdated: Date
     ) {
+        super();
+        this.entityType = Faction;
         return this
     }
 
