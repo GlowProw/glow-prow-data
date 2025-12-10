@@ -3,6 +3,7 @@ import {Commodity} from "./Commodities";
 import {Contract} from "./Contracts";
 import {Cosmetic} from "./Cosmetics";
 import {EmpireSkill} from "./EmpireSkills";
+import {Event} from "./Events";
 import {Faction} from "./Factions";
 import {Item} from "./Items";
 import {MapLocation} from "./MapLocations";
@@ -24,6 +25,7 @@ export type Types =
     | typeof Contract
     | typeof Cosmetic
     | typeof EmpireSkill
+    | typeof Event
     | typeof Faction
     | typeof Item
     | typeof MapLocation
@@ -45,6 +47,7 @@ export type TypeNames =
     | 'Contract'
     | 'Cosmetic'
     | 'EmpireSkill'
+    | 'Event'
     | 'Faction'
     | 'Item'
     | 'MapLocation'
