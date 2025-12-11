@@ -10,7 +10,7 @@ import {Set, Sets} from './Sets';
 import {WorldEvent, WorldEvents} from './WorldEvents';
 import {Faction, Factions} from "./Factions";
 import {Ship, Ships} from "./Ships";
-import {BaseType} from "./BaseType";
+import {BaseType, EntityType} from "./BaseType";
 
 /**
  * 装饰
@@ -40,7 +40,7 @@ export class Cosmetic extends BaseType {
         public readonly worldEvent?: WorldEvent | WorldEvent[]
     ) {
         super();
-        this.entityType = Cosmetic;
+        this.entityType = EntityType.Cosmetic;
         return this
     }
 

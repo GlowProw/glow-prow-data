@@ -1,5 +1,5 @@
 import contractsData from "../data/contracts.json";
-import {BaseType} from "./BaseType";
+import {BaseType, EntityType} from "./BaseType";
 
 /**
  * 合同
@@ -10,7 +10,7 @@ export class Contract extends BaseType {
         public readonly id: string
     ) {
         super();
-        this.entityType = Contract;
+        this.entityType = EntityType.Contract;
         return this
     }
 

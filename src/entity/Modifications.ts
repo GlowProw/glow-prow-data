@@ -1,7 +1,7 @@
 import modificationsData from '../data/modifications.json';
 import {DamageType, EffectType, Grade, RepairAccess} from "../types/ModificationProperties";
 import {WeaponType} from "../types/ItemProperties";
-import {BaseType} from "./BaseType";
+import {BaseType, EntityType} from "./BaseType";
 
 export type ModificationVariant = {
     itemType: WeaponType[];
@@ -41,7 +41,7 @@ export class Modification extends BaseType {
         this.dateAdded = dateAdded;
         this.lastUpdated = lastUpdated;
 
-        this.entityType = Modification;
+        this.entityType = EntityType.Modification;
         return this
     }
 

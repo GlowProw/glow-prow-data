@@ -4,7 +4,7 @@ import {ShipArchetype, ShipSize, SlotWithGunPorts, SlotWithGunPortsAcrossDecks} 
 import {Season, Seasons} from "./Seasons";
 import {Contract, Contracts} from "./Contracts";
 import {Material, Materials} from "./Materials";
-import {BaseType} from "./BaseType";
+import {BaseType, EntityType} from "./BaseType";
 
 /**
  * 船只
@@ -67,7 +67,7 @@ export class Ship extends BaseType {
         public readonly lastUpdated: Date
     ) {
         super()
-        this.entityType = Ship;
+        this.entityType = EntityType.Ship;
         return this
     }
 

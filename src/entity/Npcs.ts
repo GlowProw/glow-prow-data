@@ -3,7 +3,7 @@ import {Season, Seasons} from "./Seasons";
 import {NpcCategory, NpcSlots, NpcType} from "../types/NpcProperties";
 import {Items} from "./Items";
 import {Materials} from "./Materials";
-import {BaseType} from "./BaseType";
+import {BaseType, EntityType} from "./BaseType";
 
 /**
  * Npc
@@ -30,7 +30,7 @@ export class Npc extends BaseType {
         public readonly slots?: NpcSlots,
     ) {
         super()
-        this.entityType = Npc;
+        this.entityType = EntityType.Npc;
         return this
     }
 

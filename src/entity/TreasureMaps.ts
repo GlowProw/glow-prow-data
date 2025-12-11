@@ -2,7 +2,7 @@ import treasureMapsData from '../data/treasureMaps.json';
 import {TreasureMapCategory, TreasureMapType} from "../types/TreasureMapProperties";
 import {Rarity} from "../types/Rarity";
 import {Territory} from "./Territories";
-import {BaseType} from "./BaseType";
+import {BaseType, EntityType} from "./BaseType";
 
 /**
  * 藏宝图
@@ -19,7 +19,7 @@ export class TreasureMap extends BaseType {
         public readonly territory?: Territory | Territory[] | string
     ) {
         super()
-        this.entityType = TreasureMap;
+        this.entityType = EntityType.TreasureMap;
         return this
     }
 

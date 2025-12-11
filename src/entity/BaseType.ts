@@ -1,75 +1,33 @@
-import {BluePrint} from "./BluePrint";
-import {Commodity} from "./Commodities";
-import {Contract} from "./Contracts";
-import {Cosmetic} from "./Cosmetics";
-import {EmpireSkill} from "./EmpireSkills";
-import {Event} from "./Events";
-import {Faction} from "./Factions";
-import {Item} from "./Items";
-import {MapLocation} from "./MapLocations";
-import {Material} from "./Materials";
-import {Modification} from "./Modifications";
-import {Npc} from "./Npcs";
-import {Region} from "./Regions";
-import {Season} from "./Seasons";
-import {Set} from "./Sets";
-import {Ship} from "./Ships";
-import {Territory} from "./Territories";
-import {TreasureMap} from "./TreasureMaps";
-import {Ultimate} from "./Ultimates";
-import {WorldEvent} from "./WorldEvents";
-
-export type Types =
-    | typeof BluePrint
-    | typeof Commodity
-    | typeof Contract
-    | typeof Cosmetic
-    | typeof EmpireSkill
-    | typeof Event
-    | typeof Faction
-    | typeof Item
-    | typeof MapLocation
-    | typeof Material
-    | typeof Modification
-    | typeof Npc
-    | typeof Region
-    | typeof Season
-    | typeof Set
-    | typeof Ship
-    | typeof Territory
-    | typeof TreasureMap
-    | typeof Ultimate
-    | typeof WorldEvent;
-
-export type TypeNames =
-    | 'BluePrint'
-    | 'Commodity'
-    | 'Contract'
-    | 'Cosmetic'
-    | 'EmpireSkill'
-    | 'Event'
-    | 'Faction'
-    | 'Item'
-    | 'MapLocation'
-    | 'Material'
-    | 'Modification'
-    | 'Npc'
-    | 'Region'
-    | 'Season'
-    | 'Set'
-    | 'Ship'
-    | 'Territory'
-    | 'TreasureMap'
-    | 'Ultimate'
-    | 'WorldEvent';
+export enum EntityType {
+    BluePrint = 'BluePrint',
+    Commodity = 'Commodity',
+    Contract = 'Contract',
+    Cosmetic = 'Cosmetic',
+    EmpireSkill = 'EmpireSkill',
+    Event = 'Event',
+    Faction = 'Faction',
+    Item = 'Item',
+    MapLocation = 'MapLocation',
+    Material = 'Material',
+    Modification = 'Modification',
+    Npc = 'Npc',
+    Region = 'Region',
+    Season = 'Season',
+    Set = 'Set',
+    Ship = 'Ship',
+    Territory = 'Territory',
+    TreasureMap = 'TreasureMap',
+    Ultimate = 'Ultimate',
+    WorldEvent = 'WorldEvent'
+}
 
 /**
  * 基础类型
  */
 export abstract class BaseType {
-    protected entityType: Types | null = null;
+    protected entityType: EntityType | null = null;
 
-    public get _type(): Types | null {
+    public get _type(): EntityType | null {
         return this._typeEntity;
     }
 
@@ -79,7 +37,7 @@ export abstract class BaseType {
      * or
      * Item._typeEntity === Item
      */
-    public get _typeEntity(): Types | null {
+    public get _typeEntity(): EntityType | null {
         return this.entityType;
     }
 
@@ -88,21 +46,20 @@ export abstract class BaseType {
      * Item._typeStringName == 'Item'
      */
     public get _typeStringName(): string {
-        return this.entityType?.name ?? 'Unknown';
+        return this.entityType ?? 'Unknown';
     }
 
     /**
      * Check if it is of a specific type
      */
-    public isType<T extends Types | Types[]>(typeOrTypes: T): this is
-        T extends Types ? InstanceType<T> :
-            T extends Types[] ? InstanceType<T[number]> :
-                never {
+    public isType(type: EntityType | EntityType[]): boolean {
+        if (this.entityType == null) return false
 
-        if (Array.isArray(typeOrTypes)) {
-            return typeOrTypes.some(type => this.entityType === type);
+        if (Array.isArray(type)) {
+            return type.includes(this.entityType);
         } else {
-            return this.entityType === typeOrTypes;
+            return this.entityType === type;
         }
     }
+
 }

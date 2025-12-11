@@ -2,7 +2,7 @@ import ultimatesData from '../data/ultimates.json';
 import {Rarity} from '../types/Rarity';
 import {UltimateType} from '../types/UltimateProperties';
 import {Season, Seasons} from './Seasons';
-import {BaseType} from "./BaseType";
+import {BaseType, EntityType} from "./BaseType";
 
 /**
  * 终结技能
@@ -25,7 +25,7 @@ export class Ultimate extends BaseType {
         public readonly lastUpdated: Date
     ) {
         super()
-        this.entityType = Ultimate;
+        this.entityType = EntityType.Ultimate;
         return this
     }
 

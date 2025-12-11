@@ -4,7 +4,7 @@ import {MaterialCategory} from "../types/Category";
 import {Rarity} from "../types/Rarity";
 import {Event, Events} from "./Events";
 import {Faction, Factions} from "./Factions";
-import {BaseType} from "./BaseType";
+import {BaseType, EntityType} from "./BaseType";
 
 /**
  * 材料
@@ -35,7 +35,7 @@ export class Material extends BaseType {
         this.faction = faction;
         this.event = event;
 
-        this.entityType = Material;
+        this.entityType = EntityType.Material;
         return this
     }
 
