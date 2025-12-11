@@ -1,6 +1,6 @@
 import regionsData from "../data/regions.json";
 import {Faction, Factions} from "./Factions";
-import {BaseType, EntityType} from "./BaseType";
+import {BaseType} from "./BaseType";
 
 /**
  * 地图
@@ -17,7 +17,7 @@ export class Region extends BaseType {
         public readonly lastUpdated: Date
     ) {
         super()
-        this.entityType = EntityType.Region;
+        this._entityType = Region;
         return this
     }
 

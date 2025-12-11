@@ -4,7 +4,7 @@ import {Rarity} from "../types/Rarity";
 import {Contract, Contracts} from "./Contracts";
 import {Event, Events} from "./Events";
 import {Faction, Factions} from "./Factions";
-import {BaseType, EntityType} from "./BaseType";
+import {BaseType} from "./BaseType";
 
 /**
  * 商品
@@ -30,7 +30,7 @@ export class Commodity extends BaseType {
         public readonly deprecated?: boolean
     ) {
         super();
-        this.entityType = EntityType.Commodity;
+        this._entityType = Commodity;
         return this
     }
 

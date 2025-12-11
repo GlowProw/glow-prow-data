@@ -3,7 +3,7 @@ import {Season, Seasons} from "./Seasons";
 import {NpcCategory, NpcSlots, NpcType} from "../types/NpcProperties";
 import {Items} from "./Items";
 import {Materials} from "./Materials";
-import {BaseType, EntityType} from "./BaseType";
+import {BaseType} from "./BaseType";
 
 /**
  * Npc
@@ -30,7 +30,7 @@ export class Npc extends BaseType {
         public readonly slots?: NpcSlots,
     ) {
         super()
-        this.entityType = EntityType.Npc;
+        this._entityType = Npc;
         return this
     }
 
@@ -40,18 +40,16 @@ export class Npc extends BaseType {
         const slots: any = {};
 
         if (rawData?.slots?.container !== undefined) {
-            const container = {
+            slots.container = {
                 ...rawData?.slots?.container,
                 data: rawData.slots.container.data.map((_item: string) => Items[_item as keyof typeof Items])
-            }
-            slots.container = container;
+            };
         }
         if (rawData?.slots?.worker !== undefined) {
-            const worker = {
+            slots.worker = {
                 ...rawData?.slots?.worker,
                 data: rawData.slots.worker.data.map((_item: string) => Materials[_item as keyof typeof Materials])
-            }
-            slots.worker = worker;
+            };
         }
         if (rawData?.slots?.grill !== undefined) {
             slots.grill = rawData.slots.grill;

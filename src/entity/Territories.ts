@@ -1,7 +1,7 @@
 import territoriesData from "../data/territories.json";
 import {Faction, Factions} from "./Factions";
 import {Region, Regions} from "./Regions";
-import {BaseType, EntityType} from "./BaseType";
+import {BaseType} from "./BaseType";
 
 /**
  * 地区领地
@@ -15,7 +15,7 @@ export class Territory extends BaseType {
         public readonly lastUpdated: Date
     ) {
         super()
-        this.entityType = EntityType.Territory;
+        this._entityType = Territory;
         return this
     }
 

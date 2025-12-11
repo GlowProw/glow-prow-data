@@ -10,7 +10,7 @@ import {Set, Sets} from './Sets';
 import {WorldEvent, WorldEvents} from './WorldEvents';
 import {Faction, Factions} from "./Factions";
 import {Ship, Ships} from "./Ships";
-import {BaseType, EntityType} from "./BaseType";
+import {BaseType} from "./BaseType";
 
 /**
  * 装饰
@@ -40,7 +40,7 @@ export class Cosmetic extends BaseType {
         public readonly worldEvent?: WorldEvent | WorldEvent[]
     ) {
         super();
-        this.entityType = EntityType.Cosmetic;
+        this._entityType = Cosmetic;
         return this
     }
 
@@ -124,8 +124,7 @@ export class Cosmetic extends BaseType {
             if (basic) cosmetics[key].basic = basic;
         }
         if (rawData.upgrades) {
-            const upgrades = rawData.upgrades.map((upgradeCosmetic: string) => cosmetics[upgradeCosmetic]);
-            cosmetics[key].upgrades = upgrades;
+            cosmetics[key].upgrades = rawData.upgrades.map((upgradeCosmetic: string) => cosmetics[upgradeCosmetic]);
         }
     }
 

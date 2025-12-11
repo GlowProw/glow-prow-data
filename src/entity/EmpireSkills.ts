@@ -1,7 +1,7 @@
 import empireSkillData from "../data/empireSkills.json";
 import {Faction} from "./Factions";
 import {Season, Seasons} from "./Seasons";
-import {BaseType, EntityType} from "./BaseType";
+import {BaseType} from "./BaseType";
 
 export class EmpireSkill extends BaseType {
     constructor(
@@ -29,7 +29,7 @@ export class EmpireSkill extends BaseType {
         public readonly requiredCost: []
     ) {
         super();
-        this.entityType = EntityType.EmpireSkill;
+        this._entityType = EmpireSkill;
         return this
     }
 

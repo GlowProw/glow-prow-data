@@ -7,7 +7,7 @@ import {Material, Materials} from './Materials';
 import {Season, Seasons} from './Seasons';
 import {WorldEvent, WorldEvents} from './WorldEvents';
 import {Faction, Factions} from "./Factions";
-import {BaseType, EntityType} from "./BaseType";
+import {BaseType} from "./BaseType";
 
 export class Item extends BaseType {
     constructor(
@@ -43,7 +43,7 @@ export class Item extends BaseType {
         public readonly unobtainable?: boolean
     ) {
         super();
-        this.entityType = EntityType.Item;
+        this._entityType = Item;
         return this
     }
 

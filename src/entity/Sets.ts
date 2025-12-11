@@ -1,6 +1,6 @@
 import setsData from '../data/sets.json';
 import {SetType} from '../types/SetProperties';
-import {BaseType, EntityType} from "./BaseType";
+import {BaseType} from "./BaseType";
 
 /**
  * 集合
@@ -11,7 +11,7 @@ export class Set extends BaseType {
         public readonly type: SetType
     ) {
         super()
-        this.entityType = EntityType.Set;
+        this._entityType = Set;
         return this
     }
 

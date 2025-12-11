@@ -1,6 +1,6 @@
 import {Season, Seasons} from './Seasons';
 import eventsData from "../data/events.json";
-import {BaseType, EntityType} from "./BaseType";
+import {BaseType} from "./BaseType";
 
 /**
  * 事件
@@ -13,7 +13,7 @@ export class Event extends BaseType {
         public readonly bySeasons: Season[]
     ) {
         super();
-        this.entityType = EntityType.Event;
+        this._entityType = Event;
         return this
     }
 

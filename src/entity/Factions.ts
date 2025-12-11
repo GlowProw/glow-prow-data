@@ -1,7 +1,7 @@
 import factionsData from "../data/factions.json";
 import {Event, Events} from "./Events";
 import {Season, Seasons} from "./Seasons";
-import {BaseType, EntityType} from "./BaseType";
+import {BaseType} from "./BaseType";
 
 /**
  * 派系 阵营
@@ -20,7 +20,7 @@ export class Faction extends BaseType {
         public readonly lastUpdated: Date
     ) {
         super();
-        this.entityType = EntityType.Faction;
+        this._entityType = Faction;
         return this
     }
 

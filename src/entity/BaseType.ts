@@ -1,65 +1,34 @@
-export enum EntityType {
-    BluePrint = 'BluePrint',
-    Commodity = 'Commodity',
-    Contract = 'Contract',
-    Cosmetic = 'Cosmetic',
-    EmpireSkill = 'EmpireSkill',
-    Event = 'Event',
-    Faction = 'Faction',
-    Item = 'Item',
-    MapLocation = 'MapLocation',
-    Material = 'Material',
-    Modification = 'Modification',
-    Npc = 'Npc',
-    Region = 'Region',
-    Season = 'Season',
-    Set = 'Set',
-    Ship = 'Ship',
-    Territory = 'Territory',
-    TreasureMap = 'TreasureMap',
-    Ultimate = 'Ultimate',
-    WorldEvent = 'WorldEvent'
-}
-
 /**
  * 基础类型
  */
 export abstract class BaseType {
-    protected entityType: EntityType | null = null;
-
-    public get _type(): EntityType | null {
-        return this._typeEntity;
-    }
-
     /**
      * Entity
-     * Item._type === Item
-     * or
-     * Item._typeEntity === Item
+     * Item._entityType === Item
      */
-    public get _typeEntity(): EntityType | null {
-        return this.entityType;
-    }
+    protected _entityType: null | any;
 
     /**
      * Entity character
      * Item._typeStringName == 'Item'
      */
     public get _typeStringName(): string {
-        return this.entityType ?? 'Unknown';
+        return this._entityType?.name ?? this._entityType ?? 'Unknown';
     }
 
     /**
      * Check if it is of a specific type
+     * Item.isType(Item) return true
+     * Item.isType([Npc, Item]) return true
+     * Item.isType(['Item', 'item'])
      */
-    public isType(type: EntityType | EntityType[]): boolean {
-        if (this.entityType == null) return false
+    public isType(type: any[] | string[]): boolean {
+        if (this._entityType == null) return false
 
         if (Array.isArray(type)) {
-            return type.includes(this.entityType);
+            return type.includes(this._entityType) || type.map(i => i.toLocaleLowerCase()).includes(this._entityType?.name.toLocaleLowerCase());
         } else {
-            return this.entityType === type;
+            return this._entityType === type;
         }
     }
-
 }

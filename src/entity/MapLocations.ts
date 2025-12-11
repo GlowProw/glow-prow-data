@@ -3,7 +3,7 @@ import {MapLocationCategory} from "../types/Category";
 import {Season, Seasons} from "./Seasons";
 import {Faction, Factions} from "./Factions";
 import {LootItem, MapDifficulty} from "../types/MapLocationProperties";
-import {BaseType, EntityType} from "./BaseType";
+import {BaseType} from "./BaseType";
 import {Items} from "./Items";
 import {Materials} from "./Materials";
 import {Commodities} from "./Commodities";
@@ -37,7 +37,7 @@ export class MapLocation extends BaseType {
         public readonly baseRank?: number,
     ) {
         super();
-        this.entityType = EntityType.MapLocation;
+        this._entityType = MapLocation;
         return this
     }
 

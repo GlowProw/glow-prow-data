@@ -1,5 +1,5 @@
 import seasonsData from "../data/seasons.json";
-import {BaseType, EntityType} from "./BaseType";
+import {BaseType} from "./BaseType";
 
 /**
  * 赛季
@@ -16,7 +16,7 @@ export class Season extends BaseType {
         public readonly endDate: Date,
     ) {
         super()
-        this.entityType = EntityType.Season;
+        this._entityType = Season;
         return this
     }
 

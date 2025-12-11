@@ -2,7 +2,7 @@ import worldEventsData from '../data/worldEvents.json';
 import {WorldEventType} from '../types/WorldEventProperties';
 import {Events} from './Events';
 import {Factions} from './Factions';
-import {BaseType, EntityType} from "./BaseType";
+import {BaseType} from "./BaseType";
 
 export class WorldEvent extends BaseType {
     constructor(
@@ -16,7 +16,7 @@ export class WorldEvent extends BaseType {
         public readonly event?: unknown
     ) {
         super()
-        this.entityType = EntityType.WorldEvent;
+        this._entityType = WorldEvent;
         return this
     }
 
