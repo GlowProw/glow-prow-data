@@ -947,8 +947,8 @@
     "id": "goddessOfRuin",
     "type": "ship"
   },
-  "hasanuddinsShip": {
-    "id": "hasanuddinsShip",
+  "watersOfGowa": {
+    "id": "watersOfGowa",
     "type": "ship"
   },
   "sultanOfGowa": {
@@ -1383,8 +1383,8 @@
     "id": "theAnchorborn",
     "type": "ship"
   },
-  "gutsOfWar": {
-    "id": "gutsOfWar",
+  "gustsOfWar": {
+    "id": "gustsOfWar",
     "type": "ship"
   },
   "daggersOath": {
@@ -1510,5 +1510,29 @@
   "eyeOfMadness": {
     "id": "eyeOfMadness",
     "type": "ship"
+  },
+  "burningWhispers": {
+    "id": "burningWhispers",
+    "type": "ship"
+  },
+  "legsOfDoom": {
+    "id": "legsOfDoom",
+    "type": "ship"
+  },
+  "marchingMenace": {
+    "id": "marchingMenace",
+    "type": "player"
+  },
+  "aCloseStep": {
+    "id": "aCloseStep",
+    "type": "player"
+  },
+  "connoisseurOfWar": {
+    "id": "connoisseurOfWar",
+    "type": "player"
+  },
+  "monopolyOfTrade": {
+    "id": "monopolyOfTrade",
+    "type": "player"
   }
 }

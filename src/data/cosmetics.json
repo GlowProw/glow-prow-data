@@ -17972,9 +17972,10 @@
     "season": "shadowsOfTheDeep",
     "event": "azureSolstice",
     "effect": "emissive",
+    "upgrades": ["frigidGloom"],
     "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
     "dateAdded": "2024-12-03",
-    "lastUpdated": "2024-12-03"
+    "lastUpdated": "2025-12-09"
   },
   "crystalDeath": {
     "id": "crystalDeath",
@@ -17982,9 +17983,10 @@
     "set": "wintersBite",
     "season": "shadowsOfTheDeep",
     "event": "azureSolstice",
+    "upgrades": ["stormsBreath"],
     "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
     "dateAdded": "2024-12-03",
-    "lastUpdated": "2024-12-03"
+    "lastUpdated": "2025-12-09"
   },
   "icyTears": {
     "id": "icyTears",
@@ -17992,9 +17994,10 @@
     "set": "wintersBite",
     "season": "shadowsOfTheDeep",
     "event": "azureSolstice",
+    "upgrades": ["edgesOfDespair"],
     "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
     "dateAdded": "2024-12-03",
-    "lastUpdated": "2024-12-03"
+    "lastUpdated": "2025-12-09"
   },
   "stonyIceMaiden": {
     "id": "stonyIceMaiden",
@@ -18075,9 +18078,10 @@
     "set": "wintersBite",
     "season": "shadowsOfTheDeep",
     "event": "azureSolstice",
+    "upgrades": ["curseSpun"],
     "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
     "dateAdded": "2024-12-03",
-    "lastUpdated": "2024-12-03"
+    "lastUpdated": "2025-12-09"
   },
   "bloodlessWheel": {
     "id": "bloodlessWheel",
@@ -18086,9 +18090,10 @@
     "season": "shadowsOfTheDeep",
     "event": "azureSolstice",
     "effect": "emissive",
+    "upgrades": ["theLifestealer"],
     "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
     "dateAdded": "2024-12-03",
-    "lastUpdated": "2024-12-03"
+    "lastUpdated": "2025-12-09"
   },
   "wintersGrasp": {
     "id": "wintersGrasp",
@@ -19235,13 +19240,13 @@
   },
   "bindingRetribution": {
     "id": "bindingRetribution",
-    "type": "figureHead",
+    "type": "trophy",
     "season": "shadowsOfTheDeep",
     "set": "violetAftermath",
     "effect": ["emissive","combatReactive"],
     "obtainable": "premiumPass",
     "dateAdded": "2024-11-19",
-    "lastUpdated": "2024-11-19"
+    "lastUpdated": "2025-12-28"
   },
   "oppressive": {
     "id": "oppressive",
@@ -20162,51 +20167,51 @@
   "aSultansWay": {
     "id": "aSultansWay",
     "type": "sailsColor",
-    "set": "hasanuddinsShip",
+    "set": "watersOfGowa",
     "effect": "emissive",
-    "obtainable": "ubisoftStore",
+    "obtainable": ["ubisoftStore","watersOfGowaSetChest"],
     "dateAdded": "2024-11-26",
-    "lastUpdated": "2024-11-26"
+    "lastUpdated": "2026-01-06"
   },
   "royalDefender": {
     "id": "royalDefender",
     "type": "sailsEmblem",
-    "set": "hasanuddinsShip",
-    "obtainable": "ubisoftStore",
+    "set": "watersOfGowa",
+    "obtainable": ["ubisoftStore","watersOfGowaSetChest"],
     "dateAdded": "2024-11-26",
-    "lastUpdated": "2024-11-26"
+    "lastUpdated": "2026-01-06"
   },
   "clearAsDay": {
     "id": "clearAsDay",
     "type": "sailsPattern",
-    "set": "hasanuddinsShip",
-    "obtainable": "ubisoftStore",
+    "set": "watersOfGowa",
+    "obtainable": ["ubisoftStore","watersOfGowaSetChest"],
     "dateAdded": "2024-11-26",
-    "lastUpdated": "2024-11-26"
+    "lastUpdated": "2026-01-06"
   },
   "rebelsRiposte": {
     "id": "rebelsRiposte",
     "type": "figureHead",
-    "set": "hasanuddinsShip",
+    "set": "watersOfGowa",
     "obtainable": "ubisoftStore",
     "dateAdded": "2024-11-26",
-    "lastUpdated": "2024-11-26"
+    "lastUpdated": "2026-01-06"
   },
   "bloodOfThePeople": {
     "id": "bloodOfThePeople",
     "type": "hull",
-    "set": "hasanuddinsShip",
-    "obtainable": "ubisoftStore",
+    "set": "watersOfGowa",
+    "obtainable": ["ubisoftStore","watersOfGowaSetChest"],
     "dateAdded": "2024-11-26",
-    "lastUpdated": "2024-11-26"
+    "lastUpdated": "2026-01-06"
   },
   "gildedRooster": {
     "id": "gildedRooster",
     "type": "ornaments",
-    "set": "hasanuddinsShip",
-    "obtainable": "ubisoftStore",
+    "set": "watersOfGowa",
+    "obtainable": ["ubisoftStore","watersOfGowaSetChest"],
     "dateAdded": "2024-11-26",
-    "lastUpdated": "2024-11-26"
+    "lastUpdated": "2026-01-06"
   },
   "deviousRoll": {
     "id": "deviousRoll",
@@ -25798,10 +25803,11 @@
     "id": "corpseDriven",
     "type": "crewLook",
     "event": "darktideLullaby",
+    "season": "gutsAndGlory",
     "set": "xianYuan",
     "obtainable": "premiumEventPass",
     "dateAdded": "2025-09-02",
-    "lastUpdated": "2025-09-02"
+    "lastUpdated": "2025-12-14"
   },
   "iHunt": {
     "id": "iHunt",
@@ -26641,47 +26647,52 @@
     "id": "livingSun",
     "type": "sailsEmblem",
     "set": "valiantBlood",
+    "season": "gutsAndGlory",
     "obtainable": "factionWarRewardWonTerritory1",
     "faction": "compagnieRoyale",
     "dateAdded": "2025-10-21",
-    "lastUpdated": "2025-10-21"
+    "lastUpdated": "2026-01-12"
   },
   "blackDiamond": {
     "id": "blackDiamond",
     "type": "sailsColor",
     "set": "valiantBlood",
     "effect": "emissive",
+    "season": "gutsAndGlory",
     "obtainable": "factionWarRewardWonTerritory4",
     "faction": "compagnieRoyale",
     "dateAdded": "2025-10-21",
-    "lastUpdated": "2025-10-21"
+    "lastUpdated": "2026-01-12"
   },
   "momentousStride": {
     "id": "momentousStride",
     "type": "hull",
     "set": "valiantBlood",
+    "season": "gutsAndGlory",
     "obtainable": "factionWarRewardWonTerritory5",
     "faction": "compagnieRoyale",
     "dateAdded": "2025-10-21",
-    "lastUpdated": "2025-10-21"
+    "lastUpdated": "2026-01-12"
   },
   "gildedEpic": {
     "id": "gildedEpic",
     "type": "sailsPattern",
     "set": "valiantBlood",
+    "season": "gutsAndGlory",
     "obtainable": "factionWarRewardWonTerritory8",
     "faction": "compagnieRoyale",
     "dateAdded": "2025-10-21",
-    "lastUpdated": "2025-10-21"
+    "lastUpdated": "2026-01-12"
   },
   "corsaire": {
     "id": "corsaire",
     "type": "nameplate",
     "set": "valiantBlood",
+    "season": "gutsAndGlory",
     "obtainable": "factionWarRewardWonTerritory11",
     "faction": "compagnieRoyale",
     "dateAdded": "2025-10-21",
-    "lastUpdated": "2025-10-21"
+    "lastUpdated": "2026-01-12"
   },
   "mayhemBringer": {
     "id": "mayhemBringer",
@@ -26693,39 +26704,39 @@
   "scorpionOfTheSea": {
     "id": "scorpionOfTheSea",
     "type": "sailsEmblem",
-    "set": "gutsOfWar",
+    "set": "gustsOfWar",
     "season": "gutsAndGlory",
     "obtainable": [["smugglerPass","smugglerPass50Reward"]],
     "dateAdded": "2025-10-21",
-    "lastUpdated": "2025-10-21"
+    "lastUpdated": "2026-01-08"
   },
   "drownedHopes": {
     "id": "drownedHopes",
     "type": "hull",
-    "set": "gutsOfWar",
+    "set": "gustsOfWar",
     "season": "gutsAndGlory",
     "obtainable": [["smugglerPass","smugglerPass50Reward"]],
     "dateAdded": "2025-10-21",
-    "lastUpdated": "2025-10-21"
+    "lastUpdated": "2026-01-08"
   },
   "outsailDeath": {
     "id": "outsailDeath",
     "type": "sailsColor",
-    "set": "gutsOfWar",
+    "set": "gustsOfWar",
     "effect": "emissive",
     "season": "gutsAndGlory",
     "obtainable": [["smugglerPass","smugglerPass50Reward"]],
     "dateAdded": "2025-10-21",
-    "lastUpdated": "2025-10-21"
+    "lastUpdated": "2026-01-08"
   },
   "crackTheWhip": {
     "id": "crackTheWhip",
     "type": "sailsPattern",
-    "set": "gutsOfWar",
+    "set": "gustsOfWar",
     "season": "gutsAndGlory",
     "obtainable": [["smugglerPass","smugglerPass50Reward"]],
     "dateAdded": "2025-10-21",
-    "lastUpdated": "2025-10-21"
+    "lastUpdated": "2026-01-08"
   },
   "deadmansDrift": {
     "id": "deadmansDrift",
@@ -27974,72 +27985,73 @@
   "darkenedDoublet": {
     "id": "darkenedDoublet",
     "type": "torso",
-    "set": "",
+    "set": "aCloseStep",
     "season": "gutsAndGlory",
     "obtainable": "williamBlackwoodSeasonalItem",
     "dateAdded": "2025-10-21",
-    "lastUpdated": "2025-10-21"
+    "lastUpdated": "2025-12-28"
   },
   "fancyFlurry": {
     "id": "fancyFlurry",
     "type": "footwear",
-    "set": "",
+    "set": "aCloseStep",
     "season": "gutsAndGlory",
     "obtainable": "williamBlackwoodSeasonalItem",
     "dateAdded": "2025-10-21",
-    "lastUpdated": "2025-10-21"
+    "lastUpdated": "2025-12-28"
   },
   "shadowBreeches": {
     "id": "shadowBreeches",
     "type": "bottom",
-    "set": "",
+    "set": "aCloseStep",
     "season": "gutsAndGlory",
     "obtainable": "williamBlackwoodSeasonalItem",
     "dateAdded": "2025-10-21",
-    "lastUpdated": "2025-10-21"
+    "lastUpdated": "2025-12-28"
   },
   "scourgeCloak": {
     "id": "scourgeCloak",
     "type": "neck",
-    "set": "",
+    "set": "aCloseStep",
     "season": "gutsAndGlory",
     "obtainable": "williamBlackwoodSeasonalItem",
     "dateAdded": "2025-10-21",
-    "lastUpdated": "2025-10-21"
+    "lastUpdated": "2025-12-28"
   },
   "thornyTricorn": {
     "id": "thornyTricorn",
     "type": "headwear",
-    "set": "",
+    "set": "aCloseStep",
     "season": "gutsAndGlory",
     "obtainable": "williamBlackwoodSeasonalItem",
     "dateAdded": "2025-10-21",
-    "lastUpdated": "2025-10-21"
+    "lastUpdated": "2025-12-28"
   },
   "snatchersWraps": {
     "id": "snatchersWraps",
     "type": "forearm",
-    "set": "",
+    "set": "aCloseStep",
     "season": "gutsAndGlory",
     "obtainable": "williamBlackwoodSeasonalItem",
     "dateAdded": "2025-10-21",
-    "lastUpdated": "2025-10-21"
+    "lastUpdated": "2025-12-28"
   },
   "pouchOfSmiles": {
     "id": "pouchOfSmiles",
     "type": "waist",
-    "set": "",
+    "set": "aCloseStep",
     "season": "gutsAndGlory",
     "obtainable": "williamBlackwoodSeasonalItem",
     "dateAdded": "2025-10-21",
-    "lastUpdated": "2025-10-21"
+    "lastUpdated": "2025-12-28"
   },
   "clingingCurse": {
     "id": "clingingCurse",
     "type": "aura",
+    "effect": "bossKillReactive",
     "obtainable": "laPestesLockerMythic",
     "dateAdded": "2025-10-21",
-    "lastUpdated": "2025-10-21"
+    "lastUpdated": "2025-12-28"
   },
   "sirensCrest": {
     "id": "sirensCrest",
@@ -28454,47 +28466,52 @@
     "id": "orderAndPurpose",
     "type": "sailsEmblem",
     "set": "waveConqueror",
+    "season": "gutsAndGlory",
     "faction": "dutchMerchantCompany",
     "obtainable": "factionWarRewardWonTerritory1",
     "dateAdded": "2025-10-21",
-    "lastUpdated": "2025-10-21"
+    "lastUpdated": "2026-01-12"
   },
   "brightHorizons": {
     "id": "brightHorizons",
     "type": "sailsPattern",
     "set": "waveConqueror",
+    "season": "gutsAndGlory",
     "faction": "dutchMerchantCompany",
     "obtainable": "factionWarRewardWonTerritory8",
     "dateAdded": "2025-10-21",
-    "lastUpdated": "2025-10-21"
+    "lastUpdated": "2026-01-12"
   },
   "deadWake": {
     "id": "deadWake",
     "type": "sailsColor",
     "set": "waveConqueror",
+    "season": "gutsAndGlory",
     "faction": "dutchMerchantCompany",
     "effect": "emissive",
     "obtainable": "factionWarRewardWonTerritory4",
     "dateAdded": "2025-10-21",
-    "lastUpdated": "2025-10-21"
+    "lastUpdated": "2026-01-12"
   },
   "anchorsEdge": {
     "id": "anchorsEdge",
     "type": "hull",
     "set": "waveConqueror",
+    "season": "gutsAndGlory",
     "faction": "dutchMerchantCompany",
     "obtainable": "factionWarRewardWonTerritory5",
     "dateAdded": "2025-10-21",
-    "lastUpdated": "2025-10-21"
+    "lastUpdated": "2026-01-12"
   },
   "kaper": {
     "id": "kaper",
     "type": "nameplate",
     "set": "waveConqueror",
+    "season": "gutsAndGlory",
     "faction": "dutchMerchantCompany",
     "obtainable": "factionWarRewardWonTerritory11",
     "dateAdded": "2025-10-21",
-    "lastUpdated": "2025-10-21"
+    "lastUpdated": "2026-01-12"
   },
   "fancyAsCanBe": {
     "id": "fancyAsCanBe",
@@ -28648,36 +28665,477 @@
     "season": "gutsAndGlory",
     "event": "azureSolstice",
     "effect": "emissive",
+    "upgrades": ["shardsOfLonging"],
     "dateAdded": "2025-10-21",
-    "lastUpdated": "2025-10-21"
+    "lastUpdated": "2025-12-09"
   },
   "passJudgment": {
     "id": "passJudgment",
     "type": "sailsEmblem",
     "effect": "animated",
     "set": "eyeOfMadness",
+    "obtainable": "ubisoftStore",
     "dateAdded": "2025-11-25",
-    "lastUpdated": "2025-11-25"
+    "lastUpdated": "2025-12-11"
   },
   "infinitePeril": {
     "id": "infinitePeril",
     "type": "sailsPattern",
     "set": "eyeOfMadness",
+    "obtainable": "ubisoftStore",
     "dateAdded": "2025-11-25",
-    "lastUpdated": "2025-11-25"
+    "lastUpdated": "2025-12-11"
   },
   "howlingHearts": {
     "id": "howlingHearts",
     "type": "sailsColor",
     "set": "eyeOfMadness",
+    "obtainable": "ubisoftStore",
     "dateAdded": "2025-11-25",
-    "lastUpdated": "2025-11-25"
+    "lastUpdated": "2025-12-11"
   },
   "doggedPursuit": {
     "id": "doggedPursuit",
     "type": "hull",
     "set": "eyeOfMadness",
+    "obtainable": "ubisoftStore",
     "dateAdded": "2025-11-25",
-    "lastUpdated": "2025-11-25"
+    "lastUpdated": "2025-12-11"
+  },
+  "glacialWonder": {
+    "id": "glacialWonder",
+    "type": "longGunWeaponSkin",
+    "effect": "emissive",
+    "event": "azureSolstice",
+    "season": "gutsAndGlory",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2025-12-09",
+    "lastUpdated": "2025-12-09"
+  },
+  "ghostlyTinges": {
+    "id": "ghostlyTinges",
+    "type": "aura",
+    "effect": "bossKillReactive",
+    "event": "azureSolstice",
+    "season": "gutsAndGlory",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2025-12-09",
+    "lastUpdated": "2025-12-09"
+  },
+  "stormsBreath": {
+    "id": "stormsBreath",
+    "type": "sailsEmblem",
+    "tier": 1,
+    "set": "wintersBite",
+    "event": "azureSolstice",
+    "season": "gutsAndGlory",
+    "basic": "crystalDeath",
+    "required": {
+      "azureDragonHead": 5,
+      "phoenixBeak": 5,
+      "jadePhoenixStatue": 3,
+      "wyrmVolatileNapalm": 1,
+      "orcaIntricateApparatus": 1,
+      "artisansRefinementPack": 3
+    },
+    "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken","upgradeWithMaterials"],
+    "dateAdded": "2025-12-09",
+    "lastUpdated": "2025-12-09"
+  },
+  "edgesOfDespair": {
+    "id": "edgesOfDespair",
+    "type": "sailsPattern",
+    "tier": 1,
+    "set": "wintersBite",
+    "event": "azureSolstice",
+    "season": "gutsAndGlory",
+    "basic": "icyTears",
+    "required": {
+      "roselleCloth": 10,
+      "magnetiteIngot": 10,
+      "hubacHeirloom": 5,
+      "torsionSpring": 5,
+      "wyrmVolatileNapalm": 2,
+      "artisansRefinementPack": 3
+    },
+    "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken","upgradeWithMaterials"],
+    "dateAdded": "2025-12-09",
+    "lastUpdated": "2025-12-09"
+  },
+  "frigidGloom": {
+    "id": "frigidGloom",
+    "type": "sailsColor",
+    "tier": 1,
+    "set": "wintersBite",
+    "event": "azureSolstice",
+    "season": "gutsAndGlory",
+    "basic": "wintertide",
+    "effect": "emissive",
+    "required": {
+      "roselleCloth": 10,
+      "magnetiteIngot": 10,
+      "plateGlass": 7,
+      "torsionSpring": 5,
+      "wyrmVolatileNapalm": 2,
+      "artisansRefinementPack": 3
+    },
+    "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken","upgradeWithMaterials"],
+    "dateAdded": "2025-12-09",
+    "lastUpdated": "2025-12-09"
+  },
+  "shardsOfLonging": {
+    "id": "shardsOfLonging",
+    "type": "ornaments",
+    "tier": 1,
+    "set": "wintersBite",
+    "event": "azureSolstice",
+    "season": "gutsAndGlory",
+    "basic": "voicesInTheVeins",
+    "effect": "emissive",
+    "required": {
+      "magnetiteIngot": 10,
+      "greenheartPlank": 10,
+      "azureDragonHead": 4,
+      "jadePhoenixStatue": 3,
+      "gannetDenseNiter": 2,
+      "artisansRefinementPack": 3
+    },
+    "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken","upgradeWithMaterials"],
+    "dateAdded": "2025-12-09",
+    "lastUpdated": "2025-12-09"
+  },
+  "curseSpun": {
+    "id": "curseSpun",
+    "type": "hull",
+    "tier": 1,
+    "set": "wintersBite",
+    "event": "azureSolstice",
+    "season": "gutsAndGlory",
+    "basic": "icyVengeance",
+    "required": {
+      "greenheartPlank": 10,
+      "azureDragonHead": 7,
+      "phoenixPinion": 7,
+      "naphtha": 3,
+      "rubber": 3,
+      "artisansRefinementPack": 3
+    },
+    "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken","upgradeWithMaterials"],
+    "dateAdded": "2025-12-09",
+    "lastUpdated": "2025-12-09"
+  },
+  "theLifestealer": {
+    "id": "theLifestealer",
+    "type": "wheel",
+    "tier": 1,
+    "set": "wintersBite",
+    "event": "azureSolstice",
+    "season": "gutsAndGlory",
+    "basic": "bloodlessWheel",
+    "effect": "emissive",
+    "required": {
+      "azureDragonHead": 6,
+      "rubber": 5,
+      "jadePhoenixStatue": 5,
+      "eelSturdyRopes": 1,
+      "gannetDenseNiter": 1,
+      "artisansRefinementPack": 3
+    },
+    "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken","upgradeWithMaterials"],
+    "dateAdded": "2025-12-09",
+    "lastUpdated": "2025-12-09"
+  },
+  "tongueOfShadows": {
+    "id": "tongueOfShadows",
+    "type": "sailsColor",
+    "effect": "emissive",
+    "set": "burningWhispers",
+    "obtainable": "twitchDropAzureSolsticeY2S3",
+    "dateAdded": "2025-12-10",
+    "lastUpdated": "2025-12-10"
+  },
+  "embersInTheNight": {
+    "id": "embersInTheNight",
+    "type": "hull",
+    "set": "burningWhispers",
+    "obtainable": "twitchDropAzureSolsticeY2S3",
+    "dateAdded": "2025-12-10",
+    "lastUpdated": "2025-12-10"
+  },
+  "bloodDemands": {
+    "id": "bloodDemands",
+    "type": "sailsPattern",
+    "set": "burningWhispers",
+    "obtainable": "twitchDropAzureSolsticeY2S3",
+    "dateAdded": "2025-12-10",
+    "lastUpdated": "2025-12-10"
+  },
+  "dreadStirs": {
+    "id": "dreadStirs",
+    "type": "sailsEmblem",
+    "set": "burningWhispers",
+    "obtainable": "twitchDropAzureSolsticeY2S3",
+    "dateAdded": "2025-12-10",
+    "lastUpdated": "2025-12-10"
+  },
+  "ferociousGuardian": {
+    "id": "ferociousGuardian",
+    "type": "sailsEmblem",
+    "set": "legsOfDoom",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2025-12-16",
+    "lastUpdated": "2025-12-16"
+  },
+  "theRunaround": {
+    "id": "theRunaround",
+    "type": "sailsPattern",
+    "set": "legsOfDoom",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2025-12-16",
+    "lastUpdated": "2025-12-16"
+  },
+  "insidiousHurt": {
+    "id": "insidiousHurt",
+    "type": "sailsColor",
+    "set": "legsOfDoom",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2025-12-16",
+    "lastUpdated": "2025-12-16"
+  },
+  "venemousFang": {
+    "id": "venemousFang",
+    "type": "figureHead",
+    "effect": "emissive",
+    "set": "legsOfDoom",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2025-12-16",
+    "lastUpdated": "2025-12-16"
+  },
+  "relentlessSteps": {
+    "id": "relentlessSteps",
+    "type": "ornaments",
+    "set": "legsOfDoom",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2025-12-16",
+    "lastUpdated": "2025-12-16"
+  },
+  "readyAndWaiting": {
+    "id": "readyAndWaiting",
+    "type": "hull",
+    "set": "legsOfDoom",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2025-12-16",
+    "lastUpdated": "2025-12-16"
+  },
+  "venomborn": {
+    "id": "venomborn",
+    "type": "nameplate",
+    "set": "legsOfDoom",
+    "effect": "emissive",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2025-12-16",
+    "lastUpdated": "2025-12-16"
+  },
+  "burrowersHat": {
+    "id": "burrowersHat",
+    "type": "headwear",
+    "set": "marchingMenace",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2025-12-16",
+    "lastUpdated": "2025-12-16"
+  },
+  "wordsOfDoom": {
+    "id": "wordsOfDoom",
+    "type": "faceAccessory",
+    "set": "marchingMenace",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2025-12-16",
+    "lastUpdated": "2025-12-16"
+  },
+  "cloakOfBarbs": {
+    "id": "cloakOfBarbs",
+    "type": "torso",
+    "set": "marchingMenace",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2025-12-16",
+    "lastUpdated": "2025-12-16"
+  },
+  "hookLegs": {
+    "id": "hookLegs",
+    "type": "neck",
+    "set": "marchingMenace",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2025-12-16",
+    "lastUpdated": "2025-12-16"
+  },
+  "coilingStraps": {
+    "id": "coilingStraps",
+    "type": "forearm",
+    "set": "marchingMenace",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2025-12-16",
+    "lastUpdated": "2025-12-16"
+  },
+  "windingGold": {
+    "id": "windingGold",
+    "type": "waist",
+    "set": "marchingMenace",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2025-12-16",
+    "lastUpdated": "2025-12-16"
+  },
+  "longbodyStrike": {
+    "id": "longbodyStrike",
+    "type": "bottom",
+    "set": "marchingMenace",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2025-12-16",
+    "lastUpdated": "2025-12-16"
+  },
+  "everyHundredSteps": {
+    "id": "everyHundredSteps",
+    "type": "footwear",
+    "set": "marchingMenace",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2025-12-16",
+    "lastUpdated": "2025-12-16"
+  },
+  "scurryAndSkitter": {
+    "id": "scurryAndSkitter",
+    "type": "bodyCosmetics",
+    "set": "marchingMenace",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2025-12-16",
+    "lastUpdated": "2025-12-16"
+  },
+  "batavianTricorn": {
+    "id": "batavianTricorn",
+    "type": "headwear",
+    "set": "monopolyOfTrade",
+    "faction": "dutchMerchantCompany",
+    "season": "gutsAndGlory",
+    "obtainable": "factionWarWinReward",
+    "dateAdded": "2026-01-27",
+    "lastUpdated": "2026-01-27"
+  },
+  "peperduurPatch": {
+    "id": "peperduurPatch",
+    "type": "faceAccessory",
+    "set": "monopolyOfTrade",
+    "faction": "dutchMerchantCompany",
+    "season": "gutsAndGlory",
+    "obtainable": "factionWarWinReward",
+    "dateAdded": "2026-01-27",
+    "lastUpdated": "2026-01-27"
+  },
+  "justNiceJustacorps": {
+    "id": "justNiceJustacorps",
+    "type": "torso",
+    "set": "monopolyOfTrade",
+    "faction": "dutchMerchantCompany",
+    "season": "gutsAndGlory",
+    "obtainable": "factionWarWinReward",
+    "dateAdded": "2026-01-27",
+    "lastUpdated": "2026-01-27"
+  },
+  "petticoatBreeches": {
+    "id": "petticoatBreeches",
+    "type": "bottom",
+    "set": "monopolyOfTrade",
+    "faction": "dutchMerchantCompany",
+    "season": "gutsAndGlory",
+    "obtainable": "factionWarWinReward",
+    "dateAdded": "2026-01-27",
+    "lastUpdated": "2026-01-27"
+  },
+  "steenkerkCravat": {
+    "id": "steenkerkCravat",
+    "type": "neck",
+    "set": "monopolyOfTrade",
+    "faction": "dutchMerchantCompany",
+    "season": "gutsAndGlory",
+    "obtainable": "factionWarWinReward",
+    "dateAdded": "2026-01-27",
+    "lastUpdated": "2026-01-27"
+  },
+  "turnersBelt": {
+    "id": "turnersBelt",
+    "type": "waist",
+    "set": "monopolyOfTrade",
+    "faction": "dutchMerchantCompany",
+    "season": "gutsAndGlory",
+    "obtainable": "factionWarWinReward",
+    "dateAdded": "2026-01-27",
+    "lastUpdated": "2026-01-27"
+  },
+  "slippedSoles": {
+    "id": "slippedSoles",
+    "type": "footwear",
+    "set": "monopolyOfTrade",
+    "faction": "dutchMerchantCompany",
+    "season": "gutsAndGlory",
+    "obtainable": "factionWarWinReward",
+    "dateAdded": "2026-01-27",
+    "lastUpdated": "2026-01-27"
+  },
+  "turnersTricorn": {
+    "id": "turnersTricorn",
+    "type": "headwear",
+    "set": "connoisseurOfWar",
+    "faction": "compagnieRoyale",
+    "season": "gutsAndGlory",
+    "obtainable": "factionWarWinReward",
+    "dateAdded": "2026-01-27",
+    "lastUpdated": "2026-01-27"
+  },
+  "washedOvercoat": {
+    "id": "washedOvercoat",
+    "type": "torso",
+    "set": "connoisseurOfWar",
+    "faction": "compagnieRoyale",
+    "season": "gutsAndGlory",
+    "obtainable": "factionWarWinReward",
+    "dateAdded": "2026-01-27",
+    "lastUpdated": "2026-01-27"
+  },
+  "megacorpLeggings": {
+    "id": "megacorpLeggings",
+    "type": "bottom",
+    "set": "connoisseurOfWar",
+    "faction": "compagnieRoyale",
+    "season": "gutsAndGlory",
+    "obtainable": "factionWarWinReward",
+    "dateAdded": "2026-01-27",
+    "lastUpdated": "2026-01-27"
+  },
+  "colorsOfTheWind": {
+    "id": "colorsOfTheWind",
+    "type": "neck",
+    "set": "connoisseurOfWar",
+    "faction": "compagnieRoyale",
+    "season": "gutsAndGlory",
+    "obtainable": "factionWarWinReward",
+    "dateAdded": "2026-01-27",
+    "lastUpdated": "2026-01-27"
+  },
+  "turnersBand": {
+    "id": "turnersBand",
+    "type": "waist",
+    "set": "connoisseurOfWar",
+    "faction": "compagnieRoyale",
+    "season": "gutsAndGlory",
+    "obtainable": "factionWarWinReward",
+    "dateAdded": "2026-01-27",
+    "lastUpdated": "2026-01-27"
+  },
+  "buckledShoesCR": {
+    "id": "buckledShoesCR",
+    "type": "footwear",
+    "set": "connoisseurOfWar",
+    "faction": "compagnieRoyale",
+    "season": "gutsAndGlory",
+    "obtainable": "factionWarWinReward",
+    "dateAdded": "2026-01-27",
+    "lastUpdated": "2026-01-27"
   }
 }

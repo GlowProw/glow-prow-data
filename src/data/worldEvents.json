@@ -327,5 +327,28 @@
         "id": "reaperOfTheLost",
         "type": "eliteWarship",
         "faction": "theUnhallowed"
+    },
+    "azureHarbinger": {
+        "id": "azureHarbinger",
+        "type": "eliteWarship",
+        "faction": "azureFleet"
+    },
+    "warCargo": {
+        "id": "warCargo",
+        "type": "warEvent"
+    },
+    "warConvoy": {
+        "id": "warConvoy",
+        "type": "warEvent"
+    },
+    "opstuwing": {
+        "id": "opstuwing",
+        "type": "warEvent",
+        "faction": "dutchMerchantCompany"
+    },
+    "soleilImperial": {
+        "id": "soleilImperial",
+        "type": "warEvent",
+        "faction": "compagnieRoyale"
     }
 }
