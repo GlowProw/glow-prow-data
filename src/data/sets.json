@@ -1534,5 +1534,121 @@
   "monopolyOfTrade": {
     "id": "monopolyOfTrade",
     "type": "player"
+  },
+  "abyssalSlayer": {
+    "id": "abyssalSlayer",
+    "type": "ship"
+  },
+  "silkenPromises": {
+    "id": "silkenPromises",
+    "type": "ship"
+  },
+  "mutinyMostFoul": {
+    "id": "mutinyMostFoul",
+    "type": "ship"
+  },
+  "wickedGreen": {
+    "id": "wickedGreen",
+    "type": "ship"
+  },
+  "theDrownedOnes": {
+    "id": "theDrownedOnes",
+    "type": "ship"
+  },
+  "cultOfTheKraken": {
+    "id": "cultOfTheKraken",
+    "type": "player"
+  },
+  "mutinysChild": {
+    "id": "mutinysChild",
+    "type": "player"
+  },
+  "gildedCoronation": {
+    "id": "gildedCoronation",
+    "type": "ship"
+  },
+  "jewelsOfTheSeas": {
+    "id": "jewelsOfTheSeas",
+    "type": "ship"
+  },
+  "eveOfRetribution": {
+    "id": "eveOfRetribution",
+    "type": "player"
+  },
+  "cursedEight": {
+    "id": "cursedEight",
+    "type": "ship"
+  },
+  "krakenSlayer": {
+    "id": "krakenSlayer",
+    "type": "ship"
+  },
+  "primordialTerror": {
+    "id": "primordialTerror",
+    "type": "ship"
+  },
+  "sunkenWatchers": {
+    "id": "sunkenWatchers",
+    "type": "ship"
+  },
+  "widowsEmbrace": {
+    "id": "widowsEmbrace",
+    "type": "ship"
+  },
+  "jaegersPursuit": {
+    "id": "jaegersPursuit",
+    "type": "ship"
+  },
+  "sunkenWatchersPlayer": {
+    "id": "sunkenWatchersPlayer",
+    "type": "player"
+  },
+  "mythicHowl": {
+    "id": "mythicHowl",
+    "type": "player"
+  },
+  "midnightMarquis": {
+    "id": "midnightMarquis",
+    "type": "player"
+  },
+  "oceansBrood": {
+    "id": "oceansBrood",
+    "type": "ship"
+  },
+  "friendlyFoes": {
+    "id": "friendlyFoes",
+    "type": "ship"
+  },
+  "cutthroatsCreed": {
+    "id": "cutthroatsCreed",
+    "type": "player"
+  },
+  "silverSpectre": {
+    "id": "silverSpectre",
+    "type": "ship"
+  },
+  "abyssalRegalia": {
+    "id": "abyssalRegalia",
+    "type": "ship"
+  },
+  "headHunter": {
+    "id": "headHunter",
+    "type": "ship"
+  },
+  "emberhound": {
+    "id": "emberhound",
+    "type": "ship"
+  },
+  "purveyorOfWar": {
+    "id": "purveyorOfWar",
+    "type": "ship"
+  },
+  "argentWarden": {
+    "id": "argentWarden",
+    "type": "player"
+  },
+  "crimsonStreak": {
+    "id": "crimsonStreak",
+    "type": "player"
   }
 }

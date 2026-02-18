@@ -48,5 +48,11 @@
         "alternativeName": "y2s3",
         "startDate": "2025-10-21",
         "endDate": "2026-02-10"
+    },
+    "eyeOfTheBeast": {
+        "id": "eyeOfTheBeast",
+        "alternativeName": "y2s4",
+        "startDate": "2026-02-10",
+        "endDate": "2026-05-18"
     }
 }

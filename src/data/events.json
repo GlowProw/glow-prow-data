@@ -25,7 +25,7 @@
     },
     "theFounding": {
         "id": "theFounding",
-        "seasons": ["shadowsOfTheDeep"]
+        "seasons": ["shadowsOfTheDeep","eyeOfTheBeast"]
     },
     "gloryAdorned": {
         "id": "gloryAdorned",
@@ -41,6 +41,10 @@
     },
     "moonshineLarceny": {
         "id": "moonshineLarceny",
-        "seasons": ["oathsOfWar"]
+        "seasons": ["oathsOfWar","gutsAndGlory"]
+    },
+    "legendOfTheNian": {
+        "id": "legendOfTheNian",
+        "seasons": ["eyeOfTheBeast"]
     }
 }
