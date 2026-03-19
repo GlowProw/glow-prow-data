@@ -16,6 +16,7 @@ export class Item extends BaseType {
         public readonly bySeason: Season,
         public readonly dateAdded: Date,
         public readonly lastUpdated: Date,
+        public readonly ammunitionType: string | Item,
         public readonly tier?: Tier,
         public readonly blueprint?: string,
         public readonly value?: number,
@@ -71,6 +72,7 @@ export class Item extends BaseType {
             Seasons[season],
             new Date(rawData.dateAdded),
             new Date(rawData.lastUpdated),
+            rawData.ammunitionType ?? undefined,
             rawData.tier,
             rawData.blueprint ?? undefined,
             rawData.value ?? undefined,
@@ -108,7 +110,7 @@ export class Item extends BaseType {
                     const obtainableGroup = new Array<string | Item>();
                     for (const subKey of obtainableKey) {
                         const obtainableItem = items[subKey];
-                        if (obtainableItem && obtainableItem.type === "chest") {
+                        if (obtainableItem && (obtainableItem.type === "chest" || obtainableItem.type === "ammunition")) {
                             obtainableGroup.push(obtainableItem);
                         } else {
                             obtainableGroup.push(subKey);
@@ -117,7 +119,7 @@ export class Item extends BaseType {
                     obtainable.push(obtainableGroup);
                 } else {
                     const obtainableItem = items[obtainableKey];
-                    if (obtainableItem && obtainableItem.type === "chest") {
+                    if (obtainableItem && (obtainableItem.type === "chest" || obtainableItem.type === "ammunition")) {
                         obtainable.push(obtainableItem);
                     } else {
                         obtainable.push(obtainableKey);
@@ -127,7 +129,7 @@ export class Item extends BaseType {
             items[key].obtainable = obtainable;
         } else {
             const obtainableItem = items[rawData.obtainable];
-            if (obtainableItem && obtainableItem.type === "chest") {
+            if (obtainableItem && (obtainableItem.type === "chest" || obtainableItem.type === "ammunition")) {
                 items[key].obtainable = obtainableItem;
             }
         }
