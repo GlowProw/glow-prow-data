@@ -5,6 +5,7 @@ import {Season, Seasons} from "./Seasons";
 import {Contract, Contracts} from "./Contracts";
 import {Material, Materials} from "./Materials";
 import {BaseType} from "./BaseType";
+import {Item, Items} from "./Items";
 
 /**
  * 船只
@@ -23,6 +24,8 @@ export class Ship extends BaseType {
         public readonly contract: Contract | undefined,
         // 蓝图
         public readonly blueprint: string | string[] | undefined,
+        // 线索
+        public readonly obtainable: string | Item | Array<string | Item> | Array<Array<string | Item> | Item | string> | undefined,
         // 来源赛季
         public readonly bySeason: Season | undefined,
         // 血量
@@ -82,6 +85,37 @@ export class Ship extends BaseType {
                 required.set(Materials[requiredMaterial], quantity as number);
             }
         }
+        let obtainable = rawData.obtainable ?? undefined;
+        if (Array.isArray(obtainable)) {
+            const _obtainable = new Array<Array<string | Item> | string | Item>();
+            for (const obtainableKey of rawData.obtainable as Array<keyof typeof Items>) {
+                if (Array.isArray(obtainableKey)) {
+                    const obtainableGroup = new Array<string | Item>();
+                    for (const subKey of obtainableKey as Array<keyof typeof Items>) {
+                        const obtainableItem = Items[subKey];
+                        if (obtainableItem && obtainableItem.type === "chest") {
+                            obtainableGroup.push(obtainableItem);
+                        } else {
+                            obtainableGroup.push(subKey);
+                        }
+                    }
+                    _obtainable.push(obtainableGroup);
+                } else {
+                    const obtainableItem = Items[obtainableKey];
+                    if (obtainableItem && obtainableItem.type === "chest") {
+                        _obtainable.push(obtainableItem);
+                    } else {
+                        _obtainable.push(obtainableKey);
+                    }
+                }
+            }
+            obtainable = _obtainable;
+        } else if (obtainable) {
+            const obtainableItem = Items[rawData.obtainable as keyof typeof Items];
+            if (obtainableItem && obtainableItem.type === "chest") {
+                obtainable = obtainableItem;
+            }
+        }
 
         return new Ship(
             rawData.id,
@@ -90,6 +124,7 @@ export class Ship extends BaseType {
             rawData.archetype,
             rawData.contract ? Contracts[contract] : undefined,
             rawData.blueprint ?? undefined,
+            obtainable,
             season ? Seasons[season] : undefined,
             rawData.hitpoints,
             rawData.braceStrength,

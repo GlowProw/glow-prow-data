@@ -12,6 +12,8 @@ import {BaseType} from "./BaseType";
 export class Material extends BaseType {
     // 材料id
     id!: string;
+    dateAdded: Date | undefined;
+    lastUpdated: Date | undefined;
     // 稀有性
     rarity!: Rarity;
     // 类别
@@ -25,7 +27,7 @@ export class Material extends BaseType {
     // 事件
     event?: Event;
 
-    constructor(id: string, rarity: Rarity, category: MaterialCategory, requiredRank?: string, faction?: Faction, event?: Event) {
+    constructor(id: string, dateAdded: Date | undefined, lastUpdated: Date | undefined, rarity: Rarity, category: MaterialCategory, requiredRank?: string, faction?: Faction, event?: Event) {
         super();
 
         this.id = id;
@@ -44,6 +46,8 @@ export class Material extends BaseType {
         const event = rawData.event as keyof typeof Events;
         return new Material(
             key,
+            rawData.dateAdded ? new Date(rawData.dateAdded) : undefined,
+            rawData.lastUpdated ? new Date(rawData.lastUpdated) : undefined,
             rawData.rarity as Rarity,
             rawData.category as MaterialCategory,
             rawData.requiredRank ?? undefined,

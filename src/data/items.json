@@ -152,7 +152,9 @@
       "irokoPlank": 4,
       "fineJute": 12
     },
-    "perks": ["tearing2"],
+    "perks": [
+      "tearing2"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-07-29"
   },
@@ -181,7 +183,9 @@
       "fineLinen": 8,
       "woodTar": 4
     },
-    "perks": ["tearing2"],
+    "perks": [
+      "tearing2"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-07-29"
   },
@@ -211,7 +215,9 @@
       "woodTar": 4,
       "torsionSpring": 1
     },
-    "perks": ["tearing2"],
+    "perks": [
+      "tearing2"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-07-29"
   },
@@ -238,7 +244,10 @@
       "bronzeIngot": 12,
       "irokoPlank": 12
     },
-    "perks": ["raider", "piercing2"],
+    "perks": [
+      "raider",
+      "piercing2"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-07-29"
   },
@@ -267,7 +276,10 @@
       "fineJute": 20,
       "cogwheel": 4
     },
-    "perks": ["raider", "piercing2"],
+    "perks": [
+      "raider",
+      "piercing2"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-07-29"
   },
@@ -297,8 +309,14 @@
       "precisionDrillingBit": 2,
       "orcasMechanism": 1
     },
-    "perks": ["raider", "piercing2"],
-    "obtainable": ["darktideChest", "hauntedReapersCache"],
+    "perks": [
+      "raider",
+      "piercing2"
+    ],
+    "obtainable": [
+      "darktideChest",
+      "hauntedReapersCache"
+    ],
     "dateAdded": "2024-02-12",
     "lastUpdated": "2025-10-21"
   },
@@ -308,7 +326,12 @@
     "rarity": "epic",
     "season": "ragingTides",
     "blueprint": "smugglerPassPinnacleStore",
-    "obtainable": ["smugglerPass", "williamBlackwoodRotatingStore", "teulingsWeaponChest1", "laPestesLockerMythic"],
+    "obtainable": [
+      "smugglerPass",
+      "williamBlackwoodRotatingStore",
+      "teulingsWeaponChest1",
+      "laPestesLockerMythic"
+    ],
     "value": 1,
     "weight": 500,
     "gearScore": 91,
@@ -327,7 +350,10 @@
       "gannetDenseNiter": 2,
       "silver": 3300
     },
-    "perks": ["riptide", "flooding1"],
+    "perks": [
+      "riptide",
+      "flooding1"
+    ],
     "dateAdded": "2024-02-27",
     "lastUpdated": "2025-10-21"
   },
@@ -488,7 +514,9 @@
       "nickelIngot": 10,
       "teakPlank": 8
     },
-    "perks": ["flooding2"],
+    "perks": [
+      "flooding2"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-07-29"
   },
@@ -517,7 +545,9 @@
       "lime": 4,
       "castingSand": 4
     },
-    "perks": ["flooding2"],
+    "perks": [
+      "flooding2"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-07-29"
   },
@@ -547,7 +577,9 @@
       "cogwheel": 4,
       "torsionSpring": 1
     },
-    "perks": ["flooding2"],
+    "perks": [
+      "flooding2"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-07-29"
   },
@@ -575,7 +607,10 @@
       "fineHemp": 6,
       "castingSand": 4
     },
-    "perks": ["raider", "burning2"],
+    "perks": [
+      "raider",
+      "burning2"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-07-29"
   },
@@ -605,7 +640,10 @@
       "lime": 4,
       "cogwheel": 4
     },
-    "perks": ["raider", "burning2"],
+    "perks": [
+      "raider",
+      "burning2"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-07-29"
   },
@@ -635,7 +673,10 @@
       "rubber": 1,
       "wyrmsBreath": 1
     },
-    "perks": ["raider", "burning2"],
+    "perks": [
+      "raider",
+      "burning2"
+    ],
     "dateAdded": "2024-02-12",
     "lastUpdated": "2025-07-29"
   },
@@ -895,7 +936,11 @@
     "id": "layeredScales1",
     "tier": 1,
     "contract": "untoldTreasures",
-    "blueprint": [[ "contractReward", "commodityTraderSaintAnne"]
+    "blueprint": [
+      [
+        "contractReward",
+        "commodityTraderSaintAnne"
+      ]
     ],
     "type": "armor",
     "season": "release",
@@ -1230,7 +1275,9 @@
       "sheetGlass": 4,
       "screwMechanism": 4
     },
-    "perks": ["sealing"],
+    "perks": [
+      "sealing"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-07-29"
   },
@@ -1261,7 +1308,9 @@
       "torsionSpring": 2,
       "gannetsSaltpeter": 1
     },
-    "perks": ["sealing"],
+    "perks": [
+      "sealing"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-07-29"
   },
@@ -1291,7 +1340,9 @@
       "screwMechanism": 4,
       "sheetGlass": 4
     },
-    "perks": ["rampart"],
+    "perks": [
+      "rampart"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-07-29"
   },
@@ -1322,7 +1373,9 @@
       "rubber": 2,
       "eelsTwine": 1
     },
-    "perks": ["rampart"],
+    "perks": [
+      "rampart"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-07-29"
   },
@@ -1353,8 +1406,14 @@
       "orcaIntricateApparatus": 2,
       "silver": 3800
     },
-    "perks": ["resolute"],
-    "obtainable": ["legacyCache3", "legacyCache1", "exoticArmorAscendedCache"],
+    "perks": [
+      "resolute"
+    ],
+    "obtainable": [
+      "legacyCache3",
+      "legacyCache1",
+      "exoticArmorAscendedCache"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-10-21"
   },
@@ -1387,7 +1446,10 @@
       "torsionSpring": 1,
       "gannetsSaltpeter": 1
     },
-    "perks": ["amalgamate", "restoration"],
+    "perks": [
+      "amalgamate",
+      "restoration"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-10-21"
   },
@@ -1397,7 +1459,12 @@
     "season": "ragingTides",
     "requiredRank": "kingpin1",
     "blueprint": "williamBlackwoodRotatingStore",
-    "obtainable": ["theHelm", "laPestesStrongbox", "legacyCache1", "laPestesLockerMythic"],
+    "obtainable": [
+      "theHelm",
+      "laPestesStrongbox",
+      "legacyCache1",
+      "laPestesLockerMythic"
+    ],
     "worldEvent": "thePlagueKing",
     "type": "armor",
     "value": 1,
@@ -1420,7 +1487,9 @@
       "wyrmVolatileNapalm": 2,
       "silver": 3800
     },
-    "perks": ["venemousVengeance"],
+    "perks": [
+      "venemousVengeance"
+    ],
     "dateAdded": "2024-02-27",
     "lastUpdated": "2025-10-21"
   },
@@ -1430,7 +1499,12 @@
     "season": "ragingTides",
     "requiredRank": "kingpin1",
     "blueprint": "williamBlackwoodRotatingStore",
-    "obtainable": ["smugglerPass", "williamBlackwoodRotatingStore", "teulingsWeaponChest1", "exoticArmorAscendedCache"],
+    "obtainable": [
+      "smugglerPass",
+      "williamBlackwoodRotatingStore",
+      "teulingsWeaponChest1",
+      "exoticArmorAscendedCache"
+    ],
     "type": "armor",
     "value": 1,
     "weight": 500,
@@ -1452,7 +1526,10 @@
       "eelSturdyRopes": 2,
       "silver": 3800
     },
-    "perks": ["toxicResistant", "agileGuard"],
+    "perks": [
+      "toxicResistant",
+      "agileGuard"
+    ],
     "dateAdded": "2024-02-27",
     "lastUpdated": "2025-10-21"
   },
@@ -1461,7 +1538,10 @@
     "rarity": "epic",
     "season": "release",
     "requiredRank": "kingpin1",
-    "obtainable": ["worldEventMerchantConvoy", "exoticArmorAscendedCache"],
+    "obtainable": [
+      "worldEventMerchantConvoy",
+      "exoticArmorAscendedCache"
+    ],
     "blueprint": "theHelm",
     "type": "armor",
     "value": 1,
@@ -1485,7 +1565,9 @@
       "orcasMechanism": 1,
       "silver": 3800
     },
-    "perks": ["refortify"],
+    "perks": [
+      "refortify"
+    ],
     "dateAdded": "2024-02-15",
     "lastUpdated": "2025-10-21"
   },
@@ -1515,7 +1597,10 @@
       "crudeSaltpeter": 4,
       "shellac": 4
     },
-    "perks": ["blast", "noDefaultCrit"],
+    "perks": [
+      "blast",
+      "noDefaultCrit"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-07-29"
   },
@@ -1546,7 +1631,10 @@
       "screwMechanism": 4,
       "crudeSaltpeter": 1
     },
-    "perks": ["blast", "noDefaultCrit"],
+    "perks": [
+      "blast",
+      "noDefaultCrit"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-07-29"
   },
@@ -1577,7 +1665,10 @@
       "torsionSpring": 2,
       "wyrmsBreath": 1
     },
-    "perks": ["blast", "noDefaultCrit"],
+    "perks": [
+      "blast",
+      "noDefaultCrit"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-07-29"
   },
@@ -1606,7 +1697,10 @@
       "crudeSaltpeter": 4,
       "shellac": 4
     },
-    "perks": ["repairBlast", "noDefaultCrit"],
+    "perks": [
+      "repairBlast",
+      "noDefaultCrit"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-07-29"
   },
@@ -1636,7 +1730,10 @@
       "sheetGlass": 6,
       "precisionDrillingBit": 2
     },
-    "perks": ["repairBlast", "noDefaultCrit"],
+    "perks": [
+      "repairBlast",
+      "noDefaultCrit"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-07-29"
   },
@@ -1667,7 +1764,10 @@
       "torsionSpring": 2,
       "eelsTwine": 1
     },
-    "perks": ["repairBlast", "noDefaultCrit"],
+    "perks": [
+      "repairBlast",
+      "noDefaultCrit"
+    ],
     "dateAdded": "2024-02-12",
     "lastUpdated": "2025-07-29"
   },
@@ -1696,7 +1796,11 @@
       "juniperPlank": 8,
       "crudeSaltpeter": 4
     },
-    "perks": ["blast", "flooding2", "noDefaultCrit"],
+    "perks": [
+      "blast",
+      "flooding2",
+      "noDefaultCrit"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-07-29"
   },
@@ -1727,7 +1831,11 @@
       "sheetGlass": 4,
       "precisionDrillingBit": 1
     },
-    "perks": ["blast", "flooding2", "noDefaultCrit"],
+    "perks": [
+      "blast",
+      "flooding2",
+      "noDefaultCrit"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-07-29"
   },
@@ -1758,8 +1866,14 @@
       "precisionDrillingBit": 2,
       "gannetsSaltpeter": 1
     },
-    "perks": ["blast", "flooding2", "noDefaultCrit"],
-    "obtainable": ["vanderkillsLocker"],
+    "perks": [
+      "blast",
+      "flooding2",
+      "noDefaultCrit"
+    ],
+    "obtainable": [
+      "vanderkillsLocker"
+    ],
     "dateAdded": "2024-02-12",
     "lastUpdated": "2025-09-04"
   },
@@ -1769,7 +1883,11 @@
     "rarity": "epic",
     "season": "ragingTides",
     "requiredRank": "kingpin1",
-    "obtainable": ["laPestesStrongbox", "legacyCache1", "laPestesLockerMythic"],
+    "obtainable": [
+      "laPestesStrongbox",
+      "legacyCache1",
+      "laPestesLockerMythic"
+    ],
     "value": 1,
     "weight": 1000,
     "gearScore": 91,
@@ -1782,7 +1900,12 @@
     "blastRadius": 50,
     "ammunitionType": "mortarBombs",
     "required": {},
-    "perks": ["blast", "putrefying", "toxic3", "noDefaultCrit"],
+    "perks": [
+      "blast",
+      "putrefying",
+      "toxic3",
+      "noDefaultCrit"
+    ],
     "dateAdded": "2024-02-27",
     "lastUpdated": "2025-10-21"
   },
@@ -1810,7 +1933,9 @@
       "zincIngot": 6,
       "juniperPlank": 6
     },
-    "perks": ["burning2"],
+    "perks": [
+      "burning2"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-07-29"
   },
@@ -1840,7 +1965,9 @@
       "sheetGlass": 3,
       "screwMechanism": 3
     },
-    "perks": ["burning2"],
+    "perks": [
+      "burning2"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-07-29"
   },
@@ -1870,8 +1997,14 @@
       "torsionSpring": 2,
       "orcasMechanism": 1
     },
-    "perks": ["burning2"],
-    "obtainable": ["chorusFleetStrongbox", "whiteAriaChest", "blackAriaChest"],
+    "perks": [
+      "burning2"
+    ],
+    "obtainable": [
+      "chorusFleetStrongbox",
+      "whiteAriaChest",
+      "blackAriaChest"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-09-04"
   },
@@ -1900,7 +2033,11 @@
       "juniperPlank": 4,
       "crudeSaltpeter": 4
     },
-    "perks": ["piercing1", "burning1", "siege"],
+    "perks": [
+      "piercing1",
+      "burning1",
+      "siege"
+    ],
     "dateAdded": "2024-02-12",
     "lastUpdated": "2025-07-29"
   },
@@ -1930,7 +2067,11 @@
       "screwMechanism": 4,
       "precisionDrillingBit": 1
     },
-    "perks": ["piercing1", "burning1", "siege"],
+    "perks": [
+      "piercing1",
+      "burning1",
+      "siege"
+    ],
     "dateAdded": "2024-02-12",
     "lastUpdated": "2025-07-29"
   },
@@ -1960,8 +2101,16 @@
       "rubber": 2,
       "wyrmsBreath": 1
     },
-    "perks": ["piercing1", "burning1", "siege"],
-    "obtainable": ["chorusFleetStrongbox", "whiteAriaChest", "blackAriaChest"],
+    "perks": [
+      "piercing1",
+      "burning1",
+      "siege"
+    ],
+    "obtainable": [
+      "chorusFleetStrongbox",
+      "whiteAriaChest",
+      "blackAriaChest"
+    ],
     "dateAdded": "2024-02-12",
     "lastUpdated": "2025-09-04"
   },
@@ -1990,7 +2139,10 @@
       "fineAbaka": 4,
       "juniperPlank": 4
     },
-    "perks": ["draw", "piercing2"],
+    "perks": [
+      "draw",
+      "piercing2"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-07-29"
   },
@@ -2021,7 +2173,10 @@
       "shellac": 2,
       "sheetGlass": 2
     },
-    "perks": ["draw", "piercing2"],
+    "perks": [
+      "draw",
+      "piercing2"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-07-29"
   },
@@ -2053,7 +2208,10 @@
       "torsionSpring": 2,
       "eelsTwine": 1
     },
-    "perks": ["draw", "piercing2"],
+    "perks": [
+      "draw",
+      "piercing2"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-07-29"
   },
@@ -2083,7 +2241,11 @@
       "irokoPlank": 12,
       "woodTar": 4
     },
-    "perks": ["draw", "piercing2", "tearing2"],
+    "perks": [
+      "draw",
+      "piercing2",
+      "tearing2"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-07-29"
   },
@@ -2114,7 +2276,11 @@
       "woodTar": 6,
       "precisionDrillingBit": 1
     },
-    "perks": ["draw", "piercing2", "tearing2"],
+    "perks": [
+      "draw",
+      "piercing2",
+      "tearing2"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-07-29"
   },
@@ -2126,7 +2292,10 @@
     "season": "release",
     "requiredRank": "kingpin1",
     "blueprint": "seaPeopleHunterMasterOutpostLanitra",
-    "obtainable": ["slayersChest", "gildedSlayersChest"],
+    "obtainable": [
+      "slayersChest",
+      "gildedSlayersChest"
+    ],
     "value": 1,
     "weight": 750,
     "gearScore": 83,
@@ -2146,7 +2315,11 @@
       "torsionSpring": 2,
       "orcasMechanism": 1
     },
-    "perks": ["draw", "piercing2", "tearing2"],
+    "perks": [
+      "draw",
+      "piercing2",
+      "tearing2"
+    ],
     "dateAdded": "2024-02-12",
     "lastUpdated": "2025-10-21"
   },
@@ -2156,7 +2329,12 @@
     "rarity": "epic",
     "season": "release",
     "requiredRank": "kingpin1",
-    "obtainable": ["theHelmSeasonal", "legacyCache3", "legacyCache1", "laPestesLockerMythic"],
+    "obtainable": [
+      "theHelmSeasonal",
+      "legacyCache3",
+      "legacyCache1",
+      "laPestesLockerMythic"
+    ],
     "blueprint": "theHelmSeasonOathsOfWar",
     "value": 1,
     "weight": 750,
@@ -2177,7 +2355,10 @@
       "orcaIntricateApparatus": 1,
       "silver": 3960
     },
-    "perks": ["doubleDraw", "piercing2"],
+    "perks": [
+      "doubleDraw",
+      "piercing2"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-10-21"
   },
@@ -2206,7 +2387,9 @@
       "fineRamie": 6,
       "crudeSaltpeter": 4
     },
-    "perks": ["burning3"],
+    "perks": [
+      "burning3"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-07-29"
   },
@@ -2236,7 +2419,9 @@
       "juniperPlank": 4,
       "crudeSaltpeter": 2
     },
-    "perks": ["burning3"],
+    "perks": [
+      "burning3"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-07-29"
   },
@@ -2267,7 +2452,9 @@
       "torsionSpring": 2,
       "wyrmsBreath": 1
     },
-    "perks": ["burning3"],
+    "perks": [
+      "burning3"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-07-29"
   },
@@ -2296,7 +2483,10 @@
       "fineHemp": 8,
       "lime": 4
     },
-    "perks": ["raider", "burning3"],
+    "perks": [
+      "raider",
+      "burning3"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-07-29"
   },
@@ -2327,7 +2517,10 @@
       "screwMechanism": 4,
       "precisionDrillingBit": 1
     },
-    "perks": ["raider", "burning3"],
+    "perks": [
+      "raider",
+      "burning3"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-07-29"
   },
@@ -2358,7 +2551,10 @@
       "torsionSpring": 2,
       "wyrmsBreath": 1
     },
-    "perks": ["raider", "burning3"],
+    "perks": [
+      "raider",
+      "burning3"
+    ],
     "dateAdded": "2024-02-12",
     "lastUpdated": "2025-07-29"
   },
@@ -2390,7 +2586,10 @@
       "rubber": 2,
       "wyrmsBreath": 1
     },
-    "perks": ["superheated", "burning3"],
+    "perks": [
+      "superheated",
+      "burning3"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-07-29"
   },
@@ -2402,7 +2601,9 @@
     "required": {
       "rawBeef": 1
     },
-    "perks": ["grilledBeef"],
+    "perks": [
+      "grilledBeef"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-07-29"
   },
@@ -2414,7 +2615,9 @@
     "required": {
       "coconut": 1
     },
-    "perks": ["grilledCoconut"],
+    "perks": [
+      "grilledCoconut"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-07-29"
   },
@@ -2426,7 +2629,9 @@
     "required": {
       "fish": 1
     },
-    "perks": ["grilledFish"],
+    "perks": [
+      "grilledFish"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-07-29"
   },
@@ -2439,7 +2644,9 @@
     "required": {
       "crocodileMeat": 1
     },
-    "perks": ["grilledCrocodile"],
+    "perks": [
+      "grilledCrocodile"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-07-29"
   },
@@ -2452,7 +2659,9 @@
     "required": {
       "sharkMeat": 1
     },
-    "perks": ["grilledShark"],
+    "perks": [
+      "grilledShark"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-07-29"
   },
@@ -2465,7 +2674,9 @@
     "required": {
       "rawMutton": 1
     },
-    "perks": ["grilledMutton"],
+    "perks": [
+      "grilledMutton"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-07-29"
   },
@@ -2478,7 +2689,9 @@
     "required": {
       "durian": 1
     },
-    "perks": ["grilledDurian"],
+    "perks": [
+      "grilledDurian"
+    ],
     "dateAdded": "2024-02-12",
     "lastUpdated": "2025-07-29"
   },
@@ -2491,7 +2704,9 @@
     "required": {
       "rawChicken": 1
     },
-    "perks": ["grilledChicken"],
+    "perks": [
+      "grilledChicken"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-07-29"
   },
@@ -2503,7 +2718,9 @@
     "required": {
       "flour": 1
     },
-    "perks": ["grilledBread"],
+    "perks": [
+      "grilledBread"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-07-29"
   },
@@ -2516,7 +2733,9 @@
     "required": {
       "ndizi": 1
     },
-    "perks": ["grilledBanana"],
+    "perks": [
+      "grilledBanana"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-07-29"
   },
@@ -2528,7 +2747,9 @@
     "required": {
       "primeHippoMeat": 1
     },
-    "perks": ["grilledPrimeHippo"],
+    "perks": [
+      "grilledPrimeHippo"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-07-29"
   },
@@ -2540,7 +2761,9 @@
     "required": {
       "primeCrocodileMeat": 1
     },
-    "perks": ["grilledPrimeCrocodile"],
+    "perks": [
+      "grilledPrimeCrocodile"
+    ],
     "dateAdded": "2024-03-23",
     "lastUpdated": "2025-07-29"
   },
@@ -2552,7 +2775,9 @@
     "required": {
       "tylosaurusFlesh": 1
     },
-    "perks": ["tylosaurusSteak"],
+    "perks": [
+      "tylosaurusSteak"
+    ],
     "dateAdded": "2024-03-23",
     "lastUpdated": "2025-07-29"
   },
@@ -2565,7 +2790,9 @@
     "required": {
       "screwpine": 1
     },
-    "perks": ["grilledScrewpine"],
+    "perks": [
+      "grilledScrewpine"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-07-29"
   },
@@ -2578,7 +2805,9 @@
     "required": {
       "rawVegetables": 1
     },
-    "perks": ["grilledVegetables"],
+    "perks": [
+      "grilledVegetables"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-07-29"
   },
@@ -2591,7 +2820,9 @@
     "required": {
       "hippoMeat": 1
     },
-    "perks": ["grilledHippo"],
+    "perks": [
+      "grilledHippo"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-07-29"
   },
@@ -2607,7 +2838,9 @@
       "rawBeef": 1,
       "coconut": 1
     },
-    "perks": ["varyBeMenaka"],
+    "perks": [
+      "varyBeMenaka"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-07-29"
   },
@@ -2622,7 +2855,9 @@
       "coconut": 1,
       "flour": 1
     },
-    "perks": ["godrogodro"],
+    "perks": [
+      "godrogodro"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-07-29"
   },
@@ -2638,7 +2873,9 @@
       "rawVegetables": 1,
       "waterFlask": 1
     },
-    "perks": ["trondroGasy"],
+    "perks": [
+      "trondroGasy"
+    ],
     "dateAdded": "2024-03-23",
     "lastUpdated": "2025-07-29"
   },
@@ -2654,7 +2891,9 @@
       "ndizi": 2,
       "waterFlask": 1
     },
-    "perks": ["ndiziNaNyama"],
+    "perks": [
+      "ndiziNaNyama"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-07-29"
   },
@@ -2666,7 +2905,11 @@
     "buffDuration": 1800,
     "weight": 41,
     "contract": "boTelORhum",
-    "blueprint": [[ "contractReward", "outpostMotherOfShipwrecks"]
+    "blueprint": [
+      [
+        "contractReward",
+        "outpostMotherOfShipwrecks"
+      ]
     ],
     "required": {
       "rawBeef": 1,
@@ -2674,7 +2917,9 @@
       "rawMutton": 2,
       "waterBarrel": 1
     },
-    "perks": ["ragout"],
+    "perks": [
+      "ragout"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-07-29"
   },
@@ -2689,7 +2934,9 @@
       "rawMutton": 3,
       "rawBeef": 3
     },
-    "perks": ["sateKambing"],
+    "perks": [
+      "sateKambing"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-07-29"
   },
@@ -2699,7 +2946,11 @@
     "rarity": "uncommon",
     "season": "release",
     "contract": "cutthroatJacks",
-    "blueprint": [[ "contractReward", "outpostTheRuinedLighthouse"]
+    "blueprint": [
+      [
+        "contractReward",
+        "outpostTheRuinedLighthouse"
+      ]
     ],
     "buffDuration": 1800,
     "weight": 41,
@@ -2709,7 +2960,9 @@
       "rawBeef": 2,
       "waterBarrel": 1
     },
-    "perks": ["bitterballen"],
+    "perks": [
+      "bitterballen"
+    ],
     "dateAdded": "2024-03-23",
     "lastUpdated": "2025-07-29"
   },
@@ -2725,7 +2978,9 @@
       "coconut": 5,
       "rawVegetables": 2
     },
-    "perks": ["mchuziWaKuharibu"],
+    "perks": [
+      "mchuziWaKuharibu"
+    ],
     "dateAdded": "2024-03-23",
     "lastUpdated": "2025-07-29"
   },
@@ -2744,7 +2999,9 @@
       "rawChicken": 1,
       "waterBarrel": 1
     },
-    "perks": ["ronakoho"],
+    "perks": [
+      "ronakoho"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-07-29"
   },
@@ -2760,7 +3017,9 @@
       "fish": 2,
       "screwpine": 3
     },
-    "perks": ["otakOtak"],
+    "perks": [
+      "otakOtak"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-07-29"
   },
@@ -2779,7 +3038,9 @@
       "irokoPlank": 6,
       "bronzeIngot": 6
     },
-    "perks": ["firstAidStation"],
+    "perks": [
+      "firstAidStation"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-07-29"
   },
@@ -2800,7 +3061,9 @@
       "bronzeIngot": 4,
       "fineJute": 8
     },
-    "perks": ["ropeLocker"],
+    "perks": [
+      "ropeLocker"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-07-29"
   },
@@ -2823,7 +3086,9 @@
       "cogwheel": 4
     },
     "obtainable": "commanderZhangsChest",
-    "perks": ["scopingStation"],
+    "perks": [
+      "scopingStation"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-07-29"
   },
@@ -2843,7 +3108,9 @@
       "crudeSaltpeter": 4,
       "shellac": 4
     },
-    "perks": ["scrapperStation"],
+    "perks": [
+      "scrapperStation"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-07-29"
   },
@@ -2863,7 +3130,9 @@
       "cobaltIngot": 8,
       "cogwheel": 4
     },
-    "perks": ["signalGong"],
+    "perks": [
+      "signalGong"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-07-29"
   },
@@ -2880,7 +3149,9 @@
     "required": {
       "piecesOfEight": 2500
     },
-    "perks": ["warDrums"],
+    "perks": [
+      "warDrums"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-07-29"
   },
@@ -2900,7 +3171,9 @@
       "cobaltIngot": 8,
       "lime": 4
     },
-    "perks": ["megaphone"],
+    "perks": [
+      "megaphone"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-07-29"
   },
@@ -2921,7 +3194,9 @@
       "fineAbaka": 4,
       "screwMechanism": 4
     },
-    "perks": ["munitionsMixer"],
+    "perks": [
+      "munitionsMixer"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-07-29"
   },
@@ -2942,7 +3217,9 @@
       "screwMechanism": 4,
       "shellac": 4
     },
-    "perks": ["ironCapstan"],
+    "perks": [
+      "ironCapstan"
+    ],
     "dateAdded": "2024-02-12",
     "lastUpdated": "2025-07-29"
   },
@@ -2965,8 +3242,13 @@
       "eelSturdyRopes": 2,
       "silver": 5760
     },
-    "perks": ["riggingStation"],
-    "obtainable": ["legacyCache3", "legacyCache1"],
+    "perks": [
+      "riggingStation"
+    ],
+    "obtainable": [
+      "legacyCache3",
+      "legacyCache1"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-09-04"
   },
@@ -2989,8 +3271,14 @@
       "orcaIntricateApparatus": 2,
       "silver": 5760
     },
-    "perks": ["gunnersQuadrant"],
-    "obtainable": ["legacyCache3", "legacyCache1", "legacyCache4"],
+    "perks": [
+      "gunnersQuadrant"
+    ],
+    "obtainable": [
+      "legacyCache3",
+      "legacyCache1",
+      "legacyCache4"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-09-04"
   },
@@ -3007,7 +3295,9 @@
     "required": {
       "piecesOfEight": 2500
     },
-    "perks": ["waterTank"],
+    "perks": [
+      "waterTank"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-07-29"
   },
@@ -3021,7 +3311,9 @@
     "gearScore": 15,
     "value": 1,
     "weight": 200,
-    "perks": ["culverinElementalDamage19"],
+    "perks": [
+      "culverinElementalDamage19"
+    ],
     "required": {
       "silver": 1970,
       "zincIngot": 6,
@@ -3042,7 +3334,9 @@
     "gearScore": 15,
     "value": 1,
     "weight": 200,
-    "perks": ["rammingDamage25"],
+    "perks": [
+      "rammingDamage25"
+    ],
     "required": {
       "silver": 280,
       "castIronIngot": 10,
@@ -3061,7 +3355,9 @@
     "gearScore": 15,
     "value": 1,
     "weight": 200,
-    "perks": ["portWeaponDamage1"],
+    "perks": [
+      "portWeaponDamage1"
+    ],
     "required": {
       "silver": 2250,
       "zincIngot": 6,
@@ -3083,7 +3379,9 @@
     "gearScore": 15,
     "value": 1,
     "weight": 200,
-    "perks": ["starboardWeaponDamage1"],
+    "perks": [
+      "starboardWeaponDamage1"
+    ],
     "required": {
       "silver": 2250,
       "zincIngot": 5,
@@ -3105,7 +3403,9 @@
     "gearScore": 15,
     "value": 1,
     "weight": 200,
-    "perks": ["frontWeaponDamage1"],
+    "perks": [
+      "frontWeaponDamage1"
+    ],
     "required": {
       "silver": 2250,
       "zincIngot": 8,
@@ -3121,14 +3421,20 @@
     "id": "ballistaWorks1",
     "tier": 1,
     "requiredRank": "kingpin1",
-    "blueprint": [[ "outpostSacredTree", "clanOfFaraWarrior"]
+    "blueprint": [
+      [
+        "outpostSacredTree",
+        "clanOfFaraWarrior"
+      ]
     ],
     "type": "offensiveFurniture",
     "season": "release",
     "gearScore": 15,
     "value": 1,
     "weight": 200,
-    "perks": ["ballistaElementalDamage19"],
+    "perks": [
+      "ballistaElementalDamage19"
+    ],
     "required": {
       "greenheartPlank": 14,
       "roselleCloth": 14,
@@ -3151,7 +3457,9 @@
     "gearScore": 15,
     "value": 1,
     "weight": 200,
-    "perks": ["bombardElementalDamage19"],
+    "perks": [
+      "bombardElementalDamage19"
+    ],
     "required": {
       "silver": 280,
       "bronzeIngot": 4,
@@ -3170,7 +3478,9 @@
     "gearScore": 15,
     "value": 1,
     "weight": 200,
-    "perks": ["flamethrowerElementalDamage19"],
+    "perks": [
+      "flamethrowerElementalDamage19"
+    ],
     "required": {
       "silver": 2250,
       "zincIngot": 6,
@@ -3192,7 +3502,9 @@
     "gearScore": 15,
     "value": 1,
     "weight": 200,
-    "perks": ["longGunElementalDamage19"],
+    "perks": [
+      "longGunElementalDamage19"
+    ],
     "required": {
       "silver": 280,
       "bronzeIngot": 6,
@@ -3211,7 +3523,9 @@
     "gearScore": 15,
     "value": 1,
     "weight": 200,
-    "perks": ["maintainedArsenal1"],
+    "perks": [
+      "maintainedArsenal1"
+    ],
     "required": {
       "silver": 3370,
       "magnetiteIngot": 6,
@@ -3234,7 +3548,9 @@
     "gearScore": 15,
     "value": 1,
     "weight": 200,
-    "perks": ["torpedoElementalDamage19"],
+    "perks": [
+      "torpedoElementalDamage19"
+    ],
     "required": {
       "silver": 2250,
       "zincIngot": 7,
@@ -3256,7 +3572,9 @@
     "gearScore": 15,
     "value": 1,
     "weight": 200,
-    "perks": ["demicannonElementalDamage19"],
+    "perks": [
+      "demicannonElementalDamage19"
+    ],
     "required": {
       "silver": 700,
       "cobaltIngot": 10,
@@ -3276,7 +3594,9 @@
     "gearScore": 15,
     "value": 1,
     "weight": 200,
-    "perks": ["mortarElementalDamage19"],
+    "perks": [
+      "mortarElementalDamage19"
+    ],
     "required": {
       "silver": 3370,
       "magnetiteIngot": 6,
@@ -3299,7 +3619,9 @@
     "gearScore": 15,
     "value": 1,
     "weight": 200,
-    "perks": ["rocketElementalDamage19"],
+    "perks": [
+      "rocketElementalDamage19"
+    ],
     "required": {
       "silver": 3370,
       "magnetiteIngot": 8,
@@ -3322,7 +3644,9 @@
     "gearScore": 15,
     "value": 1,
     "weight": 175,
-    "perks": ["bombardProjectileSpeed15"],
+    "perks": [
+      "bombardProjectileSpeed15"
+    ],
     "required": {
       "silver": 280,
       "fineJute": 14,
@@ -3341,7 +3665,9 @@
     "gearScore": 15,
     "value": 1,
     "weight": 200,
-    "perks": ["structureDamage15"],
+    "perks": [
+      "structureDamage15"
+    ],
     "required": {
       "silver": 1970,
       "zincIngot": 8,
@@ -3362,7 +3688,9 @@
     "gearScore": 15,
     "value": 1,
     "weight": 175,
-    "perks": ["culverinProjectileSpeed15"],
+    "perks": [
+      "culverinProjectileSpeed15"
+    ],
     "required": {
       "silver": 280,
       "fineJute": 12,
@@ -3381,7 +3709,9 @@
     "gearScore": 15,
     "value": 1,
     "weight": 175,
-    "perks": ["longGunProjectileSpeed15"],
+    "perks": [
+      "longGunProjectileSpeed15"
+    ],
     "required": {
       "silver": 280,
       "fineJute": 14,
@@ -3400,7 +3730,9 @@
     "gearScore": 15,
     "value": 1,
     "weight": 175,
-    "perks": ["torpedoProjectileSpeed15"],
+    "perks": [
+      "torpedoProjectileSpeed15"
+    ],
     "required": {
       "silver": 700,
       "fineHemp": 6,
@@ -3420,7 +3752,9 @@
     "gearScore": 15,
     "value": 1,
     "weight": 175,
-    "perks": ["ballistaProjectileSpeed15"],
+    "perks": [
+      "ballistaProjectileSpeed15"
+    ],
     "required": {
       "silver": 2250,
       "fineAbaka": 6,
@@ -3442,7 +3776,9 @@
     "gearScore": 15,
     "value": 1,
     "weight": 175,
-    "perks": ["overallProjectileSpeed05"],
+    "perks": [
+      "overallProjectileSpeed05"
+    ],
     "required": {
       "silver": 3370,
       "roselleCloth": 9,
@@ -3465,7 +3801,9 @@
     "gearScore": 15,
     "value": 1,
     "weight": 150,
-    "perks": ["torpedoMaximumRange1"],
+    "perks": [
+      "torpedoMaximumRange1"
+    ],
     "required": {
       "silver": 700,
       "ironwoodPlank": 10,
@@ -3485,7 +3823,9 @@
     "gearScore": 15,
     "value": 1,
     "weight": 150,
-    "perks": ["demicannonMaximumRange1"],
+    "perks": [
+      "demicannonMaximumRange1"
+    ],
     "required": {
       "silver": 280,
       "irokoPlank": 10,
@@ -3504,7 +3844,9 @@
     "gearScore": 15,
     "value": 1,
     "weight": 150,
-    "perks": ["flamethrowerMaximumRange1"],
+    "perks": [
+      "flamethrowerMaximumRange1"
+    ],
     "required": {
       "silver": 2250,
       "juniperPlank": 6,
@@ -3526,7 +3868,9 @@
     "gearScore": 15,
     "value": 1,
     "weight": 150,
-    "perks": ["overallMaximumRange05"],
+    "perks": [
+      "overallMaximumRange05"
+    ],
     "required": {
       "silver": 3370,
       "magnetiteIngot": 8,
@@ -3549,7 +3893,9 @@
     "gearScore": 15,
     "value": 1,
     "weight": 150,
-    "perks": ["bombardAreaOfEffectRadius1"],
+    "perks": [
+      "bombardAreaOfEffectRadius1"
+    ],
     "required": {
       "silver": 280,
       "irokoPlank": 6,
@@ -3568,7 +3914,9 @@
     "gearScore": 15,
     "value": 1,
     "weight": 150,
-    "perks": ["rocketMaximumRange1"],
+    "perks": [
+      "rocketMaximumRange1"
+    ],
     "required": {
       "silver": 3370,
       "greenheartPlank": 6,
@@ -3591,7 +3939,9 @@
     "gearScore": 15,
     "value": 1,
     "weight": 150,
-    "perks": ["mortarMaximumRange1"],
+    "perks": [
+      "mortarMaximumRange1"
+    ],
     "required": {
       "silver": 3370,
       "greenheartPlank": 6,
@@ -3614,7 +3964,9 @@
     "gearScore": 15,
     "value": 1,
     "weight": 150,
-    "perks": ["mortarAreaOfEffectRadius1"],
+    "perks": [
+      "mortarAreaOfEffectRadius1"
+    ],
     "required": {
       "silver": 3370,
       "greenheartPlank": 6,
@@ -3736,7 +4088,11 @@
     "season": "release",
     "tier": 1,
     "contract": "heighSeasHeist",
-    "blueprint": [[ "denSaintAnne", "contractReward"]
+    "blueprint": [
+      [
+        "denSaintAnne",
+        "contractReward"
+      ]
     ],
     "requiredRank": "scoundrel1",
     "value": 1,
@@ -3755,7 +4111,9 @@
       "acaciaPlank": 4,
       "castIronIngot": 4
     },
-    "perks": ["explosive1"],
+    "perks": [
+      "explosive1"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-07-29"
   },
@@ -3783,7 +4141,9 @@
       "bronzeIngot": 4,
       "cogwheel": 2
     },
-    "perks": ["explosive1"],
+    "perks": [
+      "explosive1"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-07-29"
   },
@@ -3812,7 +4172,9 @@
       "lime": 4,
       "castingSand": 4
     },
-    "perks": ["explosive1"],
+    "perks": [
+      "explosive1"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-07-29"
   },
@@ -3841,7 +4203,9 @@
       "shellac": 2,
       "sheetGlass": 2
     },
-    "perks": ["explosive1"],
+    "perks": [
+      "explosive1"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-07-29"
   },
@@ -3871,7 +4235,9 @@
       "rubber": 1,
       "precisionDrillingBit": 1
     },
-    "perks": ["explosive1"],
+    "perks": [
+      "explosive1"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-07-29"
   },
@@ -3899,7 +4265,9 @@
       "irokoPlank": 6,
       "bronzeIngot": 6
     },
-    "perks": ["repairBomb"],
+    "perks": [
+      "repairBomb"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-07-29"
   },
@@ -3929,7 +4297,9 @@
       "fineJute": 6,
       "cogwheel": 4
     },
-    "perks": ["repairBomb"],
+    "perks": [
+      "repairBomb"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-07-29"
   },
@@ -3960,7 +4330,9 @@
       "sheetGlass": 4,
       "rubber": 1
     },
-    "perks": ["repairBomb"],
+    "perks": [
+      "repairBomb"
+    ],
     "dateAdded": "2024-02-12",
     "lastUpdated": "2025-07-29"
   },
@@ -3989,7 +4361,10 @@
       "bronzeIngot": 4,
       "castIronIngot": 12
     },
-    "perks": ["explosive2", "burning1"],
+    "perks": [
+      "explosive2",
+      "burning1"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-07-29"
   },
@@ -4019,7 +4394,10 @@
       "fineJute": 12,
       "woodTar": 4
     },
-    "perks": ["explosive2", "burning1"],
+    "perks": [
+      "explosive2",
+      "burning1"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-07-29"
   },
@@ -4050,7 +4428,10 @@
       "woodTar": 4,
       "torsionSpring": 1
     },
-    "perks": ["explosive2", "burning1"],
+    "perks": [
+      "explosive2",
+      "burning1"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-07-29"
   },
@@ -4079,7 +4460,11 @@
       "steelIngot": 8,
       "fineRamie": 8
     },
-    "perks": ["siege", "explosive1", "piercing1"],
+    "perks": [
+      "siege",
+      "explosive1",
+      "piercing1"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-07-29"
   },
@@ -4110,7 +4495,11 @@
       "woodTar": 2,
       "torsionSpring": 2
     },
-    "perks": ["siege", "explosive1", "piercing1"],
+    "perks": [
+      "siege",
+      "explosive1",
+      "piercing1"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-07-29"
   },
@@ -4121,7 +4510,11 @@
     "rarity": "rare",
     "season": "release",
     "requiredRank": "kingpin1",
-    "obtainable": ["moonshineChest", "moonshineStrongbox", "harbingersStrongbox"],
+    "obtainable": [
+      "moonshineChest",
+      "moonshineStrongbox",
+      "harbingersStrongbox"
+    ],
     "blueprint": "theHelm",
     "value": 1,
     "weight": 500,
@@ -4142,7 +4535,11 @@
       "rubber": 2,
       "orcasMechanism": 1
     },
-    "perks": ["siege", "explosive1", "piercing1"],
+    "perks": [
+      "siege",
+      "explosive1",
+      "piercing1"
+    ],
     "dateAdded": "2024-02-12",
     "lastUpdated": "2025-12-09"
   },
@@ -4171,8 +4568,13 @@
       "gannetDenseNiter": 2,
       "silver": 3630
     },
-    "perks": ["unison", "explosive3"],
-    "obtainable": ["legacyCache1"],
+    "perks": [
+      "unison",
+      "explosive3"
+    ],
+    "obtainable": [
+      "legacyCache1"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-09-04"
   },
@@ -4198,7 +4600,9 @@
       "acaciaPlank": 4,
       "woodTar": 2
     },
-    "perks": ["piercing1"],
+    "perks": [
+      "piercing1"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-07-29"
   },
@@ -4225,7 +4629,9 @@
       "bronzeIngot": 4,
       "woodTar": 2
     },
-    "perks": ["piercing1"],
+    "perks": [
+      "piercing1"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-07-29"
   },
@@ -4253,7 +4659,9 @@
       "fineHemp": 2,
       "castingSand": 2
     },
-    "perks": ["piercing1"],
+    "perks": [
+      "piercing1"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-07-29"
   },
@@ -4281,7 +4689,9 @@
       "sheetGlass": 2,
       "shellac": 2
     },
-    "perks": ["piercing1"],
+    "perks": [
+      "piercing1"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-07-29"
   },
@@ -4309,7 +4719,9 @@
       "cogwheel": 2,
       "torsionSpring": 1
     },
-    "perks": ["piercing1"],
+    "perks": [
+      "piercing1"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-07-29"
   },
@@ -4336,7 +4748,10 @@
       "irokoPlank": 8,
       "bronzeIngot": 4
     },
-    "perks": ["piercing2", "burning1"],
+    "perks": [
+      "piercing2",
+      "burning1"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-07-29"
   },
@@ -4365,7 +4780,10 @@
       "fineLinen": 8,
       "cogwheel": 4
     },
-    "perks": ["piercing2", "burning1"],
+    "perks": [
+      "piercing2",
+      "burning1"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-07-29"
   },
@@ -4395,7 +4813,10 @@
       "castingSand": 6,
       "torsionSpring": 1
     },
-    "perks": ["piercing2", "burning1"],
+    "perks": [
+      "piercing2",
+      "burning1"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-07-29"
   },
@@ -4423,7 +4844,9 @@
       "shellac": 4,
       "crudeSaltpeter": 4
     },
-    "perks": ["repair"],
+    "perks": [
+      "repair"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-07-29"
   },
@@ -4452,7 +4875,9 @@
       "fineAbaka": 4,
       "shellac": 4
     },
-    "perks": ["repair"],
+    "perks": [
+      "repair"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-07-29"
   },
@@ -4482,7 +4907,9 @@
       "woodTar": 4,
       "torsionSpring": 1
     },
-    "perks": ["repair"],
+    "perks": [
+      "repair"
+    ],
     "dateAdded": "2024-02-12",
     "lastUpdated": "2025-07-29"
   },
@@ -4492,7 +4919,9 @@
     "rarity": "epic",
     "season": "release",
     "requiredRank": "kingpin1",
-    "obtainable": ["personScurlock"],
+    "obtainable": [
+      "personScurlock"
+    ],
     "blueprint": "personScurlockSainteAnne",
     "value": 1,
     "weight": 500,
@@ -4512,7 +4941,11 @@
       "orcaIntricateApparatus": 2,
       "silver": 3630
     },
-    "perks": ["mastBreaker", "piercing3", "tearing2"],
+    "perks": [
+      "mastBreaker",
+      "piercing3",
+      "tearing2"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-07-29"
   },
@@ -4541,7 +4974,11 @@
       "shellac": 4,
       "crudeSaltpeter": 4
     },
-    "perks": ["mastBreaker", "piercing3", "tearing2"],
+    "perks": [
+      "mastBreaker",
+      "piercing3",
+      "tearing2"
+    ],
     "dateAdded": "2024-02-12",
     "lastUpdated": "2025-07-29"
   },
@@ -4569,7 +5006,10 @@
       "teakPlank": 6,
       "fineSisal": 6
     },
-    "perks": ["arming", "flooding3"],
+    "perks": [
+      "arming",
+      "flooding3"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-07-29"
   },
@@ -4598,7 +5038,10 @@
       "fineRamie": 4,
       "shellac": 2
     },
-    "perks": ["arming", "flooding3"],
+    "perks": [
+      "arming",
+      "flooding3"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-07-29"
   },
@@ -4612,7 +5055,10 @@
     "contract": "theMarquis",
     "blueprint": [
       "theHelm",
-      ["contractReward", "outpostReturnFleetBight"]
+      [
+        "contractReward",
+        "outpostReturnFleetBight"
+      ]
     ],
     "value": 1,
     "weight": 500,
@@ -4632,8 +5078,15 @@
       "woodTar": 2,
       "torsionSpring": 1
     },
-    "perks": ["arming", "flooding3"],
-    "obtainable": ["darktideChest", "whiteAriaChest", "blackAriaChest"],
+    "perks": [
+      "arming",
+      "flooding3"
+    ],
+    "obtainable": [
+      "darktideChest",
+      "whiteAriaChest",
+      "blackAriaChest"
+    ],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-07-29"
   },
@@ -4662,7 +5115,11 @@
       "shellac": 4,
       "crudeSaltpeter": 4
     },
-    "perks": ["arming", "explosive2", "flooding2"],
+    "perks": [
+      "arming",
+      "explosive2",
+      "flooding2"
+    ],
     "dateAdded": "2024-02-12",
     "lastUpdated": "2025-07-29"
   },
@@ -4692,7 +5149,11 @@
       "screwMechanism": 4,
       "crudeSaltpeter": 4
     },
-    "perks": ["arming", "explosive2", "flooding2"],
+    "perks": [
+      "arming",
+      "explosive2",
+      "flooding2"
+    ],
     "dateAdded": "2024-02-12",
     "lastUpdated": "2025-07-29"
   },
@@ -4722,8 +5183,17 @@
       "torsionSpring": 2,
       "wyrmsBreath": 1
     },
-    "perks": ["arming", "explosive2", "flooding2"],
-    "obtainable": ["darktideChest", "chorusFleetStrongbox", "whiteAriaChest", "blackAriaChest"],
+    "perks": [
+      "arming",
+      "explosive2",
+      "flooding2"
+    ],
+    "obtainable": [
+      "darktideChest",
+      "chorusFleetStrongbox",
+      "whiteAriaChest",
+      "blackAriaChest"
+    ],
     "dateAdded": "2024-02-12",
     "lastUpdated": "2025-09-04"
   },
@@ -4751,7 +5221,11 @@
       "shellac": 6,
       "sheetGlass": 4
     },
-    "perks": ["cataclysmic", "arming", "flooding2"],
+    "perks": [
+      "cataclysmic",
+      "arming",
+      "flooding2"
+    ],
     "dateAdded": "2024-02-12",
     "lastUpdated": "2025-07-29"
   },
@@ -4761,7 +5235,9 @@
     "rarity": "epic",
     "season": "release",
     "requiredRank": "kingpin1",
-    "obtainable": ["personRahmaTelokPenjarah"],
+    "obtainable": [
+      "personRahmaTelokPenjarah"
+    ],
     "blueprint": "personRahmaTelokPenjarah",
     "value": 1,
     "weight": 500,
@@ -4781,7 +5257,11 @@
       "wyrmVolatileNapalm": 2,
       "silver": 3960
     },
-    "perks": ["cataclysmic", "arming", "flooding3"],
+    "perks": [
+      "cataclysmic",
+      "arming",
+      "flooding3"
+    ],
     "dateAdded": "2024-02-12",
     "lastUpdated": "2025-07-29"
   },
@@ -5209,7 +5689,9 @@
     "gearScore": 15,
     "value": 1,
     "weight": 80,
-    "perks": ["repairSevereDmgOfHullOutOfCombat1"],
+    "perks": [
+      "repairSevereDmgOfHullOutOfCombat1"
+    ],
     "required": {
       "silver": 1120,
       "fineRamie": 8,
@@ -5230,7 +5712,9 @@
     "gearScore": 15,
     "value": 1,
     "weight": 80,
-    "perks": ["maximumHull05"],
+    "perks": [
+      "maximumHull05"
+    ],
     "required": {
       "silver": 2250,
       "fineAbaka": 8,
@@ -5253,7 +5737,9 @@
     "gearScore": 15,
     "value": 1,
     "weight": 100,
-    "perks": ["crewAttackDamage1"],
+    "perks": [
+      "crewAttackDamage1"
+    ],
     "required": {
       "silver": 540,
       "mopanePlank": 6,
@@ -5273,7 +5759,9 @@
     "gearScore": 15,
     "value": 1,
     "weight": 100,
-    "perks": ["tornSailsDuration1"],
+    "perks": [
+      "tornSailsDuration1"
+    ],
     "required": {
       "silver": 1510,
       "irokoPlank": 4,
@@ -5295,7 +5783,9 @@
     "gearScore": 15,
     "value": 1,
     "weight": 100,
-    "perks": ["joineryWorkshop1"],
+    "perks": [
+      "joineryWorkshop1"
+    ],
     "required": {
       "silver": 430,
       "irokoPlank": 6,
@@ -5314,7 +5804,9 @@
     "gearScore": 15,
     "value": 1,
     "weight": 100,
-    "perks": ["ablazeDamage1"],
+    "perks": [
+      "ablazeDamage1"
+    ],
     "required": {
       "silver": 860,
       "mopanePlank": 5,
@@ -5335,7 +5827,9 @@
     "gearScore": 15,
     "value": 1,
     "weight": 100,
-    "perks": ["floodingDuration1"],
+    "perks": [
+      "floodingDuration1"
+    ],
     "required": {
       "silver": 540,
       "ironwoodPlank": 10,
@@ -5355,7 +5849,9 @@
     "gearScore": 15,
     "value": 1,
     "weight": 100,
-    "perks": ["crewAttackChargeSpeed1"],
+    "perks": [
+      "crewAttackChargeSpeed1"
+    ],
     "required": {
       "silver": 1730,
       "juniperPlank": 6,
@@ -5378,7 +5874,9 @@
     "gearScore": 15,
     "value": 1,
     "weight": 100,
-    "perks": ["ablazeDuration1"],
+    "perks": [
+      "ablazeDuration1"
+    ],
     "required": {
       "silver": 1510,
       "ironwoodPlank": 7,
@@ -5400,7 +5898,9 @@
     "gearScore": 15,
     "value": 1,
     "weight": 50,
-    "perks": ["cargoCapacity1"],
+    "perks": [
+      "cargoCapacity1"
+    ],
     "required": {
       "silver": 430,
       "fineSisal": 12,
@@ -5419,7 +5919,9 @@
     "gearScore": 15,
     "value": 1,
     "weight": 50,
-    "perks": ["lootFromHarvesting1"],
+    "perks": [
+      "lootFromHarvesting1"
+    ],
     "required": {
       "silver": 540,
       "fineHemp": 8,
@@ -5439,7 +5941,9 @@
     "gearScore": 15,
     "value": 1,
     "weight": 50,
-    "perks": ["threatGeneration05"],
+    "perks": [
+      "threatGeneration05"
+    ],
     "required": {
       "silver": 1730,
       "juniperPlank": 6,
@@ -5462,7 +5966,9 @@
     "gearScore": 15,
     "value": 1,
     "weight": 100,
-    "perks": ["ablazeChargingSpeed1"],
+    "perks": [
+      "ablazeChargingSpeed1"
+    ],
     "required": {
       "silver": 1510,
       "ironwoodPlank": 8,
@@ -5484,7 +5990,9 @@
     "gearScore": 15,
     "value": 1,
     "weight": 65,
-    "perks": ["leatherRopeGrips1"],
+    "perks": [
+      "leatherRopeGrips1"
+    ],
     "required": {
       "silver": 1820,
       "fineRamie": 10,
@@ -5506,7 +6014,9 @@
     "gearScore": 15,
     "value": 1,
     "weight": 65,
-    "perks": ["balancedMast1"],
+    "perks": [
+      "balancedMast1"
+    ],
     "required": {
       "silver": 1040,
       "fineRamie": 8,
@@ -5526,7 +6036,9 @@
     "gearScore": 15,
     "value": 1,
     "weight": 65,
-    "perks": ["lightenedMast1"],
+    "perks": [
+      "lightenedMast1"
+    ],
     "required": {
       "silver": 2070,
       "fineAbaka": 6,
@@ -5549,7 +6061,9 @@
     "gearScore": 15,
     "value": 1,
     "weight": 65,
-    "perks": ["sterileGalley1"],
+    "perks": [
+      "sterileGalley1"
+    ],
     "required": {
       "silver": 520,
       "fineSisal": 10,
@@ -5568,7 +6082,9 @@
     "gearScore": 15,
     "value": 1,
     "weight": 65,
-    "perks": ["rumPantry1"],
+    "perks": [
+      "rumPantry1"
+    ],
     "required": {
       "silver": 2070,
       "fineAbaka": 6,
@@ -5598,8 +6114,13 @@
       "precisionDrillingBit": 2,
       "gannetsSaltpeter": 1
     },
-    "obtainable": ["williamBlackwoodRotatingStore", "teulingsWeaponChest1"],
-    "perks": ["laPotenceSchematics1"],
+    "obtainable": [
+      "williamBlackwoodRotatingStore",
+      "teulingsWeaponChest1"
+    ],
+    "perks": [
+      "laPotenceSchematics1"
+    ],
     "dateAdded": "2024-02-27",
     "lastUpdated": "2025-08-17"
   },
@@ -5609,7 +6130,11 @@
     "rarity": "epic",
     "season": "chorusOfHavoc",
     "blueprint": "theHelmSeasonOathsOfWar",
-    "obtainable": ["theHelmSeasonChorusOfHavoc", "legacyCache3", "legacyCache1"],
+    "obtainable": [
+      "theHelmSeasonChorusOfHavoc",
+      "legacyCache3",
+      "legacyCache1"
+    ],
     "value": 1,
     "weight": 500,
     "gearScore": 91,
@@ -5628,7 +6153,10 @@
       "orcasMechanism": 1,
       "silver": 3300
     },
-    "perks": ["piercing3", "ricochet"],
+    "perks": [
+      "piercing3",
+      "ricochet"
+    ],
     "dateAdded": "2024-05-25",
     "lastUpdated": "2025-09-04"
   },
@@ -5655,7 +6183,10 @@
       "crudeSaltpeter": 2,
       "silver": 550
     },
-    "perks": ["piercing2", "toxic3"],
+    "perks": [
+      "piercing2",
+      "toxic3"
+    ],
     "dateAdded": "2024-05-25",
     "lastUpdated": "2025-07-29"
   },
@@ -5683,7 +6214,10 @@
       "screwMechanism": 4,
       "silver": 1740
     },
-    "perks": ["piercing2", "toxic3"],
+    "perks": [
+      "piercing2",
+      "toxic3"
+    ],
     "dateAdded": "2024-05-29",
     "lastUpdated": "2025-07-29"
   },
@@ -5694,7 +6228,11 @@
     "rarity": "rare",
     "season": "chorusOfHavoc",
     "worldEvent": "thePlagueKing",
-    "obtainable": ["laPestesStrongbox", "dropDuringMythicLaPesteEncounter", "laPestesLockerMythic"],
+    "obtainable": [
+      "laPestesStrongbox",
+      "dropDuringMythicLaPesteEncounter",
+      "laPestesLockerMythic"
+    ],
     "blueprint": "williamBlackwoodRotatingStore",
     "value": 1,
     "weight": 500,
@@ -5714,7 +6252,10 @@
       "wyrmVolatileNapalm": 2,
       "silver": 3630
     },
-    "perks": ["piercing2", "toxic3"],
+    "perks": [
+      "piercing2",
+      "toxic3"
+    ],
     "dateAdded": "2024-06-02",
     "lastUpdated": "2025-10-21"
   },
@@ -5723,7 +6264,11 @@
     "type": "rocket",
     "rarity": "epic",
     "season": "chorusOfHavoc",
-    "obtainable": ["theHelmSeasonal", "legacyCache3", "legacyCache1"],
+    "obtainable": [
+      "theHelmSeasonal",
+      "legacyCache3",
+      "legacyCache1"
+    ],
     "blueprint": "theHelmSeasonOathsOfWar",
     "value": 1,
     "weight": 1000,
@@ -5743,7 +6288,11 @@
       "gannetsSaltpeter": 2,
       "silver": 4290
     },
-    "perks": ["rocketArtillery", "explosive2", "burning1"],
+    "perks": [
+      "rocketArtillery",
+      "explosive2",
+      "burning1"
+    ],
     "dateAdded": "2024-05-26",
     "lastUpdated": "2025-09-04"
   },
@@ -5752,7 +6301,11 @@
     "type": "torpedo",
     "rarity": "epic",
     "season": "chorusOfHavoc",
-    "blueprint": [[ "contractReward", "helmSaintAnne"]
+    "blueprint": [
+      [
+        "contractReward",
+        "helmSaintAnne"
+      ]
     ],
     "contract": "melodicMayhem",
     "value": 1,
@@ -5773,8 +6326,15 @@
       "wyrmsBreath": 1,
       "silver": 3960
     },
-    "perks": ["homing", "quickArming", "flooding2"],
-    "obtainable": ["legacyCache3", "legacyCache1"],
+    "perks": [
+      "homing",
+      "quickArming",
+      "flooding2"
+    ],
+    "obtainable": [
+      "legacyCache3",
+      "legacyCache1"
+    ],
     "dateAdded": "2024-05-26",
     "lastUpdated": "2025-09-04"
   },
@@ -5783,8 +6343,16 @@
     "rarity": "epic",
     "season": "chorusOfHavoc",
     "type": "armor",
-    "obtainable": ["theHelm", "legacyCache3", "legacyCache1"],
-    "blueprint": [[ "contractReward", "helmSaintAnne"]
+    "obtainable": [
+      "theHelm",
+      "legacyCache3",
+      "legacyCache1"
+    ],
+    "blueprint": [
+      [
+        "contractReward",
+        "helmSaintAnne"
+      ]
     ],
     "contract": "curtainCall",
     "value": 1,
@@ -5807,7 +6375,9 @@
       "eelsTwine": 1,
       "silver": 3800
     },
-    "perks": ["crescendo"],
+    "perks": [
+      "crescendo"
+    ],
     "dateAdded": "2024-05-26",
     "lastUpdated": "2025-10-21"
   },
@@ -5837,8 +6407,14 @@
       "gannetsSaltpeter": 1,
       "silver": 3800
     },
-    "perks": ["bloodAndGold"],
-    "obtainable": ["legacyCache3", "legacyCache1", "exoticArmorAscendedCache"],
+    "perks": [
+      "bloodAndGold"
+    ],
+    "obtainable": [
+      "legacyCache3",
+      "legacyCache1",
+      "exoticArmorAscendedCache"
+    ],
     "dateAdded": "2024-05-26",
     "lastUpdated": "2025-10-21"
   },
@@ -5847,7 +6423,10 @@
     "rarity": "epic",
     "tier": 1,
     "season": "chorusOfHavoc",
-    "obtainable": ["theHelmSeasonal", "legacyCache1"],
+    "obtainable": [
+      "theHelmSeasonal",
+      "legacyCache1"
+    ],
     "blueprint": "theHelmSeasonOathsOfWar",
     "type": "majorFurniture",
     "gearScore": 35,
@@ -5862,7 +6441,9 @@
       "orcaIntricateApparatus": 1,
       "silver": 5760
     },
-    "perks": ["dummySpringloader1"],
+    "perks": [
+      "dummySpringloader1"
+    ],
     "dateAdded": "2024-05-29",
     "lastUpdated": "2025-09-04"
   },
@@ -5885,7 +6466,9 @@
       "orcaIntricateApparatus": 2,
       "silver": 4680
     },
-    "perks": ["fatanaStation1"],
+    "perks": [
+      "fatanaStation1"
+    ],
     "dateAdded": "2024-05-29",
     "lastUpdated": "2025-07-29"
   },
@@ -5894,7 +6477,11 @@
     "rarity": "epic",
     "season": "chorusOfHavoc",
     "tier": 1,
-    "obtainable": ["theHelmSeasonal", "legacyCache3", "legacyCache1"],
+    "obtainable": [
+      "theHelmSeasonal",
+      "legacyCache3",
+      "legacyCache1"
+    ],
     "blueprint": "theHelmSeasonOathsOfWar",
     "type": "offensiveFurniture",
     "gearScore": 25,
@@ -5909,7 +6496,9 @@
       "gannetDenseNiter": 1,
       "silver": 4680
     },
-    "perks": ["tuningStation1"],
+    "perks": [
+      "tuningStation1"
+    ],
     "dateAdded": "2024-05-29",
     "lastUpdated": "2025-09-04"
   },
@@ -5937,7 +6526,9 @@
       "shellac": 4,
       "silver": 1030
     },
-    "perks": ["flooding2"],
+    "perks": [
+      "flooding2"
+    ],
     "dateAdded": "2024-06-01",
     "lastUpdated": "2025-07-29"
   },
@@ -5966,7 +6557,9 @@
       "screwMechanism": 4,
       "silver": 2060
     },
-    "perks": ["flooding2"],
+    "perks": [
+      "flooding2"
+    ],
     "dateAdded": "2024-06-01",
     "lastUpdated": "2025-07-29"
   },
@@ -5995,8 +6588,12 @@
       "orcasMechanism": 1,
       "silver": 4290
     },
-    "perks": ["flooding2"],
-    "obtainable": ["chorusFleetStrongbox"],
+    "perks": [
+      "flooding2"
+    ],
+    "obtainable": [
+      "chorusFleetStrongbox"
+    ],
     "dateAdded": "2024-07-06",
     "lastUpdated": "2025-09-04"
   },
@@ -6005,7 +6602,11 @@
     "rarity": "epic",
     "season": "chorusOfHavoc",
     "blueprint": "smugglerPassPinnacleStore",
-    "obtainable": ["smugglerPass", "williamBlackwoodRotatingStore", "teulingsWeaponChest1"],
+    "obtainable": [
+      "smugglerPass",
+      "williamBlackwoodRotatingStore",
+      "teulingsWeaponChest1"
+    ],
     "requiredSize": "medium",
     "type": "springloader",
     "gearScore": 91,
@@ -6025,7 +6626,10 @@
       "gannetsSaltpeter": 1,
       "silver": 4290
     },
-    "perks": ["incinerate", "burning3"],
+    "perks": [
+      "incinerate",
+      "burning3"
+    ],
     "dateAdded": "2024-07-06",
     "lastUpdated": "2025-08-17"
   },
@@ -6053,7 +6657,9 @@
       "woodTar": 6,
       "silver": 2060
     },
-    "perks": ["repair2"],
+    "perks": [
+      "repair2"
+    ],
     "dateAdded": "2024-06-01",
     "lastUpdated": "2025-07-29"
   },
@@ -6082,7 +6688,9 @@
       "torsionSpring": 2,
       "silver": 3090
     },
-    "perks": ["repair2"],
+    "perks": [
+      "repair2"
+    ],
     "dateAdded": "2024-06-01",
     "lastUpdated": "2025-07-29"
   },
@@ -6091,7 +6699,10 @@
     "rarity": "rare",
     "season": "chorusOfHavoc",
     "tier": 3,
-    "blueprint": ["theHelm", "corruptCompagnieOfficerOutpost"],
+    "blueprint": [
+      "theHelm",
+      "corruptCompagnieOfficerOutpost"
+    ],
     "requiredSize": "medium",
     "type": "springloader",
     "gearScore": 83,
@@ -6111,7 +6722,9 @@
       "orcasMechanism": 1,
       "silver": 4290
     },
-    "perks": ["repair2"],
+    "perks": [
+      "repair2"
+    ],
     "dateAdded": "2024-08-06",
     "lastUpdated": "2025-07-29"
   },
@@ -6139,7 +6752,9 @@
       "sheetGlass": 4,
       "silver": 1820
     },
-    "perks": ["dampened"],
+    "perks": [
+      "dampened"
+    ],
     "dateAdded": "2024-06-01",
     "lastUpdated": "2025-07-29"
   },
@@ -6148,7 +6763,10 @@
     "rarity": "rare",
     "season": "chorusOfHavoc",
     "blueprint": "theHelm",
-    "obtainable": ["blackAriaChest", "whiteAriaChest"],
+    "obtainable": [
+      "blackAriaChest",
+      "whiteAriaChest"
+    ],
     "bounty": "verseOfRemorse",
     "worldEvent": "verseOfRemorse",
     "type": "armor",
@@ -6171,7 +6789,9 @@
       "orcasMechanism": 1,
       "silver": 3800
     },
-    "perks": ["dampened"],
+    "perks": [
+      "dampened"
+    ],
     "dateAdded": "2024-06-02",
     "lastUpdated": "2025-09-04"
   },
@@ -6201,7 +6821,10 @@
       "monstrousTooth": 3,
       "silver": 3800
     },
-    "perks": ["hydrodynamic", "impenetrable"],
+    "perks": [
+      "hydrodynamic",
+      "impenetrable"
+    ],
     "dateAdded": "2024-06-01",
     "lastUpdated": "2025-10-21"
   },
@@ -6231,7 +6854,9 @@
     "gearScore": 15,
     "value": 1,
     "weight": 150,
-    "perks": ["springloaderMaximumRange1"],
+    "perks": [
+      "springloaderMaximumRange1"
+    ],
     "required": {
       "greenheartPlank": 15,
       "roselleCloth": 15,
@@ -6241,7 +6866,10 @@
       "sinewString": 4,
       "silver": 3370
     },
-    "obtainable": ["whiteAriaChest", "blackAriaChest"],
+    "obtainable": [
+      "whiteAriaChest",
+      "blackAriaChest"
+    ],
     "dateAdded": "2024-06-02",
     "lastUpdated": "2025-09-04"
   },
@@ -6257,7 +6885,9 @@
     "gearScore": 15,
     "value": 1,
     "weight": 150,
-    "perks": ["springloaderAreaOfEffectRadius1"],
+    "perks": [
+      "springloaderAreaOfEffectRadius1"
+    ],
     "required": {
       "greenheartPlank": 12,
       "roselleCloth": 12,
@@ -6267,7 +6897,10 @@
       "precisionDrillingBit": 4,
       "silver": 3370
     },
-    "obtainable": ["blackAriaChest", "whiteAriaChest"],
+    "obtainable": [
+      "blackAriaChest",
+      "whiteAriaChest"
+    ],
     "dateAdded": "2024-06-02",
     "lastUpdated": "2025-09-04"
   },
@@ -6276,13 +6909,18 @@
     "tier": 1,
     "rarity": "rare",
     "season": "chorusOfHavoc",
-    "obtainable": ["smugglerPass", "williamBlackwoodRotatingStore"],
+    "obtainable": [
+      "smugglerPass",
+      "williamBlackwoodRotatingStore"
+    ],
     "blueprint": "williamBlackwoodSeasonalItemOathsOfWar",
     "type": "offensiveFurniture",
     "gearScore": 20,
     "value": 1,
     "weight": 80,
-    "perks": ["machinistStationRepair1"],
+    "perks": [
+      "machinistStationRepair1"
+    ],
     "required": {
       "magnetiteIngot": 14,
       "dryCastingSand": 10,
@@ -6301,12 +6939,17 @@
     "rarity": "rare",
     "season": "chorusOfHavoc",
     "blueprint": "williamBlackwoodSeasonalItemOathsOfWar",
-    "obtainable": ["smugglerPass", "williamBlackwoodRotatingStore"],
+    "obtainable": [
+      "smugglerPass",
+      "williamBlackwoodRotatingStore"
+    ],
     "type": "utilityFurniture",
     "gearScore": 20,
     "value": 1,
     "weight": 80,
-    "perks": ["raisedQuarterdeck1"],
+    "perks": [
+      "raisedQuarterdeck1"
+    ],
     "required": {
       "roselleCloth": 16,
       "plateGlass": 8,
@@ -6324,7 +6967,11 @@
     "rarity": "epic",
     "season": "chorusOfHavoc",
     "blueprint": "smugglerPassPinnacleStore",
-    "obtainable": ["smugglerPass", "williamBlackwoodRotatingStore", "teulingsWeaponChest1"],
+    "obtainable": [
+      "smugglerPass",
+      "williamBlackwoodRotatingStore",
+      "teulingsWeaponChest1"
+    ],
     "type": "majorFurniture",
     "gearScore": 35,
     "value": 1,
@@ -6338,7 +6985,9 @@
       "eelSturdyRopes": 1,
       "silver": 5760
     },
-    "perks": ["buoyLocker1"],
+    "perks": [
+      "buoyLocker1"
+    ],
     "dateAdded": "2024-06-02",
     "lastUpdated": "2025-08-17"
   },
@@ -6363,14 +7012,19 @@
       "wyrmVolatileNapalm": 1,
       "silver": 4680
     },
-    "perks": ["brouwersPowderhouse1"],
+    "perks": [
+      "brouwersPowderhouse1"
+    ],
     "dateAdded": "2024-06-02",
     "lastUpdated": "2025-07-29"
   },
   "compagnieScreens": {
     "id": "compagnieScreens",
     "rarity": "epic",
-    "obtainable": ["whiteAriaChest", "williamBlackwoodRotatingStore"],
+    "obtainable": [
+      "whiteAriaChest",
+      "williamBlackwoodRotatingStore"
+    ],
     "blueprint": "williamBlackwoodSeasonalItemOathsOfWar",
     "season": "chorusOfHavoc",
     "worldEvent": "verseOfRemorse",
@@ -6388,17 +7042,25 @@
       "orcaIntricateApparatus": 2,
       "silver": 3600
     },
-    "perks": ["compagnieScreens"],
+    "perks": [
+      "compagnieScreens"
+    ],
     "dateAdded": "2024-06-03",
     "lastUpdated": "2025-07-29"
   },
   "medicineCabinet": {
     "id": "medicineCabinet",
     "rarity": "epic",
-    "obtainable": ["laPestesLocker", "laPestesStrongbox"],
+    "obtainable": [
+      "laPestesLocker",
+      "laPestesStrongbox"
+    ],
     "blueprint": "williamBlackwoodSeasonalItemOathsOfWar",
     "season": "chorusOfHavoc",
-    "worldEvent": ["tidesOfTerror", "thePlagueKing"],
+    "worldEvent": [
+      "tidesOfTerror",
+      "thePlagueKing"
+    ],
     "type": "utilityFurniture",
     "gearScore": 25,
     "value": 1,
@@ -6412,7 +7074,9 @@
       "gannetDenseNiter": 2,
       "silver": 3600
     },
-    "perks": ["medicineCabinet"],
+    "perks": [
+      "medicineCabinet"
+    ],
     "dateAdded": "2024-06-03",
     "lastUpdated": "2025-09-06"
   },
@@ -6420,7 +7084,10 @@
     "id": "compagnieSpiritsLocker",
     "rarity": "epic",
     "season": "chorusOfHavoc",
-    "obtainable": ["blackAriaChest", "williamBlackwoodRotatingStore"],
+    "obtainable": [
+      "blackAriaChest",
+      "williamBlackwoodRotatingStore"
+    ],
     "blueprint": "williamBlackwoodSeasonalItemOathsOfWar",
     "worldEvent": "verseOfVengeance",
     "bounty": "verseOfVengeance",
@@ -6434,7 +7101,9 @@
       "plateGlass": 8,
       "torsionSpring": 4
     },
-    "perks": ["compagnieSpiritsLocker"],
+    "perks": [
+      "compagnieSpiritsLocker"
+    ],
     "dateAdded": "2024-06-03",
     "lastUpdated": "2025-09-09"
   },
@@ -6442,7 +7111,12 @@
     "id": "secretCache1",
     "rarity": "epic",
     "season": "chorusOfHavoc",
-    "obtainable": ["regattaChest", "moonshineChest", "moonshineStrongbox", "williamBlackwoodRotatingStore"],
+    "obtainable": [
+      "regattaChest",
+      "moonshineChest",
+      "moonshineStrongbox",
+      "williamBlackwoodRotatingStore"
+    ],
     "blueprint": "williamBlackwoodRotatingStoreOathsOfWar",
     "event": "dragonsRegatta",
     "type": "utilityFurniture",
@@ -6458,7 +7132,9 @@
       "eelSturdyRopes": 2,
       "silver": 3600
     },
-    "perks": ["secretCache1"],
+    "perks": [
+      "secretCache1"
+    ],
     "dateAdded": "2024-06-03",
     "lastUpdated": "2025-10-07"
   },
@@ -6482,7 +7158,9 @@
       "orcaIntricateApparatus": 2,
       "silver": 4680
     },
-    "perks": ["bombardMenuiserie1"],
+    "perks": [
+      "bombardMenuiserie1"
+    ],
     "dateAdded": "2024-06-03",
     "lastUpdated": "2025-07-29"
   },
@@ -6492,7 +7170,11 @@
     "season": "chorusOfHavoc",
     "type": "armor",
     "blueprint": "smugglerPassPinnacleStore",
-    "obtainable": ["smugglerPass", "williamBlackwoodRotatingStore", "teulingsWeaponChest1"],
+    "obtainable": [
+      "smugglerPass",
+      "williamBlackwoodRotatingStore",
+      "teulingsWeaponChest1"
+    ],
     "value": 1,
     "weight": 500,
     "gearScore": 297,
@@ -6513,7 +7195,10 @@
       "orcasMechanism": 1,
       "silver": 3800
     },
-    "perks": ["unsinkable", "ironPlastron"],
+    "perks": [
+      "unsinkable",
+      "ironPlastron"
+    ],
     "dateAdded": "2024-06-04",
     "lastUpdated": "2025-10-21"
   },
@@ -6538,7 +7223,9 @@
       "eelSturdyRopes": 2,
       "silver": 3600
     },
-    "perks": ["cursedBanner"],
+    "perks": [
+      "cursedBanner"
+    ],
     "dateAdded": "2024-06-04",
     "lastUpdated": "2025-07-29"
   },
@@ -6548,7 +7235,10 @@
     "season": "chorusOfHavoc",
     "type": "utilityFurniture",
     "worldEvent": "guidedByGuile",
-    "obtainable": ["rempahMerchantConvoy", "rempahConvoyTreasureChest"],
+    "obtainable": [
+      "rempahMerchantConvoy",
+      "rempahConvoyTreasureChest"
+    ],
     "blueprint": "personRahmaTelokPenjarah",
     "value": 1,
     "weight": 80,
@@ -6562,7 +7252,9 @@
       "wyrmVolatileNapalm": 1,
       "silver": 3600
     },
-    "perks": ["lemariMakanan1"],
+    "perks": [
+      "lemariMakanan1"
+    ],
     "dateAdded": "2024-06-06",
     "lastUpdated": "2025-07-29"
   },
@@ -6576,7 +7268,10 @@
       "upgradeParts": 1,
       "silver": 3000
     },
-    "perks": ["bedarUpgrade1", "gunportsUpgrade"],
+    "perks": [
+      "bedarUpgrade1",
+      "gunportsUpgrade"
+    ],
     "dateAdded": "2024-06-11",
     "lastUpdated": "2026-02-05"
   },
@@ -6590,7 +7285,9 @@
       "upgradeParts": 2,
       "silver": 7500
     },
-    "perks": ["bedarUpgrade2"],
+    "perks": [
+      "bedarUpgrade2"
+    ],
     "dateAdded": "2024-06-11",
     "lastUpdated": "2026-02-05"
   },
@@ -6606,7 +7303,10 @@
       "upgradeParts": 2,
       "piecesOfEight": 500
     },
-    "perks": ["bedarUpgrade3", "heavyArsenal"],
+    "perks": [
+      "bedarUpgrade3",
+      "heavyArsenal"
+    ],
     "dateAdded": "2024-06-11",
     "lastUpdated": "2026-02-05"
   },
@@ -6630,7 +7330,10 @@
       "tearing": 0,
       "piercing": 0.03
     },
-    "perks": ["bedarUpgrade4", "riverRat"],
+    "perks": [
+      "bedarUpgrade4",
+      "riverRat"
+    ],
     "dateAdded": "2024-06-11",
     "lastUpdated": "2026-02-05"
   },
@@ -6654,7 +7357,9 @@
       "tearing": 0,
       "piercing": 0.05
     },
-    "perks": ["bedarUpgrade5"],
+    "perks": [
+      "bedarUpgrade5"
+    ],
     "dateAdded": "2024-06-11",
     "lastUpdated": "2025-07-29"
   },
@@ -6680,7 +7385,10 @@
       "piercing": 0.1,
       "toxic": 0.05
     },
-    "perks": ["bedarUpgrade6", "jousting"],
+    "perks": [
+      "bedarUpgrade6",
+      "jousting"
+    ],
     "dateAdded": "2024-06-11",
     "lastUpdated": "2025-07-29"
   },
@@ -6706,7 +7414,9 @@
       "tearing": 0,
       "piercing": 0.15
     },
-    "perks": ["bedarUpgrade7"],
+    "perks": [
+      "bedarUpgrade7"
+    ],
     "dateAdded": "2025-04-15",
     "lastUpdated": "2025-07-29"
   },
@@ -6720,7 +7430,10 @@
       "upgradeParts": 1,
       "silver": 3000
     },
-    "perks": ["hulkUpgrade1", "stationsUpgrade"],
+    "perks": [
+      "hulkUpgrade1",
+      "stationsUpgrade"
+    ],
     "dateAdded": "2024-06-11",
     "lastUpdated": "2026-02-05"
   },
@@ -6734,7 +7447,9 @@
       "upgradeParts": 2,
       "silver": 7500
     },
-    "perks": ["hulkUpgrade2"],
+    "perks": [
+      "hulkUpgrade2"
+    ],
     "dateAdded": "2024-06-11",
     "lastUpdated": "2026-02-05"
   },
@@ -6749,7 +7464,10 @@
       "upgradeParts": 2,
       "piecesOfEight": 500
     },
-    "perks": ["hulkUpgrade3", "bigGuns"],
+    "perks": [
+      "hulkUpgrade3",
+      "bigGuns"
+    ],
     "dateAdded": "2024-06-11",
     "lastUpdated": "2026-02-05"
   },
@@ -6773,7 +7491,10 @@
       "piercing": 0.03,
       "electric": 0.03
     },
-    "perks": ["hulkUpgrade4", "riverRat"],
+    "perks": [
+      "hulkUpgrade4",
+      "riverRat"
+    ],
     "dateAdded": "2024-06-11",
     "lastUpdated": "2026-02-05"
   },
@@ -6797,7 +7518,9 @@
       "piercing": 0.05,
       "electric": 0.05
     },
-    "perks": ["hulkUpgrade5"],
+    "perks": [
+      "hulkUpgrade5"
+    ],
     "dateAdded": "2024-06-11",
     "lastUpdated": "2026-02-05"
   },
@@ -6824,7 +7547,10 @@
       "electric": 0.1,
       "toxic": 0.05
     },
-    "perks": ["hulkUpgrade6", "ironwill"],
+    "perks": [
+      "hulkUpgrade6",
+      "ironwill"
+    ],
     "dateAdded": "2024-06-11",
     "lastUpdated": "2026-02-05"
   },
@@ -6851,7 +7577,9 @@
       "piercing": 0.15,
       "electric": 0.15
     },
-    "perks": ["hulkUpgrade7"],
+    "perks": [
+      "hulkUpgrade7"
+    ],
     "dateAdded": "2025-04-15",
     "lastUpdated": "2025-07-29"
   },
@@ -6865,7 +7593,10 @@
       "upgradeParts": 1,
       "silver": 3000
     },
-    "perks": ["cutterUpgrade1", "gunportsUpgrade"],
+    "perks": [
+      "cutterUpgrade1",
+      "gunportsUpgrade"
+    ],
     "dateAdded": "2024-06-11",
     "lastUpdated": "2026-02-05"
   },
@@ -6879,7 +7610,9 @@
       "upgradeParts": 2,
       "silver": 7500
     },
-    "perks": ["cutterUpgrade2"],
+    "perks": [
+      "cutterUpgrade2"
+    ],
     "dateAdded": "2024-06-11",
     "lastUpdated": "2026-02-05"
   },
@@ -6894,7 +7627,10 @@
       "upgradeParts": 2,
       "piecesOfEight": 500
     },
-    "perks": ["cutterUpgrade3", "heavyArsenal"],
+    "perks": [
+      "cutterUpgrade3",
+      "heavyArsenal"
+    ],
     "dateAdded": "2024-06-11",
     "lastUpdated": "2026-02-05"
   },
@@ -6918,7 +7654,10 @@
       "piercing": 0.03,
       "electric": 0.02
     },
-    "perks": ["cutterUpgrade4", "riverRat"],
+    "perks": [
+      "cutterUpgrade4",
+      "riverRat"
+    ],
     "dateAdded": "2024-06-11",
     "lastUpdated": "2026-02-05"
   },
@@ -6942,7 +7681,9 @@
       "piercing": 0.05,
       "electric": 0.05
     },
-    "perks": ["cutterUpgrade5"],
+    "perks": [
+      "cutterUpgrade5"
+    ],
     "dateAdded": "2024-06-11",
     "lastUpdated": "2026-02-05"
   },
@@ -6969,7 +7710,10 @@
       "electric": 0.1,
       "toxic": 0.05
     },
-    "perks": ["cutterUpgrade6", "unsparing"],
+    "perks": [
+      "cutterUpgrade6",
+      "unsparing"
+    ],
     "dateAdded": "2024-06-11",
     "lastUpdated": "2026-02-05"
   },
@@ -6996,7 +7740,9 @@
       "piercing": 0.2,
       "electric": 0.15
     },
-    "perks": ["cutterUpgrade7"],
+    "perks": [
+      "cutterUpgrade7"
+    ],
     "dateAdded": "2025-04-15",
     "lastUpdated": "2025-07-29"
   },
@@ -7010,7 +7756,10 @@
       "upgradeParts": 1,
       "silver": 3000
     },
-    "perks": ["bargeUpgrade1", "stationsUpgrade"],
+    "perks": [
+      "bargeUpgrade1",
+      "stationsUpgrade"
+    ],
     "dateAdded": "2024-06-11",
     "lastUpdated": "2026-02-05"
   },
@@ -7024,7 +7773,9 @@
       "upgradeParts": 2,
       "silver": 7500
     },
-    "perks": ["bargeUpgrade2"],
+    "perks": [
+      "bargeUpgrade2"
+    ],
     "dateAdded": "2024-06-11",
     "lastUpdated": "2026-02-05"
   },
@@ -7039,7 +7790,10 @@
       "upgradeParts": 2,
       "piecesOfEight": 500
     },
-    "perks": ["bargeUpgrade3", "bigGuns"],
+    "perks": [
+      "bargeUpgrade3",
+      "bigGuns"
+    ],
     "dateAdded": "2024-06-11",
     "lastUpdated": "2026-02-05"
   },
@@ -7063,7 +7817,10 @@
       "piercing": 0,
       "electric": 0
     },
-    "perks": ["bargeUpgrade4", "riverRat"],
+    "perks": [
+      "bargeUpgrade4",
+      "riverRat"
+    ],
     "dateAdded": "2024-06-11",
     "lastUpdated": "2026-02-05"
   },
@@ -7087,7 +7844,9 @@
       "piercing": 0,
       "electric": 0
     },
-    "perks": ["bargeUpgrade5"],
+    "perks": [
+      "bargeUpgrade5"
+    ],
     "dateAdded": "2024-06-11",
     "lastUpdated": "2026-02-05"
   },
@@ -7114,7 +7873,10 @@
       "electric": 0,
       "toxic": 0
     },
-    "perks": ["bargeUpgrade6", "devouring"],
+    "perks": [
+      "bargeUpgrade6",
+      "devouring"
+    ],
     "dateAdded": "2024-06-11",
     "lastUpdated": "2026-02-05"
   },
@@ -7141,7 +7903,9 @@
       "piercing": 0,
       "electric": 0
     },
-    "perks": ["bargeUpgrade7"],
+    "perks": [
+      "bargeUpgrade7"
+    ],
     "dateAdded": "2025-04-15",
     "lastUpdated": "2025-07-29"
   },
@@ -7155,7 +7919,10 @@
       "upgradeParts": 1,
       "silver": 3000
     },
-    "perks": ["sloopUpgrade1", "gunportsUpgrade"],
+    "perks": [
+      "sloopUpgrade1",
+      "gunportsUpgrade"
+    ],
     "dateAdded": "2024-06-11",
     "lastUpdated": "2026-02-05"
   },
@@ -7169,7 +7936,9 @@
       "upgradeParts": 2,
       "silver": 7500
     },
-    "perks": ["sloopUpgrade2"],
+    "perks": [
+      "sloopUpgrade2"
+    ],
     "dateAdded": "2024-06-11",
     "lastUpdated": "2026-02-05"
   },
@@ -7184,7 +7953,10 @@
       "upgradeParts": 2,
       "piecesOfEight": 500
     },
-    "perks": ["sloopUpgrade3", "heavyArsenal"],
+    "perks": [
+      "sloopUpgrade3",
+      "heavyArsenal"
+    ],
     "dateAdded": "2024-06-11",
     "lastUpdated": "2026-02-05"
   },
@@ -7208,7 +7980,10 @@
       "piercing": 0.03,
       "electric": 0
     },
-    "perks": ["sloopUpgrade4", "riverRat"],
+    "perks": [
+      "sloopUpgrade4",
+      "riverRat"
+    ],
     "dateAdded": "2024-06-11",
     "lastUpdated": "2026-02-05"
   },
@@ -7232,7 +8007,9 @@
       "piercing": 0.05,
       "electric": 0
     },
-    "perks": ["sloopUpgrade5"],
+    "perks": [
+      "sloopUpgrade5"
+    ],
     "dateAdded": "2024-06-11",
     "lastUpdated": "2026-02-05"
   },
@@ -7259,7 +8036,10 @@
       "electric": 0.05,
       "toxic": 0
     },
-    "perks": ["sloopUpgrade6", "ruin"],
+    "perks": [
+      "sloopUpgrade6",
+      "ruin"
+    ],
     "dateAdded": "2024-06-11",
     "lastUpdated": "2025-07-29"
   },
@@ -7286,7 +8066,9 @@
       "piercing": 0.15,
       "electric": 0
     },
-    "perks": ["sloopUpgrade7"],
+    "perks": [
+      "sloopUpgrade7"
+    ],
     "dateAdded": "2025-04-15",
     "lastUpdated": "2025-07-29"
   },
@@ -7302,7 +8084,9 @@
       "upgradeParts": 2,
       "silver": 18000
     },
-    "perks": ["padewakangUpgrade1"],
+    "perks": [
+      "padewakangUpgrade1"
+    ],
     "dateAdded": "2024-06-11",
     "lastUpdated": "2026-02-05"
   },
@@ -7319,7 +8103,9 @@
       "upgradeParts": 3,
       "silver": 25000
     },
-    "perks": ["padewakangUpgrade2"],
+    "perks": [
+      "padewakangUpgrade2"
+    ],
     "dateAdded": "2024-06-11",
     "lastUpdated": "2026-02-05"
   },
@@ -7335,7 +8121,10 @@
       "upgradeParts": 4,
       "piecesOfEight": 1250
     },
-    "perks": ["padewakangUpgrade3", "deepBlue"],
+    "perks": [
+      "padewakangUpgrade3",
+      "deepBlue"
+    ],
     "dateAdded": "2024-06-11",
     "lastUpdated": "2026-02-05"
   },
@@ -7361,7 +8150,9 @@
       "piercing": 0,
       "electric": 0
     },
-    "perks": ["padewakangUpgrade4"],
+    "perks": [
+      "padewakangUpgrade4"
+    ],
     "dateAdded": "2024-06-11",
     "lastUpdated": "2026-02-05"
   },
@@ -7386,7 +8177,9 @@
       "piercing": 0,
       "electric": 0
     },
-    "perks": ["padewakangUpgrade5"],
+    "perks": [
+      "padewakangUpgrade5"
+    ],
     "dateAdded": "2024-06-11",
     "lastUpdated": "2026-02-05"
   },
@@ -7414,7 +8207,10 @@
       "electric": 0,
       "toxic": 0
     },
-    "perks": ["padewakangUpgrade6", "padewakangSiegeUpgrade"],
+    "perks": [
+      "padewakangUpgrade6",
+      "padewakangSiegeUpgrade"
+    ],
     "dateAdded": "2024-06-11",
     "lastUpdated": "2026-02-05"
   },
@@ -7442,7 +8238,9 @@
       "piercing": 0,
       "electric": 0
     },
-    "perks": ["padewakangUpgrade7"],
+    "perks": [
+      "padewakangUpgrade7"
+    ],
     "dateAdded": "2025-04-15",
     "lastUpdated": "2025-07-29"
   },
@@ -7458,7 +8256,9 @@
       "upgradeParts": 2,
       "silver": 18000
     },
-    "perks": ["snowUpgrade1"],
+    "perks": [
+      "snowUpgrade1"
+    ],
     "dateAdded": "2024-06-11",
     "lastUpdated": "2025-07-29"
   },
@@ -7475,7 +8275,9 @@
       "upgradeParts": 3,
       "silver": 25000
     },
-    "perks": ["snowUpgrade2"],
+    "perks": [
+      "snowUpgrade2"
+    ],
     "dateAdded": "2024-06-11",
     "lastUpdated": "2026-02-05"
   },
@@ -7491,7 +8293,10 @@
       "upgradeParts": 4,
       "piecesOfEight": 1250
     },
-    "perks": ["snowUpgrade3", "deepBlue"],
+    "perks": [
+      "snowUpgrade3",
+      "deepBlue"
+    ],
     "dateAdded": "2024-06-11",
     "lastUpdated": "2026-02-05"
   },
@@ -7517,7 +8322,9 @@
       "piercing": 0.03,
       "electric": 0
     },
-    "perks": ["snowUpgrade4"],
+    "perks": [
+      "snowUpgrade4"
+    ],
     "dateAdded": "2024-06-11",
     "lastUpdated": "2025-07-29"
   },
@@ -7542,7 +8349,9 @@
       "piercing": 0.05,
       "electric": 0
     },
-    "perks": ["snowUpgrade5"],
+    "perks": [
+      "snowUpgrade5"
+    ],
     "dateAdded": "2024-06-11",
     "lastUpdated": "2026-02-05"
   },
@@ -7570,7 +8379,10 @@
       "electric": 0.05,
       "toxic": 0.05
     },
-    "perks": ["snowUpgrade6", "vindictive"],
+    "perks": [
+      "snowUpgrade6",
+      "vindictive"
+    ],
     "dateAdded": "2024-06-11",
     "lastUpdated": "2026-02-05"
   },
@@ -7598,7 +8410,9 @@
       "piercing": 0.2,
       "electric": 0.05
     },
-    "perks": ["snowUpgrade7"],
+    "perks": [
+      "snowUpgrade7"
+    ],
     "dateAdded": "2025-04-15",
     "lastUpdated": "2025-07-29"
   },
@@ -7614,7 +8428,9 @@
       "upgradeParts": 2,
       "silver": 18000
     },
-    "perks": ["brigantineUpgrade1"],
+    "perks": [
+      "brigantineUpgrade1"
+    ],
     "dateAdded": "2024-06-11",
     "lastUpdated": "2025-07-29"
   },
@@ -7631,7 +8447,9 @@
       "upgradeParts": 3,
       "silver": 25000
     },
-    "perks": ["brigantineUpgrade2"],
+    "perks": [
+      "brigantineUpgrade2"
+    ],
     "dateAdded": "2024-06-11",
     "lastUpdated": "2026-02-05"
   },
@@ -7647,7 +8465,10 @@
       "upgradeParts": 4,
       "piecesOfEight": 1250
     },
-    "perks": ["brigantineUpgrade3", "deepBlue"],
+    "perks": [
+      "brigantineUpgrade3",
+      "deepBlue"
+    ],
     "dateAdded": "2024-06-11",
     "lastUpdated": "2026-02-05"
   },
@@ -7673,7 +8494,9 @@
       "piercing": 0,
       "electric": 0
     },
-    "perks": ["brigantineUpgrade4"],
+    "perks": [
+      "brigantineUpgrade4"
+    ],
     "dateAdded": "2024-06-11",
     "lastUpdated": "2025-07-29"
   },
@@ -7698,7 +8521,9 @@
       "piercing": 0,
       "electric": 0
     },
-    "perks": ["brigantineUpgrade5"],
+    "perks": [
+      "brigantineUpgrade5"
+    ],
     "dateAdded": "2024-06-11",
     "lastUpdated": "2026-02-05"
   },
@@ -7726,7 +8551,10 @@
       "electric": 0,
       "toxic": 0
     },
-    "perks": ["brigantineUpgrade6", "headstrong"],
+    "perks": [
+      "brigantineUpgrade6",
+      "headstrong"
+    ],
     "dateAdded": "2024-06-11",
     "lastUpdated": "2026-02-05"
   },
@@ -7754,7 +8582,9 @@
       "piercing": 0,
       "electric": 0
     },
-    "perks": ["brigantineUpgrade7"],
+    "perks": [
+      "brigantineUpgrade7"
+    ],
     "dateAdded": "2025-04-15",
     "lastUpdated": "2025-07-29"
   },
@@ -7770,7 +8600,9 @@
       "upgradeParts": 2,
       "silver": 18000
     },
-    "perks": ["sambukUpgrade1"],
+    "perks": [
+      "sambukUpgrade1"
+    ],
     "dateAdded": "2024-06-11",
     "lastUpdated": "2025-07-29"
   },
@@ -7787,7 +8619,9 @@
       "upgradeParts": 3,
       "silver": 25000
     },
-    "perks": ["sambukUpgrade2"],
+    "perks": [
+      "sambukUpgrade2"
+    ],
     "dateAdded": "2024-06-11",
     "lastUpdated": "2025-07-29"
   },
@@ -7804,7 +8638,10 @@
       "upgradeParts": 4,
       "piecesOfEight": 1250
     },
-    "perks": ["sambukUpgrade3", "deepBlue"],
+    "perks": [
+      "sambukUpgrade3",
+      "deepBlue"
+    ],
     "dateAdded": "2024-06-11",
     "lastUpdated": "2026-02-05"
   },
@@ -7829,7 +8666,9 @@
       "piercing": 0,
       "electric": 0.03
     },
-    "perks": ["sambukUpgrade4"],
+    "perks": [
+      "sambukUpgrade4"
+    ],
     "dateAdded": "2024-06-11",
     "lastUpdated": "2026-02-05"
   },
@@ -7855,7 +8694,9 @@
       "piercing": 0,
       "electric": 0.05
     },
-    "perks": ["sambukUpgrade5"],
+    "perks": [
+      "sambukUpgrade5"
+    ],
     "dateAdded": "2024-06-11",
     "lastUpdated": "2025-07-29"
   },
@@ -7883,7 +8724,10 @@
       "electric": 0.1,
       "toxic": 0
     },
-    "perks": ["sambukUpgrade6", "firebug"],
+    "perks": [
+      "sambukUpgrade6",
+      "firebug"
+    ],
     "dateAdded": "2024-06-11",
     "lastUpdated": "2026-02-05"
   },
@@ -7911,7 +8755,9 @@
       "piercing": 0,
       "electric": 0.15
     },
-    "perks": ["sambukUpgrade7"],
+    "perks": [
+      "sambukUpgrade7"
+    ],
     "dateAdded": "2025-04-15",
     "lastUpdated": "2026-02-05"
   },
@@ -7927,7 +8773,9 @@
       "upgradeParts": 2,
       "silver": 18000
     },
-    "perks": ["barqueUpgrade1"],
+    "perks": [
+      "barqueUpgrade1"
+    ],
     "dateAdded": "2024-06-11",
     "lastUpdated": "2025-07-29"
   },
@@ -7944,7 +8792,9 @@
       "upgradeParts": 3,
       "silver": 25000
     },
-    "perks": ["barqueUpgrade2"],
+    "perks": [
+      "barqueUpgrade2"
+    ],
     "dateAdded": "2024-06-11",
     "lastUpdated": "2026-02-05"
   },
@@ -7960,7 +8810,10 @@
       "upgradeParts": 4,
       "piecesOfEight": 1250
     },
-    "perks": ["barqueUpgrade3", "deepBlue"],
+    "perks": [
+      "barqueUpgrade3",
+      "deepBlue"
+    ],
     "dateAdded": "2024-06-11",
     "lastUpdated": "2026-02-05"
   },
@@ -7985,7 +8838,9 @@
       "piercing": 0,
       "electric": 0.03
     },
-    "perks": ["barqueUpgrade4"],
+    "perks": [
+      "barqueUpgrade4"
+    ],
     "dateAdded": "2024-06-11",
     "lastUpdated": "2026-02-05"
   },
@@ -8011,7 +8866,9 @@
       "piercing": 0,
       "electric": 0.05
     },
-    "perks": ["barqueUpgrade5"],
+    "perks": [
+      "barqueUpgrade5"
+    ],
     "dateAdded": "2024-06-11",
     "lastUpdated": "2025-07-29"
   },
@@ -8039,7 +8896,10 @@
       "electric": 0.1,
       "toxic": 0
     },
-    "perks": ["barqueUpgrade6", "mend"],
+    "perks": [
+      "barqueUpgrade6",
+      "mend"
+    ],
     "dateAdded": "2024-06-11",
     "lastUpdated": "2025-07-29"
   },
@@ -8067,7 +8927,9 @@
       "piercing": 0,
       "electric": 0.2
     },
-    "perks": ["barqueUpgrade7"],
+    "perks": [
+      "barqueUpgrade7"
+    ],
     "dateAdded": "2024-04-25",
     "lastUpdated": "2026-02-05"
   },
@@ -8083,7 +8945,9 @@
       "upgradeParts": 2,
       "silver": 18000
     },
-    "perks": ["brigUpgrade1"],
+    "perks": [
+      "brigUpgrade1"
+    ],
     "dateAdded": "2024-06-11",
     "lastUpdated": "2026-02-05"
   },
@@ -8100,7 +8964,9 @@
       "upgradeParts": 3,
       "silver": 25000
     },
-    "perks": ["brigUpgrade2"],
+    "perks": [
+      "brigUpgrade2"
+    ],
     "dateAdded": "2024-06-11",
     "lastUpdated": "2026-02-05"
   },
@@ -8116,7 +8982,10 @@
       "upgradeParts": 4,
       "piecesOfEight": 1250
     },
-    "perks": ["brigUpgrade3", "deepBlue"],
+    "perks": [
+      "brigUpgrade3",
+      "deepBlue"
+    ],
     "dateAdded": "2024-06-11",
     "lastUpdated": "2026-02-05"
   },
@@ -8141,7 +9010,9 @@
       "piercing": 0.03,
       "electric": 0
     },
-    "perks": ["brigUpgrade4"],
+    "perks": [
+      "brigUpgrade4"
+    ],
     "dateAdded": "2024-06-11",
     "lastUpdated": "2026-02-05"
   },
@@ -8167,7 +9038,9 @@
       "piercing": 0.05,
       "electric": 0
     },
-    "perks": ["brigUpgrade5"],
+    "perks": [
+      "brigUpgrade5"
+    ],
     "dateAdded": "2024-06-11",
     "lastUpdated": "2026-02-05"
   },
@@ -8195,7 +9068,10 @@
       "electric": 0,
       "toxic": 0.05
     },
-    "perks": ["brigUpgrade6", "evolved"],
+    "perks": [
+      "brigUpgrade6",
+      "evolved"
+    ],
     "dateAdded": "2024-06-11",
     "lastUpdated": "2025-07-29"
   },
@@ -8223,7 +9099,9 @@
       "piercing": 0.2,
       "electric": 0
     },
-    "perks": ["brigUpgrade7"],
+    "perks": [
+      "brigUpgrade7"
+    ],
     "dateAdded": "2025-04-15",
     "lastUpdated": "2025-07-29"
   },
@@ -8248,7 +9126,9 @@
     "worldEvent": "riskTheRisingTide",
     "blueprint": "personScurlockSainteAnne",
     "obtainable": "faraConvoyTreasureChest",
-    "perks": ["boatswainsToll1"],
+    "perks": [
+      "boatswainsToll1"
+    ],
     "dateAdded": "2024-06-12",
     "lastUpdated": "2025-07-29"
   },
@@ -8274,7 +9154,9 @@
     "bounty": "symphonieMortelle",
     "obtainable": "soleilRoyalTreasureChest",
     "blueprint": "personScurlockSainteAnne",
-    "perks": ["scupperStation1"],
+    "perks": [
+      "scupperStation1"
+    ],
     "dateAdded": "2024-06-12",
     "lastUpdated": "2025-07-29"
   },
@@ -8291,7 +9173,9 @@
     },
     "contract": "summerSpoils",
     "obtainable": "outpostAny",
-    "perks": ["waterFlask"],
+    "perks": [
+      "waterFlask"
+    ],
     "dateAdded": "2024-07-02",
     "lastUpdated": "2025-07-29"
   },
@@ -8304,7 +9188,9 @@
     "buffDuration": 30,
     "obtainable": "denHawker",
     "required": {},
-    "perks": ["waterBarrel"],
+    "perks": [
+      "waterBarrel"
+    ],
     "dateAdded": "2024-07-02",
     "lastUpdated": "2025-07-29"
   },
@@ -8317,7 +9203,9 @@
     "buffDuration": 30,
     "obtainable": "smugglerPass",
     "required": {},
-    "perks": ["teulingsCoffee"],
+    "perks": [
+      "teulingsCoffee"
+    ],
     "dateAdded": "2024-07-05",
     "lastUpdated": "2025-07-29"
   },
@@ -8328,11 +9216,21 @@
     "season": "chorusOfHavoc",
     "weight": 10,
     "buffDuration": 1800,
-    "event": ["dragonsRegatta", "darktideLullaby", "azureSolstice"],
+    "event": [
+      "dragonsRegatta",
+      "darktideLullaby",
+      "azureSolstice"
+    ],
     "worldEvent": "theWeepingMother",
-    "obtainable": ["regattaChest", "regattaContractReward", "azuriteLodestoneSaintAnne"],
+    "obtainable": [
+      "regattaChest",
+      "regattaContractReward",
+      "azuriteLodestoneSaintAnne"
+    ],
     "required": {},
-    "perks": ["zongZi"],
+    "perks": [
+      "zongZi"
+    ],
     "dateAdded": "2024-07-05",
     "lastUpdated": "2025-12-09"
   },
@@ -8343,9 +9241,14 @@
     "season": "chorusOfHavoc",
     "weight": 23,
     "buffDuration": 1800,
-    "blueprint": ["smugglerPass", "williamBlackwoodRotatingStore"],
+    "blueprint": [
+      "smugglerPass",
+      "williamBlackwoodRotatingStore"
+    ],
     "required": {},
-    "perks": ["teulingsSpecialSteakDinner"],
+    "perks": [
+      "teulingsSpecialSteakDinner"
+    ],
     "dateAdded": "2024-07-05",
     "lastUpdated": "2025-07-29"
   },
@@ -8359,7 +9262,9 @@
     "event": "summerFiesta",
     "obtainable": "summerStashChest",
     "required": {},
-    "perks": ["mermaidsTears"],
+    "perks": [
+      "mermaidsTears"
+    ],
     "dateAdded": "2024-07-05",
     "lastUpdated": "2025-07-29"
   },
@@ -8373,7 +9278,9 @@
     "event": "summerFiesta",
     "obtainable": "summerStashChest",
     "required": {},
-    "perks": ["darkNStormy"],
+    "perks": [
+      "darkNStormy"
+    ],
     "dateAdded": "2024-07-05",
     "lastUpdated": "2025-07-29"
   },
@@ -8387,7 +9294,9 @@
     "event": "summerFiesta",
     "obtainable": "summerStashChest",
     "required": {},
-    "perks": ["scallyGrog"],
+    "perks": [
+      "scallyGrog"
+    ],
     "dateAdded": "2024-07-05",
     "lastUpdated": "2025-07-29"
   },
@@ -8401,7 +9310,9 @@
     "event": "summerFiesta",
     "obtainable": "summerStashChest",
     "required": {},
-    "perks": ["bloodyAnnie"],
+    "perks": [
+      "bloodyAnnie"
+    ],
     "dateAdded": "2024-07-05",
     "lastUpdated": "2025-07-29"
   },
@@ -8414,7 +9325,9 @@
     "bounty": "silentDeath",
     "obtainable": "dropLestari",
     "required": {},
-    "perks": ["lestarisMeat"],
+    "perks": [
+      "lestarisMeat"
+    ],
     "dateAdded": "2024-07-05",
     "lastUpdated": "2025-07-29"
   },
@@ -8428,7 +9341,9 @@
       "lestarisMeat": 2
     },
     "bounty": "silentDeath",
-    "perks": ["grilledLestariMeat"],
+    "perks": [
+      "grilledLestariMeat"
+    ],
     "dateAdded": "2024-07-05",
     "lastUpdated": "2025-07-29"
   },
@@ -8443,7 +9358,10 @@
     "gearScore": 25,
     "worldEvent": "iceAndEasy",
     "event": "summerFiesta",
-    "obtainable": ["convoyShipDrop", "williamBlackwoodRotatingStore"],
+    "obtainable": [
+      "convoyShipDrop",
+      "williamBlackwoodRotatingStore"
+    ],
     "blueprint": "williamBlackwoodRotatingStoreOathsOfWar",
     "required": {
       "roselleCloth": 12,
@@ -8454,7 +9372,9 @@
       "wyrmVolatileNapalm": 2,
       "silver": 3600
     },
-    "perks": ["leatherFashioningStation1"],
+    "perks": [
+      "leatherFashioningStation1"
+    ],
     "dateAdded": "2024-07-05",
     "lastUpdated": "2025-10-07"
   },
@@ -8467,7 +9387,10 @@
     "gearScore": 25,
     "bounty": "silentDeath",
     "worldEvent": "silentDeath",
-    "obtainable": ["megaLestariChest", "risenMegaLestariChest"],
+    "obtainable": [
+      "megaLestariChest",
+      "risenMegaLestariChest"
+    ],
     "blueprint": "seaPeopleHunterMasterOutpostLanitra",
     "required": {
       "monstrousTooth": 7,
@@ -8478,7 +9401,9 @@
       "orcaIntricateApparatus": 1,
       "silver": 4680
     },
-    "perks": ["lestariTrophy"],
+    "perks": [
+      "lestariTrophy"
+    ],
     "dateAdded": "2024-07-13",
     "lastUpdated": "2026-02-14"
   },
@@ -8491,7 +9416,10 @@
     "season": "chorusOfHavoc",
     "bounty": "chorusOfHavoc",
     "worldEvent": "chorusOfHavoc",
-    "obtainable": ["chorusFleetStrongbox", "williamBlackwoodRotatingStore"],
+    "obtainable": [
+      "chorusFleetStrongbox",
+      "williamBlackwoodRotatingStore"
+    ],
     "blueprint": "williamBlackwoodSeasonalItemOathsOfWar",
     "required": {
       "magnetiteIngot": 10,
@@ -8502,7 +9430,9 @@
       "wyrmsBreath": 1,
       "silver": 3600
     },
-    "perks": ["hubacTuningRack"],
+    "perks": [
+      "hubacTuningRack"
+    ],
     "dateAdded": "2024-07-13",
     "lastUpdated": "2025-07-29"
   },
@@ -8525,7 +9455,9 @@
       "orcasMechanism": 2
     },
     "obtainable": "williamBlackwoodRotatingStore",
-    "perks": ["machinistStationMines1"],
+    "perks": [
+      "machinistStationMines1"
+    ],
     "dateAdded": "2024-08-08",
     "lastUpdated": "2025-07-29"
   },
@@ -8803,8 +9735,14 @@
       "silver": 3300
     },
     "blueprint": "theHelmSeasonGutsAndGlory",
-    "obtainable": ["legacyCache3", "legacyCache4"],
-    "perks": ["sharedSupply", "repair2"],
+    "obtainable": [
+      "legacyCache3",
+      "legacyCache4"
+    ],
+    "perks": [
+      "sharedSupply",
+      "repair2"
+    ],
     "dateAdded": "2024-08-22",
     "lastUpdated": "2025-10-21"
   },
@@ -8833,7 +9771,11 @@
       "wyrmVolatileNapalm": 1,
       "silver": 3630
     },
-    "perks": ["deluge", "flooding2", "explosive1"],
+    "perks": [
+      "deluge",
+      "flooding2",
+      "explosive1"
+    ],
     "dateAdded": "2024-08-22",
     "lastUpdated": "2025-10-21"
   },
@@ -8842,7 +9784,9 @@
     "type": "mortar",
     "rarity": "epic",
     "season": "intoTheDragonsWake",
-    "obtainable": ["legacyCache3"],
+    "obtainable": [
+      "legacyCache3"
+    ],
     "blueprint": "theHelmSeasonGutsAndGlory",
     "value": 1,
     "weight": 1000,
@@ -8863,7 +9807,12 @@
       "eelSturdyRopes": 2,
       "silver": 4290
     },
-    "perks": ["taunting", "blast", "burning2", "noDefaultCrit"],
+    "perks": [
+      "taunting",
+      "blast",
+      "burning2",
+      "noDefaultCrit"
+    ],
     "dateAdded": "2024-08-22",
     "lastUpdated": "2025-10-21"
   },
@@ -8885,8 +9834,12 @@
       "silver": 5760
     },
     "blueprint": "theHelmSeasonGutsAndGlory",
-    "obtainable": ["legacyCache3"],
-    "perks": ["spitefulSpikesStation"],
+    "obtainable": [
+      "legacyCache3"
+    ],
+    "perks": [
+      "spitefulSpikesStation"
+    ],
     "dateAdded": "2024-08-22",
     "lastUpdated": "2025-10-21"
   },
@@ -8909,7 +9862,9 @@
     },
     "blueprint": "theHelmSeasonGutsAndGlory",
     "obtainable": "legacyCache4",
-    "perks": ["emergencySails"],
+    "perks": [
+      "emergencySails"
+    ],
     "dateAdded": "2024-08-22",
     "lastUpdated": "2025-10-21"
   },
@@ -8917,7 +9872,11 @@
     "id": "celestialDance",
     "rarity": "epic",
     "season": "intoTheDragonsWake",
-    "obtainable": ["legacyCache3", "legacyCache1", "gildedProtectorChest"],
+    "obtainable": [
+      "legacyCache3",
+      "legacyCache1",
+      "gildedProtectorChest"
+    ],
     "type": "armor",
     "value": 1,
     "weight": 500,
@@ -8941,7 +9900,9 @@
       "silver": 3800
     },
     "blueprint": "theHelmSeasonGutsAndGlory",
-    "perks": ["lightningStream"],
+    "perks": [
+      "lightningStream"
+    ],
     "dateAdded": "2024-08-22",
     "lastUpdated": "2025-10-21"
   },
@@ -8952,7 +9913,10 @@
     "season": "intoTheDragonsWake",
     "blueprint": "contractReward",
     "contract": "flamingQuarry",
-    "obtainable": ["dragonsClawGreenChest", "williamBlackwoodRotatingStore"],
+    "obtainable": [
+      "dragonsClawGreenChest",
+      "williamBlackwoodRotatingStore"
+    ],
     "worldEvent": "flamesOfTheDragon",
     "bounty": "flamesOfTheDragon",
     "value": 1,
@@ -8974,7 +9938,10 @@
       "eelSturdyRopes": 1,
       "silver": 3630
     },
-    "perks": ["provoking", "explosive2"],
+    "perks": [
+      "provoking",
+      "explosive2"
+    ],
     "dateAdded": "2024-08-22",
     "lastUpdated": "2025-07-29"
   },
@@ -8983,10 +9950,16 @@
     "type": "culverin",
     "rarity": "epic",
     "season": "intoTheDragonsWake",
-    "blueprint": ["seaPeopleHunterMasterOutpostLanitra"],
+    "blueprint": [
+      "seaPeopleHunterMasterOutpostLanitra"
+    ],
     "bounty": "divineRetribution",
     "worldEvent": "divineRetribution",
-    "obtainable": ["elderShadowbeastChest", "slayersChest", "gildedSlayersChest"],
+    "obtainable": [
+      "elderShadowbeastChest",
+      "slayersChest",
+      "gildedSlayersChest"
+    ],
     "value": 1,
     "weight": 500,
     "gearScore": 91,
@@ -9005,7 +9978,10 @@
       "gannetDenseNiter": 1,
       "silver": 3300
     },
-    "perks": ["heavensWrath", "electric2"],
+    "perks": [
+      "heavensWrath",
+      "electric2"
+    ],
     "dateAdded": "2024-08-22",
     "lastUpdated": "2025-12-16"
   },
@@ -9037,7 +10013,11 @@
     "bounty": "theGloriousPhoenix",
     "worldEvent": "theGloriousPhoenix",
     "obtainable": "phoenixsTalonStrongbox",
-    "perks": ["eighteenStrikes", "provoking", "burning2"],
+    "perks": [
+      "eighteenStrikes",
+      "provoking",
+      "burning2"
+    ],
     "dateAdded": "2024-08-22",
     "lastUpdated": "2025-07-29"
   },
@@ -9046,7 +10026,11 @@
     "type": "ballista",
     "rarity": "epic",
     "season": "intoTheDragonsWake",
-    "blueprint": [[ "contractReward", "personRahmaTelokPenjarah"]
+    "blueprint": [
+      [
+        "contractReward",
+        "personRahmaTelokPenjarah"
+      ]
     ],
     "contract": "flickerOfDestiny",
     "worldEvent": "theSerpentsWrath",
@@ -9071,7 +10055,11 @@
       "silver": 3960
     },
     "obtainable": "commanderZhangsChest",
-    "perks": ["unrelentingDrill", "longDraw", "piercing3"],
+    "perks": [
+      "unrelentingDrill",
+      "longDraw",
+      "piercing3"
+    ],
     "dateAdded": "2024-08-22",
     "lastUpdated": "2025-07-29"
   },
@@ -9079,7 +10067,11 @@
     "id": "phoenixCrest",
     "rarity": "epic",
     "season": "intoTheDragonsWake",
-    "blueprint": [[ "contractReward", "personRahmaTelokPenjarah"]
+    "blueprint": [
+      [
+        "contractReward",
+        "personRahmaTelokPenjarah"
+      ]
     ],
     "contract": "engulfingStorm",
     "type": "armor",
@@ -9104,10 +10096,23 @@
       "gannetDenseNiter": 2,
       "silver": 3800
     },
-    "bounty": ["flamesOfThePhoenix", "theGloriousPhoenix"],
-    "worldEvent": ["flamesOfThePhoenix", "theGloriousPhoenix"],
-    "obtainable": ["phoenixsTalonChest", "phoenixsTalonStrongbox", "williamBlackwoodRotatingStore"],
-    "perks": ["revile", "gloat"],
+    "bounty": [
+      "flamesOfThePhoenix",
+      "theGloriousPhoenix"
+    ],
+    "worldEvent": [
+      "flamesOfThePhoenix",
+      "theGloriousPhoenix"
+    ],
+    "obtainable": [
+      "phoenixsTalonChest",
+      "phoenixsTalonStrongbox",
+      "williamBlackwoodRotatingStore"
+    ],
+    "perks": [
+      "revile",
+      "gloat"
+    ],
     "dateAdded": "2024-08-22",
     "lastUpdated": "2025-10-21"
   },
@@ -9119,8 +10124,14 @@
     "weight": 80,
     "gearScore": 25,
     "bounty": "jawsOfRetribution",
-    "worldEvent": ["jawsOfRetribution", "reaversVengeance"],
-    "obtainable": ["zamaharibuChest", "risenZamaharibuChest"],
+    "worldEvent": [
+      "jawsOfRetribution",
+      "reaversVengeance"
+    ],
+    "obtainable": [
+      "zamaharibuChest",
+      "risenZamaharibuChest"
+    ],
     "blueprint": "seaPeopleHunterMasterOutpostLanitra",
     "required": {
       "monstrousTooth": 6,
@@ -9131,7 +10142,9 @@
       "orcaIntricateApparatus": 2,
       "silver": 4680
     },
-    "perks": ["organHarvestingStation"],
+    "perks": [
+      "organHarvestingStation"
+    ],
     "dateAdded": "2024-08-17",
     "lastUpdated": "2026-02-14"
   },
@@ -9143,12 +10156,19 @@
     "weight": 80,
     "gearScore": 20,
     "contract": "aTrailOfAshes",
-    "obtainable": [[ "contractReward", "personRahmaTelokPenjarah"],
+    "obtainable": [
+      [
+        "contractReward",
+        "personRahmaTelokPenjarah"
+      ],
       "phoenixsTalonChest",
       "phoenixsTalonStrongbox",
       "williamBlackwoodRotatingStore"
     ],
-    "blueprint": ["williamBlackwoodRotatingStore", "williamBlackwoodRotatingStoreOathsOfWar"],
+    "blueprint": [
+      "williamBlackwoodRotatingStore",
+      "williamBlackwoodRotatingStoreOathsOfWar"
+    ],
     "required": {
       "greenheartPlank": 8,
       "magnetiteIngot": 8,
@@ -9158,9 +10178,17 @@
       "orcaIntricateApparatus": 2,
       "silver": 3600
     },
-    "bounty": ["flamesOfThePhoenix", "theGloriousPhoenix"],
-    "worldEvent": ["flamesOfThePhoenix", "theGloriousPhoenix"],
-    "perks": ["bracedGunwales"],
+    "bounty": [
+      "flamesOfThePhoenix",
+      "theGloriousPhoenix"
+    ],
+    "worldEvent": [
+      "flamesOfThePhoenix",
+      "theGloriousPhoenix"
+    ],
+    "perks": [
+      "bracedGunwales"
+    ],
     "dateAdded": "2024-08-22",
     "lastUpdated": "2025-12-02"
   },
@@ -9169,7 +10197,11 @@
     "type": "torpedo",
     "rarity": "rare",
     "season": "intoTheDragonsWake",
-    "obtainable": [[ "contractReward", "personRahmaTelokPenjarah"],
+    "obtainable": [
+      [
+        "contractReward",
+        "personRahmaTelokPenjarah"
+      ],
       "dragonsClawMysteriousChest",
       "slayersChest",
       "gildedSlayersChest"
@@ -9194,7 +10226,11 @@
       "orcaIntricateApparatus": 2,
       "silver": 3960
     },
-    "perks": ["electric3", "arming", "flooding2"],
+    "perks": [
+      "electric3",
+      "arming",
+      "flooding2"
+    ],
     "dateAdded": "2024-08-22",
     "lastUpdated": "2025-10-21"
   },
@@ -9211,7 +10247,9 @@
       "ndizi": 3,
       "rawVegetables": 3
     },
-    "perks": ["lestariStew"],
+    "perks": [
+      "lestariStew"
+    ],
     "dateAdded": "2024-08-17",
     "lastUpdated": "2025-07-29"
   },
@@ -9224,12 +10262,18 @@
     "gearScore": 25,
     "event": "mooncakeRegatta",
     "contract": "theMooncakeRegatta3",
-    "obtainable": [[ "contractReward", "shipwrightSainteAnne"],
+    "obtainable": [
+      [
+        "contractReward",
+        "shipwrightSainteAnne"
+      ],
       "mooncakeRegattaChest",
       "hauntedReapersCache"
     ],
     "required": {},
-    "perks": ["firstMatesLedger"],
+    "perks": [
+      "firstMatesLedger"
+    ],
     "dateAdded": "2024-08-22",
     "lastUpdated": "2025-07-29"
   },
@@ -9253,7 +10297,9 @@
       "silver": 4680
     },
     "obtainable": "vanderkillsLocker",
-    "perks": ["kinckelsLaboratory1"],
+    "perks": [
+      "kinckelsLaboratory1"
+    ],
     "dateAdded": "2024-08-22",
     "lastUpdated": "2025-07-29"
   },
@@ -9274,7 +10320,9 @@
       "eelSturdyRopes": 2,
       "silver": 4680
     },
-    "perks": ["shellPackingStation"],
+    "perks": [
+      "shellPackingStation"
+    ],
     "dateAdded": "2024-08-22",
     "lastUpdated": "2025-07-29"
   },
@@ -9286,7 +10334,9 @@
     "weight": 80,
     "gearScore": 20,
     "blueprint": "personRahmaTelokPenjarah",
-    "obtainable": ["foundersCache"],
+    "obtainable": [
+      "foundersCache"
+    ],
     "required": {
       "greenheartPlank": 12,
       "plateGlass": 10,
@@ -9296,7 +10346,9 @@
       "wyrmVolatileNapalm": 1,
       "silver": 3600
     },
-    "perks": ["densityFurnace"],
+    "perks": [
+      "densityFurnace"
+    ],
     "dateAdded": "2024-08-22",
     "lastUpdated": "2026-02-11"
   },
@@ -9318,7 +10370,9 @@
       "wyrmVolatileNapalm": 2,
       "silver": 3600
     },
-    "perks": ["langrageBarrels"],
+    "perks": [
+      "langrageBarrels"
+    ],
     "dateAdded": "2024-08-22",
     "lastUpdated": "2025-07-29"
   },
@@ -9339,7 +10393,9 @@
       "wyrmVolatileNapalm": 1,
       "silver": 3600
     },
-    "perks": ["gearsWorkshop"],
+    "perks": [
+      "gearsWorkshop"
+    ],
     "dateAdded": "2024-08-22",
     "lastUpdated": "2025-07-29"
   },
@@ -9360,9 +10416,14 @@
       "gannetDenseNiter": 1,
       "silver": 3600
     },
-    "worldEvent": ["easternExchange", "opulentOpportunity"],
+    "worldEvent": [
+      "easternExchange",
+      "opulentOpportunity"
+    ],
     "obtainable": "ungwanaConvoyTreasureChest",
-    "perks": ["smokedCanisters"],
+    "perks": [
+      "smokedCanisters"
+    ],
     "dateAdded": "2024-08-22",
     "lastUpdated": "2025-07-29"
   },
@@ -9373,8 +10434,14 @@
     "season": "intoTheDragonsWake",
     "weight": 80,
     "gearScore": 20,
-    "blueprint": ["williamBlackwoodRotatingStore", "williamBlackwoodRotatingStoreGutsAndGlory"],
-    "obtainable": ["dragonsClawGreenChest", "williamBlackwoodRotatingStore"],
+    "blueprint": [
+      "williamBlackwoodRotatingStore",
+      "williamBlackwoodRotatingStoreGutsAndGlory"
+    ],
+    "obtainable": [
+      "dragonsClawGreenChest",
+      "williamBlackwoodRotatingStore"
+    ],
     "bounty": "flamesOfTheDragon",
     "worldEvent": "flamesOfTheDragon",
     "required": {
@@ -9386,7 +10453,9 @@
       "eelSturdyRopes": 2,
       "silver": 3600
     },
-    "perks": ["beamSupports"],
+    "perks": [
+      "beamSupports"
+    ],
     "dateAdded": "2024-08-22",
     "lastUpdated": "2025-11-15"
   },
@@ -9395,7 +10464,11 @@
     "type": "longGun",
     "rarity": "epic",
     "season": "intoTheDragonsWake",
-    "obtainable": ["smugglerPass", "williamBlackwoodRotatingStore", "teulingsWeaponChest1"],
+    "obtainable": [
+      "smugglerPass",
+      "williamBlackwoodRotatingStore",
+      "teulingsWeaponChest1"
+    ],
     "blueprint": "smugglerPassPinnacleStore",
     "value": 1,
     "weight": 500,
@@ -9415,7 +10488,11 @@
       "gannetDenseNiter": 2,
       "silver": 3630
     },
-    "perks": ["heavensEye", "electric2", "piercing2"],
+    "perks": [
+      "heavensEye",
+      "electric2",
+      "piercing2"
+    ],
     "dateAdded": "2024-08-22",
     "lastUpdated": "2025-12-09"
   },
@@ -9446,8 +10523,15 @@
       "silver": 3800
     },
     "blueprint": "smugglerPassPinnacleStore",
-    "obtainable": ["smugglerPass", "williamBlackwoodRotatingStore", "teulingsWeaponChest1", "exoticArmorAscendedCache"],
-    "perks": ["indomitable"],
+    "obtainable": [
+      "smugglerPass",
+      "williamBlackwoodRotatingStore",
+      "teulingsWeaponChest1",
+      "exoticArmorAscendedCache"
+    ],
+    "perks": [
+      "indomitable"
+    ],
     "dateAdded": "2024-08-22",
     "lastUpdated": "2025-10-21"
   },
@@ -9478,7 +10562,9 @@
     },
     "obtainable": "smugglerPass",
     "blueprint": "seaPeopleHunterMasterOutpostLanitra",
-    "perks": ["insulation"],
+    "perks": [
+      "insulation"
+    ],
     "dateAdded": "2024-08-22",
     "lastUpdated": "2025-07-29"
   },
@@ -9491,8 +10577,12 @@
     "gearScore": 20,
     "blueprint": "smugglerPass",
     "required": {},
-    "perks": ["amberCoatingStation"],
-    "obtainable": ["elderShadowbeastChest"],
+    "perks": [
+      "amberCoatingStation"
+    ],
+    "obtainable": [
+      "elderShadowbeastChest"
+    ],
     "dateAdded": "2024-08-22",
     "lastUpdated": "2025-09-04"
   },
@@ -9503,7 +10593,11 @@
     "season": "intoTheDragonsWake",
     "weight": 80,
     "gearScore": 25,
-    "obtainable": ["smugglerPass", "williamBlackwoodRotatingStore", "teulingsWeaponChest1"],
+    "obtainable": [
+      "smugglerPass",
+      "williamBlackwoodRotatingStore",
+      "teulingsWeaponChest1"
+    ],
     "blueprint": "smugglerPassPinnacleStore",
     "required": {
       "lightningDragonScale": 6,
@@ -9514,7 +10608,9 @@
       "eelSturdyRopes": 2,
       "silver": 4680
     },
-    "perks": ["chargeStores"],
+    "perks": [
+      "chargeStores"
+    ],
     "dateAdded": "2024-08-22",
     "lastUpdated": "2025-10-21"
   },
@@ -9530,7 +10626,9 @@
       "upgradeParts": 2,
       "silver": 18000
     },
-    "perks": ["battleJunkUpgrade1"],
+    "perks": [
+      "battleJunkUpgrade1"
+    ],
     "dateAdded": "2024-08-22",
     "lastUpdated": "2026-02-05"
   },
@@ -9547,7 +10645,9 @@
       "upgradeParts": 3,
       "silver": 25000
     },
-    "perks": ["battleJunkUpgrade2"],
+    "perks": [
+      "battleJunkUpgrade2"
+    ],
     "dateAdded": "2024-08-22",
     "lastUpdated": "2025-07-29"
   },
@@ -9563,7 +10663,10 @@
       "upgradeParts": 4,
       "piecesOfEight": 1250
     },
-    "perks": ["battleJunkUpgrade3", "deepBlue"],
+    "perks": [
+      "battleJunkUpgrade3",
+      "deepBlue"
+    ],
     "dateAdded": "2024-08-22",
     "lastUpdated": "2026-02-05"
   },
@@ -9589,7 +10692,9 @@
       "piercing": 0,
       "electric": 0.03
     },
-    "perks": ["battleJunkUpgrade4"],
+    "perks": [
+      "battleJunkUpgrade4"
+    ],
     "dateAdded": "2024-08-22",
     "lastUpdated": "2025-07-29"
   },
@@ -9615,7 +10720,9 @@
       "piercing": 0,
       "electric": 0.05
     },
-    "perks": ["battleJunkUpgrade5"],
+    "perks": [
+      "battleJunkUpgrade5"
+    ],
     "dateAdded": "2024-08-22",
     "lastUpdated": "2026-02-05"
   },
@@ -9643,7 +10750,10 @@
       "electric": 0.1,
       "toxic": 0.05
     },
-    "perks": ["battleJunkUpgrade6", "endure"],
+    "perks": [
+      "battleJunkUpgrade6",
+      "endure"
+    ],
     "dateAdded": "2024-08-22",
     "lastUpdated": "2025-07-29"
   },
@@ -9671,7 +10781,9 @@
       "piercing": 0.05,
       "electric": 0.2
     },
-    "perks": ["battleJunkUpgrade7"],
+    "perks": [
+      "battleJunkUpgrade7"
+    ],
     "dateAdded": "2025-04-15",
     "lastUpdated": "2025-07-29"
   },
@@ -9685,7 +10797,9 @@
     "event": "mooncakeRegatta",
     "obtainable": "mooncakeRegattaChest",
     "required": {},
-    "perks": ["lotusMooncake"],
+    "perks": [
+      "lotusMooncake"
+    ],
     "dateAdded": "2024-08-22",
     "lastUpdated": "2025-07-29"
   },
@@ -9695,7 +10809,12 @@
     "rarity": "epic",
     "season": "intoTheDragonsWake",
     "event": "requiemOfTheLost",
-    "obtainable": ["hallowedGravestoneSaintAnne", "reapersCache", "ascendedRequiemOfTheLostEventCache", "foundersCache"],
+    "obtainable": [
+      "hallowedGravestoneSaintAnne",
+      "reapersCache",
+      "ascendedRequiemOfTheLostEventCache",
+      "foundersCache"
+    ],
     "blueprint": "hallowedGravestoneSaintAnne",
     "value": 1,
     "weight": 500,
@@ -9715,7 +10834,10 @@
       "gannetDenseNiter": 2,
       "silver": 3300
     },
-    "perks": ["phantomMending", "burning2"],
+    "perks": [
+      "phantomMending",
+      "burning2"
+    ],
     "dateAdded": "2024-08-22",
     "lastUpdated": "2026-02-11"
   },
@@ -9739,8 +10861,13 @@
     "blueprint": "smugglerPassPinnacleStore",
     "bounty": "theGloriousPhoenix",
     "worldEvent": "theGloriousPhoenix",
-    "obtainable": ["williamBlackwoodRotatingStore", "phoenixsTalonStrongbox"],
-    "perks": ["freemansEmbrace"],
+    "obtainable": [
+      "williamBlackwoodRotatingStore",
+      "phoenixsTalonStrongbox"
+    ],
+    "perks": [
+      "freemansEmbrace"
+    ],
     "dateAdded": "2024-08-22",
     "lastUpdated": "2025-10-21"
   },
@@ -9763,7 +10890,9 @@
     },
     "blueprint": "smugglerPassPinnacleStore",
     "obtainable": "williamBlackwoodRotatingStore",
-    "perks": ["cannonballCarvingStation"],
+    "perks": [
+      "cannonballCarvingStation"
+    ],
     "dateAdded": "2024-08-22",
     "lastUpdated": "2025-10-21"
   },
@@ -9787,8 +10916,14 @@
     "blueprint": "smugglerPassPinnacleStore",
     "bounty": "theGloriousPhoenix",
     "worldEvent": "theGloriousPhoenix",
-    "obtainable": ["williamBlackwoodRotatingStore", "phoenixsTalonChest", "phoenixsTalonStrongbox"],
-    "perks": ["bloodyRed"],
+    "obtainable": [
+      "williamBlackwoodRotatingStore",
+      "phoenixsTalonChest",
+      "phoenixsTalonStrongbox"
+    ],
+    "perks": [
+      "bloodyRed"
+    ],
     "dateAdded": "2024-08-22",
     "lastUpdated": "2025-10-21"
   },
@@ -9810,9 +10945,15 @@
       "wyrmVolatileNapalm": 2,
       "silver": 3600
     },
-    "obtainable": ["williamBlackwoodRotatingStore", "laPestesLocker", "laPestesLockerMythic"],
+    "obtainable": [
+      "williamBlackwoodRotatingStore",
+      "laPestesLocker",
+      "laPestesLockerMythic"
+    ],
     "worldEvent": "tidesOfTerror",
-    "perks": ["plaguebringersWard"],
+    "perks": [
+      "plaguebringersWard"
+    ],
     "dateAdded": "2024-08-22",
     "lastUpdated": "2025-10-21"
   },
@@ -9834,9 +10975,16 @@
       "gannetDenseNiter": 2,
       "silver": 3600
     },
-    "obtainable": ["hallowedGravestoneSaintAnne", "reapersCache", "darktideChest", "foundersCache"],
+    "obtainable": [
+      "hallowedGravestoneSaintAnne",
+      "reapersCache",
+      "darktideChest",
+      "foundersCache"
+    ],
     "blueprint": "hallowedGravestoneSaintAnne",
-    "perks": ["quickIgnitingPowder"],
+    "perks": [
+      "quickIgnitingPowder"
+    ],
     "dateAdded": "2024-08-22",
     "lastUpdated": "2026-02-11"
   },
@@ -9848,9 +10996,15 @@
     "gearScore": 15,
     "value": 1,
     "weight": 150,
-    "obtainable": [[ "treasureMapReward", "veryRareTreasureMapReward"]
+    "obtainable": [
+      [
+        "treasureMapReward",
+        "veryRareTreasureMapReward"
+      ]
     ],
-    "perks": ["ballistaMaximumRange1"],
+    "perks": [
+      "ballistaMaximumRange1"
+    ],
     "required": {},
     "dateAdded": "2024-08-30",
     "lastUpdated": "2025-07-29"
@@ -9867,7 +11021,9 @@
       "upgradeParts": 2,
       "silver": 18000
     },
-    "perks": ["garudaUpgrade1"],
+    "perks": [
+      "garudaUpgrade1"
+    ],
     "dateAdded": "2024-11-19",
     "lastUpdated": "2025-07-29"
   },
@@ -9883,7 +11039,9 @@
       "upgradeParts": 3,
       "silver": 25000
     },
-    "perks": ["garudaUpgrade2"],
+    "perks": [
+      "garudaUpgrade2"
+    ],
     "dateAdded": "2024-11-19",
     "lastUpdated": "2026-02-05"
   },
@@ -9899,7 +11057,10 @@
       "upgradeParts": 4,
       "piecesOfEight": 1250
     },
-    "perks": ["garudaUpgrade3", "deepBlue"],
+    "perks": [
+      "garudaUpgrade3",
+      "deepBlue"
+    ],
     "dateAdded": "2024-11-19",
     "lastUpdated": "2026-02-05"
   },
@@ -9924,7 +11085,9 @@
       "piercing": 0.03,
       "electric": 0
     },
-    "perks": ["garudaUpgrade4"],
+    "perks": [
+      "garudaUpgrade4"
+    ],
     "dateAdded": "2024-11-19",
     "lastUpdated": "2026-02-05"
   },
@@ -9950,7 +11113,9 @@
       "piercing": 0.1,
       "electric": 0
     },
-    "perks": ["garudaUpgrade5"],
+    "perks": [
+      "garudaUpgrade5"
+    ],
     "dateAdded": "2024-11-19",
     "lastUpdated": "2026-02-05"
   },
@@ -9978,7 +11143,10 @@
       "electric": 0.05,
       "toxic": 0
     },
-    "perks": ["garudaUpgrade6", "revolver"],
+    "perks": [
+      "garudaUpgrade6",
+      "revolver"
+    ],
     "dateAdded": "2024-11-19",
     "lastUpdated": "2025-07-29"
   },
@@ -10006,7 +11174,9 @@
       "piercing": 0.2,
       "electric": 0
     },
-    "perks": ["garudaUpgrade7"],
+    "perks": [
+      "garudaUpgrade7"
+    ],
     "dateAdded": "2025-04-15",
     "lastUpdated": "2025-07-29"
   },
@@ -10015,8 +11185,18 @@
     "type": "culverin",
     "rarity": "epic",
     "season": "shadowsOfTheDeep",
-    "event": ["enterTheNian", "moonshineLarceny", "darktideLullaby"],
-    "obtainable": ["idolOfTheBeastStatue", "nianStrongbox", "ascendedEventCache", "darktideAltarTelokPenjarah", "ascendedDarktideLullabyEventCache"],
+    "event": [
+      "enterTheNian",
+      "moonshineLarceny",
+      "darktideLullaby"
+    ],
+    "obtainable": [
+      "idolOfTheBeastStatue",
+      "nianStrongbox",
+      "ascendedEventCache",
+      "darktideAltarTelokPenjarah",
+      "ascendedDarktideLullabyEventCache"
+    ],
     "value": 1,
     "weight": 500,
     "gearScore": 91,
@@ -10028,7 +11208,10 @@
     "projectileSpeed": 210,
     "ammunitionType": "cannonballs",
     "required": {},
-    "perks": ["chainReaction", "explosive1"],
+    "perks": [
+      "chainReaction",
+      "explosive1"
+    ],
     "dateAdded": "2025-01-14",
     "lastUpdated": "2025-09-02"
   },
@@ -10050,7 +11233,11 @@
     "optimalRange": 250,
     "ammunitionType": "oilCanisters",
     "required": {},
-    "perks": ["pneumaticEngine", "piercing2", "burning1"],
+    "perks": [
+      "pneumaticEngine",
+      "piercing2",
+      "burning1"
+    ],
     "dateAdded": "2024-11-19",
     "lastUpdated": "2025-10-21"
   },
@@ -10060,7 +11247,11 @@
     "rarity": "epic",
     "season": "shadowsOfTheDeep",
     "blueprint": "smugglerPassPinnacleStore",
-    "obtainable": ["smugglerPass", "williamBlackwoodRotatingStore", "teulingsWeaponChest1"],
+    "obtainable": [
+      "smugglerPass",
+      "williamBlackwoodRotatingStore",
+      "teulingsWeaponChest1"
+    ],
     "value": 1,
     "weight": 1000,
     "gearScore": 91,
@@ -10080,7 +11271,12 @@
       "wyrmVolatileNapalm": 2,
       "silver": 4290
     },
-    "perks": ["tempest", "blast", "electric2", "noDefaultCrit"],
+    "perks": [
+      "tempest",
+      "blast",
+      "electric2",
+      "noDefaultCrit"
+    ],
     "dateAdded": "2024-11-19",
     "lastUpdated": "2026-02-10"
   },
@@ -10090,8 +11286,14 @@
     "season": "shadowsOfTheDeep",
     "blueprint": "contractReward",
     "contract": "wolvesInTheWater",
-    "worldEvent": ["theLoomingShadow", "theGreatShadow"],
-    "obtainable": ["vikramsLocker", "vikramsStrongbox"],
+    "worldEvent": [
+      "theLoomingShadow",
+      "theGreatShadow"
+    ],
+    "obtainable": [
+      "vikramsLocker",
+      "vikramsStrongbox"
+    ],
     "requiredSize": "medium",
     "type": "springloader",
     "gearScore": 91,
@@ -10111,7 +11313,10 @@
       "orcaIntricateApparatus": 2,
       "silver": 4290
     },
-    "perks": ["soulShield", "repair"],
+    "perks": [
+      "soulShield",
+      "repair"
+    ],
     "dateAdded": "2024-11-19",
     "lastUpdated": "2025-07-29"
   },
@@ -10135,7 +11340,9 @@
       "toxic": 0.17
     },
     "required": {},
-    "perks": ["rally"],
+    "perks": [
+      "rally"
+    ],
     "dateAdded": "2024-11-19",
     "lastUpdated": "2025-10-21"
   },
@@ -10145,7 +11352,11 @@
     "season": "shadowsOfTheDeep",
     "blueprint": "seaPeopleHunterMasterOutpostLanitra",
     "worldEvent": "reaversVengeance",
-    "obtainable": ["risenZamaharibuChest", "risenMegaLestariChest", "gildedProtectorChest"],
+    "obtainable": [
+      "risenZamaharibuChest",
+      "risenMegaLestariChest",
+      "gildedProtectorChest"
+    ],
     "type": "armor",
     "value": 1,
     "weight": 500,
@@ -10168,7 +11379,9 @@
       "eelSturdyRopes": 2,
       "silver": 3800
     },
-    "perks": ["phantasmicThrust"],
+    "perks": [
+      "phantasmicThrust"
+    ],
     "dateAdded": "2024-11-19",
     "lastUpdated": "2025-10-21"
   },
@@ -10177,7 +11390,11 @@
     "rarity": "epic",
     "season": "shadowsOfTheDeep",
     "blueprint": "smugglerPassPinnacleStore",
-    "obtainable": ["smugglerPass", "williamBlackwoodRotatingStore", "teulingsWeaponChest1"],
+    "obtainable": [
+      "smugglerPass",
+      "williamBlackwoodRotatingStore",
+      "teulingsWeaponChest1"
+    ],
     "type": "armor",
     "value": 1,
     "weight": 500,
@@ -10200,7 +11417,10 @@
       "orcaIntricateApparatus": 2,
       "silver": 3800
     },
-    "perks": ["darkMeditation", "reinforced"],
+    "perks": [
+      "darkMeditation",
+      "reinforced"
+    ],
     "dateAdded": "2024-11-19",
     "lastUpdated": "2026-02-10"
   },
@@ -10224,8 +11444,13 @@
     "blueprint": "contractReward",
     "contract": "edgeOfDarkness",
     "worldEvent": "theGreatShadow",
-    "obtainable": ["williamBlackwoodRotatingStore", "vikramsStrongbox"],
-    "perks": ["painPiper"],
+    "obtainable": [
+      "williamBlackwoodRotatingStore",
+      "vikramsStrongbox"
+    ],
+    "perks": [
+      "painPiper"
+    ],
     "dateAdded": "2024-11-19",
     "lastUpdated": "2025-07-29"
   },
@@ -10250,7 +11475,9 @@
     "worldEvent": "theGreatShadow",
     "obtainable": "vikramsStrongbox",
     "contract": "aPrizedPosession",
-    "perks": ["drownedOnesToll"],
+    "perks": [
+      "drownedOnesToll"
+    ],
     "dateAdded": "2024-11-19",
     "lastUpdated": "2025-07-29"
   },
@@ -10264,7 +11491,9 @@
     "gearScore": 35,
     "required": {},
     "obtainable": "williamBlackwoodRotatingStore",
-    "perks": ["chainedLinks"],
+    "perks": [
+      "chainedLinks"
+    ],
     "dateAdded": "2024-11-19",
     "lastUpdated": "2025-10-21"
   },
@@ -10285,8 +11514,14 @@
       "silver": 5760
     },
     "blueprint": "smugglerPassPinnacleStore",
-    "obtainable": ["smugglerPass", "williamBlackwoodRotatingStore", "teulingsWeaponChest1"],
-    "perks": ["teulingsGuidance"],
+    "obtainable": [
+      "smugglerPass",
+      "williamBlackwoodRotatingStore",
+      "teulingsWeaponChest1"
+    ],
+    "perks": [
+      "teulingsGuidance"
+    ],
     "dateAdded": "2024-11-19",
     "lastUpdated": "2026-02-10"
   },
@@ -10300,7 +11535,9 @@
     "value": 1,
     "weight": 80,
     "obtainable": "vanderkillsLocker",
-    "perks": ["strangeElixir"],
+    "perks": [
+      "strangeElixir"
+    ],
     "required": {},
     "dateAdded": "2024-11-19",
     "lastUpdated": "2025-07-29"
@@ -10316,7 +11553,9 @@
     "value": 1,
     "blueprint": "contractReward",
     "contract": "voicesFromThePast",
-    "perks": ["decoyDeck"],
+    "perks": [
+      "decoyDeck"
+    ],
     "required": {
       "greenheartPlank": 7,
       "magnetiteIngot": 7,
@@ -10339,9 +11578,14 @@
     "weight": 80,
     "gearScore": 20,
     "value": 1,
-    "perks": ["floatCollars"],
+    "perks": [
+      "floatCollars"
+    ],
     "required": {},
-    "obtainable": ["nianStrongbox", "idolOfTheBeastStatue"],
+    "obtainable": [
+      "nianStrongbox",
+      "idolOfTheBeastStatue"
+    ],
     "dateAdded": "2025-01-14",
     "lastUpdated": "2025-07-29"
   },
@@ -10353,7 +11597,9 @@
     "weight": 150,
     "gearScore": 25,
     "value": 1,
-    "perks": ["mineClearingLocker"],
+    "perks": [
+      "mineClearingLocker"
+    ],
     "required": {},
     "obtainable": "williamBlackwoodRotatingStore",
     "dateAdded": "2024-11-19",
@@ -10367,7 +11613,9 @@
     "weight": 80,
     "gearScore": 20,
     "value": 1,
-    "perks": ["devilsConcoction"],
+    "perks": [
+      "devilsConcoction"
+    ],
     "required": {
       "vengefulEssence": 7,
       "lacquer": 10,
@@ -10389,7 +11637,9 @@
     "weight": 80,
     "gearScore": 20,
     "value": 1,
-    "perks": ["debrisLocker"],
+    "perks": [
+      "debrisLocker"
+    ],
     "required": {
       "greenheartPlank": 16,
       "putrefiedZamaharibuScale": 3,
@@ -10398,7 +11648,10 @@
       "wyrmsBreath": 5,
       "silver": 3600
     },
-    "obtainable": ["risenZamaharibuChest", "risenMegaLestariChest"],
+    "obtainable": [
+      "risenZamaharibuChest",
+      "risenMegaLestariChest"
+    ],
     "blueprint": "seaPeopleHunterMasterOutpostLanitra",
     "dateAdded": "2024-11-19",
     "lastUpdated": "2025-09-04"
@@ -10412,7 +11665,9 @@
     "weight": 80,
     "gearScore": 20,
     "value": 1,
-    "perks": ["expandingCorkscrewStation"],
+    "perks": [
+      "expandingCorkscrewStation"
+    ],
     "required": {},
     "obtainable": "vanderkillsLocker",
     "dateAdded": "2024-11-19",
@@ -10426,7 +11681,9 @@
     "weight": 80,
     "gearScore": 20,
     "value": 1,
-    "perks": ["cannonballChargingStation"],
+    "perks": [
+      "cannonballChargingStation"
+    ],
     "required": {
       "lightningDragonClaw": 6,
       "lightningDragonScale": 6,
@@ -10447,7 +11704,9 @@
     "weight": 80,
     "gearScore": 20,
     "value": 1,
-    "perks": ["copperFasteningStation"],
+    "perks": [
+      "copperFasteningStation"
+    ],
     "required": {
       "lightningDragonScale": 6,
       "precisionDrillingBit": 7,
@@ -10468,7 +11727,9 @@
     "weight": 80,
     "gearScore": 20,
     "value": 1,
-    "perks": ["rifledBarrelWorkshop"],
+    "perks": [
+      "rifledBarrelWorkshop"
+    ],
     "required": {
       "putrefiedLestariSkin": 5,
       "planetaryGearset": 10,
@@ -10492,7 +11753,9 @@
     "weight": 80,
     "gearScore": 20,
     "value": 1,
-    "perks": ["highVelocityKegs"],
+    "perks": [
+      "highVelocityKegs"
+    ],
     "required": {
       "purifiedSaltpeter": 12,
       "dryCastingSand": 12,
@@ -10501,7 +11764,10 @@
       "gannetsSaltpeter": 6,
       "silver": 3600
     },
-    "obtainable": ["azureStrongbox", "azuriteLodestoneSaintAnne"],
+    "obtainable": [
+      "azureStrongbox",
+      "azuriteLodestoneSaintAnne"
+    ],
     "dateAdded": "2024-12-03",
     "lastUpdated": "2025-12-09"
   },
@@ -10510,9 +11776,21 @@
     "type": "longGun",
     "rarity": "epic",
     "season": "shadowsOfTheDeep",
-    "obtainable": ["azureStrongbox", "azuriteLodestoneSaintAnne", "ascendedEventCache", "darktideAltarTelokPenjarah", "ascendedDarktideLullabyEventCache", "ascendedAzureSolsticeEventCache"],
+    "obtainable": [
+      "azureStrongbox",
+      "azuriteLodestoneSaintAnne",
+      "ascendedEventCache",
+      "darktideAltarTelokPenjarah",
+      "ascendedDarktideLullabyEventCache",
+      "ascendedAzureSolsticeEventCache"
+    ],
     "blueprint": "azuriteLodestoneSaintAnne",
-    "event": ["azureSolstice", "moonshineLarceny", "darktideLullaby", "azureSolstice"],
+    "event": [
+      "azureSolstice",
+      "moonshineLarceny",
+      "darktideLullaby",
+      "azureSolstice"
+    ],
     "worldEvent": "theAzureRoyale",
     "value": 1,
     "weight": 500,
@@ -10523,7 +11801,11 @@
     "reloadSpeed": 7200,
     "optimalRange": 1000,
     "projectileSpeed": 350,
-    "perks": ["ghostlyMending", "burning2", "piercing1"],
+    "perks": [
+      "ghostlyMending",
+      "burning2",
+      "piercing1"
+    ],
     "ammunitionType": "cannonballs",
     "required": {
       "xanthousStone": 6,
@@ -10542,7 +11824,11 @@
     "rarity": "epic",
     "season": "shadowsOfTheDeep",
     "blueprint": "smugglerPassPinnacleStore",
-    "obtainable": ["smugglerPass", "teulingsWeaponChest1", "williamBlackwoodRotatingStore"],
+    "obtainable": [
+      "smugglerPass",
+      "teulingsWeaponChest1",
+      "williamBlackwoodRotatingStore"
+    ],
     "value": 1,
     "weight": 500,
     "gearScore": 91,
@@ -10561,7 +11847,12 @@
       "orcaIntricateApparatus": 2,
       "silver": 3960
     },
-    "perks": ["sunder", "arming", "piercing2", "flooding2"],
+    "perks": [
+      "sunder",
+      "arming",
+      "piercing2",
+      "flooding2"
+    ],
     "dateAdded": "2024-11-19",
     "lastUpdated": "2026-02-10"
   },
@@ -10573,9 +11864,13 @@
     "weight": 10,
     "buffDuration": 1800,
     "event": "theFounding",
-    "obtainable": ["recoveredExeterChest"],
+    "obtainable": [
+      "recoveredExeterChest"
+    ],
     "required": {},
-    "perks": ["rumFruitcake"],
+    "perks": [
+      "rumFruitcake"
+    ],
     "dateAdded": "2025-02-11",
     "lastUpdated": "2025-07-29"
   },
@@ -10586,7 +11881,9 @@
     "season": "shadowsOfTheDeep",
     "weight": 8,
     "required": {},
-    "perks": ["crocodileMeat"],
+    "perks": [
+      "crocodileMeat"
+    ],
     "dateAdded": "2025-02-25",
     "lastUpdated": "2025-07-29"
   },
@@ -10597,7 +11894,9 @@
     "season": "shadowsOfTheDeep",
     "weight": 12,
     "required": {},
-    "perks": ["tylosaurusFlesh"],
+    "perks": [
+      "tylosaurusFlesh"
+    ],
     "dateAdded": "2025-02-25",
     "lastUpdated": "2025-07-29"
   },
@@ -10608,7 +11907,9 @@
     "season": "shadowsOfTheDeep",
     "weight": 4,
     "required": {},
-    "perks": ["fish"],
+    "perks": [
+      "fish"
+    ],
     "dateAdded": "2025-02-25",
     "lastUpdated": "2025-07-29"
   },
@@ -10619,7 +11920,9 @@
     "season": "shadowsOfTheDeep",
     "weight": 10,
     "required": {},
-    "perks": ["durian"],
+    "perks": [
+      "durian"
+    ],
     "dateAdded": "2025-02-25",
     "lastUpdated": "2025-07-29"
   },
@@ -10630,7 +11933,9 @@
     "season": "shadowsOfTheDeep",
     "weight": 3,
     "required": {},
-    "perks": ["coconut"],
+    "perks": [
+      "coconut"
+    ],
     "dateAdded": "2025-02-25",
     "lastUpdated": "2025-07-29"
   },
@@ -10641,7 +11946,9 @@
     "season": "shadowsOfTheDeep",
     "weight": 6,
     "required": {},
-    "perks": ["ndizi"],
+    "perks": [
+      "ndizi"
+    ],
     "dateAdded": "2025-02-25",
     "lastUpdated": "2025-07-29"
   },
@@ -10652,7 +11959,9 @@
     "season": "shadowsOfTheDeep",
     "weight": 6,
     "required": {},
-    "perks": ["rawChicken"],
+    "perks": [
+      "rawChicken"
+    ],
     "dateAdded": "2025-02-26",
     "lastUpdated": "2025-07-29"
   },
@@ -10663,7 +11972,9 @@
     "season": "shadowsOfTheDeep",
     "weight": 2,
     "required": {},
-    "perks": ["flour"],
+    "perks": [
+      "flour"
+    ],
     "dateAdded": "2025-02-26",
     "lastUpdated": "2025-07-29"
   },
@@ -10674,7 +11985,9 @@
     "season": "shadowsOfTheDeep",
     "weight": 8,
     "required": {},
-    "perks": ["rawMutton"],
+    "perks": [
+      "rawMutton"
+    ],
     "dateAdded": "2025-02-26",
     "lastUpdated": "2025-07-29"
   },
@@ -10685,7 +11998,9 @@
     "season": "shadowsOfTheDeep",
     "weight": 4,
     "required": {},
-    "perks": ["rawVegetables"],
+    "perks": [
+      "rawVegetables"
+    ],
     "dateAdded": "2025-02-26",
     "lastUpdated": "2025-07-29"
   },
@@ -10696,7 +12011,9 @@
     "season": "shadowsOfTheDeep",
     "weight": 0,
     "required": {},
-    "perks": ["screwpine"],
+    "perks": [
+      "screwpine"
+    ],
     "dateAdded": "2025-02-26",
     "lastUpdated": "2025-07-29"
   },
@@ -10707,7 +12024,9 @@
     "season": "shadowsOfTheDeep",
     "weight": 0,
     "required": {},
-    "perks": ["hippoMeat"],
+    "perks": [
+      "hippoMeat"
+    ],
     "dateAdded": "2025-02-26",
     "lastUpdated": "2025-07-29"
   },
@@ -10718,7 +12037,9 @@
     "season": "shadowsOfTheDeep",
     "weight": 0,
     "required": {},
-    "perks": ["sharkMeat"],
+    "perks": [
+      "sharkMeat"
+    ],
     "dateAdded": "2025-02-26",
     "lastUpdated": "2025-07-29"
   },
@@ -10729,7 +12050,9 @@
     "season": "shadowsOfTheDeep",
     "weight": 2,
     "required": {},
-    "perks": ["rawBeef"],
+    "perks": [
+      "rawBeef"
+    ],
     "dateAdded": "2025-02-26",
     "lastUpdated": "2025-07-29"
   },
@@ -10740,7 +12063,9 @@
     "season": "shadowsOfTheDeep",
     "weight": 0,
     "required": {},
-    "perks": ["primeHippoMeat"],
+    "perks": [
+      "primeHippoMeat"
+    ],
     "dateAdded": "2025-02-26",
     "lastUpdated": "2025-07-29"
   },
@@ -10751,7 +12076,9 @@
     "season": "shadowsOfTheDeep",
     "weight": 0,
     "required": {},
-    "perks": ["primeCrocodileMeat"],
+    "perks": [
+      "primeCrocodileMeat"
+    ],
     "dateAdded": "2025-02-26",
     "lastUpdated": "2025-07-29"
   },
@@ -10765,7 +12092,9 @@
     "event": "theHonorless",
     "obtainable": "defeatingHonorless",
     "required": {},
-    "perks": ["libertyCap"],
+    "perks": [
+      "libertyCap"
+    ],
     "dateAdded": "2025-05-06",
     "lastUpdated": "2025-07-29"
   },
@@ -10781,7 +12110,9 @@
       "upgradeParts": 2,
       "silver": 18000
     },
-    "perks": ["schoonerUpgrade1"],
+    "perks": [
+      "schoonerUpgrade1"
+    ],
     "dateAdded": "2025-04-15",
     "lastUpdated": "2026-02-05"
   },
@@ -10798,7 +12129,9 @@
       "upgradeParts": 3,
       "silver": 25000
     },
-    "perks": ["schoonerUpgrade2"],
+    "perks": [
+      "schoonerUpgrade2"
+    ],
     "dateAdded": "2025-04-15",
     "lastUpdated": "2026-02-05"
   },
@@ -10815,7 +12148,10 @@
       "upgradeParts": 4,
       "piecesOfEight": 1250
     },
-    "perks": ["schoonerUpgrade3", "deepBlue"],
+    "perks": [
+      "schoonerUpgrade3",
+      "deepBlue"
+    ],
     "dateAdded": "2025-04-15",
     "lastUpdated": "2026-02-05"
   },
@@ -10839,7 +12175,9 @@
       "piercing": 0,
       "electric": 0.03
     },
-    "perks": ["schoonerUpgrade4"],
+    "perks": [
+      "schoonerUpgrade4"
+    ],
     "dateAdded": "2025-04-15",
     "lastUpdated": "2026-02-05"
   },
@@ -10865,7 +12203,9 @@
       "piercing": 0,
       "electric": 0.05
     },
-    "perks": ["schoonerUpgrade5"],
+    "perks": [
+      "schoonerUpgrade5"
+    ],
     "dateAdded": "2025-04-15",
     "lastUpdated": "2025-07-29"
   },
@@ -10892,7 +12232,10 @@
       "electric": 0.1,
       "toxic": 0.05
     },
-    "perks": ["schoonerUpgrade6", "volatile"],
+    "perks": [
+      "schoonerUpgrade6",
+      "volatile"
+    ],
     "dateAdded": "2025-04-15",
     "lastUpdated": "2026-02-05"
   },
@@ -10919,7 +12262,9 @@
       "piercing": 0,
       "electric": 0.15
     },
-    "perks": ["schoonerUpgrade7"],
+    "perks": [
+      "schoonerUpgrade7"
+    ],
     "dateAdded": "2025-04-15",
     "lastUpdated": "2026-02-05"
   },
@@ -10944,7 +12289,9 @@
       "copperBars": 700
     },
     "obtainable": "williamBlackwoodSeasonalItem",
-    "perks": ["shelter"],
+    "perks": [
+      "shelter"
+    ],
     "dateAdded": "2025-04-15",
     "lastUpdated": "2025-07-29"
   },
@@ -10969,7 +12316,10 @@
       "copperBars": 1000
     },
     "obtainable": "williamBlackwoodSeasonalItem",
-    "perks": ["cindershield", "emberWard"],
+    "perks": [
+      "cindershield",
+      "emberWard"
+    ],
     "dateAdded": "2025-04-15",
     "lastUpdated": "2025-10-21"
   },
@@ -11001,7 +12351,9 @@
     },
     "contract": "theDutchDispatch",
     "blueprint": "contractReward",
-    "perks": ["euphoria"],
+    "perks": [
+      "euphoria"
+    ],
     "dateAdded": "2025-04-15",
     "lastUpdated": "2025-10-21"
   },
@@ -11025,7 +12377,9 @@
     },
     "required": {},
     "obtainable": "smugglerPass",
-    "perks": ["vigilance"],
+    "perks": [
+      "vigilance"
+    ],
     "dateAdded": "2025-04-15",
     "lastUpdated": "2025-10-21"
   },
@@ -11051,7 +12405,10 @@
       "woodTar": 4,
       "silver": 440
     },
-    "perks": ["flooding2", "explosive1"],
+    "perks": [
+      "flooding2",
+      "explosive1"
+    ],
     "dateAdded": "2025-04-15",
     "lastUpdated": "2025-07-29"
   },
@@ -11079,7 +12436,10 @@
       "lime": 5,
       "silver": 870
     },
-    "perks": ["flooding2", "explosive1"],
+    "perks": [
+      "flooding2",
+      "explosive1"
+    ],
     "dateAdded": "2025-04-15",
     "lastUpdated": "2025-07-29"
   },
@@ -11108,7 +12468,10 @@
       "torsionSpring": 2,
       "silver": 2610
     },
-    "perks": ["flooding2", "explosive1"],
+    "perks": [
+      "flooding2",
+      "explosive1"
+    ],
     "dateAdded": "2025-04-15",
     "lastUpdated": "2025-07-29"
   },
@@ -11117,7 +12480,13 @@
     "type": "bombard",
     "rarity": "epic",
     "season": "ascentIntoChaos",
-    "event": ["theHonorless", "moonshineLarceny", "darktideLullaby", "requiemOfTheLost", "azureSolstice"],
+    "event": [
+      "theHonorless",
+      "moonshineLarceny",
+      "darktideLullaby",
+      "requiemOfTheLost",
+      "azureSolstice"
+    ],
     "value": 1,
     "weight": 500,
     "gearScore": 91,
@@ -11128,13 +12497,27 @@
     "optimalRange": 550,
     "projectileSpeed": 135,
     "blastRadius": 35,
-    "obtainable": ["theHelmEvent", "bloodiedStrongbox", "ascendedEventCache", "darktideAltarTelokPenjarah", "ascendedDarktideLullabyEventCache", "hallowedGravestoneSaintAnne", "ascendedRequiemOfTheLostEventCache", "azuriteLodestoneSaintAnne", "ascendedAzureSolsticeEventCache"],
+    "obtainable": [
+      "theHelmEvent",
+      "bloodiedStrongbox",
+      "ascendedEventCache",
+      "darktideAltarTelokPenjarah",
+      "ascendedDarktideLullabyEventCache",
+      "hallowedGravestoneSaintAnne",
+      "ascendedRequiemOfTheLostEventCache",
+      "azuriteLodestoneSaintAnne",
+      "ascendedAzureSolsticeEventCache"
+    ],
     "ammunitionType": "bombardBombs",
     "required": {
       "bloodiedDoubloon": 1000,
       "reapersToll": 1100
     },
-    "perks": ["afterShock", "explosive2", "electric1"],
+    "perks": [
+      "afterShock",
+      "explosive2",
+      "electric1"
+    ],
     "dateAdded": "2025-05-06",
     "lastUpdated": "2025-12-09"
   },
@@ -11160,7 +12543,10 @@
       "castIronIngot": 12,
       "silver": 550
     },
-    "perks": ["tearing2", "piercing1"],
+    "perks": [
+      "tearing2",
+      "piercing1"
+    ],
     "dateAdded": "2025-04-15",
     "lastUpdated": "2025-07-29"
   },
@@ -11188,7 +12574,10 @@
       "screwMechanism": 11,
       "silver": 1520
     },
-    "perks": ["tearing2", "piercing1"],
+    "perks": [
+      "tearing2",
+      "piercing1"
+    ],
     "dateAdded": "2025-04-15",
     "lastUpdated": "2025-07-29"
   },
@@ -11217,7 +12606,10 @@
       "precisionDrillingBit": 3,
       "silver": 2610
     },
-    "perks": ["tearing2", "piercing1"],
+    "perks": [
+      "tearing2",
+      "piercing1"
+    ],
     "dateAdded": "2025-04-15",
     "lastUpdated": "2025-07-29"
   },
@@ -11244,7 +12636,11 @@
       "shellac": 4,
       "silver": 550
     },
-    "perks": ["raider", "flooding1", "piercing1"],
+    "perks": [
+      "raider",
+      "flooding1",
+      "piercing1"
+    ],
     "dateAdded": "2025-04-15",
     "lastUpdated": "2025-07-29"
   },
@@ -11272,7 +12668,11 @@
       "screwMechanism": 5,
       "silver": 1740
     },
-    "perks": ["raider", "flooding1", "piercing1"],
+    "perks": [
+      "raider",
+      "flooding1",
+      "piercing1"
+    ],
     "dateAdded": "2025-04-15",
     "lastUpdated": "2025-07-29"
   },
@@ -11282,8 +12682,15 @@
     "season": "ascentIntoChaos",
     "type": "longGun",
     "tier": 1,
-    "blueprint": ["theHelm", "corruptDmcOfficerOutpost"],
-    "obtainable": ["moonshineChest", "moonshineStrongbox", "hauntedReapersCache"],
+    "blueprint": [
+      "theHelm",
+      "corruptDmcOfficerOutpost"
+    ],
+    "obtainable": [
+      "moonshineChest",
+      "moonshineStrongbox",
+      "hauntedReapersCache"
+    ],
     "value": 1,
     "weight": 500,
     "gearScore": 83,
@@ -11302,7 +12709,11 @@
       "orcasMechanism": 1,
       "silver": 3630
     },
-    "perks": ["raider", "flooding1", "piercing1"],
+    "perks": [
+      "raider",
+      "flooding1",
+      "piercing1"
+    ],
     "dateAdded": "2025-04-15",
     "lastUpdated": "2025-07-29"
   },
@@ -11323,7 +12734,12 @@
     "projectileSpeed": 350,
     "ammunitionType": "cannonballs",
     "required": {},
-    "perks": ["impendingBoom", "siege", "explosive2", "piercing1"],
+    "perks": [
+      "impendingBoom",
+      "siege",
+      "explosive2",
+      "piercing1"
+    ],
     "dateAdded": "2025-04-15",
     "lastUpdated": "2025-07-29"
   },
@@ -11347,7 +12763,12 @@
       "copperBars": 1000
     },
     "obtainable": "williamBlackwoodSeasonalItem",
-    "perks": ["tripleThreat", "draw", "burning2", "piercing1"],
+    "perks": [
+      "tripleThreat",
+      "draw",
+      "burning2",
+      "piercing1"
+    ],
     "dateAdded": "2025-04-15",
     "lastUpdated": "2025-07-29"
   },
@@ -11374,7 +12795,9 @@
       "fineSisal": 6,
       "silver": 400
     },
-    "perks": ["combustion2"],
+    "perks": [
+      "combustion2"
+    ],
     "dateAdded": "2025-04-15",
     "lastUpdated": "2025-07-29"
   },
@@ -11402,7 +12825,9 @@
       "castingSand": 5,
       "silver": 790
     },
-    "perks": ["combustion2"],
+    "perks": [
+      "combustion2"
+    ],
     "dateAdded": "2025-04-15",
     "lastUpdated": "2025-07-29"
   },
@@ -11431,7 +12856,9 @@
       "naphtha": 2,
       "silver": 2380
     },
-    "perks": ["combustion2"],
+    "perks": [
+      "combustion2"
+    ],
     "dateAdded": "2025-04-15",
     "lastUpdated": "2025-07-29"
   },
@@ -11458,7 +12885,9 @@
       "castingSand": 3,
       "silver": 400
     },
-    "perks": ["piercing2"],
+    "perks": [
+      "piercing2"
+    ],
     "dateAdded": "2025-04-15",
     "lastUpdated": "2025-07-29"
   },
@@ -11486,7 +12915,9 @@
       "lime": 4,
       "silver": 790
     },
-    "perks": ["piercing2"],
+    "perks": [
+      "piercing2"
+    ],
     "dateAdded": "2025-04-15",
     "lastUpdated": "2025-07-29"
   },
@@ -11515,7 +12946,9 @@
       "naphtha": 2,
       "silver": 2380
     },
-    "perks": ["piercing2"],
+    "perks": [
+      "piercing2"
+    ],
     "dateAdded": "2025-04-15",
     "lastUpdated": "2025-07-29"
   },
@@ -11524,8 +12957,20 @@
     "type": "demicannon",
     "rarity": "epic",
     "season": "ascentIntoChaos",
-    "obtainable": ["theHelmEvent", "bloodiedStrongbox", "ascendedEventCache", "darktideAltarTelokPenjarah", "ascendedDarktideLullabyEventCache", "ascendedRequiemOfTheLostEventCache"],
-    "event": ["theHonorless", "moonshineLarceny", "darktideLullaby", "requiemOfTheLost"],
+    "obtainable": [
+      "theHelmEvent",
+      "bloodiedStrongbox",
+      "ascendedEventCache",
+      "darktideAltarTelokPenjarah",
+      "ascendedDarktideLullabyEventCache",
+      "ascendedRequiemOfTheLostEventCache"
+    ],
+    "event": [
+      "theHonorless",
+      "moonshineLarceny",
+      "darktideLullaby",
+      "requiemOfTheLost"
+    ],
     "value": 1,
     "weight": 500,
     "gearScore": 91,
@@ -11539,7 +12984,10 @@
     "required": {
       "bloodiedDoubloon": 1000
     },
-    "perks": ["imminentBang", "combustion3"],
+    "perks": [
+      "imminentBang",
+      "combustion3"
+    ],
     "dateAdded": "2025-05-06",
     "lastUpdated": "2025-10-28"
   },
@@ -11549,7 +12997,11 @@
     "tier": 1,
     "rarity": "uncommon",
     "season": "ascentIntoChaos",
-    "blueprint": [[ "seaPeopleMerchant", "outpostVoronaFalls"]
+    "blueprint": [
+      [
+        "seaPeopleMerchant",
+        "outpostVoronaFalls"
+      ]
     ],
     "value": 1,
     "weight": 500,
@@ -11567,7 +13019,9 @@
       "cogwheel": 3,
       "silver": 400
     },
-    "perks": ["burning2"],
+    "perks": [
+      "burning2"
+    ],
     "dateAdded": "2025-04-15",
     "lastUpdated": "2025-07-29"
   },
@@ -11577,7 +13031,11 @@
     "tier": 2,
     "rarity": "uncommon",
     "season": "ascentIntoChaos",
-    "blueprint": [[ "seaPeopleMerchant", "outpostVoronaFalls"]
+    "blueprint": [
+      [
+        "seaPeopleMerchant",
+        "outpostVoronaFalls"
+      ]
     ],
     "value": 1,
     "weight": 500,
@@ -11596,7 +13054,9 @@
       "cogwheel": 5,
       "silver": 790
     },
-    "perks": ["burning2"],
+    "perks": [
+      "burning2"
+    ],
     "dateAdded": "2025-04-15",
     "lastUpdated": "2025-07-29"
   },
@@ -11606,7 +13066,11 @@
     "tier": 3,
     "rarity": "uncommon",
     "season": "ascentIntoChaos",
-    "blueprint": [[ "seaPeopleMerchant", "outpostVoronaFalls"]
+    "blueprint": [
+      [
+        "seaPeopleMerchant",
+        "outpostVoronaFalls"
+      ]
     ],
     "value": 1,
     "weight": 500,
@@ -11626,8 +13090,12 @@
       "torsionSpring": 2,
       "silver": 2380
     },
-    "perks": ["burning2"],
-    "obtainable": ["darktideChest"],
+    "perks": [
+      "burning2"
+    ],
+    "obtainable": [
+      "darktideChest"
+    ],
     "dateAdded": "2025-04-15",
     "lastUpdated": "2025-09-04"
   },
@@ -11637,7 +13105,11 @@
     "tier": 1,
     "rarity": "rare",
     "season": "ascentIntoChaos",
-    "blueprint": [[ "seaPeopleMerchant", "outpostVoronaFalls"],
+    "blueprint": [
+      [
+        "seaPeopleMerchant",
+        "outpostVoronaFalls"
+      ],
       "theHelm"
     ],
     "value": 1,
@@ -11656,7 +13128,10 @@
       "cogwheel": 6,
       "silver": 500
     },
-    "perks": ["siege", "combustion2"],
+    "perks": [
+      "siege",
+      "combustion2"
+    ],
     "dateAdded": "2025-04-15",
     "lastUpdated": "2025-07-29"
   },
@@ -11666,7 +13141,11 @@
     "tier": 2,
     "rarity": "rare",
     "season": "ascentIntoChaos",
-    "blueprint": [[ "seaPeopleMerchant", "outpostVoronaFalls"],
+    "blueprint": [
+      [
+        "seaPeopleMerchant",
+        "outpostVoronaFalls"
+      ],
       "theHelm"
     ],
     "value": 1,
@@ -11686,7 +13165,10 @@
       "woodTar": 4,
       "silver": 1390
     },
-    "perks": ["siege", "combustion2"],
+    "perks": [
+      "siege",
+      "combustion2"
+    ],
     "dateAdded": "2025-04-15",
     "lastUpdated": "2025-07-29"
   },
@@ -11696,10 +13178,18 @@
     "tier": 3,
     "rarity": "rare",
     "season": "ascentIntoChaos",
-    "blueprint": [[ "seaPeopleMerchant", "outpostVoronaFalls"],
+    "blueprint": [
+      [
+        "seaPeopleMerchant",
+        "outpostVoronaFalls"
+      ],
       "theHelm"
     ],
-    "obtainable": ["moonshineChest", "moonshineStrongbox", "darktideChest"],
+    "obtainable": [
+      "moonshineChest",
+      "moonshineStrongbox",
+      "darktideChest"
+    ],
     "value": 1,
     "weight": 500,
     "gearScore": 83,
@@ -11718,7 +13208,10 @@
       "eelsTwine": 2,
       "silver": 3300
     },
-    "perks": ["siege", "combustion2"],
+    "perks": [
+      "siege",
+      "combustion2"
+    ],
     "dateAdded": "2025-04-15",
     "lastUpdated": "2025-09-04"
   },
@@ -11747,7 +13240,10 @@
       "orcaIntricateApparatus": 1,
       "silver": 3300
     },
-    "perks": ["unison", "tearing3"],
+    "perks": [
+      "unison",
+      "tearing3"
+    ],
     "dateAdded": "2025-04-15",
     "lastUpdated": "2025-07-29"
   },
@@ -11769,7 +13265,9 @@
       "silver": 5760
     },
     "blueprint": "contractReward",
-    "perks": ["bilgefireBarrels"],
+    "perks": [
+      "bilgefireBarrels"
+    ],
     "dateAdded": "2025-04-15",
     "lastUpdated": "2025-07-29"
   },
@@ -11783,7 +13281,9 @@
     "gearScore": 35,
     "required": {},
     "obtainable": "smugglerPass",
-    "perks": ["emergencyLocker"],
+    "perks": [
+      "emergencyLocker"
+    ],
     "dateAdded": "2025-04-15",
     "lastUpdated": "2025-07-29"
   },
@@ -11797,7 +13297,9 @@
     "gearScore": 35,
     "required": {},
     "obtainable": "smugglerPass",
-    "perks": ["wyrmsBreathChurner"],
+    "perks": [
+      "wyrmsBreathChurner"
+    ],
     "dateAdded": "2025-04-15",
     "lastUpdated": "2025-07-29"
   },
@@ -11820,7 +13322,9 @@
     },
     "contract": "allureOfPower",
     "blueprint": "contractReward",
-    "perks": ["markOfTheWolf"],
+    "perks": [
+      "markOfTheWolf"
+    ],
     "dateAdded": "2025-04-15",
     "lastUpdated": "2025-07-29"
   },
@@ -11833,8 +13337,13 @@
     "gearScore": 20,
     "value": 1,
     "weight": 80,
-    "obtainable": ["theHelmEvent", "bloodiedStrongbox"],
-    "perks": ["fuseFusingStation"],
+    "obtainable": [
+      "theHelmEvent",
+      "bloodiedStrongbox"
+    ],
+    "perks": [
+      "fuseFusingStation"
+    ],
     "required": {
       "bloodiedDoubloon": 450
     },
@@ -11850,7 +13359,9 @@
     "value": 1,
     "weight": 80,
     "obtainable": "williamBlackwoodSeasonalItem",
-    "perks": ["ramrodWorkshop"],
+    "perks": [
+      "ramrodWorkshop"
+    ],
     "required": {
       "copperBars": 300
     },
@@ -11866,7 +13377,9 @@
     "value": 1,
     "weight": 80,
     "obtainable": "williamBlackwoodSeasonalItem",
-    "perks": ["breechlockFurnace"],
+    "perks": [
+      "breechlockFurnace"
+    ],
     "required": {
       "copperBars": 500
     },
@@ -11882,7 +13395,9 @@
     "value": 1,
     "weight": 80,
     "obtainable": "williamBlackwoodSeasonalItem",
-    "perks": ["dynamicBallastControl"],
+    "perks": [
+      "dynamicBallastControl"
+    ],
     "required": {
       "copperBars": 500
     },
@@ -11897,7 +13412,9 @@
     "gearScore": 15,
     "value": 1,
     "weight": 175,
-    "perks": ["mortarProjectileSpeed15"],
+    "perks": [
+      "mortarProjectileSpeed15"
+    ],
     "required": {
       "roselleCloth": 10,
       "woodTar": 4,
@@ -12015,7 +13532,11 @@
     "season": "ascentIntoChaos",
     "type": "chest",
     "event": "theHonorless",
-    "worldEvent": ["theHonorlessMizerja", "theHonorlessDianSinaga", "theHonorlessAhPak"],
+    "worldEvent": [
+      "theHonorlessMizerja",
+      "theHonorlessDianSinaga",
+      "theHonorlessAhPak"
+    ],
     "value": 1,
     "weight": 100,
     "dateAdded": "2025-05-11",
@@ -12027,7 +13548,11 @@
     "season": "shadowsOfTheDeep",
     "type": "chest",
     "event": "theFounding",
-    "worldEvent": ["payingDues", "scurlocksPrecious", "thickAsThieves"],
+    "worldEvent": [
+      "payingDues",
+      "scurlocksPrecious",
+      "thickAsThieves"
+    ],
     "value": 1,
     "weight": 100,
     "dateAdded": "2025-05-11",
@@ -12118,7 +13643,10 @@
     "rarity": "legendary",
     "season": "chorusOfHavoc",
     "type": "chest",
-    "worldEvent": ["verseOfVengeance", "chorusOfHavoc"],
+    "worldEvent": [
+      "verseOfVengeance",
+      "chorusOfHavoc"
+    ],
     "value": 1,
     "weight": 6000,
     "dateAdded": "2025-05-11",
@@ -12129,7 +13657,10 @@
     "rarity": "legendary",
     "season": "chorusOfHavoc",
     "type": "chest",
-    "worldEvent": ["verseOfVengeance", "chorusOfHavoc"],
+    "worldEvent": [
+      "verseOfVengeance",
+      "chorusOfHavoc"
+    ],
     "value": 1,
     "weight": 6000,
     "dateAdded": "2025-05-11",
@@ -12394,7 +13925,10 @@
     "tier": 4,
     "value": 1,
     "weight": 100,
-    "obtainable": ["deathTidesProgression", "theHelm"],
+    "obtainable": [
+      "deathTidesProgression",
+      "theHelm"
+    ],
     "dateAdded": "2025-05-27",
     "lastUpdated": "2025-10-21"
   },
@@ -12458,13 +13992,21 @@
     "rarity": "epic",
     "season": "oathsOfWar",
     "type": "consumable",
-    "event": ["moonshineLarceny", "requiemOfTheLost"],
+    "event": [
+      "moonshineLarceny",
+      "requiemOfTheLost"
+    ],
     "worldEvent": "theManicMoonshinerFleet",
-    "obtainable": ["defeatingMoonshiners", "hallowedGravestoneSaintAnne"],
+    "obtainable": [
+      "defeatingMoonshiners",
+      "hallowedGravestoneSaintAnne"
+    ],
     "value": 1,
     "weight": 10,
     "buffDuration": 20,
-    "perks": ["poseidonsBrew"],
+    "perks": [
+      "poseidonsBrew"
+    ],
     "dateAdded": "2025-07-15",
     "lastUpdated": "2025-07-29"
   },
@@ -12491,7 +14033,9 @@
       "upgradeParts": 6,
       "silver": 18000
     },
-    "perks": ["frigateUpgrade1"],
+    "perks": [
+      "frigateUpgrade1"
+    ],
     "dateAdded": "2025-07-15",
     "lastUpdated": "2025-07-29"
   },
@@ -12509,7 +14053,9 @@
       "upgradeParts": 8,
       "silver": 25000
     },
-    "perks": ["frigateUpgrade2"],
+    "perks": [
+      "frigateUpgrade2"
+    ],
     "dateAdded": "2025-07-15",
     "lastUpdated": "2026-02-05"
   },
@@ -12526,7 +14072,10 @@
       "upgradeParts": 10,
       "piecesOfEight": 1250
     },
-    "perks": ["frigateUpgrade3", "deepBlue"],
+    "perks": [
+      "frigateUpgrade3",
+      "deepBlue"
+    ],
     "dateAdded": "2025-07-15",
     "lastUpdated": "2026-02-05"
   },
@@ -12553,7 +14102,9 @@
       "piercing": 0,
       "electric": 0.03
     },
-    "perks": ["frigateUpgrade4"],
+    "perks": [
+      "frigateUpgrade4"
+    ],
     "dateAdded": "2025-07-15",
     "lastUpdated": "2025-07-29"
   },
@@ -12580,7 +14131,9 @@
       "piercing": 0,
       "electric": 0.05
     },
-    "perks": ["frigateUpgrade5"],
+    "perks": [
+      "frigateUpgrade5"
+    ],
     "dateAdded": "2025-07-15",
     "lastUpdated": "2026-02-05"
   },
@@ -12608,7 +14161,10 @@
       "piercing": 0,
       "electric": 0.1
     },
-    "perks": ["frigateUpgrade6", "resolve"],
+    "perks": [
+      "frigateUpgrade6",
+      "resolve"
+    ],
     "dateAdded": "2025-07-15",
     "lastUpdated": "2025-07-29"
   },
@@ -12637,7 +14193,9 @@
       "piercing": 0,
       "electric": 0.2
     },
-    "perks": ["frigateUpgrade7"],
+    "perks": [
+      "frigateUpgrade7"
+    ],
     "dateAdded": "2025-07-15",
     "lastUpdated": "2025-07-29"
   },
@@ -12646,7 +14204,10 @@
     "type": "demicannon",
     "rarity": "epic",
     "season": "oathsOfWar",
-    "obtainable": ["smugglerPass", "smugglerPassPinnacleStore"],
+    "obtainable": [
+      "smugglerPass",
+      "smugglerPassPinnacleStore"
+    ],
     "value": 1,
     "weight": 500,
     "gearScore": 91,
@@ -12656,7 +14217,11 @@
     "reloadSpeed": 3500,
     "optimalRange": 400,
     "projectileSpeed": 400,
-    "perks": ["skyrend", "tearing3", "electric2"],
+    "perks": [
+      "skyrend",
+      "tearing3",
+      "electric2"
+    ],
     "dateAdded": "2025-07-15",
     "lastUpdated": "2025-07-29",
     "ammunitionType": "cannonballs"
@@ -12677,8 +14242,17 @@
     "optimalRange": 550,
     "projectileSpeed": 135,
     "blastRadius": 30,
-    "obtainable": ["moonshineStrongbox", "accountLedgerSainteAnne", "ascendedAshbreakerChest", "ascendedEventCache"],
-    "perks": ["marauder", "burning2", "explosive1"],
+    "obtainable": [
+      "moonshineStrongbox",
+      "accountLedgerSainteAnne",
+      "ascendedAshbreakerChest",
+      "ascendedEventCache"
+    ],
+    "perks": [
+      "marauder",
+      "burning2",
+      "explosive1"
+    ],
     "dateAdded": "2025-07-15",
     "lastUpdated": "2025-07-29",
     "ammunitionType": "bombardBombs"
@@ -12688,8 +14262,17 @@
     "type": "torpedo",
     "rarity": "epic",
     "season": "oathsOfWar",
-    "event": ["darktideLullaby", "azureSolstice"],
-    "obtainable": ["darktideAltarTelokPenjarah", "darktideChest", "ascendedHellgateSerpentChest", "ascendedDarktideLullabyEventCache", "ascendedAzureSolsticeEventCache"],
+    "event": [
+      "darktideLullaby",
+      "azureSolstice"
+    ],
+    "obtainable": [
+      "darktideAltarTelokPenjarah",
+      "darktideChest",
+      "ascendedHellgateSerpentChest",
+      "ascendedDarktideLullabyEventCache",
+      "ascendedAzureSolsticeEventCache"
+    ],
     "value": 1,
     "weight": 500,
     "gearScore": 91,
@@ -12699,7 +14282,12 @@
     "reloadSpeed": 4500,
     "optimalRange": 675,
     "projectileSpeed": 75,
-    "perks": ["spiritMending", "arming", "burning2", "flooding2"],
+    "perks": [
+      "spiritMending",
+      "arming",
+      "burning2",
+      "flooding2"
+    ],
     "dateAdded": "2025-07-15",
     "lastUpdated": "2025-12-09",
     "ammunitionType": "torpedoes"
@@ -12723,7 +14311,10 @@
     "required": {
       "gildmarks": 1000
     },
-    "perks": ["torrent", "flooding2"],
+    "perks": [
+      "torrent",
+      "flooding2"
+    ],
     "dateAdded": "2025-07-15",
     "lastUpdated": "2025-07-29"
   },
@@ -12731,7 +14322,10 @@
     "id": "spiritcaller",
     "rarity": "rare",
     "season": "oathsOfWar",
-    "obtainable": ["darktideAltarTelokPenjarah", "darktideChest"],
+    "obtainable": [
+      "darktideAltarTelokPenjarah",
+      "darktideChest"
+    ],
     "event": "darktideLullaby",
     "requiredSize": "medium",
     "type": "springloader",
@@ -12744,7 +14338,9 @@
     "reloadSpeed": 20000,
     "optimalRange": 400,
     "timeToTarget": 2700,
-    "perks": ["illuminate"],
+    "perks": [
+      "illuminate"
+    ],
     "dateAdded": "2025-07-15",
     "lastUpdated": "2025-09-04"
   },
@@ -12769,7 +14365,9 @@
       "gildmarks": 700
     },
     "obtainable": "williamBlackwoodSeasonalItemOathsOfWar",
-    "perks": ["impregnable"],
+    "perks": [
+      "impregnable"
+    ],
     "dateAdded": "2025-07-15",
     "lastUpdated": "2025-07-29"
   },
@@ -12792,7 +14390,10 @@
       "toxic": 0.05
     },
     "obtainable": "smugglerPass",
-    "perks": ["entrenched", "bastion"],
+    "perks": [
+      "entrenched",
+      "bastion"
+    ],
     "dateAdded": "2025-07-15",
     "lastUpdated": "2025-10-21"
   },
@@ -12817,7 +14418,9 @@
       "gildmarks": 1000
     },
     "obtainable": "williamBlackwoodSeasonalItemOathsOfWar",
-    "perks": ["volatileVestment"],
+    "perks": [
+      "volatileVestment"
+    ],
     "dateAdded": "2025-07-15",
     "lastUpdated": "2025-10-21"
   },
@@ -12834,7 +14437,9 @@
     "required": {
       "illicitMoonshine": 600
     },
-    "perks": ["trunnionFurnace"],
+    "perks": [
+      "trunnionFurnace"
+    ],
     "dateAdded": "2025-07-15",
     "lastUpdated": "2025-07-29"
   },
@@ -12846,8 +14451,14 @@
     "gearScore": 25,
     "value": 1,
     "weight": 80,
-    "obtainable": ["smugglerPass", "moonshineChest", "moonshineStrongbox"],
-    "perks": ["acceleratedGunrailSmithy"],
+    "obtainable": [
+      "smugglerPass",
+      "moonshineChest",
+      "moonshineStrongbox"
+    ],
+    "perks": [
+      "acceleratedGunrailSmithy"
+    ],
     "dateAdded": "2025-07-15",
     "lastUpdated": "2025-07-29"
   },
@@ -12860,7 +14471,9 @@
     "value": 1,
     "weight": 80,
     "obtainable": "williamBlackwoodSeasonalItemOathsOfWar",
-    "perks": ["ammoPrimingBench"],
+    "perks": [
+      "ammoPrimingBench"
+    ],
     "required": {
       "gildmarks": 300
     },
@@ -12871,7 +14484,9 @@
     "id": "royalSentinel",
     "rarity": "epic",
     "season": "oathsOfWar",
-    "obtainable": ["williamBlackwoodSeasonalItemOathsOfWar"],
+    "obtainable": [
+      "williamBlackwoodSeasonalItemOathsOfWar"
+    ],
     "requiredSize": "medium",
     "type": "springloader",
     "gearScore": 91,
@@ -12883,7 +14498,10 @@
     "reloadSpeed": 20000,
     "optimalRange": 400,
     "timeToTarget": 2700,
-    "perks": ["dazzling", "combustion2"],
+    "perks": [
+      "dazzling",
+      "combustion2"
+    ],
     "dateAdded": "2025-07-15",
     "lastUpdated": "2025-07-29"
   },
@@ -12892,7 +14510,9 @@
     "type": "mortar",
     "rarity": "epic",
     "season": "oathsOfWar",
-    "obtainable": ["williamBlackwoodSeasonalItemOathsOfWar"],
+    "obtainable": [
+      "williamBlackwoodSeasonalItemOathsOfWar"
+    ],
     "value": 1,
     "weight": 1000,
     "gearScore": 91,
@@ -12905,7 +14525,11 @@
     "blastRadius": 50,
     "ammunitionType": "mortarBombs",
     "required": {},
-    "perks": ["demolition", "precisionBlast", "piercing1"],
+    "perks": [
+      "demolition",
+      "precisionBlast",
+      "piercing1"
+    ],
     "dateAdded": "2025-07-15",
     "lastUpdated": "2025-07-29"
   },
@@ -12917,7 +14541,9 @@
     "gearScore": 15,
     "value": 1,
     "weight": 175,
-    "perks": ["rocketProjectileSpeed15"],
+    "perks": [
+      "rocketProjectileSpeed15"
+    ],
     "required": {
       "roselleCloth": 8,
       "magnetiteIngot": 6,
@@ -12937,7 +14563,10 @@
     "season": "oathsOfWar",
     "type": "chest",
     "event": "moonshineLarceny",
-    "worldEvent": ["deadMansMoonshine", "moonshineMadness"],
+    "worldEvent": [
+      "deadMansMoonshine",
+      "moonshineMadness"
+    ],
     "value": 1,
     "weight": 100,
     "dateAdded": "2025-07-22",
@@ -12949,7 +14578,11 @@
     "season": "oathsOfWar",
     "type": "chest",
     "event": "moonshineLarceny",
-    "worldEvent": ["deadMansMoonshine", "moonshineMadness", "theManicMoonshinerFleet"],
+    "worldEvent": [
+      "deadMansMoonshine",
+      "moonshineMadness",
+      "theManicMoonshinerFleet"
+    ],
     "value": 1,
     "weight": 100,
     "dateAdded": "2025-07-22",
@@ -12992,7 +14625,10 @@
     "season": "oathsOfWar",
     "value": 1,
     "weight": 100,
-    "obtainable": ["megafortCache", "deathTidesProgression"],
+    "obtainable": [
+      "megafortCache",
+      "deathTidesProgression"
+    ],
     "dateAdded": "2025-07-15",
     "lastUpdated": "2025-07-15"
   },
@@ -13003,7 +14639,10 @@
     "season": "oathsOfWar",
     "value": 1,
     "weight": 100,
-    "obtainable": ["megafortCache", "deathTidesProgression"],
+    "obtainable": [
+      "megafortCache",
+      "deathTidesProgression"
+    ],
     "dateAdded": "2025-07-15",
     "lastUpdated": "2025-07-15"
   },
@@ -13014,7 +14653,10 @@
     "season": "oathsOfWar",
     "value": 1,
     "weight": 100,
-    "obtainable": ["megafortCache", "deathTidesProgression"],
+    "obtainable": [
+      "megafortCache",
+      "deathTidesProgression"
+    ],
     "dateAdded": "2025-07-15",
     "lastUpdated": "2025-07-15"
   },
@@ -13025,7 +14667,10 @@
     "season": "oathsOfWar",
     "value": 1,
     "weight": 100,
-    "obtainable": ["megafortCache", "deathTidesProgression"],
+    "obtainable": [
+      "megafortCache",
+      "deathTidesProgression"
+    ],
     "dateAdded": "2025-07-15",
     "lastUpdated": "2025-07-15"
   },
@@ -13271,7 +14916,9 @@
     "gearScore": 35,
     "required": {},
     "obtainable": "williamBlackwoodSeasonalItemOathsOfWar",
-    "perks": ["royalSterilizationTent"],
+    "perks": [
+      "royalSterilizationTent"
+    ],
     "dateAdded": "2025-09-02",
     "lastUpdated": "2025-09-02"
   },
@@ -13285,7 +14932,9 @@
     "gearScore": 35,
     "required": {},
     "obtainable": "williamBlackwoodSeasonalItemOathsOfWar",
-    "perks": ["atelierDeCuivrage"],
+    "perks": [
+      "atelierDeCuivrage"
+    ],
     "dateAdded": "2025-09-02",
     "lastUpdated": "2025-09-02"
   },
@@ -13299,7 +14948,9 @@
     "gearScore": 35,
     "required": {},
     "obtainable": "williamBlackwoodSeasonalItemOathsOfWar",
-    "perks": ["rampantCarriageHold"],
+    "perks": [
+      "rampantCarriageHold"
+    ],
     "dateAdded": "2025-09-02",
     "lastUpdated": "2025-09-02"
   },
@@ -13313,7 +14964,9 @@
     "gearScore": 35,
     "required": {},
     "obtainable": "williamBlackwoodSeasonalItemOathsOfWar",
-    "perks": ["sandbagPaintingStation"],
+    "perks": [
+      "sandbagPaintingStation"
+    ],
     "dateAdded": "2025-09-02",
     "lastUpdated": "2025-09-02"
   },
@@ -13327,8 +14980,13 @@
     "gearScore": 20,
     "event": "darktideLullaby",
     "required": {},
-    "obtainable": ["darktideAltarTelokPenjarah", "darktideChest"],
-    "perks": ["counterthrustLocker"],
+    "obtainable": [
+      "darktideAltarTelokPenjarah",
+      "darktideChest"
+    ],
+    "perks": [
+      "counterthrustLocker"
+    ],
     "dateAdded": "2025-09-02",
     "lastUpdated": "2025-09-04"
   },
@@ -13528,7 +15186,9 @@
       "toxic": 0
     },
     "obtainable": "williamBlackwoodSeasonalItemGutsAndGlory",
-    "perks": ["resurgence"],
+    "perks": [
+      "resurgence"
+    ],
     "dateAdded": "2025-10-21",
     "lastUpdated": "2025-10-21"
   },
@@ -13551,7 +15211,9 @@
       "toxic": 0
     },
     "obtainable": "smugglerPass",
-    "perks": ["windcaller"],
+    "perks": [
+      "windcaller"
+    ],
     "dateAdded": "2025-10-21",
     "lastUpdated": "2025-10-21"
   },
@@ -13574,7 +15236,9 @@
       "toxic": 0.4
     },
     "obtainable": "williamBlackwoodSeasonalItemGutsAndGlory",
-    "perks": ["immunity"],
+    "perks": [
+      "immunity"
+    ],
     "dateAdded": "2025-10-21",
     "lastUpdated": "2025-10-21"
   },
@@ -13587,7 +15251,9 @@
     "weight": 250,
     "gearScore": 35,
     "obtainable": "williamBlackwoodSeasonalItemGutsAndGlory",
-    "perks": ["stinkpotStation"],
+    "perks": [
+      "stinkpotStation"
+    ],
     "dateAdded": "2025-10-21",
     "lastUpdated": "2025-10-21"
   },
@@ -13600,8 +15266,13 @@
     "value": 1,
     "weight": 250,
     "gearScore": 35,
-    "obtainable": ["azuriteLodestoneSaintAnne", "azureStrongbox"],
-    "perks": ["sheetingWinchConsole"],
+    "obtainable": [
+      "azuriteLodestoneSaintAnne",
+      "azureStrongbox"
+    ],
+    "perks": [
+      "sheetingWinchConsole"
+    ],
     "dateAdded": "2025-10-21",
     "lastUpdated": "2025-12-09"
   },
@@ -13614,7 +15285,9 @@
     "weight": 250,
     "gearScore": 35,
     "obtainable": "williamBlackwoodSeasonalItemGutsAndGlory",
-    "perks": ["gimbalRingStores"],
+    "perks": [
+      "gimbalRingStores"
+    ],
     "dateAdded": "2025-10-21",
     "lastUpdated": "2025-10-21"
   },
@@ -13627,7 +15300,9 @@
     "weight": 250,
     "gearScore": 35,
     "obtainable": "smugglerPass",
-    "perks": ["siphonFurnace"],
+    "perks": [
+      "siphonFurnace"
+    ],
     "dateAdded": "2025-10-21",
     "lastUpdated": "2025-10-21"
   },
@@ -13640,8 +15315,13 @@
     "gearScore": 25,
     "value": 1,
     "weight": 80,
-    "obtainable": ["hallowedGravestoneSaintAnne", "hauntedReapersCache"],
-    "perks": ["causticSpallStation"],
+    "obtainable": [
+      "hallowedGravestoneSaintAnne",
+      "hauntedReapersCache"
+    ],
+    "perks": [
+      "causticSpallStation"
+    ],
     "dateAdded": "2025-10-21",
     "lastUpdated": "2025-10-21"
   },
@@ -13654,7 +15334,9 @@
     "value": 1,
     "weight": 80,
     "obtainable": "factionWarEffortReward",
-    "perks": ["leydenVaultArray"],
+    "perks": [
+      "leydenVaultArray"
+    ],
     "dateAdded": "2025-10-21",
     "lastUpdated": "2025-10-21"
   },
@@ -13667,7 +15349,9 @@
     "value": 1,
     "weight": 80,
     "obtainable": "factionWarEffortReward",
-    "perks": ["cascadeCoilBench"],
+    "perks": [
+      "cascadeCoilBench"
+    ],
     "dateAdded": "2025-10-21",
     "lastUpdated": "2025-10-21"
   },
@@ -13680,7 +15364,9 @@
     "value": 1,
     "weight": 80,
     "obtainable": "factionWarEffortReward",
-    "perks": ["curareCrushingBench"],
+    "perks": [
+      "curareCrushingBench"
+    ],
     "dateAdded": "2025-10-21",
     "lastUpdated": "2025-10-21"
   },
@@ -13700,7 +15386,10 @@
     "reloadSpeed": 400,
     "projectileSpeed": 1,
     "optimalRange": 125,
-    "perks": ["infectious", "toxic3"],
+    "perks": [
+      "infectious",
+      "toxic3"
+    ],
     "obtainable": "factionWarEffortReward",
     "dateAdded": "2025-10-21",
     "lastUpdated": "2025-10-21",
@@ -13723,7 +15412,10 @@
     "projectileSpeed": 1,
     "optimalRange": 200,
     "obtainable": "factionWarEffortReward",
-    "perks": ["lancerSeaFire", "electric4"],
+    "perks": [
+      "lancerSeaFire",
+      "electric4"
+    ],
     "dateAdded": "2025-10-21",
     "lastUpdated": "2025-10-21",
     "ammunitionType": "oilCanisters"
@@ -13733,7 +15425,10 @@
     "type": "culverin",
     "rarity": "epic",
     "season": "gutsAndGlory",
-    "obtainable": ["smugglerPass", "smugglerPassPinnacleStore"],
+    "obtainable": [
+      "smugglerPass",
+      "smugglerPassPinnacleStore"
+    ],
     "value": 1,
     "weight": 500,
     "gearScore": 91,
@@ -13743,7 +15438,10 @@
     "reloadSpeed": 6000,
     "optimalRange": 600,
     "projectileSpeed": 210,
-    "perks": ["virulent", "toxic3"],
+    "perks": [
+      "virulent",
+      "toxic3"
+    ],
     "dateAdded": "2025-10-21",
     "lastUpdated": "2025-10-21",
     "ammunitionType": "cannonballs"
@@ -13753,7 +15451,10 @@
     "type": "torpedo",
     "rarity": "epic",
     "season": "gutsAndGlory",
-    "obtainable": ["williamBlackwoodSeasonalItemGutsAndGlory", "laPestesLockerMythic"],
+    "obtainable": [
+      "williamBlackwoodSeasonalItemGutsAndGlory",
+      "laPestesLockerMythic"
+    ],
     "value": 1,
     "weight": 500,
     "gearScore": 91,
@@ -13763,7 +15464,12 @@
     "reloadSpeed": 4500,
     "optimalRange": 675,
     "projectileSpeed": 75,
-    "perks": ["contagion", "arming", "flooding2", "toxic3"],
+    "perks": [
+      "contagion",
+      "arming",
+      "flooding2",
+      "toxic3"
+    ],
     "dateAdded": "2025-10-21",
     "lastUpdated": "2025-10-21",
     "ammunitionType": "torpedoes"
@@ -13774,7 +15480,12 @@
     "rarity": "epic",
     "season": "gutsAndGlory",
     "event": "requiemOfTheLost",
-    "obtainable": ["hallowedGravestoneSaintAnne", "ascendedRequiemOfTheLostEventCache", "ascendedTheDrownedOneChest", "hauntedReapersCache"],
+    "obtainable": [
+      "hallowedGravestoneSaintAnne",
+      "ascendedRequiemOfTheLostEventCache",
+      "ascendedTheDrownedOneChest",
+      "hauntedReapersCache"
+    ],
     "value": 1,
     "weight": 500,
     "gearScore": 91,
@@ -13784,7 +15495,11 @@
     "reloadSpeed": 7200,
     "optimalRange": 1000,
     "projectileSpeed": 350,
-    "perks": ["perforator", "flooding2", "piercing2"],
+    "perks": [
+      "perforator",
+      "flooding2",
+      "piercing2"
+    ],
     "dateAdded": "2025-10-21",
     "lastUpdated": "2025-10-28",
     "ammunitionType": "cannonballs"
@@ -13795,7 +15510,11 @@
     "rarity": "epic",
     "season": "gutsAndGlory",
     "event": "azureSolstice",
-    "obtainable": ["azuriteLodestoneSaintAnne", "ascendedFrostwailChest", "ascendedAzureSolsticeEventCache"],
+    "obtainable": [
+      "azuriteLodestoneSaintAnne",
+      "ascendedFrostwailChest",
+      "ascendedAzureSolsticeEventCache"
+    ],
     "value": 1,
     "weight": 500,
     "gearScore": 91,
@@ -13806,7 +15525,10 @@
     "optimalRange": 550,
     "projectileSpeed": 135,
     "blastRadius": 35,
-    "perks": ["countdown", "explosive2"],
+    "perks": [
+      "countdown",
+      "explosive2"
+    ],
     "dateAdded": "2025-10-21",
     "lastUpdated": "2025-12-09",
     "ammunitionType": "bombardBombs"
@@ -13823,7 +15545,9 @@
       "plagueDust": 3,
       "upgradeParts": 2
     },
-    "perks": ["sloopOfWarUpgrade1"],
+    "perks": [
+      "sloopOfWarUpgrade1"
+    ],
     "dateAdded": "2025-10-21",
     "lastUpdated": "2025-10-21"
   },
@@ -13840,7 +15564,9 @@
       "deepIron": 3,
       "upgradeParts": 3
     },
-    "perks": ["sloopOfWarUpgrade2"],
+    "perks": [
+      "sloopOfWarUpgrade2"
+    ],
     "dateAdded": "2025-10-21",
     "lastUpdated": "2025-10-21"
   },
@@ -13857,7 +15583,10 @@
       "deepIron": 5,
       "upgradeParts": 4
     },
-    "perks": ["sloopOfWarUpgrade3", "deepBlue"],
+    "perks": [
+      "sloopOfWarUpgrade3",
+      "deepBlue"
+    ],
     "dateAdded": "2025-10-21",
     "lastUpdated": "2025-10-21"
   },
@@ -13884,7 +15613,9 @@
       "electric": 0,
       "toxic": 0.03
     },
-    "perks": ["sloopOfWarUpgrade4"],
+    "perks": [
+      "sloopOfWarUpgrade4"
+    ],
     "dateAdded": "2025-10-21",
     "lastUpdated": "2025-10-21"
   },
@@ -13911,7 +15642,9 @@
       "electric": 0,
       "toxic": 0.05
     },
-    "perks": ["sloopOfWarUpgrade5"],
+    "perks": [
+      "sloopOfWarUpgrade5"
+    ],
     "dateAdded": "2025-10-21",
     "lastUpdated": "2025-10-21"
   },
@@ -13939,7 +15672,10 @@
       "electric": 0,
       "toxic": 0.1
     },
-    "perks": ["sloopOfWarUpgrade6", "spite"],
+    "perks": [
+      "sloopOfWarUpgrade6",
+      "spite"
+    ],
     "dateAdded": "2025-10-21",
     "lastUpdated": "2025-10-21"
   },
@@ -13968,7 +15704,9 @@
       "electric": 0,
       "toxic": 0.2
     },
-    "perks": ["sloopOfWarUpgrade7"],
+    "perks": [
+      "sloopOfWarUpgrade7"
+    ],
     "dateAdded": "2025-10-21",
     "lastUpdated": "2025-10-21"
   },
@@ -13993,7 +15731,10 @@
     "season": "gutsAndGlory",
     "type": "chest",
     "event": "requiemOfTheLost",
-    "obtainable": ["hallowedGravestoneSaintAnne", "eventPass"],
+    "obtainable": [
+      "hallowedGravestoneSaintAnne",
+      "eventPass"
+    ],
     "value": 1,
     "weight": 100,
     "required": {
@@ -14007,8 +15748,14 @@
     "rarity": "epic",
     "season": "gutsAndGlory",
     "type": "chest",
-    "event": ["requiemOfTheLost", "azureSolstice"],
-    "obtainable": ["hallowedGravestoneSaintAnne", "azuriteLodestoneSaintAnne"],
+    "event": [
+      "requiemOfTheLost",
+      "azureSolstice"
+    ],
+    "obtainable": [
+      "hallowedGravestoneSaintAnne",
+      "azuriteLodestoneSaintAnne"
+    ],
     "value": 1,
     "weight": 100,
     "dateAdded": "2025-10-21",
@@ -14176,7 +15923,9 @@
       "upgradeParts": 6,
       "silver": 18000
     },
-    "perks": ["corvetteUpgrade1"],
+    "perks": [
+      "corvetteUpgrade1"
+    ],
     "dateAdded": "2026-02-10",
     "lastUpdated": "2026-02-10"
   },
@@ -14194,7 +15943,9 @@
       "upgradeParts": 8,
       "silver": 25000
     },
-    "perks": ["corvetteUpgrade2"],
+    "perks": [
+      "corvetteUpgrade2"
+    ],
     "dateAdded": "2026-02-10",
     "lastUpdated": "2026-02-10"
   },
@@ -14212,7 +15963,10 @@
       "upgradeParts": 10,
       "piecesOfEight": 1250
     },
-    "perks": ["corvetteUpgrade3", "deepBlue"],
+    "perks": [
+      "corvetteUpgrade3",
+      "deepBlue"
+    ],
     "dateAdded": "2026-02-10",
     "lastUpdated": "2026-02-10"
   },
@@ -14240,7 +15994,9 @@
       "electric": 0,
       "toxic": 0.03
     },
-    "perks": ["corvetteUpgrade4"],
+    "perks": [
+      "corvetteUpgrade4"
+    ],
     "dateAdded": "2026-02-10",
     "lastUpdated": "2026-02-10"
   },
@@ -14268,7 +16024,9 @@
       "electric": 0,
       "toxic": 0.05
     },
-    "perks": ["corvetteUpgrade5"],
+    "perks": [
+      "corvetteUpgrade5"
+    ],
     "dateAdded": "2026-02-10",
     "lastUpdated": "2026-02-10"
   },
@@ -14297,7 +16055,10 @@
       "electric": 0,
       "toxic": 0.1
     },
-    "perks": ["corvetteUpgrade6", "upgradedMark"],
+    "perks": [
+      "corvetteUpgrade6",
+      "upgradedMark"
+    ],
     "dateAdded": "2026-02-10",
     "lastUpdated": "2026-02-10"
   },
@@ -14327,7 +16088,9 @@
       "electric": 0,
       "toxic": 0.2
     },
-    "perks": ["corvetteUpgrade7"],
+    "perks": [
+      "corvetteUpgrade7"
+    ],
     "dateAdded": "2026-02-10",
     "lastUpdated": "2026-02-10"
   },
@@ -14381,7 +16144,9 @@
       "toxic": 0.05
     },
     "obtainable": "williamBlackwoodSeasonalItemEyeOfTheBeast",
-    "perks": ["livingMetal"],
+    "perks": [
+      "livingMetal"
+    ],
     "dateAdded": "2026-02-10",
     "lastUpdated": "2026-02-10"
   },
@@ -14404,7 +16169,9 @@
       "toxic": 0.1
     },
     "obtainable": "smugglerPass",
-    "perks": ["primordialHides"],
+    "perks": [
+      "primordialHides"
+    ],
     "dateAdded": "2026-02-10",
     "lastUpdated": "2026-02-10"
   },
@@ -14427,7 +16194,9 @@
       "toxic": 0.1
     },
     "obtainable": "smugglerPass",
-    "perks": ["caduceus"],
+    "perks": [
+      "caduceus"
+    ],
     "dateAdded": "2026-02-10",
     "lastUpdated": "2026-02-10"
   },
@@ -14441,7 +16210,9 @@
     "gearScore": 20,
     "required": {},
     "obtainable": "smugglerPass",
-    "perks": ["invertedFlagRack"],
+    "perks": [
+      "invertedFlagRack"
+    ],
     "dateAdded": "2026-02-10",
     "lastUpdated": "2026-02-10"
   },
@@ -14456,7 +16227,9 @@
     "required": {},
     "event": "legendOfTheNian",
     "obtainable": "idolOfTheBeastStatue",
-    "perks": ["apothecaryToolBench"],
+    "perks": [
+      "apothecaryToolBench"
+    ],
     "dateAdded": "2026-02-10",
     "lastUpdated": "2026-02-10"
   },
@@ -14470,7 +16243,9 @@
     "gearScore": 25,
     "required": {},
     "obtainable": "factionWarEffortReward",
-    "perks": ["anatomyCabinet"],
+    "perks": [
+      "anatomyCabinet"
+    ],
     "dateAdded": "2026-02-10",
     "lastUpdated": "2026-02-10"
   },
@@ -14483,7 +16258,9 @@
     "weight": 250,
     "gearScore": 35,
     "obtainable": "smugglerPass",
-    "perks": ["blubberWorks"],
+    "perks": [
+      "blubberWorks"
+    ],
     "dateAdded": "2026-02-10",
     "lastUpdated": "2026-02-10"
   },
@@ -14496,7 +16273,9 @@
     "weight": 250,
     "gearScore": 35,
     "obtainable": "factionWarEffortReward",
-    "perks": ["drowningCabinet"],
+    "perks": [
+      "drowningCabinet"
+    ],
     "dateAdded": "2026-02-10",
     "lastUpdated": "2026-02-10"
   },
@@ -14509,7 +16288,9 @@
     "weight": 250,
     "gearScore": 35,
     "obtainable": "williamBlackwoodSeasonalItemEyeOfTheBeast",
-    "perks": ["ballistaMountSmithy"],
+    "perks": [
+      "ballistaMountSmithy"
+    ],
     "dateAdded": "2026-02-10",
     "lastUpdated": "2026-02-10"
   },
@@ -14529,7 +16310,10 @@
     "reloadSpeed": 3500,
     "optimalRange": 400,
     "projectileSpeed": 400,
-    "perks": ["causticAmmo", "toxic3"],
+    "perks": [
+      "causticAmmo",
+      "toxic3"
+    ],
     "dateAdded": "2026-02-10",
     "lastUpdated": "2026-03-10",
     "ammunitionType": "cannonballs"
@@ -14549,7 +16333,10 @@
     "reloadSpeed": 6000,
     "optimalRange": 600,
     "projectileSpeed": 210,
-    "perks": ["electric3", "combustion1"],
+    "perks": [
+      "electric3",
+      "combustion1"
+    ],
     "dateAdded": "2026-02-10",
     "lastUpdated": "2026-02-10",
     "ammunitionType": "cannonballs"
@@ -14571,7 +16358,10 @@
     "projectileSpeed": 350,
     "ammunitionType": "cannonballs",
     "required": {},
-    "perks": ["argusTouch", "repair"],
+    "perks": [
+      "argusTouch",
+      "repair"
+    ],
     "dateAdded": "2026-02-10",
     "lastUpdated": "2026-02-10"
   },
@@ -14592,7 +16382,10 @@
     "timeToTarget": 1310,
     "ammunitionType": "rockets",
     "required": {},
-    "perks": ["savingSalvo", "repair"],
+    "perks": [
+      "savingSalvo",
+      "repair"
+    ],
     "dateAdded": "2026-02-10",
     "lastUpdated": "2026-02-10"
   },
@@ -14611,7 +16404,12 @@
     "reloadSpeed": 4500,
     "optimalRange": 675,
     "projectileSpeed": 75,
-    "perks": ["redSunrise", "arming", "provoking", "flooding2"],
+    "perks": [
+      "redSunrise",
+      "arming",
+      "provoking",
+      "flooding2"
+    ],
     "dateAdded": "2026-02-10",
     "lastUpdated": "2026-02-25",
     "ammunitionType": "torpedoes"
@@ -14634,7 +16432,12 @@
     "ammunitionType": "ballistaBolts",
     "required": {},
     "obtainable": "williamBlackwoodSeasonalItemEyeOfTheBeast",
-    "perks": ["chargedBarb", "impale", "electric2", "piercing2"],
+    "perks": [
+      "chargedBarb",
+      "impale",
+      "electric2",
+      "piercing2"
+    ],
     "dateAdded": "2026-02-10",
     "lastUpdated": "2026-02-10"
   },
@@ -14644,7 +16447,9 @@
     "season": "eyeOfTheBeast",
     "type": "chest",
     "event": "theFounding",
-    "worldEvent": ["scurlocksPrecious"],
+    "worldEvent": [
+      "scurlocksPrecious"
+    ],
     "value": 1,
     "weight": 100,
     "dateAdded": "2026-02-10",
@@ -14713,7 +16518,9 @@
     "season": "release",
     "type": "ammunition",
     "weight": 1,
-    "obtainable": ["mortarBombCrate"],
+    "obtainable": [
+      "mortarBombCrate"
+    ],
     "dateAdded": "2026-03-16",
     "lastUpdated": "2026-03-16"
   },
@@ -14740,7 +16547,11 @@
     "season": "release",
     "type": "ammunition",
     "weight": 1,
-    "obtainable": ["bombardBombCrate", "deluxeBombardBombCrate1", "deluxeBombardBombCrate2"],
+    "obtainable": [
+      "bombardBombCrate",
+      "deluxeBombardBombCrate1",
+      "deluxeBombardBombCrate2"
+    ],
     "dateAdded": "2026-03-16",
     "lastUpdated": "2026-03-16"
   },
@@ -14749,7 +16560,9 @@
     "season": "release",
     "type": "ammunition",
     "weight": 1,
-    "obtainable": ["rocketCrate"],
+    "obtainable": [
+      "rocketCrate"
+    ],
     "dateAdded": "2026-03-16",
     "lastUpdated": "2026-03-16"
   },
@@ -14758,8 +16571,21 @@
     "season": "chorusOfHavoc",
     "type": "ammunition",
     "weight": 1,
-    "obtainable": ["buoyShellsCrate", "deluxeBuoyShellsCrate1", "deluxeBuoyShellsCrate2"],
+    "obtainable": [
+      "buoyShellsCrate",
+      "deluxeBuoyShellsCrate1",
+      "deluxeBuoyShellsCrate2"
+    ],
     "dateAdded": "2026-03-16",
     "lastUpdated": "2026-03-16"
+  },
+  "fallenCaptainsChest": {
+    "id": "fallenCaptainsChest",
+    "season": "eyeOfTheBeast",
+    "type": "chest",
+    "rarity": "legendary",
+    "weight": 100,
+    "dateAdded": "2026-03-23",
+    "lastUpdated": "2026-03-23"
   }
 }

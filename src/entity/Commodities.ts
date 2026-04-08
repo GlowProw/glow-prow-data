@@ -18,8 +18,8 @@ export class Commodity extends BaseType {
         public readonly rarity: Rarity,
         // 大类
         public readonly category: CommodityCategory,
-        public readonly dateAdded: Date,
-        public readonly lastUpdated: Date,
+        public readonly dateAdded: Date | undefined,
+        public readonly lastUpdated: Date | undefined,
         // 事件
         public readonly event?: Event,
         // 阵营
@@ -43,8 +43,8 @@ export class Commodity extends BaseType {
             rawData.id || key,
             rawData.rarity as Rarity,
             rawData.category as CommodityCategory,
-            new Date(rawData.dateAdded) || new Date(),
-            new Date(rawData.lastUpdated) || new Date(),
+            rawData.dateAdded ? new Date(rawData.dateAdded) : undefined,
+            rawData.lastUpdated ? new Date(rawData.lastUpdated) : undefined,
             event ? Events[event] : undefined,
             faction ? Factions[faction] : undefined,
             contract ? Contracts[contract] : undefined,
