@@ -383,6 +383,18 @@
     "dateAdded": "2025-10-24",
     "lastUpdated": "2025-10-24"
   },
+  "sunkenGoldmine-old-4-2": {
+    "id": "sunkenGoldmine-old-4-2",
+    "rarity": "common",
+    "category": "old",
+    "territory": "none",
+    "obtainable": [
+      "sunkenGoldmine"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
   "sunkenGoldmine-old-5": {
     "id": "sunkenGoldmine-old-5",
     "rarity": "common",
@@ -815,6 +827,18 @@
     "dateAdded": "2025-10-24",
     "lastUpdated": "2025-10-24"
   },
+  "pillarTomb-veryOld-3": {
+    "id": "pillarTomb-veryOld-3",
+    "rarity": "epic",
+    "category": "veryOld",
+    "territory": "none",
+    "obtainable": [
+      "pillarTomb"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
   "bukitCandi-veryOld-1": {
     "id": "bukitCandi-veryOld-1",
     "rarity": "epic",
@@ -874,6 +898,18 @@
     "type": "treasure",
     "dateAdded": "2025-10-24",
     "lastUpdated": "2025-10-24"
+  },
+  "threeBrothers-veryOld-3": {
+    "id": "threeBrothers-veryOld-3",
+    "rarity": "epic",
+    "category": "veryOld",
+    "territory": "none",
+    "obtainable": [
+      "threeBrothers"
+    ],
+    "type": "treasure",
+    "dateAdded": "2026-04-11",
+    "lastUpdated": "2026-04-11"
   },
   "returnFleetBight-veryOld-1": {
     "id": "returnFleetBight-veryOld-1",
@@ -1415,6 +1451,18 @@
     "dateAdded": "2025-10-24",
     "lastUpdated": "2025-10-24"
   },
+  "grandeFalaise-veryOld-2": {
+    "id": "grandeFalaise-veryOld-2",
+    "rarity": "epic",
+    "category": "veryOld",
+    "territory": "none",
+    "obtainable": [
+      "grandeFalaise"
+    ],
+    "type": "treasure",
+    "dateAdded": "2026-04-11",
+    "lastUpdated": "2026-04-11"
+  },
   "ruinedLighthouse-veryOld-1": {
     "id": "ruinedLighthouse-veryOld-1",
     "rarity": "epic",
@@ -1561,6 +1609,30 @@
     "dateAdded": "2025-10-24",
     "lastUpdated": "2025-10-24"
   },
+  "dutchmansCamp-legendary-2": {
+    "id": "dutchmansCamp-legendary-2",
+    "rarity": "legendary",
+    "category": "legend",
+    "territory": "none",
+    "obtainable": [
+      "dutchmansCamp"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "dutchmansCamp-legendary-3": {
+    "id": "dutchmansCamp-legendary-3",
+    "rarity": "legendary",
+    "category": "legend",
+    "territory": "none",
+    "obtainable": [
+      "dutchmansCamp"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
   "khmoyEstate-legendary-1": {
     "id": "khmoyEstate-legendary-1",
     "rarity": "legendary",
@@ -1572,6 +1644,54 @@
     "type": "treasure",
     "dateAdded": "2025-10-24",
     "lastUpdated": "2025-10-24"
+  },
+  "khmoyEstate-legendary-2": {
+    "id": "khmoyEstate-legendary-2",
+    "rarity": "legendary",
+    "category": "legend",
+    "territory": "none",
+    "obtainable": [
+      "khmoyEstate"
+    ],
+    "type": "treasure",
+    "dateAdded": "2026-04-11",
+    "lastUpdated": "2026-04-11"
+  },
+  "khmoyEstate-legendary-2-2": {
+    "id": "khmoyEstate-legendary-2-2",
+    "rarity": "legendary",
+    "category": "legend",
+    "territory": "none",
+    "obtainable": [
+      "khmoyEstate"
+    ],
+    "type": "treasure",
+    "dateAdded": "2026-04-11",
+    "lastUpdated": "2026-04-11"
+  },
+  "khmoyEstate-legendary-3": {
+    "id": "khmoyEstate-legendary-3",
+    "rarity": "legendary",
+    "category": "legend",
+    "territory": "none",
+    "obtainable": [
+      "khmoyEstate"
+    ],
+    "type": "treasure",
+    "dateAdded": "2026-04-11",
+    "lastUpdated": "2026-04-11"
+  },
+  "khmoyEstate-legendary-4": {
+    "id": "khmoyEstate-legendary-4",
+    "rarity": "legendary",
+    "category": "legend",
+    "territory": "none",
+    "obtainable": [
+      "khmoyEstate"
+    ],
+    "type": "treasure",
+    "dateAdded": "2026-04-11",
+    "lastUpdated": "2026-04-11"
   },
   "kokokTerapung-legendary-1": {
     "id": "kokokTerapung-legendary-1",
@@ -1585,6 +1705,54 @@
     "dateAdded": "2025-10-24",
     "lastUpdated": "2025-10-24"
   },
+  "kokokTerapung-legendary-2": {
+    "id": "kokokTerapung-legendary-2",
+    "rarity": "legendary",
+    "category": "legend",
+    "territory": "none",
+    "obtainable": [
+      "kokokTerapung"
+    ],
+    "type": "treasure",
+    "dateAdded": "2026-04-11",
+    "lastUpdated": "2026-04-11"
+  },
+  "kokokTerapung-legendary-3": {
+    "id": "kokokTerapung-legendary-3",
+    "rarity": "legendary",
+    "category": "legend",
+    "territory": "none",
+    "obtainable": [
+      "kokokTerapung"
+    ],
+    "type": "treasure",
+    "dateAdded": "2026-04-11",
+    "lastUpdated": "2026-04-11"
+  },
+  "kokokTerapung-legendary-4": {
+    "id": "kokokTerapung-legendary-4",
+    "rarity": "legendary",
+    "category": "legend",
+    "territory": "none",
+    "obtainable": [
+      "kokokTerapung"
+    ],
+    "type": "treasure",
+    "dateAdded": "2026-04-11",
+    "lastUpdated": "2026-04-11"
+  },
+  "kokokTerapung-legendary-5": {
+    "id": "kokokTerapung-legendary-5",
+    "rarity": "legendary",
+    "category": "legend",
+    "territory": "none",
+    "obtainable": [
+      "kokokTerapung"
+    ],
+    "type": "treasure",
+    "dateAdded": "2026-04-11",
+    "lastUpdated": "2026-04-11"
+  },
   "dragonsBack-legendary-1": {
     "id": "dragonsBack-legendary-1",
     "rarity": "legendary",
@@ -1596,6 +1764,54 @@
     "type": "treasure",
     "dateAdded": "2025-10-24",
     "lastUpdated": "2025-10-24"
+  },
+  "dragonsBack-legendary-1-2": {
+    "id": "dragonsBack-legendary-1-2",
+    "rarity": "legendary",
+    "category": "legend",
+    "territory": "none",
+    "obtainable": [
+      "dragonsBack"
+    ],
+    "type": "treasure",
+    "dateAdded": "2025-10-24",
+    "lastUpdated": "2025-10-24"
+  },
+  "dragonsBack-legendary-2": {
+    "id": "dragonsBack-legendary-2",
+    "rarity": "legendary",
+    "category": "legend",
+    "territory": "none",
+    "obtainable": [
+      "dragonsBack"
+    ],
+    "type": "treasure",
+    "dateAdded": "2026-04-11",
+    "lastUpdated": "2026-04-11"
+  },
+  "dragonsBack-legendary-3": {
+    "id": "dragonsBack-legendary-3",
+    "rarity": "legendary",
+    "category": "legend",
+    "territory": "none",
+    "obtainable": [
+      "dragonsBack"
+    ],
+    "type": "treasure",
+    "dateAdded": "2026-04-11",
+    "lastUpdated": "2026-04-11"
+  },
+  "dragonsBack-legendary-4": {
+    "id": "dragonsBack-legendary-4",
+    "rarity": "legendary",
+    "category": "legend",
+    "territory": "none",
+    "obtainable": [
+      "dragonsBack"
+    ],
+    "type": "treasure",
+    "dateAdded": "2026-04-11",
+    "lastUpdated": "2026-04-11"
   },
   "theForgottenCandi-legendary-1": {
     "id": "theForgottenCandi-legendary-1",
@@ -1609,6 +1825,18 @@
     "dateAdded": "2025-10-24",
     "lastUpdated": "2025-10-24"
   },
+  "theForgottenCandi-legendary-2": {
+    "id": "theForgottenCandi-legendary-2",
+    "rarity": "legendary",
+    "category": "legend",
+    "territory": "none",
+    "obtainable": [
+      "theForgottenCandi"
+    ],
+    "type": "treasure",
+    "dateAdded": "2026-04-11",
+    "lastUpdated": "2026-04-11"
+  },
   "ruinedLighthouse-legendary-1": {
     "id": "ruinedLighthouse-legendary-1",
     "rarity": "legendary",
@@ -1620,6 +1848,90 @@
     "type": "treasure",
     "dateAdded": "2025-10-24",
     "lastUpdated": "2025-10-24"
+  },
+  "ruinedLighthouse-legendary-2": {
+    "id": "ruinedLighthouse-legendary-2",
+    "rarity": "legendary",
+    "category": "legend",
+    "territory": "none",
+    "obtainable": [
+      "ruinedLighthouse"
+    ],
+    "type": "treasure",
+    "dateAdded": "2026-04-11",
+    "lastUpdated": "2026-04-11"
+  },
+  "ruinedLighthouse-legendary-3": {
+    "id": "ruinedLighthouse-legendary-3",
+    "rarity": "legendary",
+    "category": "legend",
+    "territory": "none",
+    "obtainable": [
+      "ruinedLighthouse"
+    ],
+    "type": "treasure",
+    "dateAdded": "2026-04-11",
+    "lastUpdated": "2026-04-11"
+  },
+  "ruinedLighthouse-legendary-4": {
+    "id": "ruinedLighthouse-legendary-4",
+    "rarity": "legendary",
+    "category": "legend",
+    "territory": "none",
+    "obtainable": [
+      "ruinedLighthouse"
+    ],
+    "type": "treasure",
+    "dateAdded": "2026-04-11",
+    "lastUpdated": "2026-04-11"
+  },
+  "ruinedLighthouse-legendary-5": {
+    "id": "ruinedLighthouse-legendary-5",
+    "rarity": "legendary",
+    "category": "legend",
+    "territory": "none",
+    "obtainable": [
+      "ruinedLighthouse"
+    ],
+    "type": "treasure",
+    "dateAdded": "2026-04-11",
+    "lastUpdated": "2026-04-11"
+  },
+  "ruinedLighthouse-legendary-6": {
+    "id": "ruinedLighthouse-legendary-6",
+    "rarity": "legendary",
+    "category": "legend",
+    "territory": "none",
+    "obtainable": [
+      "ruinedLighthouse"
+    ],
+    "type": "treasure",
+    "dateAdded": "2026-04-11",
+    "lastUpdated": "2026-04-11"
+  },
+  "ruinedLighthouse-legendary-7": {
+    "id": "ruinedLighthouse-legendary-7",
+    "rarity": "legendary",
+    "category": "legend",
+    "territory": "none",
+    "obtainable": [
+      "ruinedLighthouse"
+    ],
+    "type": "treasure",
+    "dateAdded": "2026-04-11",
+    "lastUpdated": "2026-04-11"
+  },
+  "ruinedLighthouse-legendary-8": {
+    "id": "ruinedLighthouse-legendary-8",
+    "rarity": "legendary",
+    "category": "legend",
+    "territory": "none",
+    "obtainable": [
+      "ruinedLighthouse"
+    ],
+    "type": "treasure",
+    "dateAdded": "2026-04-11",
+    "lastUpdated": "2026-04-11"
   },
   "sunkenGoldmine-legendary-1": {
     "id": "sunkenGoldmine-legendary-1",
@@ -1633,6 +1945,30 @@
     "dateAdded": "2025-10-24",
     "lastUpdated": "2025-10-24"
   },
+  "sunkenGoldmine-legendary-2": {
+    "id": "sunkenGoldmine-legendary-2",
+    "rarity": "legendary",
+    "category": "legend",
+    "territory": "none",
+    "obtainable": [
+      "sunkenGoldmine"
+    ],
+    "type": "treasure",
+    "dateAdded": "2026-04-11",
+    "lastUpdated": "2026-04-11"
+  },
+  "sunkenGoldmine-legendary-3": {
+    "id": "sunkenGoldmine-legendary-3",
+    "rarity": "legendary",
+    "category": "legend",
+    "territory": "none",
+    "obtainable": [
+      "sunkenGoldmine"
+    ],
+    "type": "treasure",
+    "dateAdded": "2026-04-11",
+    "lastUpdated": "2026-04-11"
+  },
   "lanitra-legendary-1": {
     "id": "lanitra-legendary-1",
     "rarity": "legendary",
@@ -1644,6 +1980,18 @@
     "type": "treasure",
     "dateAdded": "2025-10-24",
     "lastUpdated": "2025-10-24"
+  },
+  "lanitra-legendary-2": {
+    "id": "lanitra-legendary-2",
+    "rarity": "legendary",
+    "category": "legend",
+    "territory": "none",
+    "obtainable": [
+      "lanitra"
+    ],
+    "type": "treasure",
+    "dateAdded": "2026-04-11",
+    "lastUpdated": "2026-04-11"
   },
   "lostCityOfPrei-legendary-1": {
     "id": "lostCityOfPrei-legendary-1",
@@ -1657,6 +2005,18 @@
     "dateAdded": "2025-10-24",
     "lastUpdated": "2025-10-24"
   },
+  "lostCityOfPrei-legendary-2": {
+    "id": "lostCityOfPrei-legendary-2",
+    "rarity": "legendary",
+    "category": "legend",
+    "territory": "none",
+    "obtainable": [
+      "lostCityOfPrei"
+    ],
+    "type": "treasure",
+    "dateAdded": "2026-04-11",
+    "lastUpdated": "2026-04-11"
+  },
   "grandeFalaise-legendary-1": {
     "id": "grandeFalaise-legendary-1",
     "rarity": "legendary",
@@ -1668,6 +2028,42 @@
     "type": "treasure",
     "dateAdded": "2025-10-24",
     "lastUpdated": "2025-10-24"
+  },
+  "grandeFalaise-legendary-2": {
+    "id": "grandeFalaise-legendary-2",
+    "rarity": "legendary",
+    "category": "legend",
+    "territory": "none",
+    "obtainable": [
+      "grandeFalaise"
+    ],
+    "type": "treasure",
+    "dateAdded": "2026-04-11",
+    "lastUpdated": "2026-04-11"
+  },
+  "grandeFalaise-legendary-3": {
+    "id": "grandeFalaise-legendary-3",
+    "rarity": "legendary",
+    "category": "legend",
+    "territory": "none",
+    "obtainable": [
+      "grandeFalaise"
+    ],
+    "type": "treasure",
+    "dateAdded": "2026-04-11",
+    "lastUpdated": "2026-04-11"
+  },
+  "grandeFalaise-legendary-4": {
+    "id": "grandeFalaise-legendary-4",
+    "rarity": "legendary",
+    "category": "legend",
+    "territory": "none",
+    "obtainable": [
+      "grandeFalaise"
+    ],
+    "type": "treasure",
+    "dateAdded": "2026-04-11",
+    "lastUpdated": "2026-04-11"
   },
   "theNecropolis-legendary-1": {
     "id": "theNecropolis-legendary-1",
@@ -1681,6 +2077,30 @@
     "dateAdded": "2025-10-24",
     "lastUpdated": "2025-10-24"
   },
+  "theNecropolis-legendary-2": {
+    "id": "theNecropolis-legendary-2",
+    "rarity": "legendary",
+    "category": "legend",
+    "territory": "none",
+    "obtainable": [
+      "theNecropolis"
+    ],
+    "type": "treasure",
+    "dateAdded": "2026-04-11",
+    "lastUpdated": "2026-04-11"
+  },
+  "theNecropolis-legendary-3": {
+    "id": "theNecropolis-legendary-3",
+    "rarity": "legendary",
+    "category": "legend",
+    "territory": "none",
+    "obtainable": [
+      "theNecropolis"
+    ],
+    "type": "treasure",
+    "dateAdded": "2026-04-11",
+    "lastUpdated": "2026-04-11"
+  },
   "bukitCandi-legendary-1": {
     "id": "bukitCandi-legendary-1",
     "rarity": "legendary",
@@ -1692,6 +2112,30 @@
     "type": "treasure",
     "dateAdded": "2025-10-24",
     "lastUpdated": "2025-10-24"
+  },
+  "bukitCandi-legendary-2": {
+    "id": "bukitCandi-legendary-2",
+    "rarity": "legendary",
+    "category": "legend",
+    "territory": "none",
+    "obtainable": [
+      "bukitCandi"
+    ],
+    "type": "treasure",
+    "dateAdded": "2026-04-11",
+    "lastUpdated": "2026-04-11"
+  },
+  "bukitCandi-legendary-3": {
+    "id": "bukitCandi-legendary-3",
+    "rarity": "legendary",
+    "category": "legend",
+    "territory": "none",
+    "obtainable": [
+      "bukitCandi"
+    ],
+    "type": "treasure",
+    "dateAdded": "2026-04-11",
+    "lastUpdated": "2026-04-11"
   },
   "returnFleetBight-legendary-1": {
     "id": "returnFleetBight-legendary-1",
@@ -1705,6 +2149,30 @@
     "dateAdded": "2025-10-24",
     "lastUpdated": "2025-10-24"
   },
+  "returnFleetBight-legendary-2": {
+    "id": "returnFleetBight-legendary-2",
+    "rarity": "legendary",
+    "category": "legend",
+    "territory": "none",
+    "obtainable": [
+      "returnFleetBight"
+    ],
+    "type": "treasure",
+    "dateAdded": "2026-04-11",
+    "lastUpdated": "2026-04-11"
+  },
+  "returnFleetBight-legendary-3": {
+    "id": "returnFleetBight-legendary-3",
+    "rarity": "legendary",
+    "category": "legend",
+    "territory": "none",
+    "obtainable": [
+      "returnFleetBight"
+    ],
+    "type": "treasure",
+    "dateAdded": "2026-04-11",
+    "lastUpdated": "2026-04-11"
+  },
   "kaaMangrove-legendary-1": {
     "id": "kaaMangrove-legendary-1",
     "rarity": "legendary",
@@ -1716,6 +2184,30 @@
     "type": "treasure",
     "dateAdded": "2025-10-24",
     "lastUpdated": "2025-10-24"
+  },
+  "kaaMangrove-legendary-2": {
+    "id": "kaaMangrove-legendary-2",
+    "rarity": "legendary",
+    "category": "legend",
+    "territory": "none",
+    "obtainable": [
+      "kaaMangrove"
+    ],
+    "type": "treasure",
+    "dateAdded": "2026-04-11",
+    "lastUpdated": "2026-04-11"
+  },
+  "kaaMangrove-legendary-3": {
+    "id": "kaaMangrove-legendary-3",
+    "rarity": "legendary",
+    "category": "legend",
+    "territory": "none",
+    "obtainable": [
+      "kaaMangrove"
+    ],
+    "type": "treasure",
+    "dateAdded": "2026-04-11",
+    "lastUpdated": "2026-04-11"
   },
   "greatUkuta-legendary-1": {
     "id": "greatUkuta-legendary-1",
@@ -1729,6 +2221,18 @@
     "dateAdded": "2025-10-24",
     "lastUpdated": "2025-10-24"
   },
+  "greatUkuta-legendary-2": {
+    "id": "greatUkuta-legendary-2",
+    "rarity": "legendary",
+    "category": "legend",
+    "territory": "none",
+    "obtainable": [
+      "greatUkuta"
+    ],
+    "type": "treasure",
+    "dateAdded": "2026-04-11",
+    "lastUpdated": "2026-04-11"
+  },
   "threeBrothers-legendary-1": {
     "id": "threeBrothers-legendary-1",
     "rarity": "legendary",
@@ -1740,5 +2244,65 @@
     "type": "treasure",
     "dateAdded": "2025-10-24",
     "lastUpdated": "2025-10-24"
+  },
+  "moyenneCrique-legendary-1": {
+    "id": "moyenneCrique-legendary-1",
+    "rarity": "legendary",
+    "category": "legend",
+    "territory": "none",
+    "obtainable": [
+      "moyenneCrique"
+    ],
+    "type": "treasure",
+    "dateAdded": "2026-04-11",
+    "lastUpdated": "2026-04-11"
+  },
+  "moyenneCrique-legendary-2": {
+    "id": "moyenneCrique-legendary-2",
+    "rarity": "legendary",
+    "category": "legend",
+    "territory": "none",
+    "obtainable": [
+      "moyenneCrique"
+    ],
+    "type": "treasure",
+    "dateAdded": "2026-04-11",
+    "lastUpdated": "2026-04-11"
+  },
+  "kelelawarChamber-legendary-1": {
+    "id": "kelelawarChamber-legendary-1",
+    "rarity": "legendary",
+    "category": "legend",
+    "territory": "none",
+    "obtainable": [
+      "kelelawarChamber"
+    ],
+    "type": "treasure",
+    "dateAdded": "2026-04-11",
+    "lastUpdated": "2026-04-11"
+  },
+  "kelelawarChamber-legendary-2": {
+    "id": "kelelawarChamber-legendary-2",
+    "rarity": "legendary",
+    "category": "legend",
+    "territory": "none",
+    "obtainable": [
+      "kelelawarChamber"
+    ],
+    "type": "treasure",
+    "dateAdded": "2026-04-11",
+    "lastUpdated": "2026-04-11"
+  },
+  "motherOfShipwrecks-legendary-1": {
+    "id": "motherOfShipwrecks-legendary-1",
+    "rarity": "legendary",
+    "category": "legend",
+    "territory": "none",
+    "obtainable": [
+      "motherOfShipwrecks"
+    ],
+    "type": "treasure",
+    "dateAdded": "2026-04-11",
+    "lastUpdated": "2026-04-11"
   }
 }
