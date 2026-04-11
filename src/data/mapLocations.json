@@ -5,15 +5,15 @@
     "longitude": -0.68460786498673,
     "category": "capitalSettlement",
     "territories": [],
-    "dateAdded": "2025-10-01",
-    "lastUpdated": "2025-10-01",
     "difficulty": {
       "type": "coop",
       "minimumPeople": 1
     },
     "baseRank": 16,
-    "season": "gutsAndGlory",
+    "season": "release",
     "faction": "compagnieRoyale",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01",
     "possibleLoot": {
       "torsionSpring": {
         "lv": 3,
@@ -47,8 +47,10 @@
       "minimumPeople": 1
     },
     "baseRank": 12,
-    "season": "gutsAndGlory",
+    "season": "release",
     "faction": "dutchMerchantCompany",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01",
     "possibleLoot": {
       "precisionDrillingBit": {
         "lv": 3,
@@ -82,8 +84,10 @@
       "minimumPeople": 1
     },
     "baseRank": 12,
-    "season": "gutsAndGlory",
+    "season": "release",
     "faction": "dutchMerchantCompany",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01",
     "possibleLoot": {
       "rubber": {
         "lv": 3,
@@ -117,8 +121,10 @@
       "minimumPeople": 1
     },
     "baseRank": 12,
-    "season": "gutsAndGlory",
+    "season": "release",
     "faction": "seaPeople",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01",
     "possibleLoot": {
       "capitalSeaPeopleRelic": {
         "lv": 3,
@@ -152,8 +158,10 @@
       "minimumPeople": 1
     },
     "baseRank": 12,
-    "season": "gutsAndGlory",
+    "season": "release",
     "faction": "seaPeople",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01",
     "possibleLoot": {
       "cloves": {
         "lv": 3,
@@ -183,6 +191,8 @@
       "type": "coop",
       "minimumPeople": 1
     },
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01",
     "possibleLoot": {
       "naphtha": {
         "lv": 2,
@@ -228,8 +238,10 @@
       "minimumPeople": 1
     },
     "baseRank": 12,
-    "season": "gutsAndGlory",
+    "season": "release",
     "faction": "compagnieRoyale",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01",
     "possibleLoot": {
       "basicCompagnieRelic": {
         "lv": 3,
@@ -263,8 +275,10 @@
       "minimumPeople": 1
     },
     "baseRank": 12,
-    "season": "gutsAndGlory",
+    "season": "release",
     "faction": "compagnieRoyale",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01",
     "possibleLoot": {
       "laForteresse3": {
         "lv": 1,
@@ -298,8 +312,10 @@
       "minimumPeople": 1
     },
     "baseRank": 12,
-    "season": "gutsAndGlory",
+    "season": "release",
     "faction": "dutchMerchantCompany",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01",
     "possibleLoot": {
       "fineDmcRelic": {
         "lv": 3,
@@ -333,8 +349,10 @@
       "minimumPeople": 1
     },
     "baseRank": 12,
-    "season": "gutsAndGlory",
+    "season": "release",
     "faction": "dutchMerchantCompany",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01",
     "possibleLoot": {
       "fineDmcRelic": {
         "lv": 3,
@@ -368,8 +386,10 @@
       "minimumPeople": 1
     },
     "baseRank": 12,
-    "season": "gutsAndGlory",
+    "season": "release",
     "faction": "dominionOfRempah",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01",
     "possibleLoot": {
       "ironHusk4": {
         "lv": 1,
@@ -403,8 +423,10 @@
       "minimumPeople": 1
     },
     "baseRank": 12,
-    "season": "gutsAndGlory",
+    "season": "release",
     "faction": "dominionOfRempah",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01",
     "possibleLoot": {
       "crudeSaltpeter": {
         "lv": 3,
@@ -438,8 +460,10 @@
       "minimumPeople": 1
     },
     "baseRank": 12,
-    "season": "gutsAndGlory",
+    "season": "release",
     "faction": "dominionOfRempah",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01",
     "possibleLoot": {
       "theBastion2": {
         "lv": 1,
@@ -473,8 +497,10 @@
       "minimumPeople": 1
     },
     "baseRank": 12,
-    "season": "gutsAndGlory",
+    "season": "release",
     "faction": "dominionOfRempah",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01",
     "possibleLoot": {
       "layeredScales4": {
         "lv": 1,
@@ -508,8 +534,10 @@
       "minimumPeople": 1
     },
     "baseRank": 12,
-    "season": "gutsAndGlory",
+    "season": "release",
     "faction": "clanOfFara",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01",
     "possibleLoot": {
       "theBastion1": {
         "lv": 1,
@@ -543,8 +571,10 @@
       "minimumPeople": 1
     },
     "baseRank": 12,
-    "season": "gutsAndGlory",
+    "season": "release",
     "faction": "clanOfFara",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01",
     "possibleLoot": {
       "ironHusk2": {
         "lv": 1,
@@ -578,8 +608,10 @@
       "minimumPeople": 1
     },
     "baseRank": 12,
-    "season": "gutsAndGlory",
+    "season": "release",
     "faction": "seaPeople",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01",
     "possibleLoot": {
       "layeredScales2": {
         "lv": 1,
@@ -613,8 +645,10 @@
       "minimumPeople": 1
     },
     "baseRank": 12,
-    "season": "gutsAndGlory",
+    "season": "release",
     "faction": "clanOfFara",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01",
     "possibleLoot": {
       "fineFaraRelic": {
         "lv": 3,
@@ -648,8 +682,10 @@
       "minimumPeople": 1
     },
     "baseRank": 12,
-    "season": "gutsAndGlory",
+    "season": "release",
     "faction": "clanOfFara",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01",
     "possibleLoot": {
       "fineFaraRelic": {
         "lv": 3,
@@ -683,8 +719,10 @@
       "minimumPeople": 1
     },
     "baseRank": 12,
-    "season": "gutsAndGlory",
+    "season": "release",
     "faction": "confederationOfUngwana",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01",
     "possibleLoot": {
       "castingSand": {
         "lv": 3,
@@ -718,8 +756,10 @@
       "minimumPeople": 1
     },
     "baseRank": 12,
-    "season": "gutsAndGlory",
+    "season": "release",
     "faction": "confederationOfUngwana",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01",
     "possibleLoot": {
       "ironHusk3": {
         "lv": 1,
@@ -753,8 +793,10 @@
       "minimumPeople": 1
     },
     "baseRank": 12,
-    "season": "gutsAndGlory",
+    "season": "release",
     "faction": "confederationOfUngwana",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01",
     "possibleLoot": {
       "castingSand": {
         "lv": 3,
@@ -788,8 +830,10 @@
       "minimumPeople": 1
     },
     "baseRank": 12,
-    "season": "gutsAndGlory",
+    "season": "release",
     "faction": "confederationOfUngwana",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01",
     "possibleLoot": {
       "castingSand": {
         "lv": 3,
@@ -823,8 +867,10 @@
       "minimumPeople": 1
     },
     "baseRank": 12,
-    "season": "gutsAndGlory",
+    "season": "release",
     "faction": "confederationOfUngwana",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01",
     "possibleLoot": {
       "layeredScales3": {
         "lv": 1,
@@ -858,8 +904,10 @@
       "minimumPeople": 1
     },
     "baseRank": 12,
-    "season": "gutsAndGlory",
+    "season": "release",
     "faction": "confederationOfUngwana",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01",
     "possibleLoot": {
       "layeredScales3": {
         "lv": 1,
@@ -893,8 +941,10 @@
       "minimumPeople": 1
     },
     "baseRank": 12,
-    "season": "gutsAndGlory",
+    "season": "release",
     "faction": "compagnieRoyale",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01",
     "possibleLoot": {
       "Fine Relic": "",
       "Wood Tar": "",
@@ -913,8 +963,10 @@
       "minimumPeople": 1
     },
     "baseRank": 12,
-    "season": "gutsAndGlory",
+    "season": "release",
     "faction": "compagnieRoyale",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01",
     "possibleLoot": {
       "laForteresse2": {
         "lv": 1,
@@ -948,8 +1000,10 @@
       "minimumPeople": 1
     },
     "baseRank": 12,
-    "season": "gutsAndGlory",
+    "season": "release",
     "faction": "compagnieRoyale",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01",
     "possibleLoot": {
       "cogwheel": {
         "lv": 3,
@@ -983,8 +1037,10 @@
       "minimumPeople": 1
     },
     "baseRank": 12,
-    "season": "gutsAndGlory",
+    "season": "release",
     "faction": "dutchMerchantCompany",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01",
     "possibleLoot": {
       "screwMechanism": {
         "lv": 3,
@@ -1018,8 +1074,10 @@
       "minimumPeople": 1
     },
     "baseRank": 12,
-    "season": "gutsAndGlory",
+    "season": "release",
     "faction": "dutchMerchantCompany",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01",
     "possibleLoot": {
       "fineDmcRelic": {
         "lv": 3,
@@ -1053,8 +1111,10 @@
       "minimumPeople": 1
     },
     "baseRank": 12,
-    "season": "gutsAndGlory",
+    "season": "release",
     "faction": "seaPeople",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01",
     "possibleLoot": {
       "castIronIngot": {
         "lv": 3,
@@ -1105,8 +1165,10 @@
       "minimumPeople": 1
     },
     "baseRank": 12,
-    "season": "gutsAndGlory",
+    "season": "release",
     "faction": "dutchMerchantCompany",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01",
     "possibleLoot": {
       "zincIngot": {
         "lv": 3,
@@ -1124,8 +1186,10 @@
       "minimumPeople": 1
     },
     "baseRank": 12,
-    "season": "gutsAndGlory",
+    "season": "release",
     "faction": "dutchMerchantCompany",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01",
     "possibleLoot": {
       "zincIngot": {
         "lv": 3,
@@ -1143,8 +1207,10 @@
       "minimumPeople": 1
     },
     "baseRank": 12,
-    "season": "gutsAndGlory",
+    "season": "release",
     "faction": "seaPeople",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01",
     "possibleLoot": {
       "zincIngot": {
         "lv": 3,
@@ -1162,8 +1228,10 @@
       "minimumPeople": 1
     },
     "baseRank": 12,
-    "season": "gutsAndGlory",
+    "season": "release",
     "faction": "seaPeople",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01",
     "possibleLoot": {
       "zincIngot": {
         "lv": 3,
@@ -1181,8 +1249,10 @@
       "minimumPeople": 1
     },
     "baseRank": 12,
-    "season": "gutsAndGlory",
+    "season": "release",
     "faction": "dominionOfRempah",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01",
     "possibleLoot": {
       "zincIngot": {
         "lv": 3,
@@ -1200,8 +1270,10 @@
       "minimumPeople": 1
     },
     "baseRank": 12,
-    "season": "gutsAndGlory",
+    "season": "release",
     "faction": "seaPeople",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01",
     "possibleLoot": {
       "castIronIngot": {
         "lv": 3,
@@ -1219,8 +1291,10 @@
       "minimumPeople": 1
     },
     "baseRank": 12,
-    "season": "gutsAndGlory",
+    "season": "release",
     "faction": "seaPeople",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01",
     "possibleLoot": {
       "castIronIngot": {
         "lv": 3,
@@ -1233,8 +1307,10 @@
     "latitude": 0.75432743221106,
     "longitude": -0.94778798066503,
     "baseRank": 12,
-    "season": "gutsAndGlory",
+    "season": "release",
     "faction": "confederationOfUngwana",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01",
     "possibleLoot": {
       "cobaltIngot": {
         "lv": 3,
@@ -1253,8 +1329,10 @@
     "longitude": -0.97532982696913,
     "baseRank": 12,
     "category": "foundry",
-    "season": "gutsAndGlory",
+    "season": "release",
     "faction": "confederationOfUngwana",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01",
     "possibleLoot": {
       "cobaltIngot": {
         "lv": 3,
@@ -1276,8 +1354,10 @@
       "minimumPeople": 1
     },
     "baseRank": 12,
-    "season": "gutsAndGlory",
+    "season": "release",
     "faction": "confederationOfUngwana",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01",
     "possibleLoot": {
       "cobaltIngot": {
         "lv": 3,
@@ -1295,8 +1375,10 @@
       "minimumPeople": 1
     },
     "baseRank": 12,
-    "season": "gutsAndGlory",
+    "season": "release",
     "faction": "confederationOfUngwana",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01",
     "possibleLoot": {
       "cobaltIngot": {
         "lv": 3,
@@ -1314,8 +1396,10 @@
       "minimumPeople": 1
     },
     "baseRank": 12,
-    "season": "gutsAndGlory",
+    "season": "release",
     "faction": "confederationOfUngwana",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01",
     "possibleLoot": {
       "cobaltIngot": {
         "lv": 3,
@@ -1333,8 +1417,10 @@
       "minimumPeople": 1
     },
     "baseRank": 12,
-    "season": "gutsAndGlory",
+    "season": "release",
     "faction": "compagnieRoyale",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01",
     "possibleLoot": {
       "greenheartPlank": {
         "lv": 3,
@@ -1352,8 +1438,10 @@
       "minimumPeople": 1
     },
     "baseRank": 12,
-    "season": "gutsAndGlory",
+    "season": "release",
     "faction": "dutchMerchantCompany",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01",
     "possibleLoot": {
       "juniperPlank": {
         "lv": 3,
@@ -1371,8 +1459,10 @@
       "minimumPeople": 1
     },
     "baseRank": 12,
-    "season": "gutsAndGlory",
+    "season": "release",
     "faction": "dutchMerchantCompany",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01",
     "possibleLoot": {
       "juniperPlank": {
         "lv": 3,
@@ -1390,8 +1480,10 @@
       "minimumPeople": 1
     },
     "baseRank": 12,
-    "season": "gutsAndGlory",
+    "season": "release",
     "faction": "dutchMerchantCompany",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01",
     "possibleLoot": {
       "juniperPlank": {
         "lv": 3,
@@ -1409,8 +1501,10 @@
       "minimumPeople": 1
     },
     "baseRank": 12,
-    "season": "gutsAndGlory",
+    "season": "release",
     "faction": "dutchMerchantCompany",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01",
     "possibleLoot": {
       "juniperPlank": {
         "lv": 3,
@@ -1428,8 +1522,10 @@
       "minimumPeople": 1
     },
     "baseRank": 12,
-    "season": "gutsAndGlory",
+    "season": "release",
     "faction": "dutchMerchantCompany",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01",
     "possibleLoot": {
       "juniperPlank": {
         "lv": 3,
@@ -1447,8 +1543,10 @@
       "minimumPeople": 1
     },
     "baseRank": 12,
-    "season": "gutsAndGlory",
+    "season": "release",
     "faction": "clanOfFara",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01",
     "possibleLoot": {
       "acaciaPlank": {
         "lv": 3,
@@ -1466,8 +1564,10 @@
       "minimumPeople": 1
     },
     "baseRank": 12,
-    "season": "gutsAndGlory",
+    "season": "release",
     "faction": "seaPeople",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01",
     "possibleLoot": {
       "acaciaPlank": {
         "lv": 3,
@@ -1485,8 +1585,10 @@
       "minimumPeople": 1
     },
     "baseRank": 12,
-    "season": "gutsAndGlory",
+    "season": "release",
     "faction": "confederationOfUngwana",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01",
     "possibleLoot": {
       "teakPlank": {
         "lv": 3,
@@ -1504,8 +1606,10 @@
       "minimumPeople": 1
     },
     "baseRank": 12,
-    "season": "gutsAndGlory",
+    "season": "release",
     "faction": "confederationOfUngwana",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01",
     "possibleLoot": {
       "teakPlank": {
         "lv": 3,
@@ -1523,8 +1627,10 @@
       "minimumPeople": 1
     },
     "baseRank": 12,
-    "season": "gutsAndGlory",
+    "season": "release",
     "faction": "compagnieRoyale",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01",
     "possibleLoot": {
       "teakPlank": {
         "lv": 3,
@@ -1542,8 +1648,10 @@
       "minimumPeople": 1
     },
     "baseRank": 12,
-    "season": "gutsAndGlory",
+    "season": "release",
     "faction": "dominionOfRempah",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01",
     "possibleLoot": {
       "teakPlank": {
         "lv": 3,
@@ -1561,8 +1669,10 @@
       "minimumPeople": 1
     },
     "baseRank": 12,
-    "season": "gutsAndGlory",
+    "season": "release",
     "faction": "dominionOfRempah",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01",
     "possibleLoot": {
       "fineHemp": {
         "lv": 3,
@@ -1580,8 +1690,10 @@
       "minimumPeople": 1
     },
     "baseRank": 12,
-    "season": "gutsAndGlory",
+    "season": "release",
     "faction": "dominionOfRempah",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01",
     "possibleLoot": {
       "fineAbaka": {
         "lv": 3,
@@ -1599,8 +1711,10 @@
       "minimumPeople": 1
     },
     "baseRank": 12,
-    "season": "gutsAndGlory",
+    "season": "release",
     "faction": "dominionOfRempah",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01",
     "possibleLoot": {
       "fineAbaka": {
         "lv": 3,
@@ -1618,8 +1732,10 @@
       "minimumPeople": 1
     },
     "baseRank": 12,
-    "season": "gutsAndGlory",
+    "season": "release",
     "faction": "clanOfFara",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01",
     "possibleLoot": {
       "fineJute": {
         "lv": 3,
@@ -1637,8 +1753,10 @@
       "minimumPeople": 1
     },
     "baseRank": 12,
-    "season": "gutsAndGlory",
+    "season": "release",
     "faction": "seaPeople",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01",
     "possibleLoot": {
       "fineJute": {
         "lv": 3,
@@ -1656,8 +1774,10 @@
       "minimumPeople": 1
     },
     "baseRank": 12,
-    "season": "gutsAndGlory",
+    "season": "release",
     "faction": "confederationOfUngwana",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01",
     "possibleLoot": {
       "fineAbaka": {
         "lv": 3,
@@ -1675,8 +1795,10 @@
       "minimumPeople": 1
     },
     "baseRank": 12,
-    "season": "gutsAndGlory",
+    "season": "release",
     "faction": "confederationOfUngwana",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01",
     "possibleLoot": {
       "fineHemp": {
         "lv": 3,
@@ -1694,8 +1816,10 @@
       "minimumPeople": 1
     },
     "baseRank": 12,
-    "season": "gutsAndGlory",
+    "season": "release",
     "faction": "compagnieRoyale",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01",
     "possibleLoot": {
       "fineAbaka": {
         "lv": 3,
@@ -1713,8 +1837,10 @@
       "minimumPeople": 1
     },
     "baseRank": 12,
-    "season": "gutsAndGlory",
+    "season": "release",
     "faction": "compagnieRoyale",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01",
     "possibleLoot": {
       "fineJute": {
         "lv": 3,
@@ -1732,8 +1858,10 @@
       "minimumPeople": 1
     },
     "baseRank": 12,
-    "season": "gutsAndGlory",
+    "season": "release",
     "faction": "dutchMerchantCompany",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01",
     "possibleLoot": {
       "upgradeParts": {
         "lv": 3,
@@ -1767,8 +1895,10 @@
       "minimumPeople": 1
     },
     "baseRank": 12,
-    "season": "gutsAndGlory",
+    "season": "release",
     "faction": "dutchMerchantCompany",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01",
     "possibleLoot": {
       "upgradeParts": {
         "lv": 3,
@@ -1802,8 +1932,10 @@
       "minimumPeople": 1
     },
     "baseRank": 12,
-    "season": "gutsAndGlory",
+    "season": "release",
     "faction": "dutchMerchantCompany",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01",
     "possibleLoot": {
       "tobaccoLeaves": {
         "lv": 1,
@@ -1847,8 +1979,10 @@
       "minimumPeople": 1
     },
     "baseRank": 12,
-    "season": "gutsAndGlory",
+    "season": "release",
     "faction": "dutchMerchantCompany",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01",
     "possibleLoot": {
       "upgradeParts": {
         "lv": 3,
@@ -1882,8 +2016,10 @@
       "minimumPeople": 1
     },
     "baseRank": 12,
-    "season": "gutsAndGlory",
+    "season": "release",
     "faction": "dutchMerchantCompany",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01",
     "possibleLoot": {
       "upgradeParts": {
         "lv": 3,
@@ -1917,8 +2053,10 @@
       "minimumPeople": 1
     },
     "baseRank": 14,
-    "season": "gutsAndGlory",
+    "season": "release",
     "faction": "dutchMerchantCompany",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01",
     "possibleLoot": {
       "upgradeParts": {
         "lv": 3,
@@ -1948,8 +2086,10 @@
       "minimumPeople": 1
     },
     "baseRank": 12,
-    "season": "gutsAndGlory",
+    "season": "release",
     "faction": "compagnieRoyale",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01",
     "possibleLoot": {
       "upgradeParts": {
         "lv": 3,
@@ -1983,8 +2123,10 @@
       "minimumPeople": 1
     },
     "baseRank": 15,
-    "season": "gutsAndGlory",
+    "season": "release",
     "faction": "compagnieRoyale",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01",
     "possibleLoot": {
       "upgradeParts": {
         "lv": 3,
@@ -2012,199 +2154,265 @@
     "id": "bukitCandi",
     "latitude": 0.830581419976,
     "longitude": -0.52522608418849,
-    "category": "outpost"
+    "category": "outpost",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01"
   },
   "theOubliette": {
     "id": "theOubliette",
     "latitude": 0.4969937541956,
     "longitude": -0.65242420076342,
-    "category": "outpost"
+    "category": "outpost",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01"
   },
   "grandeFalaise": {
     "id": "grandeFalaise",
     "latitude": 0.46286068116252,
     "longitude": -0.55542627786511,
-    "category": "outpost"
+    "category": "outpost",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01"
   },
   "dutchmansCamp": {
     "id": "dutchmansCamp",
     "latitude": 0.4646194344305,
     "longitude": -0.44506008363967,
-    "category": "outpost"
+    "category": "outpost",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01"
   },
   "kokokTerapung": {
     "id": "kokokTerapung",
     "latitude": 0.57510045542335,
     "longitude": -0.59045862168833,
-    "category": "outpost"
+    "category": "outpost",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01"
   },
   "returnFleetBight": {
     "id": "returnFleetBight",
     "latitude": 0.68450861354147,
     "longitude": -0.61138338874983,
-    "category": "outpost"
+    "category": "outpost",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01"
   },
   "threeBrothers": {
     "id": "threeBrothers",
     "latitude": 0.69629991774983,
     "longitude": -0.6839946748822,
-    "category": "outpost"
+    "category": "outpost",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01"
   },
   "moyenneCrique": {
     "id": "moyenneCrique",
     "latitude": 0.65917525016599,
     "longitude": -0.75691838341754,
-    "category": "outpost"
+    "category": "outpost",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01"
   },
   "ileMichel": {
     "id": "ileMichel",
     "latitude": 0.70254958869771,
     "longitude": -0.82879510216625,
-    "category": "outpost"
+    "category": "outpost",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01"
   },
   "theForgottenCandi": {
     "id": "theForgottenCandi",
     "latitude": 0.54962208427736,
     "longitude": -0.38481332878021,
-    "category": "outpost"
+    "category": "outpost",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01"
   },
   "ruinedLighthouse": {
     "id": "ruinedLighthouse",
     "latitude": 0.68212295658225,
     "longitude": -0.49540441892697,
-    "category": "outpost"
+    "category": "outpost",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01"
   },
   "parujarsCry": {
     "id": "parujarsCry",
     "latitude": 0.77072755901426,
     "longitude": -0.58580547050838,
-    "category": "outpost"
+    "category": "outpost",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01"
   },
   "karstLookout": {
     "id": "karstLookout",
     "latitude": 0.76135325267626,
     "longitude": -0.49369508122706,
-    "category": "outpost"
+    "category": "outpost",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01"
   },
   "khmoyEstate": {
     "id": "khmoyEstate",
     "latitude": 0.91547772371662,
     "longitude": -0.52762226803787,
-    "category": "outpost"
+    "category": "outpost",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01"
   },
   "lostCityOfPrei": {
     "id": "lostCityOfPrei",
     "latitude": 0.89696297361476,
     "longitude": -0.41972000941539,
-    "category": "outpost"
+    "category": "outpost",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01"
   },
   "ruinsOfLukKhun": {
     "id": "ruinsOfLukKhun",
     "latitude": 0.93398816465654,
     "longitude": -0.43951422146861,
-    "category": "outpost"
+    "category": "outpost",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01"
   },
   "fortLouis": {
     "id": "fortLouis",
     "latitude": 0.44991461645567,
     "longitude": -0.82539687157075,
-    "category": "outpost"
+    "category": "outpost",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01"
   },
   "royalBurialGround": {
     "id": "royalBurialGround",
     "latitude": 0.51477903128254,
     "longitude": -0.85070205696141,
-    "category": "outpost"
+    "category": "outpost",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01"
   },
   "sacredTree": {
     "id": "sacredTree",
     "latitude": 0.55005170382647,
     "longitude": -0.82282851177513,
-    "category": "outpost"
+    "category": "outpost",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01"
   },
   "varonaFalls": {
     "id": "varonaFalls",
     "latitude": 0.53255863152367,
     "longitude": -0.78461971281467,
-    "category": "outpost"
+    "category": "outpost",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01"
   },
   "lanitra": {
     "id": "lanitra",
     "latitude": 0.6104507026224,
     "longitude": -0.77082080006369,
-    "category": "outpost"
+    "category": "outpost",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01"
   },
   "dragonsBack": {
     "id": "dragonsBack",
     "latitude": 0.64127998731315,
     "longitude": -0.87749848111247,
-    "category": "outpost"
+    "category": "outpost",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01"
   },
   "pillarTomb": {
     "id": "pillarTomb",
     "latitude": 0.73489802574599,
     "longitude": -0.94250427280016,
-    "category": "outpost"
+    "category": "outpost",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01"
   },
   "theNavigatorsCross": {
     "id": "theNavigatorsCross",
     "latitude": 0.67945862395922,
     "longitude": -0.92442582086687,
-    "category": "outpost"
+    "category": "outpost",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01"
   },
   "sunkenGoldmine": {
     "id": "sunkenGoldmine",
     "latitude": 0.6168125588497,
     "longitude": -0.98454715213146,
-    "category": "outpost"
+    "category": "outpost",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01"
   },
   "poachersCache": {
     "id": "poachersCache",
     "latitude": 0.61040335144288,
     "longitude": -0.906983078097,
-    "category": "outpost"
+    "category": "outpost",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01"
   },
   "kaaMangrove": {
     "id": "kaaMangrove",
     "latitude": 0.52951556609918,
     "longitude": -0.95419956726371,
-    "category": "outpost"
+    "category": "outpost",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01"
   },
   "eldersCave": {
     "id": "eldersCave",
     "latitude": 0.47972900871773,
     "longitude": -1.0167515162668,
-    "category": "outpost"
+    "category": "outpost",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01"
   },
   "greatUkuta": {
     "id": "greatUkuta",
     "latitude": 0.44665349911061,
     "longitude": -1.0148072284292,
-    "category": "outpost"
+    "category": "outpost",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01"
   },
   "kelelawarChamber": {
     "id": "kelelawarChamber",
     "latitude": 0.70908200840685,
     "longitude": -0.4139063831023,
-    "category": "outpost"
+    "category": "outpost",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01"
   },
   "motherOfShipwrecks": {
     "id": "motherOfShipwrecks",
     "latitude": 0.49320925398617,
     "longitude": -0.91213110329758,
-    "category": "outpost"
+    "category": "outpost",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01"
   },
   "rangnokCave": {
     "id": "rangnokCave",
     "latitude": 0.83940008291368,
     "longitude": -0.44444052708351,
-    "category": "outpost"
+    "category": "outpost",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01"
   },
   "theNecropolis": {
     "id": "theNecropolis",
     "latitude": 0.60480737203383,
     "longitude": -0.46233959704887,
-    "category": "outpost"
+    "category": "outpost",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01"
   },
   "theWolvesHollow": {
     "id": "theWolvesHollow",
@@ -2217,7 +2425,9 @@
     },
     "baseRank": 14,
     "season": "gutsAndGlory",
-    "faction": "none",
+    "faction": "dutchMerchantCompany",
+    "dateAdded": "2024-02-13",
+    "lastUpdated": "2025-10-01",
     "possibleLoot": {
       "piecesOfEight": {
         "lv": 0,
