@@ -268,7 +268,7 @@
     "stage": 1,
     "requiredCost": {
       "piecesOfEight": [
-        0
+        1000
       ]
     },
     "dateAdded": "2025-09-10",
@@ -1324,7 +1324,7 @@
     "stage": 1,
     "requiredCost": {
       "piecesOfEight": [
-        0
+        1000
       ]
     },
     "dateAdded": "2025-09-10",
@@ -1893,7 +1893,7 @@
     "stage": 1,
     "requiredCost": {
       "piecesOfEight": [
-        0
+        1000
       ]
     },
     "dateAdded": "2025-09-10",
