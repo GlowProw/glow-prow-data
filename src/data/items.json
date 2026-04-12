@@ -16587,5 +16587,172 @@
     "weight": 100,
     "dateAdded": "2026-03-23",
     "lastUpdated": "2026-03-23"
+  },
+  "bedarChest": {
+    "id": "bedarChest",
+    "season": "eyeOfTheBeast",
+    "type": "chest",
+    "rarity": "legendary",
+    "l": 1,
+    "weight": 100,
+    "dateAdded": "2026-04-11",
+    "lastUpdated": "2026-04-11"
+  },
+  "cutterChest": {
+    "id": "cutterChest",
+    "season": "eyeOfTheBeast",
+    "type": "chest",
+    "rarity": "legendary",
+    "l": 6,
+    "weight": 100,
+    "dateAdded": "2026-04-11",
+    "lastUpdated": "2026-04-11"
+  },
+  "hulkChest": {
+    "id": "hulkChest",
+    "season": "eyeOfTheBeast",
+    "type": "chest",
+    "rarity": "legendary",
+    "l": 11,
+    "weight": 100,
+    "dateAdded": "2026-04-11",
+    "lastUpdated": "2026-04-11"
+  },
+  "sloopChest": {
+    "id": "sloopChest",
+    "season": "eyeOfTheBeast",
+    "type": "chest",
+    "rarity": "legendary",
+    "l": 21,
+    "weight": 100,
+    "dateAdded": "2026-04-11",
+    "lastUpdated": "2026-04-11"
+  },
+  "padewakangChest": {
+    "id": "padewakangChest",
+    "season": "eyeOfTheBeast",
+    "type": "chest",
+    "rarity": "legendary",
+    "l": 26,
+    "weight": 100,
+    "dateAdded": "2026-04-11",
+    "lastUpdated": "2026-04-11"
+  },
+  "snowChest": {
+    "id": "snowChest",
+    "season": "eyeOfTheBeast",
+    "type": "chest",
+    "rarity": "legendary",
+    "l": 31,
+    "weight": 100,
+    "dateAdded": "2026-04-11",
+    "lastUpdated": "2026-04-11"
+  },
+  "brigantineChest": {
+    "id": "brigantineChest",
+    "season": "eyeOfTheBeast",
+    "type": "chest",
+    "rarity": "legendary",
+    "l": 41,
+    "weight": 100,
+    "dateAdded": "2026-04-11",
+    "lastUpdated": "2026-04-11"
+  },
+  "sambukChest": {
+    "id": "sambukChest",
+    "season": "eyeOfTheBeast",
+    "type": "chest",
+    "rarity": "legendary",
+    "l": 51,
+    "weight": 100,
+    "dateAdded": "2026-04-11",
+    "lastUpdated": "2026-04-11"
+  },
+  "ascendedChche": {
+    "id": "ascendedChche",
+    "season": "eyeOfTheBeast",
+    "type": "chest",
+    "rarity": "legendary",
+    "l": [
+      53,
+      63,
+      73
+    ],
+    "weight": 100,
+    "dateAdded": "2026-04-11",
+    "lastUpdated": "2026-04-11"
+  },
+  "barqueChest": {
+    "id": "barqueChest",
+    "season": "eyeOfTheBeast",
+    "type": "chest",
+    "rarity": "legendary",
+    "l": [
+      61,
+      71
+    ],
+    "weight": 100,
+    "dateAdded": "2026-04-11",
+    "lastUpdated": "2026-04-11"
+  },
+  "battleJunkChest": {
+    "id": "battleJunkChest",
+    "season": "eyeOfTheBeast",
+    "type": "chest",
+    "rarity": "legendary",
+    "l": [
+      81
+    ],
+    "weight": 100,
+    "dateAdded": "2026-04-11",
+    "lastUpdated": "2026-04-11"
+  },
+  "garudaChest": {
+    "id": "garudaChest",
+    "season": "eyeOfTheBeast",
+    "type": "chest",
+    "rarity": "legendary",
+    "l": [
+      91
+    ],
+    "weight": 100,
+    "dateAdded": "2026-04-11",
+    "lastUpdated": "2026-04-11"
+  },
+  "schoonerChest": {
+    "id": "schoonerChest",
+    "season": "eyeOfTheBeast",
+    "type": "chest",
+    "rarity": "legendary",
+    "l": [
+      101
+    ],
+    "weight": 100,
+    "dateAdded": "2026-04-11",
+    "lastUpdated": "2026-04-11"
+  },
+  "frigateChest": {
+    "id": "frigateChest",
+    "season": "eyeOfTheBeast",
+    "type": "chest",
+    "rarity": "legendary",
+    "l": [
+      126
+    ],
+    "weight": 100,
+    "dateAdded": "2026-04-11",
+    "lastUpdated": "2026-04-11"
+  },
+  "sloopOfWarChest": {
+    "id": "sloopOfWarChest",
+    "season": "eyeOfTheBeast",
+    "type": "chest",
+    "rarity": "legendary",
+    "l": [
+      151
+    ],
+    "weight": 100,
+    "dateAdded": "2026-04-11",
+    "lastUpdated": "2026-04-11"
   }
 }
