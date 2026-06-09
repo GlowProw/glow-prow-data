@@ -327,9 +327,9 @@
     "type": "crowsNest",
     "set": "oceanReavers",
     "season": "ragingTides",
-    "obtainable": "premiumPass",
+    "obtainable": ["premiumPass","ubisoftStore"],
     "dateAdded": "2024-03-16",
-    "lastUpdated": "2024-03-25"
+    "lastUpdated": "2026-02-20"
   },
   "courtlyClamshell": {
     "id": "courtlyClamshell",
@@ -383,18 +383,18 @@
     "set": "theLongDark",
     "season": "ragingTides",
     "effect": "emissive",
-    "obtainable": "premiumPass",
+    "obtainable": ["premiumPass","ubisoftStore"],
     "dateAdded": "2024-03-16",
-    "lastUpdated": "2024-06-06"
+    "lastUpdated": "2026-02-20"
   },
   "boarFacedGeorge": {
     "id": "boarFacedGeorge",
     "type": "trophy",
     "set": "oceanReavers",
-    "obtainable": "premiumPass",
+    "obtainable": ["premiumPass","ubisoftStore"],
     "season": "ragingTides",
     "dateAdded": "2024-03-16",
-    "lastUpdated": "2024-03-25"
+    "lastUpdated": "2026-02-20"
   },
   "melusinesPose": {
     "id": "melusinesPose",
@@ -451,9 +451,9 @@
     "set": "theLongDark",
     "season": "ragingTides",
     "effect": "emissive",
-    "obtainable": "premiumPass",
+    "obtainable": ["premiumPass","ubisoftStore"],
     "dateAdded": "2024-03-16",
-    "lastUpdated": "2024-06-06"
+    "lastUpdated": "2026-02-20"
   },
   "markOfTheFree": {
     "id": "markOfTheFree",
@@ -533,9 +533,9 @@
   "jyn": {
     "id": "jyn",
     "type": "pet",
-    "obtainable": "twitchAllAboardCommunityEventWinningFleet",
+    "obtainable": [["twitchDrop","twitchAllAboardCommunityEventWinningFleet"]],
     "dateAdded": "2024-03-16",
-    "lastUpdated": "2024-03-16"
+    "lastUpdated": "2026-03-12"
   },
   "sheldon": {
     "id": "sheldon",
@@ -638,9 +638,9 @@
     "type": "crewLook",
     "set": "theLongDark",
     "season": "ragingTides",
-    "obtainable": "premiumPass",
+    "obtainable": ["premiumPass","ubisoftStore"],
     "dateAdded": "2024-03-16",
-    "lastUpdated": "2024-03-25"
+    "lastUpdated": "2026-02-20"
   },
   "compagnieGarbs": {
     "id": "compagnieGarbs",
@@ -671,9 +671,8 @@
   "warmRaidersOutfit": {
     "id": "warmRaidersOutfit",
     "type": "crewLook",
-    "obtainable": "fallenCaptainsChest",
     "dateAdded": "2024-03-16",
-    "lastUpdated": "2026-03-23"
+    "lastUpdated": "2024-03-16"
   },
   "heartySwashbucklers": {
     "id": "heartySwashbucklers",
@@ -709,9 +708,9 @@
     "set": "theLongDark",
     "effect": "emissive",
     "season": "ragingTides",
-    "obtainable": "premiumPass",
+    "obtainable": ["premiumPass","ubisoftStore"],
     "dateAdded": "2024-03-16",
-    "lastUpdated": "2024-06-06"
+    "lastUpdated": "2026-02-20"
   },
   "pointiestStick": {
     "id": "pointiestStick",
@@ -725,10 +724,10 @@
     "id": "engorgedTusks",
     "type": "helmDecor",
     "set": "oceanReavers",
-    "obtainable": "premiumPass",
+    "obtainable": ["premiumPass","ubisoftStore"],
     "season": "ragingTides",
     "dateAdded": "2024-03-16",
-    "lastUpdated": "2024-03-25"
+    "lastUpdated": "2026-02-20"
   },
   "spearhead": {
     "id": "spearhead",
@@ -873,10 +872,10 @@
     "id": "bloodGodsHelm",
     "type": "wheel",
     "set": "oceanReavers",
-    "obtainable": "premiumPass",
+    "obtainable": ["premiumPass","ubisoftStore"],
     "season": "ragingTides",
     "dateAdded": "2024-03-16",
-    "lastUpdated": "2024-03-25"
+    "lastUpdated": "2026-02-20"
   },
   "aDreadfulTurn": {
     "id": "aDreadfulTurn",
@@ -900,11 +899,11 @@
     "id": "theSaltyBeard",
     "type": "wheel",
     "set": "theLongDark",
-    "obtainable": "premiumPass",
+    "obtainable": ["premiumPass","ubisoftStore"],
     "effect": "emissive",
     "season": "ragingTides",
     "dateAdded": "2024-03-16",
-    "lastUpdated": "2024-06-06"
+    "lastUpdated": "2026-02-20"
   },
   "wheelOfConquests": {
     "id": "wheelOfConquests",
@@ -1056,10 +1055,10 @@
     "id": "barbarianKing",
     "type": "nameplate",
     "set": "oceanReavers",
-    "obtainable": "premiumPass",
+    "obtainable": ["premiumPass","ubisoftStore"],
     "season": "ragingTides",
     "dateAdded": "2024-03-16",
-    "lastUpdated": "2024-03-25"
+    "lastUpdated": "2026-02-20"
   },
   "helmlord": {
     "id": "helmlord",
@@ -1092,10 +1091,10 @@
     "id": "leviathan",
     "type": "nameplate",
     "set": "theLongDark",
-    "obtainable": "premiumPass",
+    "obtainable": ["premiumPass","ubisoftStore"],
     "season": "ragingTides",
     "dateAdded": "2024-03-16",
-    "lastUpdated": "2024-03-25"
+    "lastUpdated": "2026-02-20"
   },
   "ironWill": {
     "id": "ironWill",
@@ -1172,9 +1171,9 @@
     "set": "theLongDark",
     "season": "ragingTides",
     "effect": "emissive",
-    "obtainable": "premiumPass",
+    "obtainable": ["premiumPass","ubisoftStore"],
     "dateAdded": "2024-03-25",
-    "lastUpdated": "2024-06-06"
+    "lastUpdated": "2026-02-20"
   },
   "getOffMyShip": {
     "id": "getOffMyShip",
@@ -1188,10 +1187,10 @@
     "id": "billyFeathers",
     "type": "ornaments",
     "set": "oceanReavers",
-    "obtainable": "premiumPass",
+    "obtainable": ["premiumPass","ubisoftStore"],
     "season": "ragingTides",
     "dateAdded": "2024-03-17",
-    "lastUpdated": "2024-03-25"
+    "lastUpdated": "2026-02-20"
   },
   "scurlocksPrince": {
     "id": "scurlocksPrince",
@@ -1515,10 +1514,10 @@
     "id": "bloodAndTar",
     "type": "hull",
     "set": "oceanReavers",
-    "obtainable": "premiumPass",
+    "obtainable": ["premiumPass","ubisoftStore"],
     "season": "ragingTides",
     "dateAdded": "2024-03-17",
-    "lastUpdated": "2024-03-25"
+    "lastUpdated": "2026-02-20"
   },
   "berylShade": {
     "id": "berylShade",
@@ -1580,10 +1579,10 @@
     "id": "hadalGreen",
     "type": "hull",
     "set": "theLongDark",
-    "obtainable": "premiumPass",
+    "obtainable": ["premiumPass","ubisoftStore"],
     "season": "ragingTides",
     "dateAdded": "2024-03-17",
-    "lastUpdated": "2024-03-17"
+    "lastUpdated": "2026-02-20"
   },
   "oliveShade": {
     "id": "oliveShade",
@@ -1655,9 +1654,9 @@
     "id": "rustShade",
     "type": "hull",
     "contract": "armsAndGuns",
-    "obtainable": ["contractReward", "fallenCaptainsChest"],
+    "obtainable": "contractReward",
     "dateAdded": "2024-03-17",
-    "lastUpdated": "2026-03-23"
+    "lastUpdated": "2024-04-12"
   },
   "calibansHour": {
     "id": "calibansHour",
@@ -1754,10 +1753,10 @@
     "id": "deadGodsEmbrace",
     "type": "figureHead",
     "set": "theLongDark",
-    "obtainable": "premiumPass",
+    "obtainable": ["premiumPass","ubisoftStore"],
     "season": "ragingTides",
     "dateAdded": "2024-03-17",
-    "lastUpdated": "2024-03-25"
+    "lastUpdated": "2026-02-20"
   },
   "valiantHeart": {
     "id": "valiantHeart",
@@ -1770,10 +1769,10 @@
     "id": "thePreviousDude",
     "type": "figureHead",
     "set": "oceanReavers",
-    "obtainable": "premiumPass",
+    "obtainable": ["premiumPass","ubisoftStore"],
     "season": "ragingTides",
     "dateAdded": "2024-03-17",
-    "lastUpdated": "2024-03-25"
+    "lastUpdated": "2026-02-20"
   },
   "manifestDestiny": {
     "id": "manifestDestiny",
@@ -1988,9 +1987,9 @@
     "id": "rustDye",
     "type": "sailsColor",
     "contract": "aSeaworthyShip",
-    "obtainable": ["contractReward","fallenCaptainsChest"],
+    "obtainable": "contractReward",
     "dateAdded": "2024-03-18",
-    "lastUpdated": "2026-03-23"
+    "lastUpdated": "2024-04-12"
   },
   "sainteAnnesShore": {
     "id": "sainteAnnesShore",
@@ -2114,9 +2113,9 @@
     "type": "sailsColor",
     "set": "oceanReavers",
     "season": "ragingTides",
-    "obtainable": "premiumPass",
+    "obtainable": ["premiumPass","ubisoftStore"],
     "dateAdded": "2024-03-18",
-    "lastUpdated": "2024-03-22"
+    "lastUpdated": "2026-02-20"
   },
   "nightfallsHerald": {
     "id": "nightfallsHerald",
@@ -2224,9 +2223,9 @@
     "set": "theLongDark",
     "effect": "emissive",
     "season": "ragingTides",
-    "obtainable": "premiumPass",
+    "obtainable": ["premiumPass","ubisoftStore"],
     "dateAdded": "2024-03-18",
-    "lastUpdated": "2024-06-06"
+    "lastUpdated": "2026-02-20"
   },
   "ruffledRoyals": {
     "id": "ruffledRoyals",
@@ -2335,8 +2334,11 @@
   "dusksDoor": {
     "id": "dusksDoor",
     "type": "sailsPattern",
+    "set": "ghostShip",
+    "contract": "oceansApart",
+    "obtainable": "ghostShipChest",
     "dateAdded": "2024-03-19",
-    "lastUpdated": "2024-03-19"
+    "lastUpdated": "2026-05-27"
   },
   "thornsReach": {
     "id": "thornsReach",
@@ -2556,9 +2558,9 @@
     "type": "sailsPattern",
     "set": "oceanReavers",
     "season": "ragingTides",
-    "obtainable": "premiumPass",
+    "obtainable": ["premiumPass","ubisoftStore"],
     "dateAdded": "2024-03-19",
-    "lastUpdated": "2024-04-05"
+    "lastUpdated": "2026-02-20"
   },
   "sainteAnneWelcome": {
     "id": "sainteAnneWelcome",
@@ -2661,9 +2663,9 @@
     "type": "sailsPattern",
     "set": "theLongDark",
     "season": "ragingTides",
-    "obtainable": "premiumPass",
+    "obtainable": ["premiumPass","ubisoftStore"],
     "dateAdded": "2024-03-19",
-    "lastUpdated": "2024-04-04"
+    "lastUpdated": "2026-02-20"
   },
   "fromTheAbyssSailPattern": {
     "id": "fromTheAbyssSailPattern",
@@ -2903,8 +2905,9 @@
     "type": "sailsEmblem",
     "set": "compagnieCosmetics",
     "dateAdded": "2024-03-22",
-    "lastUpdated": "2025-01-08",
+    "lastUpdated": "2026-02-21",
     "bounty": "bloodDrunk",
+    "worldEvent": "bloodDrunk",
     "obtainable": "galvinRocheTreasureChest"
   },
   "wingedTaker": {
@@ -2964,16 +2967,15 @@
     "type": "sailsEmblem",
     "set": "theLongDark",
     "season": "ragingTides",
-    "obtainable": "premiumPass",
+    "obtainable": ["premiumPass","ubisoftStore"],
     "dateAdded": "2024-03-22",
-    "lastUpdated": "2024-04-04"
+    "lastUpdated": "2026-02-20"
   },
   "theWild": {
     "id": "theWild",
     "type": "sailsEmblem",
-    "obtainable": "fallenCaptainsChest",
     "dateAdded": "2024-03-22",
-    "lastUpdated": "2026-03-23"
+    "lastUpdated": "2024-03-22"
   },
   "unyieldingAnchor": {
     "id": "unyieldingAnchor",
@@ -3050,18 +3052,19 @@
     "id": "crownedSkull",
     "type": "sailsEmblem",
     "set": "opulentScion",
+    "season": "ragingTides",
     "obtainable": "ubisoftStoreSeasonalPack",
     "dateAdded": "2024-03-22",
-    "lastUpdated": "2024-03-22"
+    "lastUpdated": "2026-02-22"
   },
   "theIronGrin": {
     "id": "theIronGrin",
     "type": "sailsEmblem",
     "set": "oceanReavers",
     "season": "ragingTides",
-    "obtainable": "premiumPass",
+    "obtainable": ["premiumPass","ubisoftStore"],
     "dateAdded": "2024-03-22",
-    "lastUpdated": "2024-03-25"
+    "lastUpdated": "2026-02-20"
   },
   "selmasGaze": {
     "id": "selmasGaze",
@@ -3154,9 +3157,8 @@
   "theRampant": {
     "id": "theRampant",
     "type": "sailsEmblem",
-    "obtainable": "fallenCaptainsChest",
     "dateAdded": "2024-03-22",
-    "lastUpdated": "2026-03-23"
+    "lastUpdated": "2024-03-22"
   },
   "gorgonsGaze": {
     "id": "gorgonsGaze",
@@ -3240,29 +3242,30 @@
     "type": "hull",
     "set": "dmcCosmetics",
     "bounty": "aShowOfStrength",
-    "worldEvent": "theOpwelling",
+    "worldEvent": ["theOpwelling","aShowOfStrength"],
     "obtainable": ["dirkAnkerenTreasureChest","opwellingTreasureChest"],
     "dateAdded": "2024-03-22",
-    "lastUpdated": "2024-04-10"
+    "lastUpdated": "2026-02-21"
   },
   "kingsFavor": {
     "id": "kingsFavor",
     "type": "sailsColor",
     "set": "dmcCosmetics",
     "bounty": "aShowOfStrength",
-    "worldEvent": "theOpwelling",
+    "worldEvent": ["theOpwelling","aShowOfStrength"],
     "obtainable": ["dirkAnkerenTreasureChest","opwellingTreasureChest"],
     "dateAdded": "2024-03-22",
-    "lastUpdated": "2024-04-10"
+    "lastUpdated": "2026-02-21"
   },
   "vanguardsGlory": {
     "id": "vanguardsGlory",
     "type": "hull",
     "set": "compagnieCosmetics",
     "bounty": "bloodDrunk",
+    "worldEvent": "bloodDrunk",
     "obtainable": "galvinRocheTreasureChest",
     "dateAdded": "2024-03-22",
-    "lastUpdated": "2024-04-08"
+    "lastUpdated": "2026-02-21"
   },
   "foulWinds": {
     "id": "foulWinds",
@@ -3303,42 +3306,42 @@
     "id": "theMurkyDeep",
     "type": "hull",
     "set": "fishersOfMen",
-    "obtainable": ["friendReferralProgram","friendReferralProgramTier2"],
+    "obtainable": [["friendReferralProgram","friendReferralProgramTier1"]],
     "dateAdded": "2024-03-22",
-    "lastUpdated": "2024-06-15"
+    "lastUpdated": "2026-05-19"
   },
   "theLuringLurker": {
     "id": "theLuringLurker",
     "type": "sailsColor",
     "set": "fishersOfMen",
-    "obtainable": ["friendReferralProgram","friendReferralProgramTier3"],
+    "obtainable": [["friendReferralProgram","friendReferralProgramTier1"]],
     "dateAdded": "2024-03-22",
-    "lastUpdated": "2024-06-15"
+    "lastUpdated": "2026-05-19"
   },
   "rakeAndRip": {
     "id": "rakeAndRip",
     "type": "sailsPattern",
     "set": "fishersOfMen",
-    "obtainable": ["friendReferralProgram","friendReferralProgramTier4"],
+    "obtainable": [["friendReferralProgram","friendReferralProgramTier1"]],
     "dateAdded": "2024-03-22",
-    "lastUpdated": "2024-06-15"
+    "lastUpdated": "2026-05-19"
   },
   "theAngler": {
     "id": "theAngler",
     "type": "sailsEmblem",
     "set": "fishersOfMen",
-    "obtainable": ["friendReferralProgram","friendReferralProgramTier5"],
+    "obtainable": [["friendReferralProgram","friendReferralProgramTier1"]],
     "dateAdded": "2024-03-22",
-    "lastUpdated": "2024-06-15"
+    "lastUpdated": "2026-05-19"
   },
   "skinWalkers": {
     "id": "skinWalkers",
     "type": "crewLook",
     "set": "oceanReavers",
     "season": "ragingTides",
-    "obtainable": "premiumPass",
+    "obtainable": ["premiumPass","ubisoftStore"],
     "dateAdded": "2024-03-22",
-    "lastUpdated": "2024-04-05"
+    "lastUpdated": "2026-02-20"
   },
   "tideAtHalfPast": {
     "id": "tideAtHalfPast",
@@ -3404,68 +3407,74 @@
     "id": "majiHeadgear",
     "type": "headwear",
     "bounty": "hunterAndHunted",
+    "worldEvent": "hunterHunted",
     "obtainable": "jokaKubwaTreasureChest",
     "dateAdded": "2024-03-24",
-    "lastUpdated": "2024-04-08"
+    "lastUpdated": "2026-02-21"
   },
   "lanunTop": {
     "id": "lanunTop",
     "type": "torso",
     "bounty": "aTreacherousTurn",
+    "worldEvent": "aTreacherousTurn",
     "obtainable": "dianSinagaTreasureChest",
     "dateAdded": "2024-03-24",
-    "lastUpdated": "2024-04-08"
+    "lastUpdated": "2026-02-21"
   },
   "bahariNeckwear": {
     "id": "bahariNeckwear",
     "type": "neck",
     "bounty": "hunterAndHunted",
+    "worldEvent": "hunterHunted",
     "obtainable": "jokaKubwaTreasureChest",
     "dateAdded": "2024-03-24",
-    "lastUpdated": "2024-04-08"
+    "lastUpdated": "2026-02-21"
   },
   "fadedRedSash": {
     "id": "fadedRedSash",
     "type": "waist",
     "bounty": "bloodDrunk",
+    "worldEvent": "bloodDrunk",
     "set": "royaleWarmaster",
     "obtainable": "galvinRocheTreasureChest",
     "dateAdded": "2024-03-24",
-    "lastUpdated": "2024-06-01"
+    "lastUpdated": "2026-02-21"
   },
   "compagnieFrock": {
     "id": "compagnieFrock",
     "type": "torso",
     "bounty": "bloodDrunk",
+    "worldEvent": "bloodDrunk",
     "obtainable": "galvinRocheTreasureChest",
     "dateAdded": "2024-03-24",
-    "lastUpdated": "2024-04-08"
+    "lastUpdated": "2026-02-21"
   },
   "dmcSoldierTop": {
     "id": "dmcSoldierTop",
     "type": "torso",
     "bounty": "aShowOfStrength",
-    "worldEvent": "theOpwelling",
+    "worldEvent": ["theOpwelling","aShowOfStrength"],
     "obtainable": ["dirkAnkerenTreasureChest","opwellingTreasureChest"],
     "dateAdded": "2024-03-24",
-    "lastUpdated": "2024-06-29"
+    "lastUpdated": "2026-02-21"
   },
   "dutchLeggings": {
     "id": "dutchLeggings",
     "type": "bottom",
     "bounty": "aShowOfStrength",
-    "worldEvent": "theOpwelling",
+    "worldEvent": ["theOpwelling","aShowOfStrength"],
     "obtainable": ["dirkAnkerenTreasureChest","opwellingTreasureChest"],
     "dateAdded": "2024-03-24",
-    "lastUpdated": "2024-05-22"
+    "lastUpdated": "2026-02-21"
   },
   "majiNeckAccessory": {
     "id": "majiNeckAccessory",
     "type": "neck",
     "bounty": "hunterAndHunted",
+    "worldEvent": "hunterHunted",
     "obtainable": "jokaKubwaTreasureChest",
     "dateAdded": "2024-03-24",
-    "lastUpdated": "2024-04-08"
+    "lastUpdated": "2026-02-21"
   },
   "hesselsPride": {
     "id": "hesselsPride",
@@ -3483,10 +3492,10 @@
     "id": "dmcSoldierBand",
     "type": "waist",
     "bounty": "aShowOfStrength",
-    "worldEvent": "theOpwelling",
+    "worldEvent": ["theOpwelling","aShowOfStrength"],
     "obtainable": ["dirkAnkerenTreasureChest","opwellingTreasureChest"],
     "dateAdded": "2024-03-24",
-    "lastUpdated": "2024-06-22"
+    "lastUpdated": "2026-02-21"
   },
   "eyeOfDevastation": {
     "id": "eyeOfDevastation",
@@ -3723,10 +3732,10 @@
   "deathOTheSun": {
     "id": "deathOTheSun",
     "type": "firework",
-    "obtainable": "premiumPass",
+    "obtainable": ["premiumPass","ubisoftStore"],
     "season": "ragingTides",
     "dateAdded": "2024-03-25",
-    "lastUpdated": "2024-03-25"
+    "lastUpdated": "2026-02-20"
   },
   "tangerineExplosion": {
     "id": "tangerineExplosion",
@@ -4290,9 +4299,9 @@
     "type": "bodyCosmetics",
     "season": "ragingTides",
     "set": "scionOfDagon",
-    "obtainable": "premiumPass",
+    "obtainable": ["premiumPass","ubisoftStore"],
     "dateAdded": "2024-04-04",
-    "lastUpdated": "2024-04-04"
+    "lastUpdated": "2026-02-20"
   },
   "commodoresBrim": {
     "id": "commodoresBrim",
@@ -4688,9 +4697,9 @@
     "type": "headwear",
     "set": "oceanReaversPlayer",
     "season": "ragingTides",
-    "obtainable": "premiumPass",
+    "obtainable": ["premiumPass","ubisoftStore"],
     "dateAdded": "2024-04-14",
-    "lastUpdated": "2024-05-08"
+    "lastUpdated": "2026-02-20"
   },
   "poisedTricorne": {
     "id": "poisedTricorne",
@@ -4826,9 +4835,10 @@
     "id": "dmcTricorne",
     "type": "headwear",
     "bounty": "aShowOfStrength",
+    "worldEvent": "aShowOfStrength",
     "obtainable": "dirkAnkerenTreasureChest",
     "dateAdded": "2024-04-14",
-    "lastUpdated": "2024-06-30"
+    "lastUpdated": "2026-02-21"
   },
   "kayaRayaHeadwear": {
     "id": "kayaRayaHeadwear",
@@ -4954,9 +4964,9 @@
     "type": "headwear",
     "set": "scionOfDagon",
     "season": "ragingTides",
-    "obtainable": "smugglerPass",
+    "obtainable": ["smugglerPass","ubisoftStore"],
     "dateAdded": "2024-04-14",
-    "lastUpdated": "2024-05-08"
+    "lastUpdated": "2026-02-20"
   },
   "pinkysHat": {
     "id": "pinkysHat",
@@ -5654,9 +5664,10 @@
     "id": "dmcRegularCravat",
     "type": "neck",
     "bounty": "aShowOfStrength",
+    "worldEvent": "aShowOfStrength",
     "obtainable": "dirkAnkerenTreasureChest",
     "dateAdded": "2024-04-28",
-    "lastUpdated": "2024-06-22"
+    "lastUpdated": "2026-02-21"
   },
   "hovaNeckwear": {
     "id": "hovaNeckwear",
@@ -5751,9 +5762,9 @@
     "type": "neck",
     "set": "scionOfDagon",
     "season": "ragingTides",
-    "obtainable": "premiumPass",
+    "obtainable": ["premiumPass","ubisoftStore"],
     "dateAdded": "2024-04-28",
-    "lastUpdated": "2024-05-08"
+    "lastUpdated": "2026-02-20"
   },
   "bajakLautNeckwear": {
     "id": "bajakLautNeckwear",
@@ -5979,9 +5990,9 @@
     "type": "torso",
     "set": "scionOfDagon",
     "season": "ragingTides",
-    "obtainable": "premiumPass",
+    "obtainable": ["premiumPass","ubisoftStore"],
     "dateAdded": "2024-04-30",
-    "lastUpdated": "2024-04-30"
+    "lastUpdated": "2026-02-20"
   },
   "suaveVestments": {
     "id": "suaveVestments",
@@ -6004,9 +6015,9 @@
     "type": "torso",
     "set": "oceanReaversPlayer",
     "season": "ragingTides",
-    "obtainable": "premiumPass",
+    "obtainable": ["premiumPass","ubisoftStore"],
     "dateAdded": "2024-04-30",
-    "lastUpdated": "2024-05-08"
+    "lastUpdated": "2026-02-20"
   },
   "jacketOfInfamy": {
     "id": "jacketOfInfamy",
@@ -6574,9 +6585,9 @@
     "type": "hand",
     "set": "scionOfDagon",
     "season": "ragingTides",
-    "obtainable": "premiumPass",
+    "obtainable": ["premiumPass","ubisoftStore"],
     "dateAdded": "2024-05-01",
-    "lastUpdated": "2024-05-08"
+    "lastUpdated": "2026-02-20"
   },
   "opalRings": {
     "id": "opalRings",
@@ -6856,9 +6867,9 @@
     "type": "waist",
     "set": "scionOfDagon",
     "season": "ragingTides",
-    "obtainable": "premiumPass",
+    "obtainable": ["premiumPass","ubisoftStore"],
     "dateAdded": "2024-05-04",
-    "lastUpdated": "2024-05-04"
+    "lastUpdated": "2026-02-20"
   },
   "ropedSash": {
     "id": "ropedSash",
@@ -6881,9 +6892,9 @@
     "type": "waist",
     "set": "oceanReaversPlayer",
     "season": "ragingTides",
-    "obtainable": "premiumPass",
+    "obtainable": ["premiumPass","ubisoftStore"],
     "dateAdded": "2024-05-04",
-    "lastUpdated": "2024-05-04"
+    "lastUpdated": "2026-02-20"
   },
   "notchedBelt": {
     "id": "notchedBelt",
@@ -7379,10 +7390,10 @@
     "id": "powderedBone",
     "type": "bodyCosmetics",
     "season": "ragingTides",
-    "obtainable": "smugglerPass",
+    "obtainable": ["smugglerPass","ubisoftStore"],
     "set": "oceanReaversPlayer",
     "dateAdded": "2024-05-04",
-    "lastUpdated": "2024-08-01"
+    "lastUpdated": "2026-02-20"
   },
   "gaudyBoy": {
     "id": "gaudyBoy",
@@ -7767,9 +7778,9 @@
     "id": "hoistYourSails",
     "type": "emote",
     "season": "ragingTides",
-    "obtainable": "smugglerPass",
+    "obtainable": ["smugglerPass","ubisoftStore"],
     "dateAdded": "2024-05-04",
-    "lastUpdated": "2024-05-08"
+    "lastUpdated": "2026-02-20"
   },
   "heatedExchange": {
     "id": "heatedExchange",
@@ -7797,9 +7808,9 @@
     "type": "forearm",
     "set": "scionOfDagon",
     "season": "ragingTides",
-    "obtainable": "premiumPass",
+    "obtainable": ["premiumPass","ubisoftStore"],
     "dateAdded": "2024-05-05",
-    "lastUpdated": "2024-05-08"
+    "lastUpdated": "2026-02-20"
   },
   "taintedGloves": {
     "id": "taintedGloves",
@@ -7814,9 +7825,9 @@
     "type": "forearm",
     "set": "oceanReaversPlayer",
     "season": "ragingTides",
-    "obtainable": "premiumPass",
+    "obtainable": ["premiumPass","ubisoftStore"],
     "dateAdded": "2024-05-05",
-    "lastUpdated": "2024-05-05"
+    "lastUpdated": "2026-02-20"
   },
   "glovesOfRepute": {
     "id": "glovesOfRepute",
@@ -8413,9 +8424,9 @@
     "type": "footwear",
     "set": "scionOfDagon",
     "season": "ragingTides",
-    "obtainable": "premiumPass",
+    "obtainable": ["premiumPass","ubisoftStore"],
     "dateAdded": "2024-05-06",
-    "lastUpdated": "2024-05-08"
+    "lastUpdated": "2026-02-20"
   },
   "looseLeatherBoots": {
     "id": "looseLeatherBoots",
@@ -8438,9 +8449,9 @@
     "type": "footwear",
     "set": "oceanReaversPlayer",
     "season": "ragingTides",
-    "obtainable": "premiumPass",
+    "obtainable": ["premiumPass","ubisoftStore"],
     "dateAdded": "2024-05-06",
-    "lastUpdated": "2024-05-08"
+    "lastUpdated": "2026-02-20"
   },
   "bootsOfNotoriety": {
     "id": "bootsOfNotoriety",
@@ -9048,9 +9059,9 @@
     "type": "bottom",
     "set": "scionOfDagon",
     "season": "ragingTides",
-    "obtainable": "premiumPass",
+    "obtainable": ["premiumPass","ubisoftStore"],
     "dateAdded": "2024-05-07",
-    "lastUpdated": "2024-05-08"
+    "lastUpdated": "2026-02-20"
   },
   "airyTrousers": {
     "id": "airyTrousers",
@@ -9073,9 +9084,9 @@
     "type": "bottom",
     "set": "oceanReaversPlayer",
     "season": "ragingTides",
-    "obtainable": "premiumPass",
+    "obtainable": ["premiumPass","ubisoftStore"],
     "dateAdded": "2024-05-07",
-    "lastUpdated": "2024-05-08"
+    "lastUpdated": "2026-02-20"
   },
   "adeptLeggings": {
     "id": "adeptLeggings",
@@ -10017,9 +10028,9 @@
     "type": "crewLook",
     "set": "ebonVessel",
     "season": "chorusOfHavoc",
-    "obtainable": "premiumPass",
+    "obtainable": ["premiumPass", "ubisoftStore"],
     "dateAdded": "2024-05-29",
-    "lastUpdated": "2024-05-29"
+    "lastUpdated": "2026-02-24"
   },
   "fotsy": {
     "id": "fotsy",
@@ -11120,9 +11131,9 @@
     "effect": "emissive",
     "set": "ebonVessel",
     "season": "chorusOfHavoc",
-    "obtainable": "premiumPass",
+    "obtainable": ["premiumPass", "ubisoftStore"],
     "dateAdded": "2024-06-02",
-    "lastUpdated": "2024-06-06"
+    "lastUpdated": "2026-02-24"
   },
   "fatefulBattlegrounds": {
     "id": "fatefulBattlegrounds",
@@ -11137,36 +11148,36 @@
     "type": "sailsEmblem",
     "set": "ebonVessel",
     "season": "chorusOfHavoc",
-    "obtainable": "premiumPass",
+    "obtainable": ["premiumPass", "ubisoftStore"],
     "dateAdded": "2024-06-02",
-    "lastUpdated": "2024-06-02"
+    "lastUpdated": "2026-02-24"
   },
   "demiseAtDusk": {
     "id": "demiseAtDusk",
     "type": "hull",
     "set": "ebonVessel",
     "season": "chorusOfHavoc",
-    "obtainable": "premiumPass",
+    "obtainable": ["premiumPass", "ubisoftStore"],
     "dateAdded": "2024-06-02",
-    "lastUpdated": "2024-06-02"
+    "lastUpdated": "2026-02-24"
   },
   "gleamAndGrandeur": {
     "id": "gleamAndGrandeur",
     "type": "sailsPattern",
     "set": "ebonVessel",
     "season": "chorusOfHavoc",
-    "obtainable": "premiumPass",
+    "obtainable": ["premiumPass", "ubisoftStore"],
     "dateAdded": "2024-06-02",
-    "lastUpdated": "2024-06-02"
+    "lastUpdated": "2026-02-24"
   },
   "eminence": {
     "id": "eminence",
     "type": "nameplate",
     "set": "ebonVessel",
     "season": "chorusOfHavoc",
-    "obtainable": "premiumPass",
+    "obtainable": ["premiumPass", "ubisoftStore"],
     "dateAdded": "2024-06-02",
-    "lastUpdated": "2024-06-02"
+    "lastUpdated": "2026-02-24"
   },
   "diabolicalDevourer": {
     "id": "diabolicalDevourer",
@@ -11181,9 +11192,9 @@
     "type": "ornaments",
     "set": "ebonVessel",
     "season": "chorusOfHavoc",
-    "obtainable": "premiumPass",
+    "obtainable": ["premiumPass", "ubisoftStore"],
     "dateAdded": "2024-06-02",
-    "lastUpdated": "2024-06-02"
+    "lastUpdated": "2026-02-24"
   },
   "nightsKeeper": {
     "id": "nightsKeeper",
@@ -11191,53 +11202,53 @@
     "set": "ebonVessel",
     "season": "chorusOfHavoc",
     "effect": "emissive",
-    "obtainable": "premiumPass",
+    "obtainable": ["premiumPass", "ubisoftStore"],
     "dateAdded": "2024-06-02",
-    "lastUpdated": "2024-06-06"
+    "lastUpdated": "2026-02-24"
   },
   "gildedWatcher": {
     "id": "gildedWatcher",
     "type": "trophy",
     "set": "ebonVessel",
     "season": "chorusOfHavoc",
-    "obtainable": "premiumPass",
+    "obtainable": ["premiumPass", "ubisoftStore"],
     "dateAdded": "2024-06-02",
-    "lastUpdated": "2024-06-02"
+    "lastUpdated": "2026-02-24"
   },
   "prowlerRevealed": {
     "id": "prowlerRevealed",
     "type": "firework",
     "season": "chorusOfHavoc",
-    "obtainable": "premiumPass",
+    "obtainable": ["premiumPass", "ubisoftStore"],
     "dateAdded": "2024-06-02",
-    "lastUpdated": "2024-06-02"
+    "lastUpdated": "2026-02-24"
   },
   "twilightStalkers": {
     "id": "twilightStalkers",
     "type": "crowsNest",
     "set": "ebonVessel",
     "season": "chorusOfHavoc",
-    "obtainable": "premiumPass",
+    "obtainable": ["premiumPass", "ubisoftStore"],
     "dateAdded": "2024-06-02",
-    "lastUpdated": "2024-06-02"
+    "lastUpdated": "2026-02-24"
   },
   "vaneOfTheVoid": {
     "id": "vaneOfTheVoid",
     "type": "helmDecor",
     "set": "ebonVessel",
     "season": "chorusOfHavoc",
-    "obtainable": "premiumPass",
+    "obtainable": ["premiumPass", "ubisoftStore"],
     "dateAdded": "2024-06-02",
-    "lastUpdated": "2024-06-02"
+    "lastUpdated": "2026-02-24"
   },
   "umbralWheel": {
     "id": "umbralWheel",
     "type": "wheel",
     "set": "ebonVessel",
     "season": "chorusOfHavoc",
-    "obtainable": "premiumPass",
+    "obtainable": ["premiumPass", "ubisoftStore"],
     "dateAdded": "2024-06-02",
-    "lastUpdated": "2024-06-02"
+    "lastUpdated": "2026-02-24"
   },
   "pawnToNone": {
     "id": "pawnToNone",
@@ -11421,23 +11432,26 @@
     "id": "horridClutches",
     "type": "sailsEmblem",
     "set": "horridClutches",
+    "season": "chorusOfHavoc",
     "obtainable": [["twitchDrop","twitchDropStartSeason2"]],
     "dateAdded": "2024-06-04",
-    "lastUpdated": "2024-08-22"
+    "lastUpdated": "2026-03-13"
   },
   "inTheShallows": {
     "id": "inTheShallows",
     "type": "sailsColor",
+    "season": "chorusOfHavoc",
     "obtainable": [["twitchDrop","twitchDropStartSeason2"]],
     "dateAdded": "2024-06-04",
-    "lastUpdated": "2024-06-15"
+    "lastUpdated": "2026-03-13"
   },
   "watersGuardian": {
     "id": "watersGuardian",
     "type": "hull",
+    "season": "chorusOfHavoc",
     "obtainable": [["twitchDrop","twitchDropStartSeason2"]],
     "dateAdded": "2024-06-04",
-    "lastUpdated": "2024-06-15"
+    "lastUpdated": "2026-03-13"
   },
   "gearUp": {
     "id": "gearUp",
@@ -11819,20 +11833,22 @@
     "id": "bloodOfCaliban",
     "type": "figureHead",
     "season": "chorusOfHavoc",
+    "set": "moonstruck",
     "worldEvent": "anguishFromTheAbyss",
     "bounty": "anguishFromTheAbyss",
     "effect": ["emissive","combatReactive"],
     "obtainable": "rodeMaangodinChest",
     "dateAdded": "2024-06-08",
-    "lastUpdated": "2024-07-16"
+    "lastUpdated": "2026-05-25"
   },
   "lanunWaistband": {
     "id": "lanunWaistband",
     "type": "waist",
     "bounty": "aTreacherousTurn",
+    "worldEvent": "aTreacherousTurn",
     "obtainable": "dianSinagaTreasureChest",
     "dateAdded": "2024-06-09",
-    "lastUpdated": "2024-06-09"
+    "lastUpdated": "2026-02-21"
   },
   "bloodAndWater": {
     "id": "bloodAndWater",
@@ -11887,9 +11903,9 @@
     "type": "faceAccessory",
     "set": "ebonPirate",
     "season": "chorusOfHavoc",
-    "obtainable": "premiumPass",
+    "obtainable": ["premiumPass", "ubisoftStore"],
     "dateAdded": "2024-06-09",
-    "lastUpdated": "2024-06-12"
+    "lastUpdated": "2026-02-24"
   },
   "fourCorners": {
     "id": "fourCorners",
@@ -11928,9 +11944,9 @@
     "id": "shuffling",
     "type": "emote",
     "season": "chorusOfHavoc",
-    "obtainable": "premiumPass",
+    "obtainable": ["premiumPass", "ubisoftStore"],
     "dateAdded": "2024-06-09",
-    "lastUpdated": "2024-06-09"
+    "lastUpdated": "2026-02-24"
   },
   "lePouf": {
     "id": "lePouf",
@@ -12110,36 +12126,36 @@
     "type": "waist",
     "set": "ebonPirate",
     "season": "chorusOfHavoc",
-    "obtainable": "premiumPass",
+    "obtainable": ["premiumPass", "ubisoftStore"],
     "dateAdded": "2024-06-12",
-    "lastUpdated": "2024-06-12"
+    "lastUpdated": "2026-02-24"
   },
   "nightsongPants": {
     "id": "nightsongPants",
     "type": "bottom",
     "set": "ebonPirate",
     "season": "chorusOfHavoc",
-    "obtainable": "premiumPass",
+    "obtainable": ["premiumPass", "ubisoftStore"],
     "dateAdded": "2024-06-12",
-    "lastUpdated": "2024-06-12"
+    "lastUpdated": "2026-02-24"
   },
   "highSnapBoots": {
     "id": "highSnapBoots",
     "type": "footwear",
     "set": "ebonPirate",
     "season": "chorusOfHavoc",
-    "obtainable": "premiumPass",
+    "obtainable": ["premiumPass", "ubisoftStore"],
     "dateAdded": "2024-06-12",
-    "lastUpdated": "2024-06-12"
+    "lastUpdated": "2026-02-24"
   },
   "ceremonialLongcoat": {
     "id": "ceremonialLongcoat",
     "type": "torso",
     "set": "ebonPirate",
     "season": "chorusOfHavoc",
-    "obtainable": "premiumPass",
+    "obtainable": ["premiumPass", "ubisoftStore"],
     "dateAdded": "2024-06-12",
-    "lastUpdated": "2024-06-12"
+    "lastUpdated": "2026-02-24"
   },
   "knottedJute": {
     "id": "knottedJute",
@@ -12217,9 +12233,9 @@
     "id": "hermitHarriet",
     "type": "pet",
     "season": "chorusOfHavoc",
-    "obtainable": [["smugglerPass","smugglerPass70Reward"]],
+    "obtainable": [["smugglerPass","smugglerPass70Reward"],"ubisoftStore"],
     "dateAdded": "2024-06-12",
-    "lastUpdated": "2025-10-21"
+    "lastUpdated": "2026-02-20"
   },
   "skullAndBonesFieryWelcome": {
     "id": "skullAndBonesFieryWelcome",
@@ -12636,9 +12652,10 @@
     "id": "lanunWraps",
     "type": "forearm",
     "bounty": "aTreacherousTurn",
+    "worldEvent": "aTreacherousTurn",
     "obtainable": "dianSinagaTreasureChest",
     "dateAdded": "2024-06-20",
-    "lastUpdated": "2024-06-20"
+    "lastUpdated": "2026-02-21"
   },
   "greatLestari": {
     "id": "greatLestari",
@@ -13081,9 +13098,10 @@
   "darkTidebringers": {
     "id": "darkTidebringers",
     "type": "crewLook",
+    "set": "shadowBlade",
     "obtainable": "ubisoftStore",
     "dateAdded": "2024-07-02",
-    "lastUpdated": "2024-07-02"
+    "lastUpdated": "2026-05-12"
   },
   "heartyHandshake": {
     "id": "heartyHandshake",
@@ -13602,13 +13620,13 @@
     "dateAdded": "2024-07-10",
     "lastUpdated": "2024-07-10"
   },
-  "elDoradoanWarriorBoots": {
-    "id": "elDoradoanWarriorBoots",
+  "goldenStride": {
+    "id": "goldenStride",
     "type": "footwear",
     "set": "leopardKing",
     "obtainable": "ubisoftStore",
     "dateAdded": "2024-07-10",
-    "lastUpdated": "2024-07-10"
+    "lastUpdated": "2026-05-25"
   },
   "realmsGate": {
     "id": "realmsGate",
@@ -14087,18 +14105,20 @@
   "brassBracers": {
     "id": "brassBracers",
     "type": "forearm",
+    "set": "ebonPirate",
     "season": "chorusOfHavoc",
-    "obtainable": "premiumPass",
+    "obtainable": ["premiumPass", "ubisoftStore"],
     "dateAdded": "2024-08-01",
-    "lastUpdated": "2024-08-01"
+    "lastUpdated": "2026-02-24"
   },
   "bloodstoneRing": {
     "id": "bloodstoneRing",
     "type": "hand",
+    "set": "ebonPirate",
     "season": "chorusOfHavoc",
-    "obtainable": "premiumPass",
+    "obtainable": ["premiumPass", "ubisoftStore"],
     "dateAdded": "2024-08-01",
-    "lastUpdated": "2024-08-01"
+    "lastUpdated": "2026-02-24"
   },
   "eternalSpring": {
     "id": "eternalSpring",
@@ -14921,13 +14941,15 @@
   "imperialDragons": {
     "id": "imperialDragons",
     "type": "crewLook",
+    "set": "shipOfDragons",
+    "inofficial": "setPiece",
     "season": "intoTheDragonsWake",
     "required": {
       "sovereigns": 200
     },
     "obtainable": "theHelmSeasonal",
     "dateAdded": "2024-08-22",
-    "lastUpdated": "2024-08-22"
+    "lastUpdated": "2026-06-05"
   },
   "skyTerror": {
     "id": "skyTerror",
@@ -14973,10 +14995,12 @@
   "medusaTouched": {
     "id": "medusaTouched",
     "type": "crewLook",
+    "set": "medusaScorned",
+    "inofficial": "setPiece",
     "season": "intoTheDragonsWake",
     "obtainable": "premiumPass",
     "dateAdded": "2024-08-22",
-    "lastUpdated": "2024-08-22"
+    "lastUpdated": "2026-06-05"
   },
   "firelight": {
     "id": "firelight",
@@ -16131,13 +16155,12 @@
     "id": "fieryJustice",
     "type": "sailsColor",
     "set": "phoenixWings",
-    "effect": "emissive",
     "season": "intoTheDragonsWake",
     "bounty": "theGloriousPhoenix",
     "worldEvent": "theGloriousPhoenix",
     "obtainable": "phoenixsTalonStrongbox",
     "dateAdded": "2024-08-27",
-    "lastUpdated": "2024-08-27"
+    "lastUpdated": "2026-06-05"
   },
   "wingsOnTheWind": {
     "id": "wingsOnTheWind",
@@ -17413,9 +17436,11 @@
   "kumihosSkulk": {
     "id": "kumihosSkulk",
     "type": "crewLook",
+    "set": "kumihoShip",
+    "inofficial": "setPiece",
     "obtainable": "ubisoftStore",
     "dateAdded": "2024-09-24",
-    "lastUpdated": "2024-09-24"
+    "lastUpdated": "2026-06-05"
   },
   "legendOfKumiho": {
     "id": "legendOfKumiho",
@@ -17718,10 +17743,9 @@
   "beardBehavior": {
     "id": "beardBehavior",
     "type": "sailsEmblem",
-    "season": "intoTheDragonsWake",
     "obtainable": [["twitchDrop","twitchDropBehavingBeardly"]],
     "dateAdded": "2024-09-29",
-    "lastUpdated": "2024-09-29"
+    "lastUpdated": "2026-03-13"
   },
   "bowtieBenny": {
     "id": "bowtieBenny",
@@ -18218,9 +18242,11 @@
     "type": "crewLook",
     "season": "shadowsOfTheDeep",
     "event": "azureSolstice",
+    "set": "wintersBite",
+    "inofficial": "setPiece",
     "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
     "dateAdded": "2024-12-03",
-    "lastUpdated": "2024-12-03"
+    "lastUpdated": "2026-06-05"
   },
   "hattersTrademark": {
     "id": "hattersTrademark",
@@ -18608,7 +18634,6 @@
     "tier": 2,
     "type": "figureHead",
     "set": "sailingSeraphim",
-    "upgrades": ["shiningRepentance"],
     "effect": "emissive",
     "basic": "wingedWatcher",
     "obtainable": "ubisoftStore",
@@ -18710,10 +18735,12 @@
   "rakshasasWarriors": {
     "id": "rakshasasWarriors",
     "type": "crewLook",
+    "set": "rakshasa",
+    "inofficial": "setPiece",
     "season": "shadowsOfTheDeep",
     "obtainable": "premiumPass",
     "dateAdded": "2024-11-19",
-    "lastUpdated": "2024-11-19"
+    "lastUpdated": "2026-06-05"
   },
   "dragonOfFortune": {
     "id": "dragonOfFortune",
@@ -18742,7 +18769,6 @@
     "type": "figureHead",
     "set": "vortigernsDragon",
     "effect": ["emissive","combatReactive"],
-    "upgrades": ["dragonOfStrength"],
     "basic": "dragonOfFortune",
     "obtainable": "ubisoftStore",
     "dateAdded": "2024-11-19",
@@ -19502,6 +19528,7 @@
   "rakshasasRage": {
     "id": "rakshasasRage",
     "type": "figureHead",
+    "tier": 1,
     "season": "shadowsOfTheDeep",
     "set": "rakshasa",
     "effect": "emissive",
@@ -19515,15 +19542,15 @@
       "artisansRefinementPack": 3
     },
     "dateAdded": "2024-11-19",
-    "lastUpdated": "2024-11-19"
+    "lastUpdated": "2026-02-26"
   },
   "rakshasaTheFiend": {
     "id": "rakshasaTheFiend",
     "type": "figureHead",
+    "tier": 2,
     "season": "shadowsOfTheDeep",
     "set": "rakshasa",
     "basic": "readyRakshasa",
-    "upgrades": ["rakshasasRage"],
     "effect": ["emissive","combatReactive"],
     "obtainable": ["ubisoftStore","upgradeWithMaterials"],
     "required": {
@@ -19534,7 +19561,7 @@
       "artisansRefinementPack": 5
     },
     "dateAdded": "2024-11-19",
-    "lastUpdated": "2024-11-19"
+    "lastUpdated": "2026-02-26"
   },
   "bloodOnSand": {
     "id": "bloodOnSand",
@@ -19752,20 +19779,24 @@
   "nautilianRascals": {
     "id": "nautilianRascals",
     "type": "crewLook",
+    "set": "nautilian",
+    "inofficial": "setPiece",
     "obtainable": "ubisoftStore",
     "dateAdded": "2024-11-19",
-    "lastUpdated": "2024-12-10"
+    "lastUpdated": "2026-06-05"
   },
   "maharajasKnights": {
     "id": "maharajasKnights",
     "type": "crewLook",
     "season": "shadowsOfTheDeep",
+    "set": "maharajaShip",
+    "inofficial": "setPiece",
     "obtainable": "theHelmSeasonal",
     "required": {
       "sovereigns": 200
     },
     "dateAdded": "2024-11-19",
-    "lastUpdated": "2024-11-19"
+    "lastUpdated": "2026-06-05"
   },
   "treasuredForever": {
     "id": "treasuredForever",
@@ -20740,10 +20771,11 @@
   "mournfulShades": {
     "id": "mournfulShades",
     "type": "aura",
+    "effect": "bossKillReactive",
     "worldEvent": "theGreatShadow",
     "obtainable": "redeemerAchievementReward",
     "dateAdded": "2024-12-12",
-    "lastUpdated": "2024-12-12"
+    "lastUpdated": "2026-03-21"
   },
   "sweepingSea": {
     "id": "sweepingSea",
@@ -21224,17 +21256,19 @@
     "id": "ritualBearers",
     "type": "sailsEmblem",
     "set": "monsoonWarlord",
+    "season": "shadowsOfTheDeep",
     "obtainable": [["twitchDrop","twitchDropAroundFirstAnniversary"]],
     "dateAdded": "2025-02-18",
-    "lastUpdated": "2025-02-18"
+    "lastUpdated": "2026-03-13"
   },
   "scrapedSides": {
     "id": "scrapedSides",
     "type": "sailsPattern",
     "set": "monsoonWarlord",
+    "season": "shadowsOfTheDeep",
     "obtainable": [["twitchDrop","twitchDropAroundFirstAnniversary"]],
     "dateAdded": "2025-02-18",
-    "lastUpdated": "2025-02-18"
+    "lastUpdated": "2026-03-13"
   },
   "hydraUnleashed": {
     "id": "hydraUnleashed",
@@ -21247,89 +21281,100 @@
     "id": "bloodiedKarsts",
     "type": "hull",
     "set": "monsoonWarlord",
+    "season": "shadowsOfTheDeep",
     "obtainable": [["twitchDrop","twitchDropAroundFirstAnniversary"]],
     "dateAdded": "2025-03-06",
-    "lastUpdated": "2025-03-06"
+    "lastUpdated": "2026-03-13"
   },
   "emeraldDeltas": {
     "id": "emeraldDeltas",
     "type": "sailsColor",
     "set": "monsoonWarlord",
+    "season": "shadowsOfTheDeep",
     "obtainable": [["twitchDrop","twitchDropAroundFirstAnniversary"]],
     "dateAdded": "2025-03-06",
-    "lastUpdated": "2025-03-06"
+    "lastUpdated": "2026-03-13"
   },
   "boundlessDream": {
     "id": "boundlessDream",
     "type": "hull",
     "set": "eternalWill",
+    "season": "shadowsOfTheDeep",
     "obtainable": [["twitchDrop","twitchDropYear2Showcase"]],
     "dateAdded": "2025-04-14",
-    "lastUpdated": "2025-04-14"
+    "lastUpdated": "2026-03-13"
   },
   "neverEnding": {
     "id": "neverEnding",
     "type": "sailsColor",
     "set": "eternalWill",
+    "season": "shadowsOfTheDeep",
     "obtainable": [["twitchDrop","twitchDropYear2Showcase"]],
     "dateAdded": "2025-04-14",
-    "lastUpdated": "2025-04-14"
+    "lastUpdated": "2026-03-13"
   },
   "burnishedBright": {
     "id": "burnishedBright",
     "type": "sailsColor",
     "set": "firesOfIndustry",
+    "season": "ascentIntoChaos",
     "obtainable": [["twitchDrop","twitchDropStartYear2Season1"]],
     "dateAdded": "2025-04-15",
-    "lastUpdated": "2025-04-15"
+    "lastUpdated": "2026-03-13"
   },
   "theVandalsCometh": {
     "id": "theVandalsCometh",
     "type": "hull",
     "set": "firesOfIndustry",
+    "season": "ascentIntoChaos",
     "obtainable": [["twitchDrop","twitchDropStartYear2Season1"]],
     "dateAdded": "2025-04-15",
-    "lastUpdated": "2025-04-15"
+    "lastUpdated": "2026-03-13"
   },
   "agelessResolve": {
     "id": "agelessResolve",
     "type": "figureHead",
     "set": "firesOfIndustry",
+    "season": "ascentIntoChaos",
     "obtainable": [["twitchDrop","twitchDropStartYear2Season1"]],
     "dateAdded": "2025-04-15",
-    "lastUpdated": "2025-04-15"
+    "lastUpdated": "2026-03-13"
   },
   "mightIsRight": {
     "id": "mightIsRight",
     "type": "sailsEmblem",
     "set": "firesOfIndustry",
+    "season": "ascentIntoChaos",
     "obtainable": [["twitchDrop","twitchDropReleaseDeathtidesSecondWave"]],
     "dateAdded": "2025-04-15",
-    "lastUpdated": "2025-06-10"
+    "lastUpdated": "2026-03-13"
   },
   "chainedDestiny": {
     "id": "chainedDestiny",
     "type": "sailsPattern",
     "set": "firesOfIndustry",
+    "season": "ascentIntoChaos",
     "obtainable": [["twitchDrop","twitchDropReleaseDeathtidesSecondWave"]],
     "dateAdded": "2025-04-15",
-    "lastUpdated": "2025-06-10"
+    "lastUpdated": "2026-03-13"
   },
   "supremacyBound": {
     "id": "supremacyBound",
     "type": "sailsEmblem",
     "set": "eternalWill",
+    "season": "ascentIntoChaos",
     "obtainable": [["twitchDrop","twitchDropReleaseDeathtides"]],
     "dateAdded": "2025-04-15",
-    "lastUpdated": "2025-05-27"
+    "lastUpdated": "2026-03-13"
   },
   "bonfiresCheer": {
     "id": "bonfiresCheer",
     "type": "sailsPattern",
     "set": "eternalWill",
+    "season": "ascentIntoChaos",
     "obtainable": [["twitchDrop","twitchDropReleaseDeathtides"]],
     "dateAdded": "2025-04-15",
-    "lastUpdated": "2025-05-27"
+    "lastUpdated": "2026-03-13"
   },
   "twilightTricorne": {
     "id": "twilightTricorne",
@@ -22127,10 +22172,12 @@
   "sunkenSouls": {
     "id": "sunkenSouls",
     "type": "crewLook",
+    "set": "innerDepths",
+    "inofficial": "setPiece",
     "season": "ascentIntoChaos",
     "obtainable": "premiumPass",
     "dateAdded": "2025-04-15",
-    "lastUpdated": "2025-04-15"
+    "lastUpdated": "2026-06-05"
   },
   "theGloriousDead": {
     "id": "theGloriousDead",
@@ -22932,108 +22979,108 @@
     "type": "sailsEmblem",
     "set": "fortuneFounders",
     "season": "ascentIntoChaos",
-    "obtainable": "ubisoftStoreSeasonalPack",
+    "obtainable": [["ubisoftStoreSeasonalPack","ubisoftStoreSeasonalBox"]],
     "dateAdded": "2025-04-15",
-    "lastUpdated": "2025-04-15"
+    "lastUpdated": "2026-05-13"
   },
   "lostAndFallen": {
     "id": "lostAndFallen",
     "type": "sailsPattern",
     "set": "fortuneFounders",
     "season": "ascentIntoChaos",
-    "obtainable": "ubisoftStoreSeasonalPack",
+    "obtainable": [["ubisoftStoreSeasonalPack","ubisoftStoreSeasonalBox"]],
     "dateAdded": "2025-04-15",
-    "lastUpdated": "2025-04-15"
+    "lastUpdated": "2026-05-13"
   },
   "moneySpinner": {
     "id": "moneySpinner",
     "type": "sailsColor",
     "set": "fortuneFounders",
     "season": "ascentIntoChaos",
-    "obtainable": "ubisoftStoreSeasonalPack",
+    "obtainable": [["ubisoftStoreSeasonalPack","ubisoftStoreSeasonalBox"]],
     "dateAdded": "2025-04-15",
-    "lastUpdated": "2025-04-15"
+    "lastUpdated": "2026-05-13"
   },
   "regaliaOfDawn": {
     "id": "regaliaOfDawn",
     "type": "torso",
     "set": "brillianceBegets",
     "season": "ascentIntoChaos",
-    "obtainable": "ubisoftStoreSeasonalPack",
+    "obtainable": [["ubisoftStoreSeasonalPack","ubisoftStoreSeasonalBoatload"]],
     "dateAdded": "2025-04-15",
-    "lastUpdated": "2025-04-15"
+    "lastUpdated": "2026-05-13"
   },
   "eternalOpulence": {
     "id": "eternalOpulence",
     "type": "footwear",
     "set": "brillianceBegets",
     "season": "ascentIntoChaos",
-    "obtainable": "ubisoftStoreSeasonalPack",
+    "obtainable": [["ubisoftStoreSeasonalPack","ubisoftStoreSeasonalBoatload"]],
     "dateAdded": "2025-04-15",
-    "lastUpdated": "2025-04-15"
+    "lastUpdated": "2026-05-13"
   },
   "starlightBefalls": {
     "id": "starlightBefalls",
     "type": "bottom",
     "set": "brillianceBegets",
     "season": "ascentIntoChaos",
-    "obtainable": "ubisoftStoreSeasonalPack",
+    "obtainable": [["ubisoftStoreSeasonalPack","ubisoftStoreSeasonalBoatload"]],
     "dateAdded": "2025-04-15",
-    "lastUpdated": "2025-04-15"
+    "lastUpdated": "2026-05-13"
   },
   "pendantOfMortality": {
     "id": "pendantOfMortality",
     "type": "neck",
     "set": "brillianceBegets",
     "season": "ascentIntoChaos",
-    "obtainable": "ubisoftStoreSeasonalPack",
+    "obtainable": [["ubisoftStoreSeasonalPack","ubisoftStoreSeasonalBoatload"]],
     "dateAdded": "2025-04-15",
-    "lastUpdated": "2025-04-15"
+    "lastUpdated": "2026-05-13"
   },
   "theSunKissedDuke": {
     "id": "theSunKissedDuke",
     "type": "headwear",
     "set": "brillianceBegets",
     "season": "ascentIntoChaos",
-    "obtainable": "ubisoftStoreSeasonalPack",
+    "obtainable": [["ubisoftStoreSeasonalPack","ubisoftStoreSeasonalBoatload"]],
     "dateAdded": "2025-04-15",
-    "lastUpdated": "2025-04-15"
+    "lastUpdated": "2026-05-13"
   },
   "dualityOfSplendor": {
     "id": "dualityOfSplendor",
     "type": "hand",
     "set": "brillianceBegets",
     "season": "ascentIntoChaos",
-    "obtainable": "ubisoftStoreSeasonalPack",
+    "obtainable": [["ubisoftStoreSeasonalPack","ubisoftStoreSeasonalBoatload"]],
     "dateAdded": "2025-04-15",
-    "lastUpdated": "2025-04-15"
+    "lastUpdated": "2026-05-13"
   },
   "embroideredVeil": {
     "id": "embroideredVeil",
     "type": "faceAccessory",
     "set": "brillianceBegets",
     "season": "ascentIntoChaos",
-    "obtainable": "ubisoftStoreSeasonalPack",
+    "obtainable": [["ubisoftStoreSeasonalPack","ubisoftStoreSeasonalBoatload"]],
     "dateAdded": "2025-04-15",
-    "lastUpdated": "2025-04-15"
+    "lastUpdated": "2026-05-13"
   },
   "danubeGloves": {
     "id": "danubeGloves",
     "type": "forearm",
     "set": "brillianceBegets",
     "season": "ascentIntoChaos",
-    "obtainable": "ubisoftStoreSeasonalPack",
+    "obtainable": [["ubisoftStoreSeasonalPack","ubisoftStoreSeasonalBoatload"]],
     "dateAdded": "2025-04-15",
-    "lastUpdated": "2025-04-15"
+    "lastUpdated": "2026-05-13"
   },
   "eclipseGirdle": {
     "id": "eclipseGirdle",
     "type": "waist",
     "set": "brillianceBegets",
     "season": "ascentIntoChaos",
-    "obtainable": "ubisoftStoreSeasonalPack",
+    "obtainable": [["ubisoftStoreSeasonalPack","ubisoftStoreSeasonalBoatload"]],
     "dateAdded": "2025-04-15",
-    "lastUpdated": "2025-04-15"
+    "lastUpdated": "2026-05-13"
   },
   "wolfishWaves": {
     "id": "wolfishWaves",
@@ -23515,36 +23562,36 @@
     "type": "nameplate",
     "set": "fortuneFounders",
     "season": "oathsOfWar",
-    "obtainable": "ubisoftStoreSeasonalPack",
+    "obtainable": [["ubisoftStoreSeasonalPack","ubisoftStoreSeasonalBox"]],
     "dateAdded": "2025-07-15",
-    "lastUpdated": "2025-07-15"
+    "lastUpdated": "2026-05-13"
   },
   "consumingDesire": {
     "id": "consumingDesire",
     "type": "wheel",
     "set": "fortuneFounders",
     "season": "gutsAndGlory",
-    "obtainable": "ubisoftStoreSeasonalPack",
+    "obtainable": [["ubisoftStoreSeasonalPack","ubisoftStoreSeasonalBox"]],
     "dateAdded": "2025-07-15",
-    "lastUpdated": "2025-10-21"
+    "lastUpdated": "2026-05-13"
   },
   "allWeCovet": {
     "id": "allWeCovet",
     "type": "figureHead",
     "set": "fortuneFounders",
     "season": "eyeOfTheBeast",
-    "obtainable": "ubisoftStoreSeasonalPack",
+    "obtainable": [["ubisoftStoreSeasonalPack","ubisoftStoreSeasonalBox"]],
     "dateAdded": "2025-07-15",
-    "lastUpdated": "2026-02-10"
+    "lastUpdated": "2026-05-13"
   },
   "forgeAndFrolic": {
     "id": "forgeAndFrolic",
     "type": "hull",
     "set": "fortuneFounders",
     "season": "oathsOfWar",
-    "obtainable": "ubisoftStoreSeasonalPack",
+    "obtainable": [["ubisoftStoreSeasonalPack","ubisoftStoreSeasonalBox"]],
     "dateAdded": "2025-07-15",
-    "lastUpdated": "2025-07-15"
+    "lastUpdated": "2026-05-13"
   },
   "takeTheAscendant": {
     "id": "takeTheAscendant",
@@ -24209,34 +24256,38 @@
     "id": "washedGray",
     "type": "hull",
     "set": "wickedCorsair",
+    "season": "oathsOfWar",
     "obtainable": [["twitchDrop","twitchDropStartYear2Season2"]],
     "dateAdded": "2025-07-15",
-    "lastUpdated": "2025-08-13"
+    "lastUpdated": "2026-03-13"
   },
   "bleakBanners": {
     "id": "bleakBanners",
     "type": "sailsColor",
     "effect": "emissive",
     "set": "wickedCorsair",
+    "season": "oathsOfWar",
     "obtainable": [["twitchDrop","twitchDropStartYear2Season2"]],
     "dateAdded": "2025-07-15",
-    "lastUpdated": "2025-08-13"
+    "lastUpdated": "2026-03-13"
   },
   "headsWillRoll": {
     "id": "headsWillRoll",
     "type": "sailsEmblem",
     "set": "wickedCorsair",
+    "season": "oathsOfWar",
     "obtainable": [["twitchDrop","twitchDropStartYear2Season2"]],
     "dateAdded": "2025-07-15",
-    "lastUpdated": "2025-08-13"
+    "lastUpdated": "2026-03-13"
   },
   "flamingWill": {
     "id": "flamingWill",
     "type": "sailsPattern",
     "set": "wickedCorsair",
+    "season": "oathsOfWar",
     "obtainable": [["twitchDrop","twitchDropStartYear2Season2"]],
     "dateAdded": "2025-07-15",
-    "lastUpdated": "2025-08-13"
+    "lastUpdated": "2026-03-13"
   },
   "sunsHome": {
     "id": "sunsHome",
@@ -25118,16 +25169,18 @@
   "sunkissedSeadogs": {
     "id": "sunkissedSeadogs",
     "type": "crewLook",
-    "obtainable": "ubisoftStoreSeasonalPack",
+    "set": "fortuneFounders",
+    "inofficial": "setPiece",
+    "obtainable": [["ubisoftStoreSeasonalPack","ubisoftStoreSeasonalBoatload"]],
     "dateAdded": "2025-07-15",
-    "lastUpdated": "2025-07-15"
+    "lastUpdated": "2026-06-05"
   },
   "blindingMoves": {
     "id": "blindingMoves",
     "type": "emote",
-    "obtainable": "ubisoftStoreSeasonalPack",
+    "obtainable": [["ubisoftStoreSeasonalPack","ubisoftStoreSeasonalBoatload"]],
     "dateAdded": "2025-07-15",
-    "lastUpdated": "2025-07-15"
+    "lastUpdated": "2026-05-13"
   },
   "lawlessWays": {
     "id": "lawlessWays",
@@ -25163,13 +25216,13 @@
   "keepItFlowing": {
     "id": "keepItFlowing",
     "type": "figureHead",
-    "effect": "emissive",
+    "effect": ["emissive","combatReactive"],
     "set": "bootlegBill",
     "event": "moonshineLarceny",
     "season": "oathsOfWar",
     "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
     "dateAdded": "2025-07-22",
-    "lastUpdated": "2025-07-22"
+    "lastUpdated": "2026-05-12"
   },
   "pricelessSecrets": {
     "id": "pricelessSecrets",
@@ -25300,6 +25353,16 @@
     "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
     "dateAdded": "2025-07-22",
     "lastUpdated": "2025-07-22"
+  },
+  "bloomstrike": {
+    "id": "bloomstrike",
+    "type": "bodyCosmetics",
+    "set": "carnivalOfCool",
+    "event": "moonshineLarceny",
+    "season": "oathsOfWar",
+    "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+    "dateAdded": "2025-07-22",
+    "lastUpdated": "2026-05-12"
   },
   "finalNotes": {
     "id": "finalNotes",
@@ -25658,9 +25721,12 @@
   "calypsosCurse": {
     "id": "calypsosCurse",
     "type": "crewLook",
+    "set": "drownedWitch",
+    "inofficial": "setPiece",
+    "season": "oathsOfWar",
     "obtainable": "premiumPass",
     "dateAdded": "2025-08-05",
-    "lastUpdated": "2025-08-05"
+    "lastUpdated": "2026-06-05"
   },
   "heedDeath": {
     "id": "heedDeath",
@@ -25729,9 +25795,10 @@
   "courtingDeath": {
     "id": "courtingDeath",
     "type": "sailsEmblem",
+    "removed": "2026-05-19",
     "obtainable": [["twitchDrop","twitchDropDeathwish"]],
     "dateAdded": "2025-08-12",
-    "lastUpdated": "2025-08-13"
+    "lastUpdated": "2026-05-19"
   },
   "lawsOfBattle": {
     "id": "lawsOfBattle",
@@ -25785,33 +25852,37 @@
     "id": "rattleTheBars",
     "type": "sailsPattern",
     "set": "cagedFury",
-    "obtainable": ["twitchDrop","twitchDropDarktidesLullabyRelease"],
+    "season": "oathsOfWar",
+    "obtainable": [["twitchDrop","twitchDropDarktidesLullabyRelease"]],
     "dateAdded": "2025-09-02",
-    "lastUpdated": "2025-09-02"
+    "lastUpdated": "2026-03-13"
   },
   "ironTang": {
     "id": "ironTang",
     "type": "sailsColor",
     "set": "cagedFury",
-    "obtainable": ["twitchDrop","twitchDropDarktidesLullabyRelease"],
+    "season": "oathsOfWar",
+    "obtainable": [["twitchDrop","twitchDropDarktidesLullabyRelease"]],
     "dateAdded": "2025-09-02",
-    "lastUpdated": "2025-09-02"
+    "lastUpdated": "2026-03-13"
   },
   "stingingSun": {
     "id": "stingingSun",
     "type": "hull",
     "set": "cagedFury",
-    "obtainable": ["twitchDrop","twitchDropDarktidesLullabyRelease"],
+    "season": "oathsOfWar",
+    "obtainable": [["twitchDrop","twitchDropDarktidesLullabyRelease"]],
     "dateAdded": "2025-09-02",
-    "lastUpdated": "2025-09-02"
+    "lastUpdated": "2026-03-13"
   },
   "freeRein": {
     "id": "freeRein",
     "type": "sailsEmblem",
     "set": "cagedFury",
-    "obtainable": ["twitchDrop","twitchDropDarktidesLullabyRelease"],
+    "season": "oathsOfWar",
+    "obtainable": [["twitchDrop","twitchDropDarktidesLullabyRelease"]],
     "dateAdded": "2025-09-02",
-    "lastUpdated": "2025-09-02"
+    "lastUpdated": "2026-03-13"
   },
   "soulSpurned": {
     "id": "soulSpurned",
@@ -26644,34 +26715,38 @@
     "id": "theNextLife",
     "type": "hull",
     "set": "kingOfChains",
+    "season": "gutsAndGlory",
     "obtainable": [["twitchDrop","twitchDropStartYear2Season3"]],
     "dateAdded": "2025-10-21",
-    "lastUpdated": "2025-10-21"
+    "lastUpdated": "2026-03-13"
   },
   "steelySmile": {
     "id": "steelySmile",
     "type": "sailsColor",
     "effect": "emissive",
     "set": "kingOfChains",
+    "season": "gutsAndGlory",
     "obtainable": [["twitchDrop","twitchDropStartYear2Season3"]],
     "dateAdded": "2025-10-21",
-    "lastUpdated": "2025-10-21"
+    "lastUpdated": "2026-03-13"
   },
   "buccaneersRevenge": {
     "id": "buccaneersRevenge",
     "type": "sailsEmblem",
     "set": "kingOfChains",
+    "season": "gutsAndGlory",
     "obtainable": [["twitchDrop","twitchDropStartYear2Season3"]],
     "dateAdded": "2025-10-21",
-    "lastUpdated": "2025-10-21"
+    "lastUpdated": "2026-03-13"
   },
   "borrowedTime": {
     "id": "borrowedTime",
     "type": "sailsPattern",
     "set": "kingOfChains",
+    "season": "gutsAndGlory",
     "obtainable": [["twitchDrop","twitchDropStartYear2Season3"]],
     "dateAdded": "2025-10-21",
-    "lastUpdated": "2025-10-21"
+    "lastUpdated": "2026-03-13"
   },
   "sovereignOfTheSea": {
     "id": "sovereignOfTheSea",
@@ -26687,7 +26762,7 @@
     "set": "theAnchorborn",
     "obtainable": [["twitchDrop","twitchDropTheDeck"]],
     "dateAdded": "2025-10-22",
-    "lastUpdated": "2025-10-22"
+    "lastUpdated": "2026-03-27"
   },
   "lifesVoyage": {
     "id": "lifesVoyage",
@@ -27686,17 +27761,17 @@
     "id": "jua",
     "type": "pet",
     "season": "gutsAndGlory",
-    "obtainable": "ubisoftStoreSeasonalPack",
+    "obtainable": [["ubisoftStoreSeasonalPack","ubisoftStoreSeasonalBoatload"]],
     "dateAdded": "2025-10-28",
-    "lastUpdated": "2025-10-28"
+    "lastUpdated": "2026-05-13"
   },
   "raiseYourCup": {
     "id": "raiseYourCup",
     "type": "emote",
     "season": "gutsAndGlory",
-    "obtainable": "ubisoftStoreSeasonalPack",
+    "obtainable": [["ubisoftStoreSeasonalPack","ubisoftStoreSeasonalBoatload"]],
     "dateAdded": "2025-10-28",
-    "lastUpdated": "2025-10-28"
+    "lastUpdated": "2026-05-13"
   },
   "walkingRemains": {
     "id": "walkingRemains",
@@ -28112,9 +28187,10 @@
     "id": "clingingCurse",
     "type": "aura",
     "effect": "bossKillReactive",
+    "worldEvent": "theDrowningPlague",
     "obtainable": "laPestesLockerMythic",
     "dateAdded": "2025-10-21",
-    "lastUpdated": "2025-12-28"
+    "lastUpdated": "2026-03-21"
   },
   "sirensCrest": {
     "id": "sirensCrest",
@@ -28583,13 +28659,13 @@
     "dateAdded": "2025-10-28",
     "lastUpdated": "2025-10-28"
   },
-  "coilsOfFate": {
-    "id": "coilsOfFate",
+  "serpentsTouch": {
+    "id": "serpentsTouch",
     "type": "sailsEmblem",
     "set": "coilsOfFate",
     "obtainable": "ubisoftStore",
     "dateAdded": "2025-11-11",
-    "lastUpdated": "2025-11-11"
+    "lastUpdated": "2026-02-24"
   },
   "burrowingMadness": {
     "id": "burrowingMadness",
@@ -28913,33 +28989,33 @@
     "type": "sailsColor",
     "effect": "emissive",
     "set": "burningWhispers",
-    "obtainable": "twitchDropAzureSolsticeY2S3",
+    "obtainable": [["twitchDrop","twitchDropAzureSolsticeY2S3"]],
     "dateAdded": "2025-12-10",
-    "lastUpdated": "2025-12-10"
+    "lastUpdated": "2026-03-12"
   },
   "embersInTheNight": {
     "id": "embersInTheNight",
     "type": "hull",
     "set": "burningWhispers",
-    "obtainable": "twitchDropAzureSolsticeY2S3",
+    "obtainable": [["twitchDrop","twitchDropAzureSolsticeY2S3"]],
     "dateAdded": "2025-12-10",
-    "lastUpdated": "2025-12-10"
+    "lastUpdated": "2026-03-12"
   },
   "bloodDemands": {
     "id": "bloodDemands",
     "type": "sailsPattern",
     "set": "burningWhispers",
-    "obtainable": "twitchDropAzureSolsticeY2S3",
+    "obtainable": [["twitchDrop","twitchDropAzureSolsticeY2S3"]],
     "dateAdded": "2025-12-10",
-    "lastUpdated": "2025-12-10"
+    "lastUpdated": "2026-03-12"
   },
   "dreadStirs": {
     "id": "dreadStirs",
     "type": "sailsEmblem",
     "set": "burningWhispers",
-    "obtainable": "twitchDropAzureSolsticeY2S3",
+    "obtainable": [["twitchDrop","twitchDropAzureSolsticeY2S3"]],
     "dateAdded": "2025-12-10",
-    "lastUpdated": "2025-12-10"
+    "lastUpdated": "2026-03-12"
   },
   "ferociousGuardian": {
     "id": "ferociousGuardian",
@@ -29687,7 +29763,6 @@
   "regentsResolve": {
     "id": "regentsResolve",
     "type": "sailsPattern",
-    "effect": "emissive",
     "set": "gildedCoronation",
     "required": {
       "silverLions": 250
@@ -30021,6 +30096,7 @@
   "lastRestraint": {
     "id": "lastRestraint",
     "type": "figureHead",
+    "tier": 1,
     "effect": "emissive",
     "set": "sunkenWatchers",
     "basic": "barnaclesAndChains",
@@ -30034,11 +30110,12 @@
     },
     "obtainable": ["ubisoftStore","upgradeWithMaterials"],
     "dateAdded": "2026-02-10",
-    "lastUpdated": "2026-02-10"
+    "lastUpdated": "2026-02-26"
   },
   "boundCurses": {
     "id": "boundCurses",
     "type": "figureHead",
+    "tier": 2,
     "effect": ["emissive","combatReactive"],
     "set": "sunkenWatchers",
     "basic": "barnaclesAndChains",
@@ -30052,7 +30129,7 @@
     },
     "obtainable": ["ubisoftStore","upgradeWithMaterials"],
     "dateAdded": "2026-02-10",
-    "lastUpdated": "2026-02-10"
+    "lastUpdated": "2026-02-26"
   },
   "oneLastBreath": {
     "id": "oneLastBreath",
@@ -30537,102 +30614,102 @@
   "hauteMagnifique": {
     "id": "hauteMagnifique",
     "type": "sailsEmblem",
-    "set": "",
+    "set": "badAndBaroque",
     "season": "eyeOfTheBeast",
-    "obtainable": "factionWarRewardWonTerritory1",
+    "obtainable": "retributionWarRewardWonTerritory1",
     "faction": "compagnieRoyale",
     "dateAdded": "2026-02-10",
-    "lastUpdated": "2026-02-10"
+    "lastUpdated": "2026-04-06"
   },
   "cobaltCorsair": {
     "id": "cobaltCorsair",
     "type": "sailsColor",
-    "set": "",
+    "set": "badAndBaroque",
     "effect": "emissive",
     "season": "eyeOfTheBeast",
-    "obtainable": "factionWarRewardWonTerritory4",
+    "obtainable": "retributionWarRewardWonTerritory4",
     "faction": "compagnieRoyale",
     "dateAdded": "2026-02-10",
-    "lastUpdated": "2026-02-10"
+    "lastUpdated": "2026-04-06"
   },
   "crownmetal": {
     "id": "crownmetal",
     "type": "hull",
-    "set": "",
+    "set": "badAndBaroque",
     "season": "eyeOfTheBeast",
-    "obtainable": "factionWarRewardWonTerritory7",
+    "obtainable": "retributionWarRewardWonTerritory7",
     "faction": "compagnieRoyale",
     "dateAdded": "2026-02-10",
-    "lastUpdated": "2026-02-10"
+    "lastUpdated": "2026-04-06"
   },
   "nobleflame": {
     "id": "nobleflame",
     "type": "sailsPattern",
-    "set": "",
+    "set": "badAndBaroque",
     "season": "eyeOfTheBeast",
-    "obtainable": "factionWarRewardWonTerritory11",
+    "obtainable": "retributionWarRewardWonTerritory11",
     "faction": "compagnieRoyale",
     "dateAdded": "2026-02-10",
-    "lastUpdated": "2026-02-10"
+    "lastUpdated": "2026-04-06"
   },
   "lionsRoar": {
     "id": "lionsRoar",
     "type": "sailsEmblem",
-    "set": "",
+    "set": "oranjeDominion",
     "season": "eyeOfTheBeast",
-    "obtainable": "factionWarRewardWonTerritory1",
+    "obtainable": "retributionWarRewardWonTerritory1",
     "faction": "dutchMerchantCompany",
     "dateAdded": "2026-02-10",
-    "lastUpdated": "2026-02-10"
+    "lastUpdated": "2026-04-24"
   },
   "flameWind": {
     "id": "flameWind",
     "type": "sailsColor",
-    "set": "",
+    "set": "oranjeDominion",
     "effect": "emissive",
     "season": "eyeOfTheBeast",
-    "obtainable": "factionWarRewardWonTerritory4",
+    "obtainable": "retributionWarRewardWonTerritory4",
     "faction": "dutchMerchantCompany",
     "dateAdded": "2026-02-10",
-    "lastUpdated": "2026-02-10"
+    "lastUpdated": "2026-04-24"
   },
   "zwartGoud": {
     "id": "zwartGoud",
     "type": "hull",
-    "set": "",
+    "set": "oranjeDominion",
     "season": "eyeOfTheBeast",
-    "obtainable": "factionWarRewardWonTerritory7",
+    "obtainable": "retributionWarRewardWonTerritory7",
     "faction": "dutchMerchantCompany",
     "dateAdded": "2026-02-10",
-    "lastUpdated": "2026-02-10"
+    "lastUpdated": "2026-04-24"
   },
   "helmBanier": {
     "id": "helmBanier",
     "type": "sailsPattern",
-    "set": "",
+    "set": "oranjeDominion",
     "season": "eyeOfTheBeast",
-    "obtainable": "factionWarRewardWonTerritory11",
+    "obtainable": "retributionWarRewardWonTerritory11",
     "faction": "dutchMerchantCompany",
     "dateAdded": "2026-02-10",
-    "lastUpdated": "2026-02-10"
+    "lastUpdated": "2026-04-24"
   },
   "brassbound": {
     "id": "brassbound",
     "type": "hull",
     "set": "friendlyFoes",
     "season": "eyeOfTheBeast",
-    "obtainable": "twitchDropStartYear2Season4",
+    "obtainable": [["twitchDrop","twitchDropStartYear2Season4"]],
     "dateAdded": "2026-02-10",
-    "lastUpdated": "2026-02-10"
+    "lastUpdated": "2026-03-12"
   },
   "twoFacedGrin": {
     "id": "twoFacedGrin",
     "type": "sailsEmblem",
     "set": "friendlyFoes",
     "season": "eyeOfTheBeast",
-    "obtainable": "twitchDropStartYear2Season4",
+    "obtainable": [["twitchDrop","twitchDropStartYear2Season4"]],
     "dateAdded": "2026-02-10",
-    "lastUpdated": "2026-02-10"
+    "lastUpdated": "2026-03-12"
   },
   "crimsonCreed": {
     "id": "crimsonCreed",
@@ -30640,27 +30717,27 @@
     "effect": "emissive",
     "set": "friendlyFoes",
     "season": "eyeOfTheBeast",
-    "obtainable": "twitchDropStartYear2Season4",
+    "obtainable": [["twitchDrop","twitchDropStartYear2Season4"]],
     "dateAdded": "2026-02-10",
-    "lastUpdated": "2026-02-10"
+    "lastUpdated": "2026-03-12"
   },
   "intricateSchemes": {
     "id": "intricateSchemes",
     "type": "sailsPattern",
     "set": "friendlyFoes",
     "season": "eyeOfTheBeast",
-    "obtainable": "twitchDropStartYear2Season4",
+    "obtainable": [["twitchDrop","twitchDropStartYear2Season4"]],
     "dateAdded": "2026-02-10",
-    "lastUpdated": "2026-02-10"
+    "lastUpdated": "2026-03-12"
   },
   "sunShimmer": {
     "id": "sunShimmer",
     "type": "aura",
     "effect": "bossKillReactive",
     "season": "eyeOfTheBeast",
-    "obtainable": "ubisoftStoreSeasonalPack",
+    "obtainable": [["ubisoftStoreSeasonalPack","ubisoftStoreSeasonalBoatload"]],
     "dateAdded": "2026-02-10",
-    "lastUpdated": "2026-02-10"
+    "lastUpdated": "2026-05-13"
   },
   "streetCinch": {
     "id": "streetCinch",
@@ -30771,9 +30848,10 @@
     "id": "soulReaper",
     "type": "figureHead",
     "set": "silverSpectre",
+    "effect": "emissive",
     "obtainable": "ubisoftStore",
     "dateAdded": "2026-02-17",
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-03-04"
   },
   "hellfiresShine": {
     "id": "hellfiresShine",
@@ -31022,11 +31100,11 @@
   "saltyVisions": {
     "id": "saltyVisions",
     "type": "faceAccessory",
-    "effect": ["emissive","movementReactive"],
+    "effect": "emissive",
     "set": "argentWarden",
     "obtainable": "ubisoftStore",
     "dateAdded": "2026-02-17",
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-25"
   },
   "candleBehindGlass": {
     "id": "candleBehindGlass",
@@ -31157,5 +31235,2508 @@
     "obtainable": "ubisoftStore",
     "dateAdded": "2026-02-17",
     "lastUpdated": "2026-02-17"
+  },
+  "theKeepersWay": {
+    "id": "theKeepersWay",
+    "type": "sailsEmblem",
+    "obtainable": [["twitchDrop","twitchDropLilywhiteTV"]],
+    "dateAdded": "2026-02-24",
+    "lastUpdated": "2026-03-12"
+  },
+  "wrathskull": {
+    "id": "wrathskull",
+    "type": "sailsEmblem",
+    "effect": "animated",
+    "set": "apexTitan",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-02-24",
+    "lastUpdated": "2026-02-24"
+  },
+  "bonesEdge": {
+    "id": "bonesEdge",
+    "type": "sailsPattern",
+    "set": "apexTitan",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-02-24",
+    "lastUpdated": "2026-02-24"
+  },
+  "fossilMoss": {
+    "id": "fossilMoss",
+    "type": "sailsColor",
+    "effect": "emissive",
+    "set": "apexTitan",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-02-24",
+    "lastUpdated": "2026-02-24"
+  },
+  "stormOil": {
+    "id": "stormOil",
+    "type": "hull",
+    "set": "apexTitan",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-02-24",
+    "lastUpdated": "2026-02-24"
+  },
+  "rubyOfTheReefs": {
+    "id": "rubyOfTheReefs",
+    "type": "sailsEmblem",
+    "obtainable": [["twitchDrop","twitchDropRubyNXT"]],
+    "dateAdded": "2026-03-10",
+    "lastUpdated": "2026-03-12"
+  },
+  "broodfang": {
+    "id": "broodfang",
+    "type": "sailsEmblem",
+    "set": "greaterNian",
+    "event": "legendOfTheNian",
+    "season": "eyeOfTheBeast",
+    "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+    "dateAdded": "2026-03-24",
+    "lastUpdated": "2026-03-24"
+  },
+  "scalemark": {
+    "id": "scalemark",
+    "type": "sailsPattern",
+    "set": "greaterNian",
+    "event": "legendOfTheNian",
+    "season": "eyeOfTheBeast",
+    "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+    "dateAdded": "2026-03-24",
+    "lastUpdated": "2026-03-24"
+  },
+  "bladelitBrood": {
+    "id": "bladelitBrood",
+    "type": "sailsColor",
+    "effect": "emissive",
+    "set": "greaterNian",
+    "event": "legendOfTheNian",
+    "season": "eyeOfTheBeast",
+    "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+    "dateAdded": "2026-03-24",
+    "lastUpdated": "2026-03-24"
+  },
+  "spitefulDrake": {
+    "id": "spitefulDrake",
+    "type": "figureHead",
+    "set": "greaterNian",
+    "upgrades": ["wyrmReckoner","broodSovereign"],
+    "event": "legendOfTheNian",
+    "season": "eyeOfTheBeast",
+    "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+    "dateAdded": "2026-03-24",
+    "lastUpdated": "2026-03-24"
+  },
+  "wyrmReckoner": {
+    "id": "wyrmReckoner",
+    "type": "figureHead",
+    "tier": 1,
+    "effect": "emissive",
+    "basic": "spitefulDrake",
+    "upgrades": ["broodSovereign"],
+    "set": "greaterNian",
+    "event": "legendOfTheNian",
+    "season": "eyeOfTheBeast",
+    "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+    "dateAdded": "2026-03-24",
+    "lastUpdated": "2026-03-24"
+  },
+  "broodSovereign": {
+    "id": "broodSovereign",
+    "type": "figureHead",
+    "tier": 2,
+    "effect": ["emissive","combatReactive"],
+    "basic": "spitefulDrake",
+    "set": "greaterNian",
+    "event": "legendOfTheNian",
+    "season": "eyeOfTheBeast",
+    "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+    "dateAdded": "2026-03-24",
+    "lastUpdated": "2026-03-24"
+  },
+  "ashvenom": {
+    "id": "ashvenom",
+    "type": "hull",
+    "set": "greaterNian",
+    "event": "legendOfTheNian",
+    "season": "eyeOfTheBeast",
+    "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+    "dateAdded": "2026-03-24",
+    "lastUpdated": "2026-03-24"
+  },
+  "dragonwind": {
+    "id": "dragonwind",
+    "type": "nameplate",
+    "effect": "emissive",
+    "set": "greaterNian",
+    "season": "eyeOfTheBeast",
+    "event": "legendOfTheNian",
+    "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+    "dateAdded": "2026-03-24",
+    "lastUpdated": "2026-03-24"
+  },
+  "firemist": {
+    "id": "firemist",
+    "type": "aura",
+    "effect": "bossKillReactive",
+    "season": "eyeOfTheBeast",
+    "event": "legendOfTheNian",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-03-24",
+    "lastUpdated": "2026-03-24"
+  },
+  "hulongHavoc": {
+    "id": "hulongHavoc",
+    "type": "demicannonWeaponSkin",
+    "effect": "emissive",
+    "season": "eyeOfTheBeast",
+    "event": "legendOfTheNian",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-03-24",
+    "lastUpdated": "2026-03-24"
+  },
+  "dracoNian": {
+    "id": "dracoNian",
+    "type": "firework",
+    "event": "legendOfTheNian",
+    "season": "eyeOfTheBeast",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-03-24",
+    "lastUpdated": "2026-03-24"
+  },
+  "shen": {
+    "id": "shen",
+    "type": "pet",
+    "event": "legendOfTheNian",
+    "season": "eyeOfTheBeast",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-03-24",
+    "lastUpdated": "2026-03-24"
+  },
+  "shackleSnap": {
+    "id": "shackleSnap",
+    "type": "firework",
+    "event": "legendOfTheNian",
+    "season": "eyeOfTheBeast",
+    "obtainable": "premiumEventPass",
+    "dateAdded": "2026-03-24",
+    "lastUpdated": "2026-03-24"
+  },
+  "guzzletooth": {
+    "id": "guzzletooth",
+    "type": "bombardWeaponSkin",
+    "event": "legendOfTheNian",
+    "season": "eyeOfTheBeast",
+    "obtainable": "premiumEventPass",
+    "dateAdded": "2026-03-24",
+    "lastUpdated": "2026-03-24"
+  },
+  "gatorsHide": {
+    "id": "gatorsHide",
+    "type": "hull",
+    "set": "crocodilosWrath",
+    "event": "legendOfTheNian",
+    "season": "eyeOfTheBeast",
+    "obtainable": "eventPass",
+    "dateAdded": "2026-03-24",
+    "lastUpdated": "2026-04-20"
+  },
+  "deathRoll": {
+    "id": "deathRoll",
+    "type": "sailsPattern",
+    "set": "crocodilosWrath",
+    "event": "legendOfTheNian",
+    "season": "eyeOfTheBeast",
+    "obtainable": "eventPass",
+    "dateAdded": "2026-03-24",
+    "lastUpdated": "2026-04-20"
+  },
+  "crimsonSplash": {
+    "id": "crimsonSplash",
+    "type": "sailsColor",
+    "effect": "emissive",
+    "set": "crocodilosWrath",
+    "event": "legendOfTheNian",
+    "season": "eyeOfTheBeast",
+    "obtainable": "eventPass",
+    "dateAdded": "2026-03-24",
+    "lastUpdated": "2026-04-20"
+  },
+  "mawUnleashed": {
+    "id": "mawUnleashed",
+    "type": "sailsEmblem",
+    "set": "crocodilosWrath",
+    "event": "legendOfTheNian",
+    "season": "eyeOfTheBeast",
+    "obtainable": "eventPass",
+    "dateAdded": "2026-03-24",
+    "lastUpdated": "2026-04-20"
+  },
+  "snarlweave": {
+    "id": "snarlweave",
+    "type": "sailsPattern",
+    "set": "chimpCrazy",
+    "obtainable": [["twitchDrop","twitchDropTheDeck"]],
+    "dateAdded": "2026-03-27",
+    "lastUpdated": "2026-03-27"
+  },
+  "frenziedFrown": {
+    "id": "frenziedFrown",
+    "type": "sailsColor",
+    "effect": "emissive",
+    "set": "chimpCrazy",
+    "obtainable": [["twitchDrop","twitchDropTheDeck"]],
+    "dateAdded": "2026-03-27",
+    "lastUpdated": "2026-03-27"
+  },
+  "gunmetalGrin": {
+    "id": "gunmetalGrin",
+    "type": "hull",
+    "set": "chimpCrazy",
+    "obtainable": [["twitchDrop","twitchDropTheDeck"]],
+    "dateAdded": "2026-03-27",
+    "lastUpdated": "2026-03-27"
+  },
+  "screechOfMayhem": {
+    "id": "screechOfMayhem",
+    "type": "sailsEmblem",
+    "set": "chimpCrazy",
+    "obtainable": [["twitchDrop","twitchDropTheDeck"]],
+    "dateAdded": "2026-03-27",
+    "lastUpdated": "2026-03-27"
+  },
+  "theReapersCall": {
+    "id": "theReapersCall",
+    "type": "sailsEmblem",
+    "set": "deathsGlow",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-03-31",
+    "lastUpdated": "2026-03-31"
+  },
+  "scythesHonour": {
+    "id": "scythesHonour",
+    "type": "sailsPattern",
+    "set": "deathsGlow",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-03-31",
+    "lastUpdated": "2026-03-31"
+  },
+  "darkestWeave": {
+    "id": "darkestWeave",
+    "type": "sailsColor",
+    "effect": "emissive",
+    "set": "deathsGlow",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-03-31",
+    "lastUpdated": "2026-03-31"
+  },
+  "helenaFromHell": {
+    "id": "helenaFromHell",
+    "type": "figureHead",
+    "effect": "emissive",
+    "set": "deathsGlow",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-03-31",
+    "lastUpdated": "2026-03-31"
+  },
+  "graveyardGloss": {
+    "id": "graveyardGloss",
+    "type": "hull",
+    "set": "deathsGlow",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-03-31",
+    "lastUpdated": "2026-03-31"
+  },
+  "doomcaller": {
+    "id": "doomcaller",
+    "type": "nameplate",
+    "effect": "emissive",
+    "set": "deathsGlow",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-03-31",
+    "lastUpdated": "2026-03-31"
+  },
+  "boundFate": {
+    "id": "boundFate",
+    "type": "trophy",
+    "effect": "emissive",
+    "set": "deathsGlow",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-03-31",
+    "lastUpdated": "2026-03-31"
+  },
+  "blackenedOaths": {
+    "id": "blackenedOaths",
+    "type": "headwear",
+    "set": "deathlyWishes",
+    "effect": "emissive",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-03-31",
+    "lastUpdated": "2026-03-31"
+  },
+  "grimReflection": {
+    "id": "grimReflection",
+    "type": "faceAccessory",
+    "set": "deathlyWishes",
+    "effect": "emissive",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-03-31",
+    "lastUpdated": "2026-03-31"
+  },
+  "soulsight": {
+    "id": "soulsight",
+    "type": "eyeColor",
+    "set": "deathlyWishes",
+    "effect": "emissive",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-03-31",
+    "lastUpdated": "2026-03-31"
+  },
+  "gallowsGrace": {
+    "id": "gallowsGrace",
+    "type": "torso",
+    "set": "deathlyWishes",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-03-31",
+    "lastUpdated": "2026-03-31"
+  },
+  "lacedLament": {
+    "id": "lacedLament",
+    "type": "neck",
+    "set": "deathlyWishes",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-03-31",
+    "lastUpdated": "2026-03-31"
+  },
+  "gravediggersGrip": {
+    "id": "gravediggersGrip",
+    "type": "forearm",
+    "set": "deathlyWishes",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-03-31",
+    "lastUpdated": "2026-03-31"
+  },
+  "littleMercies": {
+    "id": "littleMercies",
+    "type": "waist",
+    "set": "deathlyWishes",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-03-31",
+    "lastUpdated": "2026-03-31"
+  },
+  "deadkinsPride": {
+    "id": "deadkinsPride",
+    "type": "bottom",
+    "set": "deathlyWishes",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-03-31",
+    "lastUpdated": "2026-03-31"
+  },
+  "echoNoir": {
+    "id": "echoNoir",
+    "type": "footwear",
+    "set": "deathlyWishes",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-03-31",
+    "lastUpdated": "2026-03-31"
+  },
+  "darkSepulchre": {
+    "id": "darkSepulchre",
+    "type": "hull",
+    "set": "velvetRequiem",
+    "obtainable": "Y2S4AnniversarySailEmblemContentReward",
+    "dateAdded": "2026-03-31",
+    "lastUpdated": "2026-03-31"
+  },
+  "huntersVeil": {
+    "id": "huntersVeil",
+    "type": "sailsColor",
+    "set": "velvetRequiem",
+    "obtainable": "Y2S4AnniversarySailEmblemContentReward",
+    "dateAdded": "2026-03-31",
+    "lastUpdated": "2026-03-31"
+  },
+  "thornsInBloom": {
+    "id": "thornsInBloom",
+    "type": "sailsPattern",
+    "set": "velvetRequiem",
+    "obtainable": "Y2S4AnniversarySailEmblemContentReward",
+    "dateAdded": "2026-03-31",
+    "lastUpdated": "2026-03-31"
+  },
+  "wreathedSkull": {
+    "id": "wreathedSkull",
+    "type": "sailsEmblem",
+    "set": "velvetRequiem",
+    "obtainable": "Y2S4AnniversarySailEmblemContentReward",
+    "dateAdded": "2026-03-31",
+    "lastUpdated": "2026-05-05"
+  },
+  "azureRogue": {
+    "id": "azureRogue",
+    "type": "sailsEmblem",
+    "set": "masqueRenegade",
+    "season": "shatteredSeas",
+    "obtainable": "dominionWarRewardWonTerritory1",
+    "faction": "compagnieRoyale",
+    "dateAdded": "2026-04-12",
+    "lastUpdated": "2026-04-12"
+  },
+  "moonlitShadow": {
+    "id": "moonlitShadow",
+    "type": "sailsColor",
+    "set": "masqueRenegade",
+    "effect": "emissive",
+    "season": "shatteredSeas",
+    "obtainable": "dominionWarRewardWonTerritory4",
+    "faction": "compagnieRoyale",
+    "dateAdded": "2026-04-12",
+    "lastUpdated": "2026-04-12"
+  },
+  "phantomsWake": {
+    "id": "phantomsWake",
+    "type": "hull",
+    "set": "masqueRenegade",
+    "season": "shatteredSeas",
+    "obtainable": "dominionWarRewardWonTerritory5",
+    "faction": "compagnieRoyale",
+    "dateAdded": "2026-04-12",
+    "lastUpdated": "2026-04-12"
+  },
+  "deathGripSP": {
+    "id": "deathGripSP",
+    "type": "sailsPattern",
+    "set": "masqueRenegade",
+    "season": "shatteredSeas",
+    "obtainable": "dominionWarRewardWonTerritory8",
+    "faction": "compagnieRoyale",
+    "dateAdded": "2026-04-12",
+    "lastUpdated": "2026-04-12"
+  },
+  "boucanier": {
+    "id": "boucanier",
+    "type": "nameplate",
+    "set": "masqueRenegade",
+    "effect": "emissive",
+    "season": "shatteredSeas",
+    "obtainable": "dominionWarRewardWonTerritory11",
+    "faction": "compagnieRoyale",
+    "dateAdded": "2026-04-12",
+    "lastUpdated": "2026-04-12"
+  },
+  "bleuFury": {
+    "id": "bleuFury",
+    "type": "aura",
+    "season": "eyeOfTheBeast",
+    "effect": "bossKillReactive",
+    "faction": "compagnieRoyale",
+    "obtainable": "retributionWarWinReward",
+    "dateAdded": "2026-05-05",
+    "lastUpdated": "2026-05-05"
+  },
+  "oranjeWinds": {
+    "id": "oranjeWinds",
+    "type": "aura",
+    "season": "eyeOfTheBeast",
+    "effect": "bossKillReactive",
+    "faction": "dutchMerchantCompany",
+    "obtainable": "retributionWarWinReward",
+    "dateAdded": "2026-05-05",
+    "lastUpdated": "2026-05-05"
+  },
+  "frostflare": {
+    "id": "frostflare",
+    "type": "aura",
+    "season": "shatteredSeas",
+    "effect": "bossKillReactive",
+    "faction": "compagnieRoyale",
+    "obtainable": "dominionWarWinReward",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "flamewake": {
+    "id": "flamewake",
+    "type": "aura",
+    "season": "shatteredSeas",
+    "effect": "bossKillReactive",
+    "faction": "dutchMerchantCompany",
+    "obtainable": "dominionWarWinReward",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "auricPride": {
+    "id": "auricPride",
+    "type": "sailsEmblem",
+    "set": "maneOfGlory",
+    "season": "shatteredSeas",
+    "obtainable": "dominionWarRewardWonTerritory1",
+    "faction": "dutchMerchantCompany",
+    "dateAdded": "2026-04-12",
+    "lastUpdated": "2026-04-12"
+  },
+  "sablesilkCloak": {
+    "id": "sablesilkCloak",
+    "type": "sailsColor",
+    "set": "maneOfGlory",
+    "effect": "emissive",
+    "season": "shatteredSeas",
+    "obtainable": "dominionWarRewardWonTerritory4",
+    "faction": "dutchMerchantCompany",
+    "dateAdded": "2026-04-12",
+    "lastUpdated": "2026-04-12"
+  },
+  "lionheartPlate": {
+    "id": "lionheartPlate",
+    "type": "hull",
+    "set": "maneOfGlory",
+    "season": "shatteredSeas",
+    "obtainable": "dominionWarRewardWonTerritory5",
+    "faction": "dutchMerchantCompany",
+    "dateAdded": "2026-04-12",
+    "lastUpdated": "2026-04-12"
+  },
+  "fortunesRoar": {
+    "id": "fortunesRoar",
+    "type": "sailsPattern",
+    "set": "maneOfGlory",
+    "season": "shatteredSeas",
+    "obtainable": "dominionWarRewardWonTerritory8",
+    "faction": "dutchMerchantCompany",
+    "dateAdded": "2026-04-12",
+    "lastUpdated": "2026-04-12"
+  },
+  "coinkeeper": {
+    "id": "coinkeeper",
+    "type": "nameplate",
+    "set": "maneOfGlory",
+    "effect": "emissive",
+    "season": "shatteredSeas",
+    "obtainable": "dominionWarRewardWonTerritory11",
+    "faction": "dutchMerchantCompany",
+    "dateAdded": "2026-04-12",
+    "lastUpdated": "2026-04-12"
+  },
+  "executionersMark": {
+    "id": "executionersMark",
+    "type": "sailsEmblem",
+    "set": "fumesOfDoom",
+    "effect": "animated",
+    "obtainable": "ubisoftStoreFreeClaim",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "grimsGaze": {
+    "id": "grimsGaze",
+    "type": "sailsPattern",
+    "set": "fumesOfDoom",
+    "obtainable": "ubisoftStoreFreeClaim",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "hemlockVeil": {
+    "id": "hemlockVeil",
+    "type": "sailsColor",
+    "set": "fumesOfDoom",
+    "obtainable": "ubisoftStoreFreeClaim",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "venomsapLacquer": {
+    "id": "venomsapLacquer",
+    "type": "hull",
+    "set": "fumesOfDoom",
+    "obtainable": "ubisoftStoreFreeClaim",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "embersOfRevenge": {
+    "id": "embersOfRevenge",
+    "type": "sailsEmblem",
+    "set": "eternalInferno",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "flamingGallows": {
+    "id": "flamingGallows",
+    "type": "sailsPattern",
+    "set": "eternalInferno",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "murkwind": {
+    "id": "murkwind",
+    "type": "sailsColor",
+    "set": "eternalInferno",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "freshBruisewood": {
+    "id": "freshBruisewood",
+    "type": "hull",
+    "set": "eternalInferno",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "jawsOfThunder": {
+    "id": "jawsOfThunder",
+    "type": "bombardWeaponSkin",
+    "effect": "emissive",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "bluefireScourge": {
+    "id": "bluefireScourge",
+    "type": "springloaderWeaponSkin",
+    "effect": "emissive",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "burningMaw": {
+    "id": "burningMaw",
+    "type": "demicannonWeaponSkin",
+    "effect": "emissive",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "tidecleaved": {
+    "id": "tidecleaved",
+    "type": "sailsEmblem",
+    "set": "songOfTheSirens",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "quietWind": {
+    "id": "quietWind",
+    "type": "sailsPattern",
+    "set": "songOfTheSirens",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "songFromTheDeep": {
+    "id": "songFromTheDeep",
+    "type": "sailsColor",
+    "effect": "emissive",
+    "set": "songOfTheSirens",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "mawsLure": {
+    "id": "mawsLure",
+    "type": "figureHead",
+    "effect": "emissive",
+    "set": "songOfTheSirens",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "wispskin": {
+    "id": "wispskin",
+    "type": "hull",
+    "set": "songOfTheSirens",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "seaHeart": {
+    "id": "seaHeart",
+    "type": "nameplate",
+    "effect": "emissive",
+    "set": "songOfTheSirens",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "crownOfDrowning": {
+    "id": "crownOfDrowning",
+    "type": "trophy",
+    "set": "songOfTheSirens",
+    "effect": "emissive",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "curtainfall": {
+    "id": "curtainfall",
+    "type": "sailsEmblem",
+    "set": "deathsCue",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "mortisMasque": {
+    "id": "mortisMasque",
+    "type": "sailsPattern",
+    "set": "deathsCue",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "gangrenesGrip": {
+    "id": "gangrenesGrip",
+    "type": "sailsColor",
+    "set": "deathsCue",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "maestroOfBones": {
+    "id": "maestroOfBones",
+    "type": "figureHead",
+    "effect": "emissive",
+    "set": "deathsCue",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "deathsJest": {
+    "id": "deathsJest",
+    "type": "ornaments",
+    "effect": "emissive",
+    "set": "deathsCue",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "stageOfWails": {
+    "id": "stageOfWails",
+    "type": "hull",
+    "set": "deathsCue",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "deadManic": {
+    "id": "deadManic",
+    "type": "nameplate",
+    "effect": "emissive",
+    "set": "deathsCue",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "cindermist": {
+    "id": "cindermist",
+    "type": "aura",
+    "effect": "bossKillReactive",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "cinderGrin": {
+    "id": "cinderGrin",
+    "type": "sailsEmblem",
+    "set": "shadowBlade",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "deathflare": {
+    "id": "deathflare",
+    "type": "sailsPattern",
+    "set": "shadowBlade",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "veilOfAsh": {
+    "id": "veilOfAsh",
+    "type": "sailsColor",
+    "effect": "emissive",
+    "set": "shadowBlade",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "theCryptwarden": {
+    "id": "theCryptwarden",
+    "type": "figureHead",
+    "effect": "emissive",
+    "set": "shadowBlade",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "deathstainedDeep": {
+    "id": "deathstainedDeep",
+    "type": "hull",
+    "set": "shadowBlade",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "theSilence": {
+    "id": "theSilence",
+    "type": "nameplate",
+    "effect": "emissive",
+    "set": "shadowBlade",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "huntersHelm": {
+    "id": "huntersHelm",
+    "type": "wheel",
+    "set": "shadowBlade",
+    "effect": "emissive",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "pridemark": {
+    "id": "pridemark",
+    "type": "sailsEmblem",
+    "set": "huntersWrath",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "roaringTide": {
+    "id": "roaringTide",
+    "type": "sailsPattern",
+    "set": "huntersWrath",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "bloodstiffenedHide": {
+    "id": "bloodstiffenedHide",
+    "type": "sailsColor",
+    "effect": "emissive",
+    "set": "huntersWrath",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "seaBeastsRevenge": {
+    "id": "seaBeastsRevenge",
+    "type": "figureHead",
+    "effect": "emissive",
+    "set": "huntersWrath",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "freshBonewood": {
+    "id": "freshBonewood",
+    "type": "hull",
+    "set": "huntersWrath",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "silvermane": {
+    "id": "silvermane",
+    "type": "nameplate",
+    "effect": "emissive",
+    "set": "huntersWrath",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "preysEnd": {
+    "id": "preysEnd",
+    "type": "trophy",
+    "effect": "emissive",
+    "set": "huntersWrath",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "fangsOfTheDeep": {
+    "id": "fangsOfTheDeep",
+    "type": "shipSkin",
+    "pieces": ["figureHead","ornaments","nameplate","crowsNest"],
+    "effect": ["emissive","combatReactive"],
+    "ship": "sambuk",
+    "season": "shatteredSeas",
+    "set": "burningBeast",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "abyssmaw": {
+    "id": "abyssmaw",
+    "type": "sailsEmblem",
+    "set": "burningBeast",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "windeater": {
+    "id": "windeater",
+    "type": "sailsPattern",
+    "set": "burningBeast",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "blackwaterVeil": {
+    "id": "blackwaterVeil",
+    "type": "sailsColor",
+    "effect": "emissive",
+    "set": "burningBeast",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "bonescaleShard": {
+    "id": "bonescaleShard",
+    "type": "hull",
+    "set": "burningBeast",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "spinehelm": {
+    "id": "spinehelm",
+    "type": "wheel",
+    "set": "burningBeast",
+    "effect": "emissive",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "countEmTwice": {
+    "id": "countEmTwice",
+    "type": "ornaments",
+    "effect": "emissive",
+    "set": "bootlegBill",
+    "event": "moonshineLarceny",
+    "season": "shatteredSeas",
+    "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "heraldsOfGold": {
+    "id": "heraldsOfGold",
+    "type": "helmDecor",
+    "set": "bootlegBill",
+    "effect": "emissive",
+    "event": "moonshineLarceny",
+    "season": "shatteredSeas",
+    "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "twilightCloak": {
+    "id": "twilightCloak",
+    "type": "aura",
+    "effect": "bossKillReactive",
+    "event": "moonshineLarceny",
+    "season": "shatteredSeas",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "aisha": {
+    "id": "aisha",
+    "type": "pet",
+    "event": "moonshineLarceny",
+    "season": "shatteredSeas",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "kingpinsHangover": {
+    "id": "kingpinsHangover",
+    "type": "bombardWeaponSkin",
+    "effect": "emissive",
+    "event": "moonshineLarceny",
+    "season": "shatteredSeas",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "leonasTricorne": {
+    "id": "leonasTricorne",
+    "type": "headwear",
+    "set": "leonasLegend",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "queensCommand": {
+    "id": "queensCommand",
+    "type": "torso",
+    "set": "leonasLegend",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "rococoRoar": {
+    "id": "rococoRoar",
+    "type": "neck",
+    "set": "leonasLegend",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "prideguard": {
+    "id": "prideguard",
+    "type": "forearm",
+    "set": "leonasLegend",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "sigilOfSavagery": {
+    "id": "sigilOfSavagery",
+    "type": "waist",
+    "set": "leonasLegend",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "sabreSlashed": {
+    "id": "sabreSlashed",
+    "type": "bottom",
+    "set": "leonasLegend",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "greavesOfGlory": {
+    "id": "greavesOfGlory",
+    "type": "footwear",
+    "set": "leonasLegend",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "tricornOfTrance": {
+    "id": "tricornOfTrance",
+    "type": "headwear",
+    "event": "moonshineLarceny",
+    "season": "shatteredSeas",
+    "set": "summerDreams",
+    "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "daydreamers": {
+    "id": "daydreamers",
+    "type": "faceAccessory",
+    "event": "moonshineLarceny",
+    "season": "shatteredSeas",
+    "set": "summerDreams",
+    "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "highNoonHalter": {
+    "id": "highNoonHalter",
+    "type": "torso",
+    "event": "moonshineLarceny",
+    "season": "shatteredSeas",
+    "set": "summerDreams",
+    "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "gardenia": {
+    "id": "gardenia",
+    "type": "neck",
+    "event": "moonshineLarceny",
+    "season": "shatteredSeas",
+    "set": "summerDreams",
+    "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "nomadicWraps": {
+    "id": "nomadicWraps",
+    "type": "forearm",
+    "event": "moonshineLarceny",
+    "season": "shatteredSeas",
+    "set": "summerDreams",
+    "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "wineSaddle": {
+    "id": "wineSaddle",
+    "type": "waist",
+    "event": "moonshineLarceny",
+    "season": "shatteredSeas",
+    "set": "summerDreams",
+    "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "moonsandRings": {
+    "id": "moonsandRings",
+    "type": "hand",
+    "event": "moonshineLarceny",
+    "season": "shatteredSeas",
+    "set": "summerDreams",
+    "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "driftclothTrousers": {
+    "id": "driftclothTrousers",
+    "type": "bottom",
+    "event": "moonshineLarceny",
+    "season": "shatteredSeas",
+    "set": "summerDreams",
+    "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "beachyBoots": {
+    "id": "beachyBoots",
+    "type": "footwear",
+    "event": "moonshineLarceny",
+    "season": "shatteredSeas",
+    "set": "summerDreams",
+    "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "sunburntInk": {
+    "id": "sunburntInk",
+    "type": "bodyCosmetics",
+    "event": "moonshineLarceny",
+    "season": "shatteredSeas",
+    "set": "summerDreams",
+    "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "wetMeGulletBeer": {
+    "id": "wetMeGulletBeer",
+    "type": "firework",
+    "event": "moonshineLarceny",
+    "season": "shatteredSeas",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "gildcoinTricorne": {
+    "id": "gildcoinTricorne",
+    "type": "headwear",
+    "set": "theBohemian",
+    "obtainable": ["ubisoftStore","verdantHuntsChest"],
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-26"
+  },
+  "beadsOfWisdom": {
+    "id": "beadsOfWisdom",
+    "type": "faceAccessory",
+    "set": "theBohemian",
+    "obtainable": ["ubisoftStore","verdantHuntsChest"],
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-26"
+  },
+  "feverGreen": {
+    "id": "feverGreen",
+    "type": "eyeColor",
+    "set": "theBohemian",
+    "obtainable": ["ubisoftStore","verdantHuntsChest"],
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-26"
+  },
+  "poetsCoat": {
+    "id": "poetsCoat",
+    "type": "torso",
+    "set": "theBohemian",
+    "obtainable": ["ubisoftStore","verdantHuntsChest"],
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-26"
+  },
+  "pendantOfPeril": {
+    "id": "pendantOfPeril",
+    "type": "neck",
+    "set": "theBohemian",
+    "obtainable": ["ubisoftStore","verdantHuntsChest"],
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-26"
+  },
+  "stolenSash": {
+    "id": "stolenSash",
+    "type": "waist",
+    "set": "theBohemian",
+    "obtainable": ["ubisoftStore","verdantHuntsChest"],
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-26"
+  },
+  "oceanEyes": {
+    "id": "oceanEyes",
+    "type": "hand",
+    "set": "theBohemian",
+    "obtainable": ["ubisoftStore","verdantHuntsChest"],
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-26"
+  },
+  "breezyPleats": {
+    "id": "breezyPleats",
+    "type": "bottom",
+    "set": "theBohemian",
+    "obtainable": ["ubisoftStore","verdantHuntsChest"],
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-26"
+  },
+  "suedeStrides": {
+    "id": "suedeStrides",
+    "type": "footwear",
+    "set": "theBohemian",
+    "obtainable": ["ubisoftStore","verdantHuntsChest"],
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-26"
+  },
+  "windWarrior": {
+    "id": "windWarrior",
+    "type": "faceAccessory",
+    "set": "wastelandWarrior",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "opalescent": {
+    "id": "opalescent",
+    "type": "eyeColor",
+    "set": "wastelandWarrior",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "privateersPelt": {
+    "id": "privateersPelt",
+    "type": "torso",
+    "set": "wastelandWarrior",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "scrapyardTotems": {
+    "id": "scrapyardTotems",
+    "type": "neck",
+    "set": "wastelandWarrior",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "scrapIronBracer": {
+    "id": "scrapIronBracer",
+    "type": "forearm",
+    "set": "wastelandWarrior",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "deathsKeeper": {
+    "id": "deathsKeeper",
+    "type": "waist",
+    "set": "wastelandWarrior",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "chunkyChaps": {
+    "id": "chunkyChaps",
+    "type": "bottom",
+    "set": "wastelandWarrior",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "steelstep": {
+    "id": "steelstep",
+    "type": "footwear",
+    "set": "wastelandWarrior",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "survivorsMarks": {
+    "id": "survivorsMarks",
+    "type": "bodyCosmetics",
+    "set": "wastelandWarrior",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "raidersScar": {
+    "id": "raidersScar",
+    "type": "sailsEmblem",
+    "set": "jadeProwler",
+    "obtainable": ["ubisoftStore","verdantHuntsChest"],
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-26"
+  },
+  "windriderSP": {
+    "id": "windriderSP",
+    "type": "sailsPattern",
+    "set": "jadeProwler",
+    "obtainable": ["ubisoftStore","verdantHuntsChest"],
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-26"
+  },
+  "bloodiedCanopy": {
+    "id": "bloodiedCanopy",
+    "type": "sailsColor",
+    "set": "jadeProwler",
+    "obtainable": ["ubisoftStore","verdantHuntsChest"],
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-26"
+  },
+  "clawsOfConquest": {
+    "id": "clawsOfConquest",
+    "type": "figureHead",
+    "effect": "emissive",
+    "set": "jadeProwler",
+    "obtainable": ["ubisoftStore","verdantHuntsChest"],
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-26"
+  },
+  "emeraldWildbark": {
+    "id": "emeraldWildbark",
+    "type": "hull",
+    "set": "jadeProwler",
+    "obtainable": ["ubisoftStore","verdantHuntsChest"],
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-26"
+  },
+  "stormHowler": {
+    "id": "stormHowler",
+    "type": "nameplate",
+    "effect": "emissive",
+    "set": "jadeProwler",
+    "obtainable": ["ubisoftStore","verdantHuntsChest"],
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-26"
+  },
+  "nightStalker": {
+    "id": "nightStalker",
+    "type": "wheel",
+    "effect": "emissive",
+    "set": "jadeProwler",
+    "obtainable": ["ubisoftStore","verdantHuntsChest"],
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-26"
+  },
+  "warBellow": {
+    "id": "warBellow",
+    "type": "sailsEmblem",
+    "set": "libertysHorn",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "steelStampede": {
+    "id": "steelStampede",
+    "type": "sailsPattern",
+    "set": "libertysHorn",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "razorweave": {
+    "id": "razorweave",
+    "type": "sailsColor",
+    "set": "libertysHorn",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "rebelCharge": {
+    "id": "rebelCharge",
+    "type": "figureHead",
+    "effect": "emissive",
+    "set": "libertysHorn",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "bloodyAnvil": {
+    "id": "bloodyAnvil",
+    "type": "hull",
+    "set": "libertysHorn",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "hornedOne": {
+    "id": "hornedOne",
+    "type": "nameplate",
+    "effect": "emissive",
+    "set": "libertysHorn",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "theShatteredYoke": {
+    "id": "theShatteredYoke",
+    "type": "wheel",
+    "effect": "emissive",
+    "set": "libertysHorn",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "emberHorn": {
+    "id": "emberHorn",
+    "type": "firework",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "markOfRebellion": {
+    "id": "markOfRebellion",
+    "type": "sailsEmblem",
+    "season": "eyeOfTheBeast",
+    "set": "ashesOfAllegiance",
+    "obtainable": ["twitchDrop","twitchDropYear3Showcase"],
+    "dateAdded": "2026-05-06",
+    "lastUpdated": "2026-05-06"
+  },
+  "rusttide": {
+    "id": "rusttide",
+    "type": "hull",
+    "season": "eyeOfTheBeast",
+    "set": "ashesOfAllegiance",
+    "obtainable": ["twitchDrop","twitchDropYear3Showcase"],
+    "dateAdded": "2026-05-06",
+    "lastUpdated": "2026-05-06"
+  },
+  "wornAllegiance": {
+    "id": "wornAllegiance",
+    "type": "sailsColor",
+    "effect": "emissive",
+    "season": "eyeOfTheBeast",
+    "set": "ashesOfAllegiance",
+    "obtainable": ["twitchDrop","twitchDropYear3Showcase"],
+    "dateAdded": "2026-05-06",
+    "lastUpdated": "2026-05-06"
+  },
+  "whisperedRuin": {
+    "id": "whisperedRuin",
+    "type": "sailsPattern",
+    "season": "eyeOfTheBeast",
+    "set": "ashesOfAllegiance",
+    "obtainable": ["twitchDrop","twitchDropYear3Showcase"],
+    "dateAdded": "2026-05-06",
+    "lastUpdated": "2026-05-06"
+  },
+  "johnnyBlue": {
+    "id": "johnnyBlue",
+    "type": "pet",
+    "season": "shatteredSeas",
+    "obtainable": "premiumPass",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "hairlessHenrietta": {
+    "id": "hairlessHenrietta",
+    "type": "pet",
+    "season": "shatteredSeas",
+    "obtainable": [["premiumPass","smugglerPassFinalReward"]],
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "deathsHalo": {
+    "id": "deathsHalo",
+    "type": "sailsEmblem",
+    "set": "theGunSaint",
+    "season": "shatteredSeas",
+    "obtainable": [["premiumPass","smugglerPass50Reward"]],
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "bonecharkOak": {
+    "id": "bonecharkOak",
+    "type": "hull",
+    "set": "theGunSaint",
+    "season": "shatteredSeas",
+    "obtainable": [["premiumPass","smugglerPass50Reward"]],
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "soulsShroud": {
+    "id": "soulsShroud",
+    "type": "sailsColor",
+    "effect": "emissive",
+    "set": "theGunSaint",
+    "season": "shatteredSeas",
+    "obtainable": [["premiumPass","smugglerPass50Reward"]],
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "sermonOfAsh": {
+    "id": "sermonOfAsh",
+    "type": "sailsPattern",
+    "set": "theGunSaint",
+    "season": "shatteredSeas",
+    "obtainable": [["premiumPass","smugglerPass50Reward"]],
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "nightMaresStrike": {
+    "id": "nightMaresStrike",
+    "type": "figureHead",
+    "effect": "emissive",
+    "set": "exileRoyal",
+    "season": "shatteredSeas",
+    "obtainable": "premiumPass",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "silkBlade": {
+    "id": "silkBlade",
+    "type": "nameplate",
+    "effect": "emissive",
+    "set": "exileRoyal",
+    "season": "shatteredSeas",
+    "obtainable": "premiumPass",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "theWildGlory": {
+    "id": "theWildGlory",
+    "type": "trophy",
+    "effect": "emissive",
+    "set": "exileRoyal",
+    "season": "shatteredSeas",
+    "obtainable": "premiumPass",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "theStormingSteed": {
+    "id": "theStormingSteed",
+    "type": "sailsEmblem",
+    "season": "shatteredSeas",
+    "set": "exileRoyal",
+    "obtainable": "premiumPass",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "renegadesPlate": {
+    "id": "renegadesPlate",
+    "type": "hull",
+    "season": "shatteredSeas",
+    "set": "exileRoyal",
+    "obtainable": "premiumPass",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "midnightMane": {
+    "id": "midnightMane",
+    "type": "sailsColor",
+    "effect": "emissive",
+    "season": "shatteredSeas",
+    "set": "exileRoyal",
+    "obtainable": "premiumPass",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "shadowCharge": {
+    "id": "shadowCharge",
+    "type": "sailsPattern",
+    "season": "shatteredSeas",
+    "set": "exileRoyal",
+    "obtainable": "premiumPass",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "wrathOfHell": {
+    "id": "wrathOfHell",
+    "type": "figureHead",
+    "effect": ["emissive","combatReactive"],
+    "season": "shatteredSeas",
+    "set": "hellfireReign",
+    "obtainable": "premiumPass",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "daimon": {
+    "id": "daimon",
+    "type": "nameplate",
+    "effect": "emissive",
+    "season": "shatteredSeas",
+    "set": "hellfireReign",
+    "obtainable": "premiumPass",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "theInfernalMaws": {
+    "id": "theInfernalMaws",
+    "type": "ornaments",
+    "effect": "emissive",
+    "season": "shatteredSeas",
+    "set": "hellfireReign",
+    "obtainable": "premiumPass",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "burningOath": {
+    "id": "burningOath",
+    "type": "sailsEmblem",
+    "season": "shatteredSeas",
+    "set": "hellfireReign",
+    "obtainable": "premiumPass",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "tidesOfAsh": {
+    "id": "tidesOfAsh",
+    "type": "hull",
+    "season": "shatteredSeas",
+    "set": "hellfireReign",
+    "obtainable": "premiumPass",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "emberblood": {
+    "id": "emberblood",
+    "type": "sailsColor",
+    "effect": "emissive",
+    "season": "shatteredSeas",
+    "set": "hellfireReign",
+    "obtainable": "premiumPass",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "pyrebound": {
+    "id": "pyrebound",
+    "type": "sailsPattern",
+    "season": "shatteredSeas",
+    "set": "hellfireReign",
+    "obtainable": "premiumPass",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "driftwoodPhantom": {
+    "id": "driftwoodPhantom",
+    "type": "figureHead",
+    "upgrades": ["moonlitPhantom","gildedPhantom"],
+    "season": "shatteredSeas",
+    "set": "cursedDjinns",
+    "obtainable": "premiumPass",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "moonlitPhantom": {
+    "id": "moonlitPhantom",
+    "type": "figureHead",
+    "effect": "emissive",
+    "tier": 1,
+    "basic": "driftwoodPhantom",
+    "upgrades": ["gildedPhantom"],
+    "season": "shatteredSeas",
+    "set": "cursedDjinns",
+    "required": {
+      "greenheartPlank": 7,
+      "phoenixPinion": 3,
+      "azureDragonHead": 3,
+      "artisansRefinementPack": 3
+    },
+    "obtainable": ["ubisoftStore","upgradeWithMaterials"],
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "gildedPhantom": {
+    "id": "gildedPhantom",
+    "type": "figureHead",
+    "effect": ["emissive","combatReactive"],
+    "tier": 2,
+    "basic": "driftwoodPhantom",
+    "season": "shatteredSeas",
+    "set": "cursedDjinns",
+    "required": {
+      "phoenixBeak": 5,
+      "azureDragonHead": 5,
+      "jadePhoenixStatue": 2,
+      "yellowDragonBanner": 2,
+      "artisansRefinementPack": 5
+    },
+    "obtainable": ["ubisoftStore","upgradeWithMaterials"],
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "jinni": {
+    "id": "jinni",
+    "type": "nameplate",
+    "effect": "emissive",
+    "season": "shatteredSeas",
+    "set": "cursedDjinns",
+    "obtainable": "premiumPass",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "eyeOfTheDjinn": {
+    "id": "eyeOfTheDjinn",
+    "type": "wheel",
+    "effect": "emissive",
+    "season": "shatteredSeas",
+    "set": "cursedDjinns",
+    "obtainable": "premiumPass",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "midnightMirage": {
+    "id": "midnightMirage",
+    "type": "hull",
+    "season": "shatteredSeas",
+    "set": "cursedDjinns",
+    "obtainable": "premiumPass",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "theEternalSpectre": {
+    "id": "theEternalSpectre",
+    "type": "sailsEmblem",
+    "season": "shatteredSeas",
+    "set": "cursedDjinns",
+    "obtainable": "premiumPass",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "wraithshade": {
+    "id": "wraithshade",
+    "type": "sailsColor",
+    "effect": "emissive",
+    "season": "shatteredSeas",
+    "set": "cursedDjinns",
+    "obtainable": "premiumPass",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "fiendOfTheSeas": {
+    "id": "fiendOfTheSeas",
+    "type": "sailsPattern",
+    "season": "shatteredSeas",
+    "set": "cursedDjinns",
+    "obtainable": "premiumPass",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "traitorsCinch": {
+    "id": "traitorsCinch",
+    "type": "waist",
+    "set": "renegadeRoyale",
+    "season": "shatteredSeas",
+    "obtainable": "premiumPass",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "breakawayBandit": {
+    "id": "breakawayBandit",
+    "type": "forearm",
+    "set": "renegadeRoyale",
+    "season": "shatteredSeas",
+    "obtainable": "premiumPass",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "rebelsight": {
+    "id": "rebelsight",
+    "type": "faceAccessory",
+    "set": "renegadeRoyale",
+    "season": "shatteredSeas",
+    "obtainable": "premiumPass",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "garnetsAndGoldust": {
+    "id": "garnetsAndGoldust",
+    "type": "hand",
+    "set": "renegadeRoyale",
+    "season": "shatteredSeas",
+    "obtainable": "premiumPass",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "bicorneNoir": {
+    "id": "bicorneNoir",
+    "type": "headwear",
+    "set": "renegadeRoyale",
+    "season": "shatteredSeas",
+    "obtainable": "premiumPass",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "aRoguesLuck": {
+    "id": "aRoguesLuck",
+    "type": "neck",
+    "set": "renegadeRoyale",
+    "season": "shatteredSeas",
+    "obtainable": "premiumPass",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "pilferedPants": {
+    "id": "pilferedPants",
+    "type": "bottom",
+    "set": "renegadeRoyale",
+    "season": "shatteredSeas",
+    "obtainable": "premiumPass",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "blackstep": {
+    "id": "blackstep",
+    "type": "footwear",
+    "set": "renegadeRoyale",
+    "season": "shatteredSeas",
+    "obtainable": "premiumPass",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "liarsFlair": {
+    "id": "liarsFlair",
+    "type": "torso",
+    "set": "renegadeRoyale",
+    "season": "shatteredSeas",
+    "obtainable": "premiumPass",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "raidersWrath": {
+    "id": "raidersWrath",
+    "type": "waist",
+    "season": "shatteredSeas",
+    "set": "demonKing",
+    "obtainable": "premiumPass",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "infernalLeather": {
+    "id": "infernalLeather",
+    "type": "forearm",
+    "season": "shatteredSeas",
+    "set": "demonKing",
+    "obtainable": "premiumPass",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "perilsPrize": {
+    "id": "perilsPrize",
+    "type": "headwear",
+    "effect": "emissive",
+    "season": "shatteredSeas",
+    "set": "demonKing",
+    "obtainable": "premiumPass",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "theDevilsTeeth": {
+    "id": "theDevilsTeeth",
+    "type": "neck",
+    "season": "shatteredSeas",
+    "set": "demonKing",
+    "obtainable": "premiumPass",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "scorchedBottoms": {
+    "id": "scorchedBottoms",
+    "type": "bottom",
+    "season": "shatteredSeas",
+    "set": "demonKing",
+    "obtainable": "premiumPass",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "killersKickers": {
+    "id": "killersKickers",
+    "type": "footwear",
+    "season": "shatteredSeas",
+    "set": "demonKing",
+    "obtainable": "premiumPass",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "silkenRogue": {
+    "id": "silkenRogue",
+    "type": "torso",
+    "season": "shatteredSeas",
+    "set": "demonKing",
+    "obtainable": "premiumPass",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "sevenHells": {
+    "id": "sevenHells",
+    "type": "bodyCosmetics",
+    "season": "shatteredSeas",
+    "set": "demonKing",
+    "obtainable": "premiumPass",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "firesight": {
+    "id": "firesight",
+    "type": "eyeColor",
+    "effect": "emissive",
+    "season": "shatteredSeas",
+    "set": "demonKing",
+    "obtainable": "premiumPass",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "swirlsOfChaos": {
+    "id": "swirlsOfChaos",
+    "type": "sailsPattern",
+    "season": "shatteredSeas",
+    "set": "tripleTrouble",
+    "obtainable": "twitchDropYear3Season1",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "verdantMenace": {
+    "id": "verdantMenace",
+    "type": "sailsColor",
+    "season": "shatteredSeas",
+    "set": "tripleTrouble",
+    "obtainable": "twitchDropYear3Season1",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "gildedGloom": {
+    "id": "gildedGloom",
+    "type": "hull",
+    "season": "shatteredSeas",
+    "set": "tripleTrouble",
+    "obtainable": "twitchDropYear3Season1",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "triosEnd": {
+    "id": "triosEnd",
+    "type": "sailsEmblem",
+    "season": "shatteredSeas",
+    "set": "tripleTrouble",
+    "obtainable": "twitchDropYear3Season1",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "dreadnote": {
+    "id": "dreadnote",
+    "type": "sailsEmblem",
+    "effect": "animated",
+    "season": "shatteredSeas",
+    "set": "anthemOfAnarchy",
+    "obtainable": "ubisoftStoreSeasonalStarterPack",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "waveshredder": {
+    "id": "waveshredder",
+    "type": "hull",
+    "season": "shatteredSeas",
+    "set": "anthemOfAnarchy",
+    "obtainable": "ubisoftStoreSeasonalStarterPack",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "deadwindWhistle": {
+    "id": "deadwindWhistle",
+    "type": "sailsColor",
+    "effect": "emissive",
+    "season": "shatteredSeas",
+    "set": "anthemOfAnarchy",
+    "obtainable": "ubisoftStoreSeasonalStarterPack",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "balladOfBlood": {
+    "id": "balladOfBlood",
+    "type": "sailsPattern",
+    "season": "shatteredSeas",
+    "set": "anthemOfAnarchy",
+    "obtainable": "ubisoftStoreSeasonalStarterPack",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "flamefang": {
+    "id": "flamefang",
+    "type": "sailsPattern",
+    "season": "shatteredSeas",
+    "set": "dragonblood",
+    "obtainable": [["ubisoftStoreSeasonalPack","ubisoftStoreSeasonalBox"]],
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "goldfleckedRoar": {
+    "id": "goldfleckedRoar",
+    "type": "sailsEmblem",
+    "season": "shatteredSeas",
+    "set": "dragonblood",
+    "obtainable": [["ubisoftStoreSeasonalPack","ubisoftStoreSeasonalBox"]],
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "wyrmscaleArmor": {
+    "id": "wyrmscaleArmor",
+    "type": "hull",
+    "season": "shatteredSeas",
+    "set": "dragonblood",
+    "obtainable": [["ubisoftStoreSeasonalPack","ubisoftStoreSeasonalBox"]],
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "scorchingSkies": {
+    "id": "scorchingSkies",
+    "type": "sailsColor",
+    "effect": "emissive",
+    "season": "shatteredSeas",
+    "set": "dragonblood",
+    "obtainable": [["ubisoftStoreSeasonalPack","ubisoftStoreSeasonalBox"]],
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "goldenFlicker": {
+    "id": "goldenFlicker",
+    "type": "aura",
+    "effect": "bossKillReactive",
+    "season": "shatteredSeas",
+    "obtainable": [["ubisoftStoreSeasonalPack","ubisoftStoreSeasonalBoatload"]],
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "sunplunderCinch": {
+    "id": "sunplunderCinch",
+    "type": "waist",
+    "season": "shatteredSeas",
+    "set": "desertMarauder",
+    "obtainable": "premiumPass",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "wishboundArmlet": {
+    "id": "wishboundArmlet",
+    "type": "forearm",
+    "season": "shatteredSeas",
+    "set": "desertMarauder",
+    "obtainable": "premiumPass",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "nomadOfTheNight": {
+    "id": "nomadOfTheNight",
+    "type": "headwear",
+    "season": "shatteredSeas",
+    "set": "desertMarauder",
+    "obtainable": "premiumPass",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "djinnsmoke": {
+    "id": "djinnsmoke",
+    "type": "neck",
+    "season": "shatteredSeas",
+    "set": "desertMarauder",
+    "obtainable": "premiumPass",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "whisperstitch": {
+    "id": "whisperstitch",
+    "type": "bottom",
+    "season": "shatteredSeas",
+    "set": "desertMarauder",
+    "obtainable": "premiumPass",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "crescentmark": {
+    "id": "crescentmark",
+    "type": "footwear",
+    "season": "shatteredSeas",
+    "set": "desertMarauder",
+    "obtainable": "premiumPass",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "mirageborne": {
+    "id": "mirageborne",
+    "type": "torso",
+    "season": "shatteredSeas",
+    "set": "desertMarauder",
+    "obtainable": "premiumPass",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "glitterskin": {
+    "id": "glitterskin",
+    "type": "bodyCosmetics",
+    "season": "shatteredSeas",
+    "set": "desertMarauder",
+    "obtainable": "premiumPass",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "desertMoon": {
+    "id": "desertMoon",
+    "type": "eyeColor",
+    "effect": "emissive",
+    "season": "shatteredSeas",
+    "set": "desertMarauder",
+    "obtainable": "premiumPass",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "ceruleanKnot": {
+    "id": "ceruleanKnot",
+    "type": "waist",
+    "season": "shatteredSeas",
+    "set": "opalIslander",
+    "required": {
+      "gildmarks": 200
+    },
+    "obtainable": "williamBlackwoodSeasonalItemShatteredSeas",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "drunkardsCuffs": {
+    "id": "drunkardsCuffs",
+    "type": "forearm",
+    "season": "shatteredSeas",
+    "set": "opalIslander",
+    "required": {
+      "gildmarks": 200
+    },
+    "obtainable": "williamBlackwoodSeasonalItemShatteredSeas",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "scratchyPatchy": {
+    "id": "scratchyPatchy",
+    "type": "faceAccessory",
+    "season": "shatteredSeas",
+    "set": "opalIslander",
+    "required": {
+      "gildmarks": 200
+    },
+    "obtainable": "williamBlackwoodSeasonalItemShatteredSeas",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "driftersCrown": {
+    "id": "driftersCrown",
+    "type": "headwear",
+    "season": "shatteredSeas",
+    "set": "opalIslander",
+    "required": {
+      "gildmarks": 200
+    },
+    "obtainable": "williamBlackwoodSeasonalItemShatteredSeas",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "oseanasCurse": {
+    "id": "oseanasCurse",
+    "type": "neck",
+    "season": "shatteredSeas",
+    "set": "opalIslander",
+    "required": {
+      "gildmarks": 200
+    },
+    "obtainable": "williamBlackwoodSeasonalItemShatteredSeas",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "skywash": {
+    "id": "skywash",
+    "type": "bottom",
+    "season": "shatteredSeas",
+    "set": "opalIslander",
+    "required": {
+      "gildmarks": 200
+    },
+    "obtainable": "williamBlackwoodSeasonalItemShatteredSeas",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "crabbersBoots": {
+    "id": "crabbersBoots",
+    "type": "footwear",
+    "season": "shatteredSeas",
+    "set": "opalIslander",
+    "required": {
+      "gildmarks": 200
+    },
+    "obtainable": "williamBlackwoodSeasonalItemShatteredSeas",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "opalweave": {
+    "id": "opalweave",
+    "type": "torso",
+    "season": "shatteredSeas",
+    "set": "opalIslander",
+    "required": {
+      "gildmarks": 200
+    },
+    "obtainable": "williamBlackwoodSeasonalItemShatteredSeas",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "cutthroatCorsair": {
+    "id": "cutthroatCorsair",
+    "type": "sailsEmblem",
+    "season": "shatteredSeas",
+    "effect": "animated",
+    "set": "rogueOWar",
+    "event": "theHonorless",
+    "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "warborn": {
+    "id": "warborn",
+    "type": "sailsPattern",
+    "season": "shatteredSeas",
+    "set": "rogueOWar",
+    "event": "theHonorless",
+    "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "battlecryBanner": {
+    "id": "battlecryBanner",
+    "type": "sailsColor",
+    "effect": "emissive",
+    "season": "shatteredSeas",
+    "set": "rogueOWar",
+    "event": "theHonorless",
+    "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "ignisBellona": {
+    "id": "ignisBellona",
+    "type": "figureHead",
+    "season": "shatteredSeas",
+    "effect": "emissive",
+    "set": "rogueOWar",
+    "event": "theHonorless",
+    "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "crimsonCurrents": {
+    "id": "crimsonCurrents",
+    "type": "hull",
+    "season": "shatteredSeas",
+    "set": "rogueOWar",
+    "event": "theHonorless",
+    "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "turncoat": {
+    "id": "turncoat",
+    "type": "nameplate",
+    "season": "shatteredSeas",
+    "effect": "emissive",
+    "set": "rogueOWar",
+    "event": "theHonorless",
+    "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "foehunter": {
+    "id": "foehunter",
+    "type": "wheel",
+    "season": "shatteredSeas",
+    "effect": "emissive",
+    "set": "rogueOWar",
+    "event": "theHonorless",
+    "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "windsOfRust": {
+    "id": "windsOfRust",
+    "type": "sailsColor",
+    "season": "shatteredSeas",
+    "set": "gildedMaw",
+    "event": "theHonorless",
+    "obtainable": "premiumEventPass",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "goldspike": {
+    "id": "goldspike",
+    "type": "sailsEmblem",
+    "season": "shatteredSeas",
+    "set": "gildedMaw",
+    "event": "theHonorless",
+    "obtainable": "premiumEventPass",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "blindingBlades": {
+    "id": "blindingBlades",
+    "type": "sailsPattern",
+    "season": "shatteredSeas",
+    "set": "gildedMaw",
+    "event": "theHonorless",
+    "obtainable": "premiumEventPass",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "wraithwoodSheen": {
+    "id": "wraithwoodSheen",
+    "type": "hull",
+    "season": "shatteredSeas",
+    "set": "gildedMaw",
+    "event": "theHonorless",
+    "obtainable": "premiumEventPass",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "grimsGilt": {
+    "id": "grimsGilt",
+    "type": "firework",
+    "season": "shatteredSeas",
+    "event": "theHonorless",
+    "obtainable": "premiumEventPass",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "treasonsFurnace": {
+    "id": "treasonsFurnace",
+    "type": "demicannonWeaponSkin",
+    "season": "shatteredSeas",
+    "effect": "emissive",
+    "event": "theHonorless",
+    "obtainable": "premiumEventPass",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "firestorm": {
+    "id": "firestorm",
+    "type": "aura",
+    "season": "shatteredSeas",
+    "effect": "bossKillReactive",
+    "event": "theHonorless",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "bladesAblaze": {
+    "id": "bladesAblaze",
+    "type": "firework",
+    "season": "shatteredSeas",
+    "event": "theHonorless",
+    "obtainable": "ubisoftStore",
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "goldenChild": {
+    "id": "goldenChild",
+    "type": "headwear",
+    "season": "shatteredSeas",
+    "set": "narcissus",
+    "event": "theHonorless",
+    "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "outcastsGlare": {
+    "id": "outcastsGlare",
+    "type": "faceAccessory",
+    "season": "shatteredSeas",
+    "set": "narcissus",
+    "event": "theHonorless",
+    "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "honorlessFinery": {
+    "id": "honorlessFinery",
+    "type": "torso",
+    "season": "shatteredSeas",
+    "set": "narcissus",
+    "event": "theHonorless",
+    "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "turncoatsTreasure": {
+    "id": "turncoatsTreasure",
+    "type": "neck",
+    "season": "shatteredSeas",
+    "set": "narcissus",
+    "event": "theHonorless",
+    "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "pridebound": {
+    "id": "pridebound",
+    "type": "forearm",
+    "season": "shatteredSeas",
+    "set": "narcissus",
+    "event": "theHonorless",
+    "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "heirloomOfExcess": {
+    "id": "heirloomOfExcess",
+    "type": "waist",
+    "season": "shatteredSeas",
+    "set": "narcissus",
+    "event": "theHonorless",
+    "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "snakeskin": {
+    "id": "snakeskin",
+    "type": "hand",
+    "season": "shatteredSeas",
+    "set": "narcissus",
+    "event": "theHonorless",
+    "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "foesFiligree": {
+    "id": "foesFiligree",
+    "type": "bottom",
+    "season": "shatteredSeas",
+    "set": "narcissus",
+    "event": "theHonorless",
+    "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "bloodshedBoots": {
+    "id": "bloodshedBoots",
+    "type": "footwear",
+    "season": "shatteredSeas",
+    "set": "narcissus",
+    "event": "theHonorless",
+    "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "wingsOfChaos": {
+    "id": "wingsOfChaos",
+    "type": "firework",
+    "obtainable": [["friendReferralProgram","friendReferralProgramTier2"]],
+    "dateAdded": "2026-05-19",
+    "lastUpdated": "2026-05-19"
+  },
+  "captainOfTheDeep": {
+    "id": "captainOfTheDeep",
+    "type": "sailsEmblem",
+    "season": "shatteredSeas",
+    "obtainable": [["twitchDrop","twitchDropCaptainGTI"]],
+    "dateAdded": "2026-05-26",
+    "lastUpdated": "2026-05-26"
   }
 }

@@ -1650,5 +1650,161 @@
   "crimsonStreak": {
     "id": "crimsonStreak",
     "type": "player"
+  },
+  "apexTitan": {
+    "id": "apexTitan",
+    "type": "ship"
+  },
+  "badAndBaroque": {
+    "id": "badAndBaroque",
+    "type": "ship"
+  },
+  "greaterNian": {
+    "id": "greaterNian",
+    "type": "ship"
+  },
+  "crocodilosWrath": {
+    "id": "crocodilosWrath",
+    "type": "ship"
+  },
+  "chimpCrazy": {
+    "id": "chimpCrazy",
+    "type": "ship"
+  },
+  "deathsGlow": {
+    "id": "deathsGlow",
+    "type": "ship"
+  },
+  "deathlyWishes": {
+    "id": "deathlyWishes",
+    "type": "player"
+  },
+  "oranjeDominion": {
+    "id": "oranjeDominion",
+    "type": "ship"
+  },
+  "velvetRequiem": {
+    "id": "velvetRequiem",
+    "type": "ship"
+  },
+  "masqueRenegade": {
+    "id": "masqueRenegade",
+    "type": "ship"
+  },
+  "maneOfGlory": {
+    "id": "maneOfGlory",
+    "type": "ship"
+  },
+  "fumesOfDoom": {
+    "id": "fumesOfDoom",
+    "type": "ship"
+  },
+  "songOfTheSirens": {
+    "id": "songOfTheSirens",
+    "type": "ship"
+  },
+  "eternalInferno": {
+    "id": "eternalInferno",
+    "type": "ship"
+  },
+  "deathsCue": {
+    "id": "deathsCue",
+    "type": "ship"
+  },
+  "burningBeast": {
+    "id": "burningBeast",
+    "type": "ship"
+  },
+  "huntersWrath": {
+    "id": "huntersWrath",
+    "type": "ship"
+  },
+  "shadowBlade": {
+    "id": "shadowBlade",
+    "type": "ship"
+  },
+  "summerDreams": {
+    "id": "summerDreams",
+    "type": "player"
+  },
+  "leonasLegend": {
+    "id": "leonasLegend",
+    "type": "player"
+  },
+  "theBohemian": {
+    "id": "theBohemian",
+    "type": "player"
+  },
+  "wastelandWarrior": {
+    "id": "wastelandWarrior",
+    "type": "player"
+  },
+  "jadeProwler": {
+    "id": "jadeProwler",
+    "type": "ship"
+  },
+  "libertysHorn": {
+    "id": "libertysHorn",
+    "type": "ship"
+  },
+  "ashesOfAllegiance": {
+    "id": "ashesOfAllegiance",
+    "type": "ship"
+  },
+  "theGunSaint": {
+    "id": "theGunSaint",
+    "type": "ship"
+  },
+  "exileRoyal": {
+    "id": "exileRoyal",
+    "type": "ship"
+  },
+  "hellfireReign": {
+    "id": "hellfireReign",
+    "type": "ship"
+  },
+  "cursedDjinns": {
+    "id": "cursedDjinns",
+    "type": "ship"
+  },
+  "renegadeRoyale": {
+    "id": "renegadeRoyale",
+    "type": "player"
+  },
+  "demonKing": {
+    "id": "demonKing",
+    "type": "player"
+  },
+  "tripleTrouble": {
+    "id": "tripleTrouble",
+    "type": "ship"
+  },
+  "anthemOfAnarchy": {
+    "id": "anthemOfAnarchy",
+    "type": "ship"
+  },
+  "dragonblood": {
+    "id": "dragonblood",
+    "type": "ship"
+  },
+  "desertMarauder": {
+    "id": "desertMarauder",
+    "type": "player"
+  },
+  "opalIslander": {
+    "id": "opalIslander",
+    "type": "player"
+  },
+  "gildedMaw": {
+    "id": "gildedMaw",
+    "type": "ship"
+  },
+  "rogueOWar": {
+    "id": "rogueOWar",
+    "type": "ship"
+  },
+  "narcissus": {
+    "id": "narcissus",
+    "type": "player"
   }
 }

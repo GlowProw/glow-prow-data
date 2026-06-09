@@ -1,0 +1,86 @@
+{
+  "torpedoes": {
+    "id": "torpedoes",
+    "season": "release",
+    "type": "ammunition",
+    "weight": 1,
+    "obtainable": "torpedoCrate",
+    "dateAdded": "2026-03-16",
+    "lastUpdated": "2026-03-16"
+  },
+  "oilCanisters": {
+    "id": "oilCanisters",
+    "season": "release",
+    "type": "ammunition",
+    "weight": 1,
+    "obtainable": "seaFireOilCrate",
+    "dateAdded": "2026-03-16",
+    "lastUpdated": "2026-03-16"
+  },
+  "mortarBombs": {
+    "id": "mortarBombs",
+    "season": "release",
+    "type": "ammunition",
+    "weight": 1,
+    "obtainable": [
+      "mortarBombCrate"
+    ],
+    "dateAdded": "2026-03-16",
+    "lastUpdated": "2026-03-16"
+  },
+  "ballistaBolts": {
+    "id": "ballistaBolts",
+    "season": "release",
+    "type": "ammunition",
+    "weight": 1,
+    "obtainable": "ballistaBoltCrate",
+    "dateAdded": "2026-03-16",
+    "lastUpdated": "2026-03-16"
+  },
+  "cannonballs": {
+    "id": "cannonballs",
+    "season": "release",
+    "type": "ammunition",
+    "weight": 1,
+    "obtainable": "cannonballCrate",
+    "dateAdded": "2026-03-16",
+    "lastUpdated": "2026-03-16"
+  },
+  "bombardBombs": {
+    "id": "bombardBombs",
+    "season": "release",
+    "type": "ammunition",
+    "weight": 1,
+    "obtainable": [
+      "bombardBombCrate",
+      "deluxeBombardBombCrate1",
+      "deluxeBombardBombCrate2"
+    ],
+    "dateAdded": "2026-03-16",
+    "lastUpdated": "2026-03-16"
+  },
+  "rockets": {
+    "id": "rockets",
+    "season": "release",
+    "type": "ammunition",
+    "weight": 1,
+    "obtainable": [
+      "rocketCrate"
+    ],
+    "dateAdded": "2026-03-16",
+    "lastUpdated": "2026-03-16"
+  },
+  "buoyShells": {
+    "id": "buoyShells",
+    "season": "chorusOfHavoc",
+    "type": "ammunition",
+    "weight": 1,
+    "obtainable": [
+      "buoyShellsCrate",
+      "deluxeBuoyShellsCrate1",
+      "deluxeBuoyShellsCrate2"
+    ],
+    "dateAdded": "2026-03-16",
+    "lastUpdated": "2026-03-16"
+  }
+}

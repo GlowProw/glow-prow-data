@@ -1,4 +1,5 @@
 import itemsData from '../data/items.json';
+import itemsAmmunitionData from '../data/items_ammunition.json';
 import {FurnitureType, GeneralType, Tier, WeaponType} from '../types/ItemProperties';
 import {Rarity} from '../types/Rarity';
 import {Contract, Contracts} from './Contracts';
@@ -16,7 +17,6 @@ export class Item extends BaseType {
         public readonly bySeason: Season,
         public readonly dateAdded: Date,
         public readonly lastUpdated: Date,
-        public readonly ammunitionType: string | Item,
         public readonly tier?: Tier,
         public readonly blueprint?: string,
         public readonly value?: number,
@@ -72,7 +72,6 @@ export class Item extends BaseType {
             Seasons[season],
             new Date(rawData.dateAdded),
             new Date(rawData.lastUpdated),
-            rawData.ammunitionType ?? undefined,
             rawData.tier,
             rawData.blueprint ?? undefined,
             rawData.value ?? undefined,
@@ -137,11 +136,15 @@ export class Item extends BaseType {
 
     public static loadItems(): Record<string, Item> {
         const items: Record<string, Item> = {};
-        for (const [key, value] of Object.entries(itemsData)) {
+        const itemsConcatData = Object.assign(
+            Object.entries(itemsAmmunitionData),
+            Object.entries(itemsData)
+        )
+        for (const [key, value] of itemsConcatData) {
             items[key] = Item.fromRawData(value);
         }
 
-        for (const [key, value] of Object.entries(itemsData)) {
+        for (const [key, value] of itemsConcatData) {
             Item.updateObtainableWithItems(key, value, items);
         }
         return items;

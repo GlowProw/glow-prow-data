@@ -339,7 +339,7 @@
         "id": "fix",
         "variants": [
             {
-                "itemType": ["springloader","longGun","culverin","mortar","bombard"],
+                "itemType": ["springloader","longGun","culverin","mortar","bombard","rocket"],
                 "range": [113, 188]
             }
         ],
@@ -348,13 +348,13 @@
         "repairAccess": "exclusive",
         "grade": "basic",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-25"
+        "lastUpdated": "2026-03-21"
     },
     "antiBlast": {
         "id": "antiBlast",
         "variants": [
             {
-                "itemType": ["springloader","longGun","culverin","mortar","bombard"],
+                "itemType": ["springloader","longGun","culverin","mortar","bombard","rocket"],
                 "range": [0.075, 0.125]
             }
         ],
@@ -362,13 +362,13 @@
         "repairAccess": "exclusive",
         "grade": "basic",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-25"
+        "lastUpdated": "2026-03-21"
     },
     "insulator": {
         "id": "insulator",
         "variants": [
             {
-                "itemType": ["springloader","longGun","culverin","mortar","bombard"],
+                "itemType": ["springloader","longGun","culverin","mortar","bombard","rocket"],
                 "range": [0.075, 0.125]
             }
         ],
@@ -376,13 +376,13 @@
         "repairAccess": "exclusive",
         "grade": "basic",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-25"
+        "lastUpdated": "2026-03-21"
     },
     "service": {
         "id": "service",
         "variants": [
             {
-                "itemType": ["springloader","longGun","culverin","mortar","bombard"],
+                "itemType": ["springloader","longGun","culverin","mortar","bombard","rocket"],
                 "range": [0.09, 0.15]
             }
         ],
@@ -391,13 +391,13 @@
         "repairAccess": "exclusive",
         "grade": "basic",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-25"
+        "lastUpdated": "2026-03-21"
     },
     "douser": {
         "id": "douser",
         "variants": [
             {
-                "itemType": ["springloader","longGun","culverin","mortar","bombard"],
+                "itemType": ["springloader","longGun","culverin","mortar","bombard","rocket"],
                 "range": [0.075, 0.125]
             }
         ],
@@ -405,13 +405,13 @@
         "repairAccess": "exclusive",
         "grade": "basic",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-25"
+        "lastUpdated": "2026-03-21"
     },
     "sealant": {
         "id": "sealant",
         "variants": [
             {
-                "itemType": ["springloader","longGun","culverin","mortar","bombard"],
+                "itemType": ["springloader","longGun","culverin","mortar","bombard","rocket"],
                 "range": [0.075, 0.125]
             }
         ],
@@ -419,13 +419,13 @@
         "repairAccess": "exclusive",
         "grade": "basic",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-25"
+        "lastUpdated": "2026-03-21"
     },
     "reinforcer": {
         "id": "reinforcer",
         "variants": [
             {
-                "itemType": ["springloader","longGun","culverin","mortar","bombard"],
+                "itemType": ["springloader","longGun","culverin","mortar","bombard","rocket"],
                 "range": [0.075, 0.125]
             }
         ],
@@ -433,7 +433,7 @@
         "repairAccess": "exclusive",
         "grade": "basic",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-25"
+        "lastUpdated": "2026-03-21"
     },
     "brute": {
         "id": "brute",
@@ -816,7 +816,7 @@
         "id": "restorative",
         "variants": [
             {
-                "itemType": ["springloader","longGun","culverin","mortar","bombard"],
+                "itemType": ["springloader","longGun","culverin","mortar","bombard","rocket"],
                 "range": [0.15, 0.25]
             }
         ],
@@ -824,13 +824,13 @@
         "repairAccess": "exclusive",
         "grade": "advanced",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-25"
+        "lastUpdated": "2026-03-21"
     },
     "invigorate": {
         "id": "invigorate",
         "variants": [
             {
-                "itemType": ["springloader","longGun","culverin","mortar","bombard"],
+                "itemType": ["springloader","longGun","culverin","mortar","bombard","rocket"],
                 "range": [0.0038, 0.0063]
             }
         ],
@@ -838,13 +838,13 @@
         "repairAccess": "exclusive",
         "grade": "advanced",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-25"
+        "lastUpdated": "2026-03-21"
     },
     "tranquility": {
         "id": "tranquility",
         "variants": [
             {
-                "itemType": ["springloader","longGun","culverin","mortar","bombard"],
+                "itemType": ["springloader","longGun","culverin","mortar","bombard","rocket"],
                 "range": [0.113, 0.188]
             }
         ],
@@ -852,13 +852,13 @@
         "repairAccess": "exclusive",
         "grade": "advanced",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-25"
+        "lastUpdated": "2026-03-21"
     },
     "sailorsRespite": {
         "id": "sailorsRespite",
         "variants": [
             {
-                "itemType": ["springloader","longGun","culverin","mortar","bombard"],
+                "itemType": ["springloader","longGun","culverin","mortar","bombard","rocket"],
                 "range": [2.25, 3.75]
             }
         ],
@@ -866,13 +866,13 @@
         "repairAccess": "exclusive",
         "grade": "advanced",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-25"
+        "lastUpdated": "2026-03-21"
     },
     "strengthen": {
         "id": "strengthen",
         "variants": [
             {
-                "itemType": ["springloader","longGun","culverin","mortar","bombard"],
+                "itemType": ["springloader","longGun","culverin","mortar","bombard","rocket"],
                 "range": [0.15, 0.25]
             }
         ],
@@ -880,13 +880,13 @@
         "repairAccess": "exclusive",
         "grade": "advanced",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-25"
+        "lastUpdated": "2026-03-21"
     },
     "sailMender": {
         "id": "sailMender",
         "variants": [
             {
-                "itemType": ["springloader","longGun","culverin","mortar","bombard"],
+                "itemType": ["springloader","longGun","culverin","mortar","bombard","rocket"],
                 "range": [0.113, 0.188]
             }
         ],
@@ -894,7 +894,7 @@
         "repairAccess": "exclusive",
         "grade": "advanced",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-25"
+        "lastUpdated": "2026-03-21"
     },
     "secondStorm": {
         "id": "secondStorm",
@@ -1148,7 +1148,7 @@
         "id": "antidote",
         "variants": [
             {
-                "itemType": ["springloader","longGun","culverin","mortar","bombard"],
+                "itemType": ["springloader","longGun","culverin","mortar","bombard","rocket"],
                 "range": [0.075, 0.125]
             }
         ],
@@ -1156,7 +1156,7 @@
         "repairAccess": "exclusive",
         "grade": "basic",
         "dateAdded": "2025-10-21",
-        "lastUpdated": "2025-10-21"
+        "lastUpdated": "2026-03-21"
     },
     "armored": {
         "id": "armored",

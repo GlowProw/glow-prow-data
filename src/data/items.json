@@ -14,7 +14,6 @@
     "reloadSpeed": 6000,
     "optimalRange": 600,
     "projectileSpeed": 210,
-    "ammunitionType": "cannonballs",
     "required": {
       "silver": 70,
       "bogIron": 6
@@ -38,7 +37,6 @@
     "reloadSpeed": 6000,
     "optimalRange": 600,
     "projectileSpeed": 210,
-    "ammunitionType": "cannonballs",
     "required": {
       "silver": 200,
       "bronzeIngot": 6,
@@ -63,7 +61,6 @@
     "reloadSpeed": 6000,
     "optimalRange": 600,
     "projectileSpeed": 210,
-    "ammunitionType": "cannonballs",
     "required": {
       "silver": 500,
       "cobaltIngot": 6,
@@ -89,7 +86,6 @@
     "reloadSpeed": 6000,
     "optimalRange": 600,
     "projectileSpeed": 210,
-    "ammunitionType": "cannonballs",
     "required": {
       "silver": 1390,
       "zincIngot": 4,
@@ -116,7 +112,6 @@
     "reloadSpeed": 6000,
     "optimalRange": 600,
     "projectileSpeed": 210,
-    "ammunitionType": "cannonballs",
     "required": {
       "silver": 2380,
       "magnetiteIngot": 6,
@@ -145,7 +140,6 @@
     "reloadSpeed": 5000,
     "optimalRange": 600,
     "projectileSpeed": 210,
-    "ammunitionType": "cannonballs",
     "required": {
       "silver": 400,
       "bronzeIngot": 8,
@@ -175,7 +169,6 @@
     "reloadSpeed": 5000,
     "optimalRange": 600,
     "projectileSpeed": 210,
-    "ammunitionType": "cannonballs",
     "required": {
       "silver": 790,
       "bronzeIngot": 16,
@@ -206,7 +199,6 @@
     "reloadSpeed": 5000,
     "optimalRange": 600,
     "projectileSpeed": 210,
-    "ammunitionType": "cannonballs",
     "required": {
       "silver": 2380,
       "magnetiteIngot": 12,
@@ -238,7 +230,6 @@
     "reloadSpeed": 6000,
     "optimalRange": 600,
     "projectileSpeed": 210,
-    "ammunitionType": "cannonballs",
     "required": {
       "silver": 500,
       "bronzeIngot": 12,
@@ -268,7 +259,6 @@
     "reloadSpeed": 6000,
     "optimalRange": 600,
     "projectileSpeed": 210,
-    "ammunitionType": "cannonballs",
     "required": {
       "silver": 1390,
       "bronzeIngot": 16,
@@ -300,7 +290,6 @@
     "reloadSpeed": 6000,
     "optimalRange": 600,
     "projectileSpeed": 210,
-    "ammunitionType": "cannonballs",
     "required": {
       "silver": 3300,
       "magnetiteIngot": 12,
@@ -313,12 +302,9 @@
       "raider",
       "piercing2"
     ],
-    "obtainable": [
-      "darktideChest",
-      "hauntedReapersCache"
-    ],
+    "obtainable": ["darktideChest","hauntedReapersCache","crazedNianStrongbox"],
     "dateAdded": "2024-02-12",
-    "lastUpdated": "2025-10-21"
+    "lastUpdated": "2026-04-20"
   },
   "carronade": {
     "id": "carronade",
@@ -341,7 +327,6 @@
     "reloadSpeed": 5500,
     "optimalRange": 600,
     "projectileSpeed": 210,
-    "ammunitionType": "cannonballs",
     "required": {
       "magnetiteIngot": 14,
       "planetaryGearset": 10,
@@ -372,7 +357,6 @@
     "reloadSpeed": 3500,
     "optimalRange": 250,
     "projectileSpeed": 400,
-    "ammunitionType": "cannonballs",
     "required": {
       "silver": 70,
       "fineJute": 1,
@@ -398,7 +382,6 @@
     "reloadSpeed": 3500,
     "optimalRange": 250,
     "projectileSpeed": 400,
-    "ammunitionType": "cannonballs",
     "required": {
       "silver": 200,
       "fineJute": 8,
@@ -424,7 +407,6 @@
     "reloadSpeed": 3500,
     "optimalRange": 250,
     "projectileSpeed": 400,
-    "ammunitionType": "cannonballs",
     "required": {
       "silver": 500,
       "fineLinen": 4,
@@ -451,7 +433,6 @@
     "reloadSpeed": 3500,
     "optimalRange": 250,
     "projectileSpeed": 400,
-    "ammunitionType": "cannonballs",
     "required": {
       "silver": 1390,
       "fineAbaka": 6,
@@ -479,7 +460,6 @@
     "reloadSpeed": 3500,
     "optimalRange": 250,
     "projectileSpeed": 400,
-    "ammunitionType": "cannonballs",
     "required": {
       "silver": 2380,
       "roselleCloth": 6,
@@ -508,7 +488,6 @@
     "reloadSpeed": 3500,
     "optimalRange": 250,
     "projectileSpeed": 400,
-    "ammunitionType": "cannonballs",
     "required": {
       "silver": 400,
       "nickelIngot": 10,
@@ -537,7 +516,6 @@
     "reloadSpeed": 3500,
     "optimalRange": 250,
     "projectileSpeed": 400,
-    "ammunitionType": "cannonballs",
     "required": {
       "silver": 790,
       "cobaltIngot": 12,
@@ -568,7 +546,6 @@
     "reloadSpeed": 3500,
     "optimalRange": 250,
     "projectileSpeed": 400,
-    "ammunitionType": "cannonballs",
     "required": {
       "silver": 2380,
       "magnetiteIngot": 12,
@@ -600,7 +577,6 @@
     "reloadSpeed": 4200,
     "optimalRange": 250,
     "projectileSpeed": 400,
-    "ammunitionType": "cannonballs",
     "required": {
       "silver": 500,
       "cobaltIngot": 8,
@@ -631,7 +607,6 @@
     "reloadSpeed": 4200,
     "optimalRange": 250,
     "projectileSpeed": 400,
-    "ammunitionType": "cannonballs",
     "required": {
       "silver": 1580,
       "cobaltIngot": 12,
@@ -664,7 +639,6 @@
     "reloadSpeed": 4200,
     "optimalRange": 250,
     "projectileSpeed": 400,
-    "ammunitionType": "cannonballs",
     "required": {
       "silver": 3300,
       "magnetiteIngot": 12,
@@ -677,8 +651,9 @@
       "raider",
       "burning2"
     ],
+    "obtainable": ["crazedNianStrongbox","bloodiedStrongbox"],
     "dateAdded": "2024-02-12",
-    "lastUpdated": "2025-07-29"
+    "lastUpdated": "2026-05-14"
   },
   "cannonballCrate": {
     "id": "cannonballCrate",
@@ -1409,11 +1384,7 @@
     "perks": [
       "resolute"
     ],
-    "obtainable": [
-      "legacyCache3",
-      "legacyCache1",
-      "exoticArmorAscendedCache"
-    ],
+    "obtainable": ["legacyCache3","legacyCache1","exoticArmorAscendedCache"],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-10-21"
   },
@@ -1538,10 +1509,7 @@
     "rarity": "epic",
     "season": "release",
     "requiredRank": "kingpin1",
-    "obtainable": [
-      "worldEventMerchantConvoy",
-      "exoticArmorAscendedCache"
-    ],
+    "obtainable": ["worldEventMerchantConvoy","exoticArmorAscendedCache"],
     "blueprint": "theHelm",
     "type": "armor",
     "value": 1,
@@ -1589,7 +1557,6 @@
     "optimalRange": 600,
     "timeToTarget": 5750,
     "blastRadius": 50,
-    "ammunitionType": "mortarBombs",
     "required": {
       "silver": 1030,
       "steelIngot": 6,
@@ -1622,7 +1589,6 @@
     "optimalRange": 600,
     "timeToTarget": 5750,
     "blastRadius": 50,
-    "ammunitionType": "mortarBombs",
     "required": {
       "silver": 2060,
       "zincIngot": 6,
@@ -1656,7 +1622,6 @@
     "optimalRange": 600,
     "timeToTarget": 5750,
     "blastRadius": 50,
-    "ammunitionType": "mortarBombs",
     "required": {
       "silver": 4290,
       "magnetiteIngot": 8,
@@ -1690,7 +1655,6 @@
     "optimalRange": 600,
     "timeToTarget": 5750,
     "blastRadius": 50,
-    "ammunitionType": "mortarBombs",
     "required": {
       "silver": 2060,
       "zincIngot": 10,
@@ -1722,7 +1686,6 @@
     "optimalRange": 600,
     "timeToTarget": 5750,
     "blastRadius": 50,
-    "ammunitionType": "mortarBombs",
     "required": {
       "silver": 3090,
       "magnetiteIngot": 12,
@@ -1755,7 +1718,6 @@
     "optimalRange": 600,
     "timeToTarget": 5750,
     "blastRadius": 50,
-    "ammunitionType": "mortarBombs",
     "required": {
       "silver": 4290,
       "magnetiteIngot": 12,
@@ -1789,7 +1751,6 @@
     "optimalRange": 600,
     "timeToTarget": 5750,
     "blastRadius": 50,
-    "ammunitionType": "mortarBombs",
     "required": {
       "silver": 2060,
       "zincIngot": 12,
@@ -1822,7 +1783,6 @@
     "optimalRange": 600,
     "timeToTarget": 5750,
     "blastRadius": 50,
-    "ammunitionType": "mortarBombs",
     "required": {
       "silver": 3090,
       "magnetiteIngot": 14,
@@ -1857,7 +1817,6 @@
     "optimalRange": 600,
     "timeToTarget": 5750,
     "blastRadius": 50,
-    "ammunitionType": "mortarBombs",
     "required": {
       "silver": 4290,
       "magnetiteIngot": 14,
@@ -1871,9 +1830,7 @@
       "flooding2",
       "noDefaultCrit"
     ],
-    "obtainable": [
-      "vanderkillsLocker"
-    ],
+    "obtainable": ["vanderkillsLocker"],
     "dateAdded": "2024-02-12",
     "lastUpdated": "2025-09-04"
   },
@@ -1883,11 +1840,7 @@
     "rarity": "epic",
     "season": "ragingTides",
     "requiredRank": "kingpin1",
-    "obtainable": [
-      "laPestesStrongbox",
-      "legacyCache1",
-      "laPestesLockerMythic"
-    ],
+    "obtainable": ["laPestesStrongbox","legacyCache1","laPestesLockerMythic"],
     "value": 1,
     "weight": 1000,
     "gearScore": 91,
@@ -1898,7 +1851,6 @@
     "optimalRange": 600,
     "timeToTarget": 5750,
     "blastRadius": 50,
-    "ammunitionType": "mortarBombs",
     "required": {},
     "perks": [
       "blast",
@@ -1926,7 +1878,6 @@
     "reloadSpeed": 20000,
     "optimalRange": 300,
     "timeToTarget": 1310,
-    "ammunitionType": "rockets",
     "required": {
       "silver": 1800,
       "fineAbaka": 6,
@@ -1956,7 +1907,6 @@
     "reloadSpeed": 20000,
     "optimalRange": 300,
     "timeToTarget": 1310,
-    "ammunitionType": "rockets",
     "required": {
       "silver": 2060,
       "fineAbaka": 6,
@@ -1988,7 +1938,6 @@
     "reloadSpeed": 20000,
     "optimalRange": 300,
     "timeToTarget": 1310,
-    "ammunitionType": "rockets",
     "required": {
       "silver": 4290,
       "roselleCloth": 8,
@@ -2000,11 +1949,7 @@
     "perks": [
       "burning2"
     ],
-    "obtainable": [
-      "chorusFleetStrongbox",
-      "whiteAriaChest",
-      "blackAriaChest"
-    ],
+    "obtainable": ["chorusFleetStrongbox","whiteAriaChest","blackAriaChest"],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-09-04"
   },
@@ -2025,7 +1970,6 @@
     "reloadSpeed": 20000,
     "optimalRange": 400,
     "timeToTarget": 2000,
-    "ammunitionType": "rockets",
     "required": {
       "silver": 2060,
       "fineAbaka": 8,
@@ -2058,7 +2002,6 @@
     "reloadSpeed": 20000,
     "optimalRange": 400,
     "timeToTarget": 2000,
-    "ammunitionType": "rockets",
     "required": {
       "silver": 3090,
       "roselleCloth": 12,
@@ -2092,7 +2035,6 @@
     "reloadSpeed": 20000,
     "optimalRange": 400,
     "timeToTarget": 2000,
-    "ammunitionType": "rockets",
     "required": {
       "silver": 4290,
       "roselleCloth": 12,
@@ -2106,11 +2048,7 @@
       "burning1",
       "siege"
     ],
-    "obtainable": [
-      "chorusFleetStrongbox",
-      "whiteAriaChest",
-      "blackAriaChest"
-    ],
+    "obtainable": ["chorusFleetStrongbox","whiteAriaChest","blackAriaChest"],
     "dateAdded": "2024-02-12",
     "lastUpdated": "2025-09-04"
   },
@@ -2133,7 +2071,6 @@
     "reloadSpeed": 1000,
     "projectileSpeed": 700,
     "optimalRange": 900,
-    "ammunitionType": "ballistaBolts",
     "required": {
       "silver": 1660,
       "fineAbaka": 4,
@@ -2165,7 +2102,6 @@
     "reloadSpeed": 1000,
     "projectileSpeed": 700,
     "optimalRange": 900,
-    "ammunitionType": "ballistaBolts",
     "required": {
       "silver": 1900,
       "fineAbaka": 6,
@@ -2199,7 +2135,6 @@
     "reloadSpeed": 1000,
     "projectileSpeed": 700,
     "optimalRange": 900,
-    "ammunitionType": "ballistaBolts",
     "required": {
       "silver": 3960,
       "roselleCloth": 8,
@@ -2233,7 +2168,6 @@
     "reloadSpeed": 1000,
     "projectileSpeed": 700,
     "optimalRange": 900,
-    "ammunitionType": "ballistaBolts",
     "required": {
       "silver": 1900,
       "fineJute": 20,
@@ -2267,7 +2201,6 @@
     "reloadSpeed": 1000,
     "projectileSpeed": 700,
     "optimalRange": 900,
-    "ammunitionType": "ballistaBolts",
     "required": {
       "silver": 2850,
       "roselleCloth": 8,
@@ -2292,10 +2225,7 @@
     "season": "release",
     "requiredRank": "kingpin1",
     "blueprint": "seaPeopleHunterMasterOutpostLanitra",
-    "obtainable": [
-      "slayersChest",
-      "gildedSlayersChest"
-    ],
+    "obtainable": ["slayersChest","gildedSlayersChest"],
     "value": 1,
     "weight": 750,
     "gearScore": 83,
@@ -2306,7 +2236,6 @@
     "reloadSpeed": 1000,
     "projectileSpeed": 700,
     "optimalRange": 900,
-    "ammunitionType": "ballistaBolts",
     "required": {
       "silver": 3960,
       "monstrousTooth": 15,
@@ -2329,12 +2258,7 @@
     "rarity": "epic",
     "season": "release",
     "requiredRank": "kingpin1",
-    "obtainable": [
-      "theHelmSeasonal",
-      "legacyCache3",
-      "legacyCache1",
-      "laPestesLockerMythic"
-    ],
+    "obtainable": ["theHelmSeasonal","legacyCache3","legacyCache1","laPestesLockerMythic"],
     "blueprint": "theHelmSeasonOathsOfWar",
     "value": 1,
     "weight": 750,
@@ -2346,7 +2270,6 @@
     "reloadSpeed": 1000,
     "projectileSpeed": 1150,
     "optimalRange": 1350,
-    "ammunitionType": "ballistaBolts",
     "required": {
       "planetaryGearset": 16,
       "torsionSpring": 8,
@@ -2380,7 +2303,6 @@
     "reloadSpeed": 11000,
     "projectileSpeed": 1,
     "optimalRange": 125,
-    "ammunitionType": "oilCanisters",
     "required": {
       "silver": 1110,
       "steelIngot": 6,
@@ -2411,7 +2333,6 @@
     "reloadSpeed": 11000,
     "projectileSpeed": 1,
     "optimalRange": 125,
-    "ammunitionType": "oilCanisters",
     "required": {
       "silver": 2220,
       "zincIngot": 6,
@@ -2443,7 +2364,6 @@
     "reloadSpeed": 11000,
     "projectileSpeed": 1,
     "optimalRange": 125,
-    "ammunitionType": "oilCanisters",
     "required": {
       "silver": 4620,
       "magnetiteIngot": 7,
@@ -2476,7 +2396,6 @@
     "reloadSpeed": 11000,
     "projectileSpeed": 1,
     "optimalRange": 125,
-    "ammunitionType": "oilCanisters",
     "required": {
       "silver": 2220,
       "cobaltIngot": 16,
@@ -2508,7 +2427,6 @@
     "reloadSpeed": 11000,
     "projectileSpeed": 1,
     "optimalRange": 125,
-    "ammunitionType": "oilCanisters",
     "required": {
       "silver": 3330,
       "magnetiteIngot": 10,
@@ -2542,7 +2460,6 @@
     "reloadSpeed": 11000,
     "projectileSpeed": 1,
     "optimalRange": 125,
-    "ammunitionType": "oilCanisters",
     "required": {
       "silver": 46620,
       "magnetiteIngot": 16,
@@ -2577,7 +2494,6 @@
     "reloadSpeed": 11000,
     "projectileSpeed": 1,
     "optimalRange": 125,
-    "ammunitionType": "oilCanisters",
     "required": {
       "silver": 4620,
       "etherealAshes": 25,
@@ -3245,10 +3161,7 @@
     "perks": [
       "riggingStation"
     ],
-    "obtainable": [
-      "legacyCache3",
-      "legacyCache1"
-    ],
+    "obtainable": ["legacyCache3","legacyCache1"],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-09-04"
   },
@@ -3274,11 +3187,7 @@
     "perks": [
       "gunnersQuadrant"
     ],
-    "obtainable": [
-      "legacyCache3",
-      "legacyCache1",
-      "legacyCache4"
-    ],
+    "obtainable": ["legacyCache3","legacyCache1","legacyCache4"],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-09-04"
   },
@@ -4105,7 +4014,6 @@
     "optimalRange": 550,
     "projectileSpeed": 135,
     "blastRadius": 30,
-    "ammunitionType": "bombardBombs",
     "required": {
       "silver": 140,
       "acaciaPlank": 4,
@@ -4134,7 +4042,6 @@
     "optimalRange": 550,
     "projectileSpeed": 135,
     "blastRadius": 30,
-    "ammunitionType": "bombardBombs",
     "required": {
       "silver": 220,
       "irokoPlank": 4,
@@ -4164,7 +4071,6 @@
     "optimalRange": 550,
     "projectileSpeed": 135,
     "blastRadius": 30,
-    "ammunitionType": "bombardBombs",
     "required": {
       "silver": 550,
       "teakPlank": 8,
@@ -4195,7 +4101,6 @@
     "optimalRange": 550,
     "projectileSpeed": 135,
     "blastRadius": 30,
-    "ammunitionType": "bombardBombs",
     "required": {
       "silver": 1520,
       "juniperPlank": 4,
@@ -4226,7 +4131,6 @@
     "optimalRange": 550,
     "projectileSpeed": 135,
     "blastRadius": 30,
-    "ammunitionType": "bombardBombs",
     "required": {
       "silver": 2610,
       "greenheartPlank": 6,
@@ -4259,7 +4163,6 @@
     "optimalRange": 550,
     "projectileSpeed": 135,
     "blastRadius": 35,
-    "ammunitionType": "bombardBombs",
     "required": {
       "silver": 220,
       "irokoPlank": 6,
@@ -4289,7 +4192,6 @@
     "optimalRange": 550,
     "projectileSpeed": 135,
     "blastRadius": 35,
-    "ammunitionType": "bombardBombs",
     "required": {
       "silver": 870,
       "irokoPlank": 6,
@@ -4321,7 +4223,6 @@
     "optimalRange": 550,
     "projectileSpeed": 135,
     "blastRadius": 35,
-    "ammunitionType": "bombardBombs",
     "required": {
       "silver": 2610,
       "greenheartPlank": 12,
@@ -4354,7 +4255,6 @@
     "optimalRange": 550,
     "projectileSpeed": 135,
     "blastRadius": 35,
-    "ammunitionType": "bombardBombs",
     "required": {
       "silver": 440,
       "irokoPlank": 8,
@@ -4386,7 +4286,6 @@
     "optimalRange": 550,
     "projectileSpeed": 135,
     "blastRadius": 35,
-    "ammunitionType": "bombardBombs",
     "required": {
       "silver": 870,
       "irokoPlank": 8,
@@ -4419,7 +4318,6 @@
     "optimalRange": 550,
     "projectileSpeed": 135,
     "blastRadius": 35,
-    "ammunitionType": "bombardBombs",
     "required": {
       "silver": 2610,
       "greenheartPlank": 16,
@@ -4453,7 +4351,6 @@
     "optimalRange": 550,
     "projectileSpeed": 135,
     "blastRadius": 30,
-    "ammunitionType": "bombardBombs",
     "required": {
       "silver": 550,
       "ironwoodPlank": 10,
@@ -4486,7 +4383,6 @@
     "optimalRange": 550,
     "projectileSpeed": 135,
     "blastRadius": 30,
-    "ammunitionType": "bombardBombs",
     "required": {
       "silver": 1740,
       "greenheartPlank": 12,
@@ -4510,11 +4406,7 @@
     "rarity": "rare",
     "season": "release",
     "requiredRank": "kingpin1",
-    "obtainable": [
-      "moonshineChest",
-      "moonshineStrongbox",
-      "harbingersStrongbox"
-    ],
+    "obtainable": ["moonshineChest","moonshineStrongbox","harbingersStrongbox","bloodiedStrongbox"],
     "blueprint": "theHelm",
     "value": 1,
     "weight": 500,
@@ -4526,7 +4418,6 @@
     "optimalRange": 550,
     "projectileSpeed": 135,
     "blastRadius": 30,
-    "ammunitionType": "bombardBombs",
     "required": {
       "silver": 3630,
       "greenheartPlank": 12,
@@ -4541,7 +4432,7 @@
       "piercing1"
     ],
     "dateAdded": "2024-02-12",
-    "lastUpdated": "2025-12-09"
+    "lastUpdated": "2026-05-14"
   },
   "dardanellesGun": {
     "id": "dardanellesGun",
@@ -4559,7 +4450,6 @@
     "optimalRange": 550,
     "projectileSpeed": 135,
     "blastRadius": 40,
-    "ammunitionType": "bombardBombs",
     "required": {
       "greenheartPlank": 14,
       "dryCastingSand": 10,
@@ -4572,9 +4462,7 @@
       "unison",
       "explosive3"
     ],
-    "obtainable": [
-      "legacyCache1"
-    ],
+    "obtainable": ["legacyCache1"],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-09-04"
   },
@@ -4594,7 +4482,6 @@
     "reloadSpeed": 7200,
     "projectileSpeed": 350,
     "optimalRange": 1000,
-    "ammunitionType": "cannonballs",
     "required": {
       "silver": 140,
       "acaciaPlank": 4,
@@ -4622,7 +4509,6 @@
     "reloadSpeed": 7200,
     "projectileSpeed": 350,
     "optimalRange": 1000,
-    "ammunitionType": "cannonballs",
     "required": {
       "silver": 220,
       "irokoPlank": 4,
@@ -4651,7 +4537,6 @@
     "reloadSpeed": 7200,
     "projectileSpeed": 350,
     "optimalRange": 1000,
-    "ammunitionType": "cannonballs",
     "required": {
       "silver": 550,
       "mopanePlank": 4,
@@ -4681,7 +4566,6 @@
     "reloadSpeed": 7200,
     "projectileSpeed": 350,
     "optimalRange": 1000,
-    "ammunitionType": "cannonballs",
     "required": {
       "silver": 1520,
       "juniperPlank": 6,
@@ -4710,7 +4594,6 @@
     "reloadSpeed": 7200,
     "projectileSpeed": 350,
     "optimalRange": 1000,
-    "ammunitionType": "cannonballs",
     "required": {
       "silver": 2610,
       "greenheartPlank": 4,
@@ -4742,7 +4625,6 @@
     "reloadSpeed": 7200,
     "optimalRange": 1000,
     "projectileSpeed": 350,
-    "ammunitionType": "cannonballs",
     "required": {
       "silver": 550,
       "irokoPlank": 8,
@@ -4772,7 +4654,6 @@
     "reloadSpeed": 7200,
     "optimalRange": 1000,
     "projectileSpeed": 350,
-    "ammunitionType": "cannonballs",
     "required": {
       "silver": 1520,
       "irokoPlank": 16,
@@ -4804,7 +4685,6 @@
     "reloadSpeed": 7200,
     "optimalRange": 1000,
     "projectileSpeed": 350,
-    "ammunitionType": "cannonballs",
     "required": {
       "silver": 2610,
       "greenheartPlank": 12,
@@ -4837,7 +4717,6 @@
     "reloadSpeed": 7200,
     "optimalRange": 1000,
     "projectileSpeed": 350,
-    "ammunitionType": "cannonballs",
     "required": {
       "silver": 550,
       "steelIngot": 8,
@@ -4867,7 +4746,6 @@
     "reloadSpeed": 7200,
     "optimalRange": 1000,
     "projectileSpeed": 350,
-    "ammunitionType": "cannonballs",
     "required": {
       "silver": 1520,
       "juniperPlank": 12,
@@ -4898,7 +4776,6 @@
     "reloadSpeed": 7200,
     "optimalRange": 1000,
     "projectileSpeed": 350,
-    "ammunitionType": "cannonballs",
     "required": {
       "silver": 1740,
       "greenheartPlank": 12,
@@ -4932,7 +4809,6 @@
     "reloadSpeed": 7200,
     "optimalRange": 1000,
     "projectileSpeed": 350,
-    "ammunitionType": "cannonballs",
     "required": {
       "greenheartPlank": 16,
       "wormDrive": 12,
@@ -4966,7 +4842,6 @@
     "reloadSpeed": 7200,
     "optimalRange": 1000,
     "projectileSpeed": 350,
-    "ammunitionType": "cannonballs",
     "required": {
       "silver": 870,
       "ironwoodPlank": 16,
@@ -4999,7 +4874,6 @@
     "reloadSpeed": 4500,
     "optimalRange": 675,
     "projectileSpeed": 50,
-    "ammunitionType": "torpedoes",
     "required": {
       "silver": 470,
       "nickelIngot": 6,
@@ -5030,7 +4904,6 @@
     "reloadSpeed": 4500,
     "optimalRange": 675,
     "projectileSpeed": 50,
-    "ammunitionType": "torpedoes",
     "required": {
       "silver": 950,
       "steelIngot": 4,
@@ -5069,7 +4942,6 @@
     "reloadSpeed": 4500,
     "optimalRange": 675,
     "projectileSpeed": 50,
-    "ammunitionType": "torpedoes",
     "required": {
       "silver": 2850,
       "magnetiteIngot": 6,
@@ -5082,11 +4954,7 @@
       "arming",
       "flooding3"
     ],
-    "obtainable": [
-      "darktideChest",
-      "whiteAriaChest",
-      "blackAriaChest"
-    ],
+    "obtainable": ["darktideChest","whiteAriaChest","blackAriaChest"],
     "dateAdded": "2024-02-05",
     "lastUpdated": "2025-07-29"
   },
@@ -5107,7 +4975,6 @@
     "reloadSpeed": 4500,
     "optimalRange": 675,
     "projectileSpeed": 50,
-    "ammunitionType": "torpedoes",
     "required": {
       "silver": 590,
       "steelIngot": 12,
@@ -5140,7 +5007,6 @@
     "reloadSpeed": 4500,
     "optimalRange": 675,
     "projectileSpeed": 50,
-    "ammunitionType": "torpedoes",
     "required": {
       "silver": 1900,
       "zincIngot": 12,
@@ -5174,7 +5040,6 @@
     "reloadSpeed": 4500,
     "optimalRange": 675,
     "projectileSpeed": 50,
-    "ammunitionType": "torpedoes",
     "required": {
       "silver": 3960,
       "magnetiteIngot": 12,
@@ -5188,12 +5053,7 @@
       "explosive2",
       "flooding2"
     ],
-    "obtainable": [
-      "darktideChest",
-      "chorusFleetStrongbox",
-      "whiteAriaChest",
-      "blackAriaChest"
-    ],
+    "obtainable": ["darktideChest","chorusFleetStrongbox","whiteAriaChest","blackAriaChest"],
     "dateAdded": "2024-02-12",
     "lastUpdated": "2025-09-04"
   },
@@ -5214,7 +5074,6 @@
     "reloadSpeed": 4500,
     "optimalRange": 675,
     "projectileSpeed": 50,
-    "ammunitionType": "torpedoes",
     "required": {
       "silver": 1660,
       "zincIngot": 12,
@@ -5248,7 +5107,6 @@
     "reloadSpeed": 4500,
     "optimalRange": 675,
     "projectileSpeed": 50,
-    "ammunitionType": "torpedoes",
     "required": {
       "magnetiteIngot": 16,
       "purifiedSaltpeter": 10,
@@ -6114,10 +5972,7 @@
       "precisionDrillingBit": 2,
       "gannetsSaltpeter": 1
     },
-    "obtainable": [
-      "williamBlackwoodRotatingStore",
-      "teulingsWeaponChest1"
-    ],
+    "obtainable": ["williamBlackwoodRotatingStore","teulingsWeaponChest1"],
     "perks": [
       "laPotenceSchematics1"
     ],
@@ -6130,11 +5985,7 @@
     "rarity": "epic",
     "season": "chorusOfHavoc",
     "blueprint": "theHelmSeasonOathsOfWar",
-    "obtainable": [
-      "theHelmSeasonChorusOfHavoc",
-      "legacyCache3",
-      "legacyCache1"
-    ],
+    "obtainable": ["theHelmSeasonChorusOfHavoc","legacyCache3","legacyCache1"],
     "value": 1,
     "weight": 500,
     "gearScore": 91,
@@ -6144,7 +5995,6 @@
     "reloadSpeed": 3500,
     "optimalRange": 250,
     "projectileSpeed": 400,
-    "ammunitionType": "cannonballs",
     "required": {
       "magnetiteIngot": 16,
       "lacquer": 4,
@@ -6176,7 +6026,6 @@
     "reloadSpeed": 7200,
     "projectileSpeed": 350,
     "optimalRange": 1000,
-    "ammunitionType": "cannonballs",
     "required": {
       "ironwoodPlank": 10,
       "shellac": 2,
@@ -6206,7 +6055,6 @@
     "reloadSpeed": 7200,
     "projectileSpeed": 350,
     "optimalRange": 1000,
-    "ammunitionType": "cannonballs",
     "required": {
       "juniperPlank": 10,
       "zincIngot": 10,
@@ -6228,11 +6076,7 @@
     "rarity": "rare",
     "season": "chorusOfHavoc",
     "worldEvent": "thePlagueKing",
-    "obtainable": [
-      "laPestesStrongbox",
-      "dropDuringMythicLaPesteEncounter",
-      "laPestesLockerMythic"
-    ],
+    "obtainable": ["laPestesStrongbox","dropDuringMythicLaPesteEncounter","laPestesLockerMythic"],
     "blueprint": "williamBlackwoodRotatingStore",
     "value": 1,
     "weight": 500,
@@ -6243,7 +6087,6 @@
     "reloadSpeed": 7200,
     "projectileSpeed": 350,
     "optimalRange": 1000,
-    "ammunitionType": "cannonballs",
     "required": {
       "plagueDust": 6,
       "purifiedSaltpeter": 12,
@@ -6264,11 +6107,7 @@
     "type": "rocket",
     "rarity": "epic",
     "season": "chorusOfHavoc",
-    "obtainable": [
-      "theHelmSeasonal",
-      "legacyCache3",
-      "legacyCache1"
-    ],
+    "obtainable": ["theHelmSeasonal","legacyCache3","legacyCache1"],
     "blueprint": "theHelmSeasonOathsOfWar",
     "value": 1,
     "weight": 1000,
@@ -6279,7 +6118,6 @@
     "reloadSpeed": 20000,
     "optimalRange": 300,
     "timeToTarget": 2250,
-    "ammunitionType": "rockets",
     "required": {
       "roselleCloth": 8,
       "sinewString": 4,
@@ -6317,7 +6155,6 @@
     "reloadSpeed": 4500,
     "optimalRange": 540,
     "projectileSpeed": 60,
-    "ammunitionType": "torpedoes",
     "required": {
       "magnetiteIngot": 12,
       "blackAriaShipPart": 4,
@@ -6331,10 +6168,7 @@
       "quickArming",
       "flooding2"
     ],
-    "obtainable": [
-      "legacyCache3",
-      "legacyCache1"
-    ],
+    "obtainable": ["legacyCache3","legacyCache1"],
     "dateAdded": "2024-05-26",
     "lastUpdated": "2025-09-04"
   },
@@ -6343,11 +6177,7 @@
     "rarity": "epic",
     "season": "chorusOfHavoc",
     "type": "armor",
-    "obtainable": [
-      "theHelm",
-      "legacyCache3",
-      "legacyCache1"
-    ],
+    "obtainable": ["theHelm","legacyCache3","legacyCache1"],
     "blueprint": [
       [
         "contractReward",
@@ -6410,11 +6240,7 @@
     "perks": [
       "bloodAndGold"
     ],
-    "obtainable": [
-      "legacyCache3",
-      "legacyCache1",
-      "exoticArmorAscendedCache"
-    ],
+    "obtainable": ["legacyCache3","legacyCache1","exoticArmorAscendedCache"],
     "dateAdded": "2024-05-26",
     "lastUpdated": "2025-10-21"
   },
@@ -6423,10 +6249,7 @@
     "rarity": "epic",
     "tier": 1,
     "season": "chorusOfHavoc",
-    "obtainable": [
-      "theHelmSeasonal",
-      "legacyCache1"
-    ],
+    "obtainable": ["theHelmSeasonal","legacyCache1"],
     "blueprint": "theHelmSeasonOathsOfWar",
     "type": "majorFurniture",
     "gearScore": 35,
@@ -6477,11 +6300,7 @@
     "rarity": "epic",
     "season": "chorusOfHavoc",
     "tier": 1,
-    "obtainable": [
-      "theHelmSeasonal",
-      "legacyCache3",
-      "legacyCache1"
-    ],
+    "obtainable": ["theHelmSeasonal","legacyCache3","legacyCache1"],
     "blueprint": "theHelmSeasonOathsOfWar",
     "type": "offensiveFurniture",
     "gearScore": 25,
@@ -6591,9 +6410,7 @@
     "perks": [
       "flooding2"
     ],
-    "obtainable": [
-      "chorusFleetStrongbox"
-    ],
+    "obtainable": ["chorusFleetStrongbox"],
     "dateAdded": "2024-07-06",
     "lastUpdated": "2025-09-04"
   },
@@ -6763,10 +6580,7 @@
     "rarity": "rare",
     "season": "chorusOfHavoc",
     "blueprint": "theHelm",
-    "obtainable": [
-      "blackAriaChest",
-      "whiteAriaChest"
-    ],
+    "obtainable": ["blackAriaChest","whiteAriaChest"],
     "bounty": "verseOfRemorse",
     "worldEvent": "verseOfRemorse",
     "type": "armor",
@@ -6866,10 +6680,7 @@
       "sinewString": 4,
       "silver": 3370
     },
-    "obtainable": [
-      "whiteAriaChest",
-      "blackAriaChest"
-    ],
+    "obtainable": ["whiteAriaChest","blackAriaChest"],
     "dateAdded": "2024-06-02",
     "lastUpdated": "2025-09-04"
   },
@@ -6897,10 +6708,7 @@
       "precisionDrillingBit": 4,
       "silver": 3370
     },
-    "obtainable": [
-      "blackAriaChest",
-      "whiteAriaChest"
-    ],
+    "obtainable": ["blackAriaChest","whiteAriaChest"],
     "dateAdded": "2024-06-02",
     "lastUpdated": "2025-09-04"
   },
@@ -9216,11 +9024,7 @@
     "season": "chorusOfHavoc",
     "weight": 10,
     "buffDuration": 1800,
-    "event": [
-      "dragonsRegatta",
-      "darktideLullaby",
-      "azureSolstice"
-    ],
+    "event": ["dragonsRegatta","darktideLullaby","azureSolstice"],
     "worldEvent": "theWeepingMother",
     "obtainable": [
       "regattaChest",
@@ -9360,7 +9164,8 @@
     "event": "summerFiesta",
     "obtainable": [
       "convoyShipDrop",
-      "williamBlackwoodRotatingStore"
+      "williamBlackwoodRotatingStore",
+      "bloodiedStrongbox"
     ],
     "blueprint": "williamBlackwoodRotatingStoreOathsOfWar",
     "required": {
@@ -9376,7 +9181,7 @@
       "leatherFashioningStation1"
     ],
     "dateAdded": "2024-07-05",
-    "lastUpdated": "2025-10-07"
+    "lastUpdated": "2026-05-14"
   },
   "lestariTrophy": {
     "id": "lestariTrophy",
@@ -9387,10 +9192,7 @@
     "gearScore": 25,
     "bounty": "silentDeath",
     "worldEvent": "silentDeath",
-    "obtainable": [
-      "megaLestariChest",
-      "risenMegaLestariChest"
-    ],
+    "obtainable": ["megaLestariChest","risenMegaLestariChest"],
     "blueprint": "seaPeopleHunterMasterOutpostLanitra",
     "required": {
       "monstrousTooth": 7,
@@ -9725,7 +9527,6 @@
     "reloadSpeed": 6000,
     "optimalRange": 600,
     "projectileSpeed": 210,
-    "ammunitionType": "cannonballs",
     "required": {
       "planetaryGearset": 12,
       "torsionSpring": 10,
@@ -9735,10 +9536,7 @@
       "silver": 3300
     },
     "blueprint": "theHelmSeasonGutsAndGlory",
-    "obtainable": [
-      "legacyCache3",
-      "legacyCache4"
-    ],
+    "obtainable": ["legacyCache3","legacyCache4"],
     "perks": [
       "sharedSupply",
       "repair2"
@@ -9763,7 +9561,6 @@
     "optimalRange": 550,
     "projectileSpeed": 135,
     "blastRadius": 33,
-    "ammunitionType": "bombardBombs",
     "required": {
       "dryCastingSand": 16,
       "naphtha": 10,
@@ -9784,9 +9581,7 @@
     "type": "mortar",
     "rarity": "epic",
     "season": "intoTheDragonsWake",
-    "obtainable": [
-      "legacyCache3"
-    ],
+    "obtainable": ["legacyCache3"],
     "blueprint": "theHelmSeasonGutsAndGlory",
     "value": 1,
     "weight": 1000,
@@ -9798,7 +9593,6 @@
     "optimalRange": 600,
     "timeToTarget": 5750,
     "blastRadius": 50,
-    "ammunitionType": "mortarBombs",
     "required": {
       "dryCastingSand": 14,
       "naphtha": 6,
@@ -9834,9 +9628,7 @@
       "silver": 5760
     },
     "blueprint": "theHelmSeasonGutsAndGlory",
-    "obtainable": [
-      "legacyCache3"
-    ],
+    "obtainable": ["legacyCache3"],
     "perks": [
       "spitefulSpikesStation"
     ],
@@ -9872,11 +9664,7 @@
     "id": "celestialDance",
     "rarity": "epic",
     "season": "intoTheDragonsWake",
-    "obtainable": [
-      "legacyCache3",
-      "legacyCache1",
-      "gildedProtectorChest"
-    ],
+    "obtainable": ["legacyCache3","legacyCache1","gildedProtectorChest"],
     "type": "armor",
     "value": 1,
     "weight": 500,
@@ -9929,7 +9717,6 @@
     "optimalRange": 550,
     "projectileSpeed": 135,
     "blastRadius": 35,
-    "ammunitionType": "bombardBombs",
     "required": {
       "planetaryGearset": 14,
       "torsionSpring": 10,
@@ -9950,16 +9737,10 @@
     "type": "culverin",
     "rarity": "epic",
     "season": "intoTheDragonsWake",
-    "blueprint": [
-      "seaPeopleHunterMasterOutpostLanitra"
-    ],
+    "blueprint": ["seaPeopleHunterMasterOutpostLanitra"],
     "bounty": "divineRetribution",
     "worldEvent": "divineRetribution",
-    "obtainable": [
-      "elderShadowbeastChest",
-      "slayersChest",
-      "gildedSlayersChest"
-    ],
+    "obtainable": ["elderShadowbeastChest","slayersChest","gildedSlayersChest"],
     "value": 1,
     "weight": 500,
     "gearScore": 91,
@@ -9969,7 +9750,6 @@
     "reloadSpeed": 6000,
     "optimalRange": 600,
     "projectileSpeed": 210,
-    "ammunitionType": "cannonballs",
     "required": {
       "lightningDragonClaw": 6,
       "dryCastingSand": 12,
@@ -9999,7 +9779,6 @@
     "reloadSpeed": 4400,
     "optimalRange": 250,
     "projectileSpeed": 400,
-    "ammunitionType": "cannonballs",
     "required": {
       "phoenixBeak": 8,
       "lacquer": 12,
@@ -10045,7 +9824,6 @@
     "reloadSpeed": 1000,
     "projectileSpeed": 1080,
     "optimalRange": 900,
-    "ammunitionType": "ballistaBolts",
     "required": {
       "azureDragonHead": 6,
       "purifiedSaltpeter": 12,
@@ -10124,10 +9902,7 @@
     "weight": 80,
     "gearScore": 25,
     "bounty": "jawsOfRetribution",
-    "worldEvent": [
-      "jawsOfRetribution",
-      "reaversVengeance"
-    ],
+    "worldEvent": ["jawsOfRetribution","reaversVengeance"],
     "obtainable": [
       "zamaharibuChest",
       "risenZamaharibuChest"
@@ -10165,10 +9940,7 @@
       "phoenixsTalonStrongbox",
       "williamBlackwoodRotatingStore"
     ],
-    "blueprint": [
-      "williamBlackwoodRotatingStore",
-      "williamBlackwoodRotatingStoreOathsOfWar"
-    ],
+    "blueprint": ["williamBlackwoodRotatingStore","williamBlackwoodRotatingStoreOathsOfWar"],
     "required": {
       "greenheartPlank": 8,
       "magnetiteIngot": 8,
@@ -10217,7 +9989,6 @@
     "reloadSpeed": 4500,
     "optimalRange": 675,
     "projectileSpeed": 75,
-    "ammunitionType": "torpedoes",
     "required": {
       "greenheartPlank": 12,
       "wormDrive": 10,
@@ -10434,10 +10205,7 @@
     "season": "intoTheDragonsWake",
     "weight": 80,
     "gearScore": 20,
-    "blueprint": [
-      "williamBlackwoodRotatingStore",
-      "williamBlackwoodRotatingStoreGutsAndGlory"
-    ],
+    "blueprint": ["williamBlackwoodRotatingStore","williamBlackwoodRotatingStoreGutsAndGlory"],
     "obtainable": [
       "dragonsClawGreenChest",
       "williamBlackwoodRotatingStore"
@@ -10464,11 +10232,7 @@
     "type": "longGun",
     "rarity": "epic",
     "season": "intoTheDragonsWake",
-    "obtainable": [
-      "smugglerPass",
-      "williamBlackwoodRotatingStore",
-      "teulingsWeaponChest1"
-    ],
+    "obtainable": ["smugglerPass","williamBlackwoodRotatingStore","teulingsWeaponChest1"],
     "blueprint": "smugglerPassPinnacleStore",
     "value": 1,
     "weight": 500,
@@ -10479,7 +10243,6 @@
     "reloadSpeed": 7200,
     "optimalRange": 1000,
     "projectileSpeed": 350,
-    "ammunitionType": "cannonballs",
     "required": {
       "purifiedSaltpeter": 12,
       "naphtha": 6,
@@ -10523,12 +10286,7 @@
       "silver": 3800
     },
     "blueprint": "smugglerPassPinnacleStore",
-    "obtainable": [
-      "smugglerPass",
-      "williamBlackwoodRotatingStore",
-      "teulingsWeaponChest1",
-      "exoticArmorAscendedCache"
-    ],
+    "obtainable": ["smugglerPass","williamBlackwoodRotatingStore","teulingsWeaponChest1","exoticArmorAscendedCache"],
     "perks": [
       "indomitable"
     ],
@@ -10580,9 +10338,7 @@
     "perks": [
       "amberCoatingStation"
     ],
-    "obtainable": [
-      "elderShadowbeastChest"
-    ],
+    "obtainable": ["elderShadowbeastChest"],
     "dateAdded": "2024-08-22",
     "lastUpdated": "2025-09-04"
   },
@@ -10593,11 +10349,7 @@
     "season": "intoTheDragonsWake",
     "weight": 80,
     "gearScore": 25,
-    "obtainable": [
-      "smugglerPass",
-      "williamBlackwoodRotatingStore",
-      "teulingsWeaponChest1"
-    ],
+    "obtainable": ["smugglerPass","williamBlackwoodRotatingStore","teulingsWeaponChest1"],
     "blueprint": "smugglerPassPinnacleStore",
     "required": {
       "lightningDragonScale": 6,
@@ -10825,7 +10577,6 @@
     "reloadSpeed": 6000,
     "optimalRange": 600,
     "projectileSpeed": 210,
-    "ammunitionType": "cannonballs",
     "required": {
       "vengefulEssence": 12,
       "xanthousStone": 12,
@@ -11185,17 +10936,15 @@
     "type": "culverin",
     "rarity": "epic",
     "season": "shadowsOfTheDeep",
-    "event": [
-      "enterTheNian",
-      "moonshineLarceny",
-      "darktideLullaby"
-    ],
+    "event": ["enterTheNian","moonshineLarceny","darktideLullaby","legendOfTheNian"],
     "obtainable": [
       "idolOfTheBeastStatue",
       "nianStrongbox",
       "ascendedEventCache",
       "darktideAltarTelokPenjarah",
-      "ascendedDarktideLullabyEventCache"
+      "ascendedDarktideLullabyEventCache",
+      "ascendedLegendOfTheNianEventCache",
+      "crazedNianStrongbox"
     ],
     "value": 1,
     "weight": 500,
@@ -11206,14 +10955,21 @@
     "reloadSpeed": 6000,
     "optimalRange": 600,
     "projectileSpeed": 210,
-    "ammunitionType": "cannonballs",
-    "required": {},
+    "blueprint": "idolOfTheBeastStatue",
+    "required": {
+      "purifiedSaltpeter": 10,
+      "dryCastingSand": 10,
+      "naphtha": 5,
+      "gannetDenseNiter": 1,
+      "wyrmVolatileNapalm": 1,
+      "silver": 3300
+    },
     "perks": [
       "chainReaction",
       "explosive1"
     ],
     "dateAdded": "2025-01-14",
-    "lastUpdated": "2025-09-02"
+    "lastUpdated": "2026-04-20"
   },
   "agnisFury": {
     "id": "agnisFury",
@@ -11231,7 +10987,6 @@
     "reloadSpeed": 11000,
     "projectileSpeed": 1,
     "optimalRange": 250,
-    "ammunitionType": "oilCanisters",
     "required": {},
     "perks": [
       "pneumaticEngine",
@@ -11247,11 +11002,7 @@
     "rarity": "epic",
     "season": "shadowsOfTheDeep",
     "blueprint": "smugglerPassPinnacleStore",
-    "obtainable": [
-      "smugglerPass",
-      "williamBlackwoodRotatingStore",
-      "teulingsWeaponChest1"
-    ],
+    "obtainable": ["smugglerPass","williamBlackwoodRotatingStore","teulingsWeaponChest1"],
     "value": 1,
     "weight": 1000,
     "gearScore": 91,
@@ -11262,7 +11013,6 @@
     "optimalRange": 600,
     "timeToTarget": 5750,
     "blastRadius": 50,
-    "ammunitionType": "mortarBombs",
     "required": {
       "lightningDragonScale": 6,
       "lightningDragonClaw": 6,
@@ -11352,11 +11102,7 @@
     "season": "shadowsOfTheDeep",
     "blueprint": "seaPeopleHunterMasterOutpostLanitra",
     "worldEvent": "reaversVengeance",
-    "obtainable": [
-      "risenZamaharibuChest",
-      "risenMegaLestariChest",
-      "gildedProtectorChest"
-    ],
+    "obtainable": ["risenZamaharibuChest","risenMegaLestariChest","gildedProtectorChest"],
     "type": "armor",
     "value": 1,
     "weight": 500,
@@ -11390,11 +11136,7 @@
     "rarity": "epic",
     "season": "shadowsOfTheDeep",
     "blueprint": "smugglerPassPinnacleStore",
-    "obtainable": [
-      "smugglerPass",
-      "williamBlackwoodRotatingStore",
-      "teulingsWeaponChest1"
-    ],
+    "obtainable": ["smugglerPass","williamBlackwoodRotatingStore","teulingsWeaponChest1"],
     "type": "armor",
     "value": 1,
     "weight": 500,
@@ -11514,11 +11256,7 @@
       "silver": 5760
     },
     "blueprint": "smugglerPassPinnacleStore",
-    "obtainable": [
-      "smugglerPass",
-      "williamBlackwoodRotatingStore",
-      "teulingsWeaponChest1"
-    ],
+    "obtainable": ["smugglerPass","williamBlackwoodRotatingStore","teulingsWeaponChest1"],
     "perks": [
       "teulingsGuidance"
     ],
@@ -11574,20 +11312,28 @@
     "type": "utilityFurniture",
     "rarity": "rare",
     "season": "shadowsOfTheDeep",
-    "event": "enterTheNian",
+    "event": ["enterTheNian","legendOfTheNian"],
     "weight": 80,
     "gearScore": 20,
     "value": 1,
     "perks": [
       "floatCollars"
     ],
-    "required": {},
+    "required": {
+      "roselleCloth": 25,
+      "purifiedSaltpeter": 14,
+      "rubber": 7,
+      "eelsTwine": 4,
+      "silver": 3600
+    },
+    "blueprint": "idolOfTheBeastStatue",
     "obtainable": [
       "nianStrongbox",
+      "crazedNianStrongbox",
       "idolOfTheBeastStatue"
     ],
     "dateAdded": "2025-01-14",
-    "lastUpdated": "2025-07-29"
+    "lastUpdated": "2026-04-20"
   },
   "mineClearingLocker": {
     "id": "mineClearingLocker",
@@ -11600,10 +11346,19 @@
     "perks": [
       "mineClearingLocker"
     ],
-    "required": {},
+    "required": {
+      "roselleCloth": 12,
+      "magnetiteIngot": 12,
+      "planetaryGearset": 7,
+      "torsionSpring": 4,
+      "naphtha": 4,
+      "orcaIntricateApparatus": 2,
+      "silver": 3600
+    },
+    "blueprint": "theHelmSeasonShatteredSeas",
     "obtainable": "williamBlackwoodRotatingStore",
     "dateAdded": "2024-11-19",
-    "lastUpdated": "2025-10-21"
+    "lastUpdated": "2026-05-24"
   },
   "devilsConcoction": {
     "id": "devilsConcoction",
@@ -11648,10 +11403,7 @@
       "wyrmsBreath": 5,
       "silver": 3600
     },
-    "obtainable": [
-      "risenZamaharibuChest",
-      "risenMegaLestariChest"
-    ],
+    "obtainable": ["risenZamaharibuChest","risenMegaLestariChest"],
     "blueprint": "seaPeopleHunterMasterOutpostLanitra",
     "dateAdded": "2024-11-19",
     "lastUpdated": "2025-09-04"
@@ -11785,12 +11537,7 @@
       "ascendedAzureSolsticeEventCache"
     ],
     "blueprint": "azuriteLodestoneSaintAnne",
-    "event": [
-      "azureSolstice",
-      "moonshineLarceny",
-      "darktideLullaby",
-      "azureSolstice"
-    ],
+    "event": ["azureSolstice","moonshineLarceny","darktideLullaby","azureSolstice"],
     "worldEvent": "theAzureRoyale",
     "value": 1,
     "weight": 500,
@@ -11806,7 +11553,6 @@
       "burning2",
       "piercing1"
     ],
-    "ammunitionType": "cannonballs",
     "required": {
       "xanthousStone": 6,
       "purifiedSaltpeter": 7,
@@ -11824,11 +11570,7 @@
     "rarity": "epic",
     "season": "shadowsOfTheDeep",
     "blueprint": "smugglerPassPinnacleStore",
-    "obtainable": [
-      "smugglerPass",
-      "teulingsWeaponChest1",
-      "williamBlackwoodRotatingStore"
-    ],
+    "obtainable": ["smugglerPass","teulingsWeaponChest1","williamBlackwoodRotatingStore"],
     "value": 1,
     "weight": 500,
     "gearScore": 91,
@@ -11838,7 +11580,6 @@
     "reloadSpeed": 4500,
     "optimalRange": 675,
     "projectileSpeed": 75,
-    "ammunitionType": "torpedoes",
     "required": {
       "planetaryGearset": 7,
       "wormDrive": 7,
@@ -12361,6 +12102,7 @@
     "id": "silverSentinel",
     "rarity": "epic",
     "season": "ascentIntoChaos",
+    "blueprint": "smugglerPassPinnacleStore",
     "type": "armor",
     "value": 1,
     "weight": 500,
@@ -12375,13 +12117,20 @@
       "electric": 0.1,
       "toxic": 0.1
     },
-    "required": {},
+    "required": {
+      "wormDrive": 13,
+      "planetaryGearset": 13,
+      "precisionDrillingBit": 10,
+      "orcaIntricateApparatus": 1,
+      "eelSturdyRopes": 1,
+      "silver": 3800
+    },
     "obtainable": "smugglerPass",
     "perks": [
       "vigilance"
     ],
     "dateAdded": "2025-04-15",
-    "lastUpdated": "2025-10-21"
+    "lastUpdated": "2026-05-24"
   },
   "floodingBombard1": {
     "id": "floodingBombard1",
@@ -12399,7 +12148,6 @@
     "optimalRange": 550,
     "projectileSpeed": 135,
     "blastRadius": 30,
-    "ammunitionType": "bombardBombs",
     "required": {
       "teakPlank": 10,
       "woodTar": 4,
@@ -12428,7 +12176,6 @@
     "optimalRange": 550,
     "projectileSpeed": 135,
     "blastRadius": 30,
-    "ammunitionType": "bombardBombs",
     "required": {
       "mopanePlank": 15,
       "cobaltIngot": 15,
@@ -12459,7 +12206,6 @@
     "optimalRange": 550,
     "projectileSpeed": 135,
     "blastRadius": 30,
-    "ammunitionType": "bombardBombs",
     "required": {
       "greenheartPlank": 14,
       "cogwheel": 6,
@@ -12480,13 +12226,7 @@
     "type": "bombard",
     "rarity": "epic",
     "season": "ascentIntoChaos",
-    "event": [
-      "theHonorless",
-      "moonshineLarceny",
-      "darktideLullaby",
-      "requiemOfTheLost",
-      "azureSolstice"
-    ],
+    "event": ["theHonorless","moonshineLarceny","darktideLullaby","requiemOfTheLost","azureSolstice"],
     "value": 1,
     "weight": 500,
     "gearScore": 91,
@@ -12508,7 +12248,6 @@
       "azuriteLodestoneSaintAnne",
       "ascendedAzureSolsticeEventCache"
     ],
-    "ammunitionType": "bombardBombs",
     "required": {
       "bloodiedDoubloon": 1000,
       "reapersToll": 1100
@@ -12537,7 +12276,6 @@
     "reloadSpeed": 7200,
     "projectileSpeed": 350,
     "optimalRange": 1000,
-    "ammunitionType": "cannonballs",
     "required": {
       "irokoPlank": 5,
       "castIronIngot": 12,
@@ -12566,7 +12304,6 @@
     "reloadSpeed": 7200,
     "projectileSpeed": 350,
     "optimalRange": 1000,
-    "ammunitionType": "cannonballs",
     "required": {
       "ironwoodPlank": 20,
       "steelIngot": 20,
@@ -12597,7 +12334,6 @@
     "reloadSpeed": 7200,
     "projectileSpeed": 350,
     "optimalRange": 1000,
-    "ammunitionType": "cannonballs",
     "required": {
       "greenheartPlank": 8,
       "magnetiteIngot": 8,
@@ -12629,7 +12365,6 @@
     "reloadSpeed": 7200,
     "projectileSpeed": 350,
     "optimalRange": 1000,
-    "ammunitionType": "cannonballs",
     "required": {
       "ironwoodPlank": 7,
       "sheetGlass": 4,
@@ -12660,7 +12395,6 @@
     "reloadSpeed": 7200,
     "projectileSpeed": 350,
     "optimalRange": 1000,
-    "ammunitionType": "cannonballs",
     "required": {
       "juniperPlank": 12,
       "shellac": 5,
@@ -12686,11 +12420,7 @@
       "theHelm",
       "corruptDmcOfficerOutpost"
     ],
-    "obtainable": [
-      "moonshineChest",
-      "moonshineStrongbox",
-      "hauntedReapersCache"
-    ],
+    "obtainable": ["moonshineChest","moonshineStrongbox","hauntedReapersCache"],
     "value": 1,
     "weight": 500,
     "gearScore": 83,
@@ -12700,7 +12430,6 @@
     "reloadSpeed": 7200,
     "projectileSpeed": 350,
     "optimalRange": 1000,
-    "ammunitionType": "cannonballs",
     "required": {
       "sheetGlass": 7,
       "screwMechanism": 7,
@@ -12723,6 +12452,7 @@
     "rarity": "epic",
     "season": "ascentIntoChaos",
     "obtainable": "smugglerPass",
+    "blueprint": "smugglerPassPinnacleStore",
     "value": 1,
     "weight": 500,
     "gearScore": 91,
@@ -12732,8 +12462,14 @@
     "reloadSpeed": 7200,
     "optimalRange": 1000,
     "projectileSpeed": 350,
-    "ammunitionType": "cannonballs",
-    "required": {},
+    "required": {
+      "purifiedSaltpeter": 10,
+      "sinewString": 7,
+      "naphtha": 7,
+      "rubber": 7,
+      "gannetDenseNiter": 1,
+      "silver": 3630
+    },
     "perks": [
       "impendingBoom",
       "siege",
@@ -12741,7 +12477,7 @@
       "piercing1"
     ],
     "dateAdded": "2025-04-15",
-    "lastUpdated": "2025-07-29"
+    "lastUpdated": "2026-05-24"
   },
   "alecto": {
     "id": "alecto",
@@ -12758,7 +12494,6 @@
     "reloadSpeed": 1000,
     "projectileSpeed": 700,
     "optimalRange": 900,
-    "ammunitionType": "ballistaBolts",
     "required": {
       "copperBars": 1000
     },
@@ -12788,7 +12523,6 @@
     "reloadSpeed": 3500,
     "optimalRange": 250,
     "projectileSpeed": 400,
-    "ammunitionType": "cannonballs",
     "required": {
       "nickelIngot": 6,
       "teakPlank": 6,
@@ -12817,7 +12551,6 @@
     "reloadSpeed": 3500,
     "optimalRange": 250,
     "projectileSpeed": 400,
-    "ammunitionType": "cannonballs",
     "required": {
       "cobaltIngot": 7,
       "mopanePlank": 7,
@@ -12847,7 +12580,6 @@
     "reloadSpeed": 3500,
     "optimalRange": 250,
     "projectileSpeed": 400,
-    "ammunitionType": "cannonballs",
     "required": {
       "magnetiteIngot": 8,
       "greenheartPlank": 8,
@@ -12878,7 +12610,6 @@
     "reloadSpeed": 3500,
     "optimalRange": 250,
     "projectileSpeed": 400,
-    "ammunitionType": "cannonballs",
     "required": {
       "nickelIngot": 5,
       "teakPlank": 5,
@@ -12907,7 +12638,6 @@
     "reloadSpeed": 3500,
     "optimalRange": 250,
     "projectileSpeed": 400,
-    "ammunitionType": "cannonballs",
     "required": {
       "cobaltIngot": 9,
       "mopanePlank": 9,
@@ -12937,7 +12667,6 @@
     "reloadSpeed": 3500,
     "optimalRange": 250,
     "projectileSpeed": 400,
-    "ammunitionType": "cannonballs",
     "required": {
       "magnetiteIngot": 10,
       "greenheartPlank": 10,
@@ -12963,14 +12692,10 @@
       "ascendedEventCache",
       "darktideAltarTelokPenjarah",
       "ascendedDarktideLullabyEventCache",
-      "ascendedRequiemOfTheLostEventCache"
+      "ascendedRequiemOfTheLostEventCache",
+      "ascendedLegendOfTheNianEventCache"
     ],
-    "event": [
-      "theHonorless",
-      "moonshineLarceny",
-      "darktideLullaby",
-      "requiemOfTheLost"
-    ],
+    "event": ["theHonorless","moonshineLarceny","darktideLullaby","requiemOfTheLost","legendOfTheNian"],
     "value": 1,
     "weight": 500,
     "gearScore": 91,
@@ -12980,7 +12705,6 @@
     "reloadSpeed": 3500,
     "optimalRange": 250,
     "projectileSpeed": 400,
-    "ammunitionType": "cannonballs",
     "required": {
       "bloodiedDoubloon": 1000
     },
@@ -12989,7 +12713,7 @@
       "combustion3"
     ],
     "dateAdded": "2025-05-06",
-    "lastUpdated": "2025-10-28"
+    "lastUpdated": "2026-04-20"
   },
   "fireCulverin1": {
     "id": "fireCulverin1",
@@ -13012,7 +12736,6 @@
     "reloadSpeed": 6000,
     "optimalRange": 600,
     "projectileSpeed": 210,
-    "ammunitionType": "cannonballs",
     "required": {
       "bronzeIngot": 7,
       "woodTar": 3,
@@ -13046,7 +12769,6 @@
     "reloadSpeed": 6000,
     "optimalRange": 600,
     "projectileSpeed": 210,
-    "ammunitionType": "cannonballs",
     "required": {
       "bronzeIngot": 14,
       "irokoPlank": 14,
@@ -13081,7 +12803,6 @@
     "reloadSpeed": 6000,
     "optimalRange": 600,
     "projectileSpeed": 210,
-    "ammunitionType": "cannonballs",
     "required": {
       "magnetiteIngot": 7,
       "greenheartPlank": 7,
@@ -13093,9 +12814,7 @@
     "perks": [
       "burning2"
     ],
-    "obtainable": [
-      "darktideChest"
-    ],
+    "obtainable": ["darktideChest"],
     "dateAdded": "2025-04-15",
     "lastUpdated": "2025-09-04"
   },
@@ -13121,7 +12840,6 @@
     "reloadSpeed": 6000,
     "optimalRange": 600,
     "projectileSpeed": 210,
-    "ammunitionType": "cannonballs",
     "required": {
       "castIronIngot": 15,
       "acaciaPlank": 15,
@@ -13157,7 +12875,6 @@
     "reloadSpeed": 6000,
     "optimalRange": 600,
     "projectileSpeed": 210,
-    "ammunitionType": "cannonballs",
     "required": {
       "bronzeIngot": 15,
       "acaciaPlank": 20,
@@ -13185,11 +12902,7 @@
       ],
       "theHelm"
     ],
-    "obtainable": [
-      "moonshineChest",
-      "moonshineStrongbox",
-      "darktideChest"
-    ],
+    "obtainable": ["moonshineChest","moonshineStrongbox","darktideChest"],
     "value": 1,
     "weight": 500,
     "gearScore": 83,
@@ -13199,7 +12912,6 @@
     "reloadSpeed": 6000,
     "optimalRange": 600,
     "projectileSpeed": 210,
-    "ammunitionType": "cannonballs",
     "required": {
       "magnetiteIngot": 7,
       "greenheartPlank": 7,
@@ -13231,7 +12943,6 @@
     "reloadSpeed": 4000,
     "optimalRange": 600,
     "projectileSpeed": 210,
-    "ammunitionType": "cannonballs",
     "required": {
       "wormDrive": 10,
       "planetaryGearset": 10,
@@ -13276,32 +12987,50 @@
     "type": "majorFurniture",
     "rarity": "epic",
     "season": "ascentIntoChaos",
+    "blueprint": "smugglerPassPinnacleStore",
     "value": 1,
     "weight": 250,
     "gearScore": 35,
-    "required": {},
+    "required": {
+      "purifiedSaltpeter": 13,
+      "naphtha": 5,
+      "sinewString": 5,
+      "rubber": 5,
+      "precisionDrillingBit": 5,
+      "orcaIntricateApparatus": 2,
+      "silver": 5760
+    },
     "obtainable": "smugglerPass",
     "perks": [
       "emergencyLocker"
     ],
     "dateAdded": "2025-04-15",
-    "lastUpdated": "2025-07-29"
+    "lastUpdated": "2026-05-24"
   },
   "wyrmsBreathChurner": {
     "id": "wyrmsBreathChurner",
     "type": "majorFurniture",
     "rarity": "epic",
     "season": "ascentIntoChaos",
+    "blueprint": "smugglerPassPinnacleStore",
     "value": 1,
     "weight": 250,
     "gearScore": 35,
-    "required": {},
+    "required": {
+      "dryCastingSand": 8,
+      "purifiedSaltpeter": 8,
+      "wormDrive": 10,
+      "planetaryGearset": 10,
+      "naphtha": 5,
+      "gannetDenseNiter": 2,
+      "silver": 5760
+    },
     "obtainable": "smugglerPass",
     "perks": [
       "wyrmsBreathChurner"
     ],
     "dateAdded": "2025-04-15",
-    "lastUpdated": "2025-07-29"
+    "lastUpdated": "2026-05-24"
   },
   "markOfTheWolf": {
     "id": "markOfTheWolf",
@@ -13682,11 +13411,12 @@
     "rarity": "legendary",
     "season": "shadowsOfTheDeep",
     "type": "chest",
-    "event": "enterTheNian",
+    "event": ["enterTheNian","legendOfTheNian"],
+    "worldEvent": "legendOfTheNian",
     "value": 1,
     "weight": 100,
     "dateAdded": "2025-05-11",
-    "lastUpdated": "2025-07-29"
+    "lastUpdated": "2026-03-24"
   },
   "opwellingTreasureChest": {
     "id": "opwellingTreasureChest",
@@ -13925,10 +13655,7 @@
     "tier": 4,
     "value": 1,
     "weight": 100,
-    "obtainable": [
-      "deathTidesProgression",
-      "theHelm"
-    ],
+    "obtainable": ["deathTidesProgression","theHelm"],
     "dateAdded": "2025-05-27",
     "lastUpdated": "2025-10-21"
   },
@@ -13992,15 +13719,9 @@
     "rarity": "epic",
     "season": "oathsOfWar",
     "type": "consumable",
-    "event": [
-      "moonshineLarceny",
-      "requiemOfTheLost"
-    ],
+    "event": ["moonshineLarceny","requiemOfTheLost"],
     "worldEvent": "theManicMoonshinerFleet",
-    "obtainable": [
-      "defeatingMoonshiners",
-      "hallowedGravestoneSaintAnne"
-    ],
+    "obtainable": ["defeatingMoonshiners","hallowedGravestoneSaintAnne"],
     "value": 1,
     "weight": 10,
     "buffDuration": 20,
@@ -14223,8 +13944,7 @@
       "electric2"
     ],
     "dateAdded": "2025-07-15",
-    "lastUpdated": "2025-07-29",
-    "ammunitionType": "cannonballs"
+    "lastUpdated": "2025-07-29"
   },
   "ashbreaker": {
     "id": "ashbreaker",
@@ -14242,36 +13962,28 @@
     "optimalRange": 550,
     "projectileSpeed": 135,
     "blastRadius": 30,
-    "obtainable": [
-      "moonshineStrongbox",
-      "accountLedgerSainteAnne",
-      "ascendedAshbreakerChest",
-      "ascendedEventCache"
-    ],
+    "obtainable": ["moonshineStrongbox","accountLedgerSainteAnne","ascendedAshbreakerChest","ascendedEventCache"],
     "perks": [
       "marauder",
       "burning2",
       "explosive1"
     ],
     "dateAdded": "2025-07-15",
-    "lastUpdated": "2025-07-29",
-    "ammunitionType": "bombardBombs"
+    "lastUpdated": "2025-07-29"
   },
   "hellgateSerpent": {
     "id": "hellgateSerpent",
     "type": "torpedo",
     "rarity": "epic",
     "season": "oathsOfWar",
-    "event": [
-      "darktideLullaby",
-      "azureSolstice"
-    ],
+    "event": ["darktideLullaby","azureSolstice","legendOfTheNian"],
     "obtainable": [
       "darktideAltarTelokPenjarah",
       "darktideChest",
       "ascendedHellgateSerpentChest",
       "ascendedDarktideLullabyEventCache",
-      "ascendedAzureSolsticeEventCache"
+      "ascendedAzureSolsticeEventCache",
+      "ascendedLegendOfTheNianEventCache"
     ],
     "value": 1,
     "weight": 500,
@@ -14289,8 +14001,7 @@
       "flooding2"
     ],
     "dateAdded": "2025-07-15",
-    "lastUpdated": "2025-12-09",
-    "ammunitionType": "torpedoes"
+    "lastUpdated": "2026-04-20"
   },
   "stormVigil": {
     "id": "stormVigil",
@@ -14307,7 +14018,6 @@
     "reloadSpeed": 20000,
     "optimalRange": 300,
     "timeToTarget": 1310,
-    "ammunitionType": "rockets",
     "required": {
       "gildmarks": 1000
     },
@@ -14322,10 +14032,7 @@
     "id": "spiritcaller",
     "rarity": "rare",
     "season": "oathsOfWar",
-    "obtainable": [
-      "darktideAltarTelokPenjarah",
-      "darktideChest"
-    ],
+    "obtainable": ["darktideAltarTelokPenjarah","darktideChest"],
     "event": "darktideLullaby",
     "requiredSize": "medium",
     "type": "springloader",
@@ -14407,7 +14114,7 @@
     "gearScore": 297,
     "armor": 1150,
     "damageMitigation": {
-      "explosive": 0.3,
+      "explosive": 0.30,
       "flooding": 0.2,
       "fire": 0.15,
       "tearing": 0,
@@ -14451,11 +14158,7 @@
     "gearScore": 25,
     "value": 1,
     "weight": 80,
-    "obtainable": [
-      "smugglerPass",
-      "moonshineChest",
-      "moonshineStrongbox"
-    ],
+    "obtainable": ["smugglerPass","moonshineChest","moonshineStrongbox"],
     "perks": [
       "acceleratedGunrailSmithy"
     ],
@@ -14523,7 +14226,6 @@
     "optimalRange": 600,
     "timeToTarget": 5750,
     "blastRadius": 50,
-    "ammunitionType": "mortarBombs",
     "required": {},
     "perks": [
       "demolition",
@@ -14625,10 +14327,7 @@
     "season": "oathsOfWar",
     "value": 1,
     "weight": 100,
-    "obtainable": [
-      "megafortCache",
-      "deathTidesProgression"
-    ],
+    "obtainable": ["megafortCache","deathTidesProgression"],
     "dateAdded": "2025-07-15",
     "lastUpdated": "2025-07-15"
   },
@@ -14639,10 +14338,7 @@
     "season": "oathsOfWar",
     "value": 1,
     "weight": 100,
-    "obtainable": [
-      "megafortCache",
-      "deathTidesProgression"
-    ],
+    "obtainable": ["megafortCache","deathTidesProgression"],
     "dateAdded": "2025-07-15",
     "lastUpdated": "2025-07-15"
   },
@@ -14653,10 +14349,7 @@
     "season": "oathsOfWar",
     "value": 1,
     "weight": 100,
-    "obtainable": [
-      "megafortCache",
-      "deathTidesProgression"
-    ],
+    "obtainable": ["megafortCache","deathTidesProgression"],
     "dateAdded": "2025-07-15",
     "lastUpdated": "2025-07-15"
   },
@@ -14667,10 +14360,7 @@
     "season": "oathsOfWar",
     "value": 1,
     "weight": 100,
-    "obtainable": [
-      "megafortCache",
-      "deathTidesProgression"
-    ],
+    "obtainable": ["megafortCache","deathTidesProgression"],
     "dateAdded": "2025-07-15",
     "lastUpdated": "2025-07-15"
   },
@@ -14980,10 +14670,7 @@
     "gearScore": 20,
     "event": "darktideLullaby",
     "required": {},
-    "obtainable": [
-      "darktideAltarTelokPenjarah",
-      "darktideChest"
-    ],
+    "obtainable": ["darktideAltarTelokPenjarah","darktideChest"],
     "perks": [
       "counterthrustLocker"
     ],
@@ -15266,10 +14953,7 @@
     "value": 1,
     "weight": 250,
     "gearScore": 35,
-    "obtainable": [
-      "azuriteLodestoneSaintAnne",
-      "azureStrongbox"
-    ],
+    "obtainable": ["azuriteLodestoneSaintAnne","azureStrongbox"],
     "perks": [
       "sheetingWinchConsole"
     ],
@@ -15315,10 +14999,7 @@
     "gearScore": 25,
     "value": 1,
     "weight": 80,
-    "obtainable": [
-      "hallowedGravestoneSaintAnne",
-      "hauntedReapersCache"
-    ],
+    "obtainable": ["hallowedGravestoneSaintAnne","hauntedReapersCache"],
     "perks": [
       "causticSpallStation"
     ],
@@ -15392,8 +15073,7 @@
     ],
     "obtainable": "factionWarEffortReward",
     "dateAdded": "2025-10-21",
-    "lastUpdated": "2025-10-21",
-    "ammunitionType": "oilCanisters"
+    "lastUpdated": "2025-10-21"
   },
   "heavenlyThunder": {
     "id": "heavenlyThunder",
@@ -15417,18 +15097,14 @@
       "electric4"
     ],
     "dateAdded": "2025-10-21",
-    "lastUpdated": "2025-10-21",
-    "ammunitionType": "oilCanisters"
+    "lastUpdated": "2025-10-21"
   },
   "theRotmouth": {
     "id": "theRotmouth",
     "type": "culverin",
     "rarity": "epic",
     "season": "gutsAndGlory",
-    "obtainable": [
-      "smugglerPass",
-      "smugglerPassPinnacleStore"
-    ],
+    "obtainable": ["smugglerPass","smugglerPassPinnacleStore"],
     "value": 1,
     "weight": 500,
     "gearScore": 91,
@@ -15443,18 +15119,14 @@
       "toxic3"
     ],
     "dateAdded": "2025-10-21",
-    "lastUpdated": "2025-10-21",
-    "ammunitionType": "cannonballs"
+    "lastUpdated": "2025-10-21"
   },
   "blightbringer": {
     "id": "blightbringer",
     "type": "torpedo",
     "rarity": "epic",
     "season": "gutsAndGlory",
-    "obtainable": [
-      "williamBlackwoodSeasonalItemGutsAndGlory",
-      "laPestesLockerMythic"
-    ],
+    "obtainable": ["williamBlackwoodSeasonalItemGutsAndGlory","laPestesLockerMythic"],
     "value": 1,
     "weight": 500,
     "gearScore": 91,
@@ -15471,8 +15143,7 @@
       "toxic3"
     ],
     "dateAdded": "2025-10-21",
-    "lastUpdated": "2025-10-21",
-    "ammunitionType": "torpedoes"
+    "lastUpdated": "2025-10-21"
   },
   "theDrownedOne": {
     "id": "theDrownedOne",
@@ -15480,12 +15151,7 @@
     "rarity": "epic",
     "season": "gutsAndGlory",
     "event": "requiemOfTheLost",
-    "obtainable": [
-      "hallowedGravestoneSaintAnne",
-      "ascendedRequiemOfTheLostEventCache",
-      "ascendedTheDrownedOneChest",
-      "hauntedReapersCache"
-    ],
+    "obtainable": ["hallowedGravestoneSaintAnne","ascendedRequiemOfTheLostEventCache","ascendedTheDrownedOneChest","hauntedReapersCache"],
     "value": 1,
     "weight": 500,
     "gearScore": 91,
@@ -15501,8 +15167,7 @@
       "piercing2"
     ],
     "dateAdded": "2025-10-21",
-    "lastUpdated": "2025-10-28",
-    "ammunitionType": "cannonballs"
+    "lastUpdated": "2025-10-28"
   },
   "frostwail": {
     "id": "frostwail",
@@ -15510,11 +15175,7 @@
     "rarity": "epic",
     "season": "gutsAndGlory",
     "event": "azureSolstice",
-    "obtainable": [
-      "azuriteLodestoneSaintAnne",
-      "ascendedFrostwailChest",
-      "ascendedAzureSolsticeEventCache"
-    ],
+    "obtainable": ["azuriteLodestoneSaintAnne","ascendedFrostwailChest","ascendedAzureSolsticeEventCache"],
     "value": 1,
     "weight": 500,
     "gearScore": 91,
@@ -15530,8 +15191,7 @@
       "explosive2"
     ],
     "dateAdded": "2025-10-21",
-    "lastUpdated": "2025-12-09",
-    "ammunitionType": "bombardBombs"
+    "lastUpdated": "2025-12-09"
   },
   "sloopOfWarUpgrade1": {
     "id": "sloopOfWarUpgrade1",
@@ -15731,10 +15391,7 @@
     "season": "gutsAndGlory",
     "type": "chest",
     "event": "requiemOfTheLost",
-    "obtainable": [
-      "hallowedGravestoneSaintAnne",
-      "eventPass"
-    ],
+    "obtainable": ["hallowedGravestoneSaintAnne","eventPass"],
     "value": 1,
     "weight": 100,
     "required": {
@@ -15748,18 +15405,12 @@
     "rarity": "epic",
     "season": "gutsAndGlory",
     "type": "chest",
-    "event": [
-      "requiemOfTheLost",
-      "azureSolstice"
-    ],
-    "obtainable": [
-      "hallowedGravestoneSaintAnne",
-      "azuriteLodestoneSaintAnne"
-    ],
+    "event": ["requiemOfTheLost","azureSolstice","legendOfTheNian"],
+    "obtainable": ["hallowedGravestoneSaintAnne","azuriteLodestoneSaintAnne","idolOfTheBeastStatue"],
     "value": 1,
     "weight": 100,
     "dateAdded": "2025-10-21",
-    "lastUpdated": "2025-12-09"
+    "lastUpdated": "2026-04-20"
   },
   "hauntedReapersCache": {
     "id": "hauntedReapersCache",
@@ -16160,12 +15811,12 @@
     "gearScore": 297,
     "armor": 1150,
     "damageMitigation": {
-      "explosive": 0.2,
+      "explosive": 0,
       "flooding": 0.3,
-      "fire": 0.2,
+      "fire": 0,
       "tearing": 0,
       "piercing": 0.3,
-      "electric": 0.4,
+      "electric": 0.2,
       "toxic": 0.1
     },
     "obtainable": "smugglerPass",
@@ -16173,7 +15824,7 @@
       "primordialHides"
     ],
     "dateAdded": "2026-02-10",
-    "lastUpdated": "2026-02-10"
+    "lastUpdated": "2026-06-05"
   },
   "tidesReprieve": {
     "id": "tidesReprieve",
@@ -16226,12 +15877,12 @@
     "gearScore": 20,
     "required": {},
     "event": "legendOfTheNian",
-    "obtainable": "idolOfTheBeastStatue",
+    "obtainable": ["idolOfTheBeastStatue","nianStrongbox","crazedNianStrongbox"],
     "perks": [
       "apothecaryToolBench"
     ],
     "dateAdded": "2026-02-10",
-    "lastUpdated": "2026-02-10"
+    "lastUpdated": "2026-04-20"
   },
   "anatomyCabinet": {
     "id": "anatomyCabinet",
@@ -16242,12 +15893,12 @@
     "weight": 80,
     "gearScore": 25,
     "required": {},
-    "obtainable": "factionWarEffortReward",
+    "obtainable": "retributionWarEffortReward",
     "perks": [
       "anatomyCabinet"
     ],
     "dateAdded": "2026-02-10",
-    "lastUpdated": "2026-02-10"
+    "lastUpdated": "2026-04-06"
   },
   "blubberWorks": {
     "id": "blubberWorks",
@@ -16272,12 +15923,12 @@
     "value": 1,
     "weight": 250,
     "gearScore": 35,
-    "obtainable": "factionWarEffortReward",
+    "obtainable": "retributionWarEffortReward",
     "perks": [
       "drowningCabinet"
     ],
     "dateAdded": "2026-02-10",
-    "lastUpdated": "2026-02-10"
+    "lastUpdated": "2026-04-06"
   },
   "ballistaMountSmithy": {
     "id": "ballistaMountSmithy",
@@ -16300,7 +15951,7 @@
     "rarity": "epic",
     "season": "eyeOfTheBeast",
     "event": "legendOfTheNian",
-    "obtainable": "idolOfTheBeastStatue",
+    "obtainable": ["idolOfTheBeastStatue","crazedNianStrongbox","ascendedBlightmawChest","ascendedLegendOfTheNianEventCache"],
     "value": 1,
     "weight": 500,
     "gearScore": 91,
@@ -16315,8 +15966,7 @@
       "toxic3"
     ],
     "dateAdded": "2026-02-10",
-    "lastUpdated": "2026-03-10",
-    "ammunitionType": "cannonballs"
+    "lastUpdated": "2026-04-20"
   },
   "stormtongue": {
     "id": "stormtongue",
@@ -16326,7 +15976,7 @@
     "obtainable": "williamBlackwoodSeasonalItemEyeOfTheBeast",
     "value": 1,
     "weight": 500,
-    "gearScore": 65,
+    "gearScore": 83,
     "projectilesPerShot": 1,
     "damagePerShot": 1287,
     "rateOfFire": 150,
@@ -16338,15 +15988,14 @@
       "combustion1"
     ],
     "dateAdded": "2026-02-10",
-    "lastUpdated": "2026-02-10",
-    "ammunitionType": "cannonballs"
+    "lastUpdated": "2026-03-24"
   },
   "reachwarden": {
     "id": "reachwarden",
     "type": "longGun",
     "rarity": "epic",
     "season": "eyeOfTheBeast",
-    "obtainable": "factionWarEffortReward",
+    "obtainable": "retributionWarEffortReward",
     "value": 1,
     "weight": 500,
     "gearScore": 91,
@@ -16356,21 +16005,20 @@
     "reloadSpeed": 7200,
     "optimalRange": 600,
     "projectileSpeed": 350,
-    "ammunitionType": "cannonballs",
     "required": {},
     "perks": [
       "argusTouch",
       "repair"
     ],
     "dateAdded": "2026-02-10",
-    "lastUpdated": "2026-02-10"
+    "lastUpdated": "2026-04-06"
   },
-  "celestialBoom": {
-    "id": "celestialBoom",
+  "celestialBloom": {
+    "id": "celestialBloom",
     "type": "rocket",
     "rarity": "epic",
     "season": "eyeOfTheBeast",
-    "obtainable": "factionWarEffortReward",
+    "obtainable": "retributionWarEffortReward",
     "value": 1,
     "weight": 1000,
     "gearScore": 91,
@@ -16380,14 +16028,13 @@
     "reloadSpeed": 20000,
     "optimalRange": 400,
     "timeToTarget": 1310,
-    "ammunitionType": "rockets",
     "required": {},
     "perks": [
       "savingSalvo",
       "repair"
     ],
     "dateAdded": "2026-02-10",
-    "lastUpdated": "2026-02-10"
+    "lastUpdated": "2026-04-06"
   },
   "woundcaller": {
     "id": "woundcaller",
@@ -16411,8 +16058,7 @@
       "flooding2"
     ],
     "dateAdded": "2026-02-10",
-    "lastUpdated": "2026-02-25",
-    "ammunitionType": "torpedoes"
+    "lastUpdated": "2026-02-25"
   },
   "cloudbinder": {
     "id": "cloudbinder",
@@ -16429,7 +16075,6 @@
     "reloadSpeed": 2000,
     "projectileSpeed": 588,
     "optimalRange": 600,
-    "ammunitionType": "ballistaBolts",
     "required": {},
     "obtainable": "williamBlackwoodSeasonalItemEyeOfTheBeast",
     "perks": [
@@ -16495,264 +16140,552 @@
     "dateAdded": "2026-02-14",
     "lastUpdated": "2026-02-14"
   },
-  "torpedoes": {
-    "id": "torpedoes",
-    "season": "release",
-    "type": "ammunition",
-    "weight": 1,
-    "obtainable": "torpedoCrate",
-    "dateAdded": "2026-03-16",
-    "lastUpdated": "2026-03-16"
+  "crazedNianStrongbox": {
+    "id": "crazedNianStrongbox",
+    "rarity": "epic",
+    "season": "eyeOfTheBeast",
+    "type": "chest",
+    "event": "legendOfTheNian",
+    "worldEvent": "crazedNian",
+    "value": 1,
+    "weight": 100,
+    "dateAdded": "2026-03-24",
+    "lastUpdated": "2026-03-24"
   },
-  "oilCanisters": {
-    "id": "oilCanisters",
-    "season": "release",
-    "type": "ammunition",
-    "weight": 1,
-    "obtainable": "seaFireOilCrate",
-    "dateAdded": "2026-03-16",
-    "lastUpdated": "2026-03-16"
+  "ascendedBlightmawChest": {
+    "id": "ascendedBlightmawChest",
+    "rarity": "epic",
+    "season": "eyeOfTheBeast",
+    "type": "chest",
+    "event": "legendOfTheNian",
+    "obtainable": ["idolOfTheBeastStatue","eventPass"],
+    "value": 1,
+    "weight": 100,
+    "required": {
+      "halfTaels": 1500
+    },
+    "dateAdded": "2026-04-20",
+    "lastUpdated": "2026-04-20"
   },
-  "mortarBombs": {
-    "id": "mortarBombs",
-    "season": "release",
-    "type": "ammunition",
-    "weight": 1,
-    "obtainable": [
-      "mortarBombCrate"
+  "ascendedLegendOfTheNianEventCache": {
+    "id": "ascendedLegendOfTheNianEventCache",
+    "rarity": "epic",
+    "season": "eyeOfTheBeast",
+    "type": "chest",
+    "event": "legendOfTheNian",
+    "obtainable": "idolOfTheBeastStatue",
+    "value": 1,
+    "weight": 100,
+    "required": {
+      "halfTaels": 1300
+    },
+    "dateAdded": "2026-04-20",
+    "lastUpdated": "2026-04-20"
+  },
+  "galleonUpgrade1": {
+    "id": "galleonUpgrade1",
+    "type": "shipUpgrade",
+    "season": "shatteredSeas",
+    "tier": 1,
+    "value": 1,
+    "required": {
+      "rubber": 15,
+      "greenheartPlank": 15,
+      "purifiedSaltpeter": 10,
+      "deepIron": 30,
+      "upgradeParts": 6,
+      "silver": 18000
+    },
+    "perks": [
+      "galleonUpgrade1"
     ],
-    "dateAdded": "2026-03-16",
-    "lastUpdated": "2026-03-16"
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
   },
-  "ballistaBolts": {
-    "id": "ballistaBolts",
-    "season": "release",
-    "type": "ammunition",
-    "weight": 1,
-    "obtainable": "ballistaBoltCrate",
-    "dateAdded": "2026-03-16",
-    "lastUpdated": "2026-03-16"
-  },
-  "cannonballs": {
-    "id": "cannonballs",
-    "season": "release",
-    "type": "ammunition",
-    "weight": 1,
-    "obtainable": "cannonballCrate",
-    "dateAdded": "2026-03-16",
-    "lastUpdated": "2026-03-16"
-  },
-  "bombardBombs": {
-    "id": "bombardBombs",
-    "season": "release",
-    "type": "ammunition",
-    "weight": 1,
-    "obtainable": [
-      "bombardBombCrate",
-      "deluxeBombardBombCrate1",
-      "deluxeBombardBombCrate2"
+  "galleonUpgrade2": {
+    "id": "galleonUpgrade2",
+    "type": "shipUpgrade",
+    "season": "shatteredSeas",
+    "tier": 2,
+    "value": 1,
+    "required": {
+      "gannetsSaltpeter": 8,
+      "whiteAriaShipPart": 4,
+      "yellowDragonBanner": 5,
+      "deepIron": 35,
+      "upgradeParts": 8,
+      "silver": 25000
+    },
+    "perks": [
+      "galleonUpgrade2"
     ],
-    "dateAdded": "2026-03-16",
-    "lastUpdated": "2026-03-16"
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
   },
-  "rockets": {
-    "id": "rockets",
-    "season": "release",
-    "type": "ammunition",
-    "weight": 1,
-    "obtainable": [
-      "rocketCrate"
+  "galleonUpgrade3": {
+    "id": "galleonUpgrade3",
+    "type": "shipUpgrade",
+    "season": "shatteredSeas",
+    "tier": 3,
+    "value": 1,
+    "required": {
+      "azureDragonHead": 5,
+      "precisionDrillingBit": 10,
+      "screwMechanism": 20,
+      "deepIron": 35,
+      "upgradeParts": 10,
+      "piecesOfEight": 1250
+    },
+    "perks": [
+      "galleonUpgrade3",
+      "deepBlue"
     ],
-    "dateAdded": "2026-03-16",
-    "lastUpdated": "2026-03-16"
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
   },
-  "buoyShells": {
-    "id": "buoyShells",
-    "season": "chorusOfHavoc",
-    "type": "ammunition",
-    "weight": 1,
-    "obtainable": [
-      "buoyShellsCrate",
-      "deluxeBuoyShellsCrate1",
-      "deluxeBuoyShellsCrate2"
+  "galleonUpgrade4": {
+    "id": "galleonUpgrade4",
+    "type": "shipUpgrade",
+    "season": "shatteredSeas",
+    "tier": 4,
+    "value": 1,
+    "required": {
+      "orcasMechanism": 5,
+      "cogwheel": 10,
+      "zincIngot": 15,
+      "deepIron": 40,
+      "upgradeParts": 12,
+      "monstrousTooth": 5,
+      "piecesOfEight": 4000
+    },
+    "damageMitigation": {
+      "explosive": 0.05,
+      "flooding": 0,
+      "fire": 0,
+      "tearing": 0,
+      "piercing": 0,
+      "electric": 0.03,
+      "toxic": 0
+    },
+    "perks": [
+      "galleonUpgrade4"
     ],
-    "dateAdded": "2026-03-16",
-    "lastUpdated": "2026-03-16"
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
   },
-  "fallenCaptainsChest": {
-    "id": "fallenCaptainsChest",
-    "season": "eyeOfTheBeast",
-    "type": "chest",
-    "rarity": "legendary",
-    "weight": 100,
-    "dateAdded": "2026-03-23",
-    "lastUpdated": "2026-03-23"
-  },
-  "bedarChest": {
-    "id": "bedarChest",
-    "season": "eyeOfTheBeast",
-    "type": "chest",
-    "rarity": "legendary",
-    "l": 1,
-    "weight": 100,
-    "dateAdded": "2026-04-11",
-    "lastUpdated": "2026-04-11"
-  },
-  "cutterChest": {
-    "id": "cutterChest",
-    "season": "eyeOfTheBeast",
-    "type": "chest",
-    "rarity": "legendary",
-    "l": 6,
-    "weight": 100,
-    "dateAdded": "2026-04-11",
-    "lastUpdated": "2026-04-11"
-  },
-  "hulkChest": {
-    "id": "hulkChest",
-    "season": "eyeOfTheBeast",
-    "type": "chest",
-    "rarity": "legendary",
-    "l": 11,
-    "weight": 100,
-    "dateAdded": "2026-04-11",
-    "lastUpdated": "2026-04-11"
-  },
-  "sloopChest": {
-    "id": "sloopChest",
-    "season": "eyeOfTheBeast",
-    "type": "chest",
-    "rarity": "legendary",
-    "l": 21,
-    "weight": 100,
-    "dateAdded": "2026-04-11",
-    "lastUpdated": "2026-04-11"
-  },
-  "padewakangChest": {
-    "id": "padewakangChest",
-    "season": "eyeOfTheBeast",
-    "type": "chest",
-    "rarity": "legendary",
-    "l": 26,
-    "weight": 100,
-    "dateAdded": "2026-04-11",
-    "lastUpdated": "2026-04-11"
-  },
-  "snowChest": {
-    "id": "snowChest",
-    "season": "eyeOfTheBeast",
-    "type": "chest",
-    "rarity": "legendary",
-    "l": 31,
-    "weight": 100,
-    "dateAdded": "2026-04-11",
-    "lastUpdated": "2026-04-11"
-  },
-  "brigantineChest": {
-    "id": "brigantineChest",
-    "season": "eyeOfTheBeast",
-    "type": "chest",
-    "rarity": "legendary",
-    "l": 41,
-    "weight": 100,
-    "dateAdded": "2026-04-11",
-    "lastUpdated": "2026-04-11"
-  },
-  "sambukChest": {
-    "id": "sambukChest",
-    "season": "eyeOfTheBeast",
-    "type": "chest",
-    "rarity": "legendary",
-    "l": 51,
-    "weight": 100,
-    "dateAdded": "2026-04-11",
-    "lastUpdated": "2026-04-11"
-  },
-  "ascendedChche": {
-    "id": "ascendedChche",
-    "season": "eyeOfTheBeast",
-    "type": "chest",
-    "rarity": "legendary",
-    "l": [
-      53,
-      63,
-      73
+  "galleonUpgrade5": {
+    "id": "galleonUpgrade5",
+    "type": "shipUpgrade",
+    "season": "shatteredSeas",
+    "tier": 5,
+    "value": 1,
+    "required": {
+      "phoenixPinion": 8,
+      "purifiedSaltpeter": 15,
+      "sinewString": 12,
+      "precisionDrillingBit": 12,
+      "deepIronPlates": 5,
+      "upgradeParts": 12,
+      "piecesOfEight": 6500
+    },
+    "damageMitigation": {
+      "explosive": 0.1,
+      "flooding": 0,
+      "fire": 0,
+      "tearing": 0,
+      "piercing": 0.03,
+      "electric": 0.03,
+      "toxic": 0
+    },
+    "perks": [
+      "galleonUpgrade5"
     ],
-    "weight": 100,
-    "dateAdded": "2026-04-11",
-    "lastUpdated": "2026-04-11"
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
   },
-  "barqueChest": {
-    "id": "barqueChest",
-    "season": "eyeOfTheBeast",
-    "type": "chest",
-    "rarity": "legendary",
-    "l": [
-      61,
-      71
+  "galleonUpgrade6": {
+    "id": "galleonUpgrade6",
+    "type": "shipUpgrade",
+    "season": "shatteredSeas",
+    "tier": 6,
+    "value": 1,
+    "required": {
+      "planetaryGearset": 15,
+      "lightningDragonClaw": 8,
+      "gannetsSaltpeter": 5,
+      "eelSturdyRopes": 3,
+      "deepIronPlates": 7,
+      "upgradeParts": 14,
+      "etherealAshes": 5,
+      "piecesOfEight": 10000
+    },
+    "damageMitigation": {
+      "explosive": 0.15,
+      "flooding": 0.05,
+      "fire": 0,
+      "tearing": 0,
+      "piercing": 0.05,
+      "electric": 0.05,
+      "toxic": 0
+    },
+    "perks": [
+      "galleonUpgrade6",
+      "redWake"
     ],
-    "weight": 100,
-    "dateAdded": "2026-04-11",
-    "lastUpdated": "2026-04-11"
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
   },
-  "battleJunkChest": {
-    "id": "battleJunkChest",
-    "season": "eyeOfTheBeast",
-    "type": "chest",
-    "rarity": "legendary",
-    "l": [
-      81
+  "galleonUpgrade7": {
+    "id": "galleonUpgrade7",
+    "type": "shipUpgrade",
+    "season": "shatteredSeas",
+    "tier": 7,
+    "value": 1,
+    "required": {
+      "xanthousGemstone": 5,
+      "hubacHeirloom": 15,
+      "putrefiedLestariSkin": 5,
+      "deepIronPlates": 10,
+      "upgradeParts": 14,
+      "masterworkKit": 3,
+      "vengefulEssence": 10,
+      "piecesOfEight": 15000,
+      "silver": 50000
+    },
+    "damageMitigation": {
+      "explosive": 0.2,
+      "flooding": 0.1,
+      "fire": 0,
+      "tearing": 0,
+      "piercing": 0.15,
+      "electric": 0.1,
+      "toxic": 0
+    },
+    "perks": [
+      "galleonUpgrade7"
     ],
-    "weight": 100,
-    "dateAdded": "2026-04-11",
-    "lastUpdated": "2026-04-11"
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
   },
-  "garudaChest": {
-    "id": "garudaChest",
-    "season": "eyeOfTheBeast",
-    "type": "chest",
-    "rarity": "legendary",
-    "l": [
-      91
+  "hullcarver": {
+    "id": "hullcarver",
+    "type": "culverin",
+    "rarity": "epic",
+    "season": "shatteredSeas",
+    "obtainable": ["smugglerPass","smugglerPassPinnacleStore"],
+    "value": 1,
+    "weight": 500,
+    "gearScore": 91,
+    "projectilesPerShot": 1,
+    "damagePerShot": 1307,
+    "rateOfFire": 150,
+    "reloadSpeed": 6000,
+    "optimalRange": 600,
+    "projectileSpeed": 210,
+    "perks": [
+      "pulverize",
+      "piercing3"
     ],
-    "weight": 100,
-    "dateAdded": "2026-04-11",
-    "lastUpdated": "2026-04-11"
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
   },
-  "schoonerChest": {
-    "id": "schoonerChest",
-    "season": "eyeOfTheBeast",
-    "type": "chest",
-    "rarity": "legendary",
-    "l": [
-      101
+  "atmasToll": {
+    "id": "atmasToll",
+    "type": "demicannon",
+    "rarity": "epic",
+    "season": "shatteredSeas",
+    "event": "moonshineLarceny",
+    "obtainable": ["accountLedgerSainteAnne"],
+    "value": 1,
+    "weight": 500,
+    "gearScore": 91,
+    "projectilesPerShot": 4,
+    "damagePerShot": 328,
+    "rateOfFire": 0,
+    "reloadSpeed": 3500,
+    "optimalRange": 400,
+    "projectileSpeed": 400,
+    "perks": [
+      "mysticMend",
+      "burning2"
     ],
-    "weight": 100,
-    "dateAdded": "2026-04-11",
-    "lastUpdated": "2026-04-11"
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
   },
-  "frigateChest": {
-    "id": "frigateChest",
-    "season": "eyeOfTheBeast",
-    "type": "chest",
-    "rarity": "legendary",
-    "l": [
-      126
+  "blightbearer": {
+    "id": "blightbearer",
+    "type": "longGun",
+    "rarity": "epic",
+    "season": "shatteredSeas",
+    "obtainable": "williamBlackwoodSeasonalItemShatteredSeas",
+    "value": 1,
+    "weight": 500,
+    "gearScore": 91,
+    "projectilesPerShot": 1,
+    "damagePerShot": 2050,
+    "rateOfFire": 600,
+    "reloadSpeed": 7200,
+    "optimalRange": 1000,
+    "projectileSpeed": 350,
+    "perks": [
+      "sickly",
+      "toxic2",
+      "piercing1"
     ],
-    "weight": 100,
-    "dateAdded": "2026-04-11",
-    "lastUpdated": "2026-04-11"
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
   },
-  "sloopOfWarChest": {
-    "id": "sloopOfWarChest",
-    "season": "eyeOfTheBeast",
-    "type": "chest",
-    "rarity": "legendary",
-    "l": [
-      151
+  "soulsnatcher": {
+    "id": "soulsnatcher",
+    "type": "bombard",
+    "rarity": "epic",
+    "season": "shatteredSeas",
+    "event": "theHonorless",
+    "obtainable": ["theHelmEvent"],
+    "value": 1,
+    "weight": 500,
+    "gearScore": 91,
+    "projectilesPerShot": 1,
+    "damagePerShot": 3280,
+    "rateOfFire": 600,
+    "reloadSpeed": 7500,
+    "optimalRange": 600,
+    "projectileSpeed": 135,
+    "blastRadius": 30,
+    "perks": [
+      "hauntingMend",
+      "burning2",
+      "explosive1"
     ],
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "deBreker": {
+    "id": "deBreker",
+    "type": "mortar",
+    "rarity": "epic",
+    "season": "shatteredSeas",
+    "obtainable": "dominionWarEffortReward",
+    "value": 1,
+    "weight": 1000,
+    "gearScore": 91,
+    "projectilesPerShot": 1,
+    "damagePerShot": 10660,
+    "rateOfFire": 0,
+    "reloadSpeed": 20000,
+    "optimalRange": 600,
+    "timeToTarget": 5750,
+    "blastRadius": 50,
+    "required": {},
+    "perks": [
+      "oceansSnare",
+      "flooding3",
+      "blast",
+      "noDefaultCrit"
+    ],
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "floodbound": {
+    "id": "floodbound",
+    "rarity": "epic",
+    "season": "shatteredSeas",
+    "type": "armor",
+    "value": 1,
+    "weight": 500,
+    "gearScore": 297,
+    "armor": 1200,
+    "damageMitigation": {
+      "explosive": 0.1,
+      "flooding": 0.2,
+      "fire": 0.05,
+      "tearing": 0,
+      "piercing": 0.3,
+      "electric": 0.05,
+      "toxic": 0.05
+    },
+    "obtainable": "williamBlackwoodSeasonalItemShatteredSeas",
+    "perks": [
+      "tideOfRestoration"
+    ],
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "needleShield": {
+    "id": "needleShield",
+    "rarity": "epic",
+    "season": "shatteredSeas",
+    "type": "armor",
+    "value": 1,
+    "weight": 500,
+    "gearScore": 297,
+    "armor": 1150,
+    "damageMitigation": {
+      "explosive": 0.1,
+      "flooding": 0.3,
+      "fire": 0.05,
+      "tearing": 0,
+      "piercing": 0.2,
+      "electric": 0.05,
+      "toxic": 0.05
+    },
+    "obtainable": "smugglerPass",
+    "perks": [
+      "brackishBite"
+    ],
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "drownedOrgan": {
+    "id": "drownedOrgan",
+    "type": "majorFurniture",
+    "rarity": "epic",
+    "season": "shatteredSeas",
+    "value": 1,
+    "weight": 250,
+    "gearScore": 35,
+    "event": ["theHonorless","darktideLullaby","moonshineLarceny"],
+    "obtainable": ["theHelmEvent","darktideAltarTelokPenjarah","accountLedgerSainteAnne","bloodiedStrongbox"],
+    "perks": [
+      "drownedOrgan"
+    ],
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-14"
+  },
+  "royalRammingWorks": {
+    "id": "royalRammingWorks",
+    "type": "majorFurniture",
+    "rarity": "epic",
+    "season": "shatteredSeas",
+    "value": 1,
+    "weight": 250,
+    "gearScore": 35,
+    "obtainable": "dominionWarEffortReward",
+    "perks": [
+      "royalRammingWorks"
+    ],
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "floodwardenStation": {
+    "id": "floodwardenStation",
+    "type": "majorFurniture",
+    "rarity": "epic",
+    "season": "shatteredSeas",
+    "value": 1,
+    "weight": 250,
+    "gearScore": 35,
+    "obtainable": "williamBlackwoodSeasonalItemShatteredSeas",
+    "perks": [
+      "floodwardenStation"
+    ],
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "hullMarkersTable": {
+    "id": "hullMarkersTable",
+    "type": "majorFurniture",
+    "rarity": "epic",
+    "season": "shatteredSeas",
+    "value": 1,
+    "weight": 250,
+    "gearScore": 35,
+    "obtainable": "smugglerPass",
+    "perks": [
+      "hullMarkersTable"
+    ],
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "physiciansLedger": {
+    "id": "physiciansLedger",
+    "type": "offensiveFurniture",
+    "rarity": "epic",
+    "season": "shatteredSeas",
+    "value": 1,
+    "weight": 80,
+    "gearScore": 25,
+    "event": "moonshineLarceny",
+    "obtainable": "accountLedgerSainteAnne",
+    "perks": [
+      "physiciansLedger"
+    ],
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "lAiguille": {
+    "id": "lAiguille",
+    "rarity": "epic",
+    "season": "shatteredSeas",
+    "requiredSize": "medium",
+    "type": "springloader",
+    "gearScore": 91,
+    "value": 1,
+    "weight": 1000,
+    "damagePerShot": 3075,
+    "projectilesPerShot": 1,
+    "rateOfFire": 0,
+    "reloadSpeed": 20000,
+    "optimalRange": 400,
+    "timeToTarget": 2700,
+    "required": {},
+    "perks": [
+      "splinter",
+      "piercing2",
+      "explosive2"
+    ],
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "mortarPowderbench": {
+    "id": "mortarPowderbench",
+    "type": "offensiveFurniture",
+    "rarity": "uncommon",
+    "season": "shatteredSeas",
+    "value": 1,
+    "weight": 175,
+    "gearScore": 15,
+    "obtainable": "williamBlackwoodSeasonalItemShatteredSeas",
+    "perks": ["mortarPowderbench"],
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "rocketPowderbench": {
+    "id": "rocketPowderbench",
+    "type": "offensiveFurniture",
+    "rarity": "uncommon",
+    "season": "shatteredSeas",
+    "value": 1,
+    "weight": 175,
+    "gearScore": 15,
+    "obtainable": "williamBlackwoodSeasonalItemShatteredSeas",
+    "perks": ["rocketPowderbench"],
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "springloaderPowderbench": {
+    "id": "springloaderPowderbench",
+    "type": "offensiveFurniture",
+    "rarity": "uncommon",
+    "season": "shatteredSeas",
+    "value": 1,
+    "weight": 175,
+    "gearScore": 15,
+    "obtainable": "williamBlackwoodSeasonalItemShatteredSeas",
+    "perks": ["springloaderPowderbench"],
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-12"
+  },
+  "verdantHuntsChest": {
+    "id": "verdantHuntsChest",
+    "rarity": "legendary",
+    "season": "shatteredSeas",
+    "type": "chest",
+    "worldEvent": ["chorusOfHavoc","theGloriousPhoenix","thePlagueKing","theLoomingShadow","theDrowningPlague","theGreatShadow"],
+    "obtainable": "theVerdantHunt",
+    "value": 1,
     "weight": 100,
-    "dateAdded": "2026-04-11",
-    "lastUpdated": "2026-04-11"
+    "dateAdded": "2026-05-12",
+    "lastUpdated": "2026-05-26"
   }
 }
