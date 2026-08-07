@@ -1,6 +1,6 @@
 {
   "name": "glow-prow-data",
-  "version": "0.0.1",
+  "version": "0.0.6",
   "keywords": [
     "ubisoft",
     "ubisoft-game",
@@ -13,7 +13,8 @@
   "main": "src/index.ts",
   "scripts": {
     "prepare": "npm run build",
-    "build": "tsc"
+    "build": "tsc",
+    "test:fetch-data": "node test/fetch_data.js"
   },
   "files": [
     "src/data/",
