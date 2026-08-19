@@ -60,5 +60,11 @@
         "alternativeName": "y3s2",
         "startDate": "2026-05-12",
         "endDate": "2026-08-18"
+    },
+    "crimsonWaters": {
+        "id": "crimsonWaters",
+        "alternativeName": "y3s3",
+        "startDate": "2026-06-18",
+        "endDate": "2026-11-02"
     }
 }
