@@ -88,6 +88,10 @@
         "rarity": "common",
         "category": "currency"
     },
+    "abyssalEssence": {
+        "rarity": "epic",
+        "category": "currency"
+    },
     "jute": {
         "rarity": "common",
         "category": "raw"
@@ -936,7 +940,11 @@
         }
     },
     "nightshadePearl": {
-        "rarity": "epic",
+        "rarity": "legendary",
         "category": "specialized"
+    },
+    "ascensionFlux": {
+        "rarity": "legendary",
+        "category": "exotic"
     }
 }

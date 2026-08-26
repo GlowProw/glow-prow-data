@@ -1819,5 +1819,97 @@
     "jackdaw": {
         "id": "jackdaw",
         "type": "ship"
+    },
+    "clawsOfTheAbyss": {
+        "id": "clawsOfTheAbyss",
+        "type": "ship"
+    },
+    "stormreaver": {
+        "id": "stormreaver",
+        "type": "ship"
+    },
+    "grimflare": {
+        "id": "grimflare",
+        "type": "ship"
+    },
+    "venomsWake": {
+        "id": "venomsWake",
+        "type": "ship"
+    },
+    "valhallasCall": {
+        "id": "valhallasCall",
+        "type": "ship"
+    },
+    "soulHarvest": {
+        "id": "soulHarvest",
+        "type": "ship"
+    },
+    "chargeOfDeath": {
+        "id": "chargeOfDeath",
+        "type": "ship"
+    },
+    "silverConquest": {
+        "id": "silverConquest",
+        "type": "player"
+    },
+    "doctrineOfFaith": {
+        "id": "doctrineOfFaith",
+        "type": "player"
+    },
+    "dreadtide": {
+        "id": "dreadtide",
+        "type": "player"
+    },
+    "stormchaser": {
+        "id": "stormchaser",
+        "type": "player"
+    },
+    "rogueStringer": {
+        "id": "rogueStringer",
+        "type": "ship"
+    },
+    "dragonlord": {
+        "id": "dragonlord",
+        "type": "ship"
+    },
+    "royalReckoning": {
+        "id": "royalReckoning",
+        "type": "ship"
+    },
+    "twilightExecutioner": {
+        "id": "twilightExecutioner",
+        "type": "ship"
+    },
+    "pyresPlunder": {
+        "id": "pyresPlunder",
+        "type": "ship"
+    },
+    "hellbound": {
+        "id": "hellbound",
+        "type": "player"
+    },
+    "gravewind": {
+        "id": "gravewind",
+        "type": "player"
+    },
+    "roguebreaker": {
+        "id": "roguebreaker",
+        "type": "player"
+    },
+    "revenantsRapier": {
+        "id": "revenantsRapier",
+        "type": "ship"
+    },
+    "coatOStars": {
+        "id": "coatOStars",
+        "type": "ship"
+    },
+    "theCinderborn": {
+        "id": "theCinderborn",
+        "type": "ship"
+    },
+    "rootsOfRuin": {
+        "id": "rootsOfRuin",
+        "type": "ship"
     }
 }
