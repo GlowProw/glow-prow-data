@@ -12,4 +12,5 @@ export {Sets, Set} from "./entity/Sets"
 export {TreasureMaps, TreasureMap} from "./entity/TreasureMaps"
 export {MapLocations, MapLocation} from "./entity/MapLocations"
 export {Npcs, Npc} from "./entity/Npcs"
-export {EmpireSkills, EmpireSkill} from "./entity/EmpireSkills"
+export {EmpireSkills, EmpireSkill} from "./entity/EmpireSkills";
+export {Masterys, Mastery, type SeasonMasteryTree, type MasteryEdge, type MasteryNodePosition} from "./entity/Masterys";
