@@ -62,6 +62,11 @@ export class Mastery extends BaseType {
         return this.id;
     }
 
+    // 兼容访问赛季
+    public get season(): Season {
+        return this.bySeason;
+    }
+
     public static fromRawData(key: string, rawData: any): Mastery {
         const season = rawData.season as keyof typeof Seasons;
 
@@ -101,10 +106,12 @@ export interface SeasonMasteryTree {
 export class MasterysContainer {
     public static loadMasterys(): Record<string, SeasonMasteryTree> {
         const result: Record<string, SeasonMasteryTree> = {};
-        for (const [seasonKey, seasonData] of Object.entries(masterysData as any)) {
+        const rawData = masterysData as unknown as Record<string, any>;
+        for (const [seasonKey, rawSeason] of Object.entries(rawData)) {
+            const seasonData: any = rawSeason;
             const season = seasonData.season as keyof typeof Seasons;
             const nodes: Record<string, Mastery> = {};
-            for (const [nodeKey, nodeData] of Object.entries(seasonData.nodes as any)) {
+            for (const [nodeKey, nodeData] of Object.entries((seasonData.nodes || {}) as Record<string, any>)) {
                 nodes[nodeKey] = Mastery.fromRawData(nodeKey, nodeData);
             }
 
