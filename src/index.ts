@@ -13,4 +13,15 @@ export {TreasureMaps, TreasureMap} from "./entity/TreasureMaps"
 export {MapLocations, MapLocation} from "./entity/MapLocations"
 export {Npcs, Npc} from "./entity/Npcs"
 export {EmpireSkills, EmpireSkill} from "./entity/EmpireSkills";
-export {Masterys, Mastery, type SeasonMasteryTree, type MasteryEdge, type MasteryNodePosition} from "./entity/Masterys";
+export {
+    Masterys,
+    Mastery,
+    type SeasonMasteryTree,
+    type MasteryEdge,
+    type MasteryNodePosition,
+    type MasteryCategory,
+    MasteryCategories,
+    type MasteryRole,
+    MasteryRoles
+} from "./entity/Masterys";
+export * from "./types/MasteryProperties";

@@ -15,3 +15,8 @@ export const MapLocationCategories = [
 ] as const;
 
 export type MapLocationCategory = (typeof MapLocationCategories)[number];
+
+export {
+    MasteryCategories,
+    type MasteryCategory
+} from "./MasteryProperties";

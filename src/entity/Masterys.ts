@@ -1,32 +1,31 @@
 import masterysData from "../data/masterys.json";
-import {Season, Seasons} from "./Seasons";
-import {BaseType} from "./BaseType";
+import { Season, Seasons } from "./Seasons";
+import { BaseType } from "./BaseType";
+import {
+    MasteryCategory,
+    MasteryRole,
+    MasteryNodePosition,
+    MasteryEdge
+} from "../types/MasteryProperties";
 
-export interface MasteryNodePosition {
-    x: number;
-    y: number;
-}
-
-export interface MasteryEdge {
-    id: string;
-    source: string;
-    target: string;
-    type?: string;
-    data?: any;
-    style?: any;
-}
+export {
+    type MasteryCategory,
+    MasteryCategories,
+    type MasteryRole,
+    MasteryRoles,
+    type MasteryNodePosition,
+    type MasteryEdge,
+} from "../types/MasteryProperties";
 
 /**
  * 专精技能节点实体
  */
 export class Mastery extends BaseType {
     constructor(
-        // 节点key (唯一标识，如 B-3-2-DE2)
+        // 节点key
         public readonly key: string,
-        // 技能标识/id (如 deadeye)
+        // 技能标识/id
         public readonly id: string,
-        // 标签显示名称
-        public readonly label: string,
         // 前置条件节点列表
         public readonly requisite: string[],
         // 对应赛季
@@ -35,10 +34,10 @@ export class Mastery extends BaseType {
         public readonly dateAdded: Date,
         // 更新时间
         public readonly lastUpdated: Date,
-        // 类别 (offensive, defensive, support, unique, impetus)
-        public readonly category: string,
-        // 节点角色 (keyBuff, buff, seasonalPerk)
-        public readonly role: string,
+        // 类别
+        public readonly category: MasteryCategory,
+        // 节点角色
+        public readonly role: MasteryRole,
         // 消耗点数
         public readonly cost: number,
         // 分组
@@ -47,10 +46,10 @@ export class Mastery extends BaseType {
         public readonly ring: number,
         // 方向
         public readonly direction: string,
-        // 是否核心关键增益
-        public readonly isKey: boolean,
         // 节点在画布上的坐标
-        public readonly position: MasteryNodePosition
+        public readonly position: MasteryNodePosition,
+        // 效果列表
+        public readonly effects: any[] = []
     ) {
         super();
         this._entityType = Mastery;
@@ -72,20 +71,19 @@ export class Mastery extends BaseType {
 
         return new Mastery(
             key,
-            rawData.id || rawData.skill || key,
-            rawData.label || key,
+            rawData.id || rawData.skill,
             rawData.requisite || [],
             Seasons[season],
             new Date(rawData.dateAdded),
             new Date(rawData.lastUpdated),
-            rawData.category || 'support',
-            rawData.role || 'buff',
+            (rawData.category as MasteryCategory) || 'support',
+            (rawData.role as MasteryRole) || 'buff',
             rawData.cost || 1,
             String(rawData.group || 'radial'),
             rawData.ring || 0,
             rawData.direction || '',
-            Boolean(rawData.isKey),
-            rawData.position || {x: 0, y: 0}
+            rawData.position || { x: 0, y: 0 },
+            rawData.effects || []
         );
     }
 }
@@ -98,9 +96,9 @@ export interface SeasonMasteryTree {
     seasonalPerkGridSpacing: number;
     seasonalPerkPlacement: string;
     nodes: Record<string, Mastery>;
-    edges: MasteryEdge[];
+    edges?: MasteryEdge[];
     skills: Record<string, any>;
-    effects: Record<string, any>;
+    effects?: Record<string, any>;
 }
 
 export class MasterysContainer {
@@ -115,6 +113,33 @@ export class MasterysContainer {
                 nodes[nodeKey] = Mastery.fromRawData(nodeKey, nodeData);
             }
 
+            // 生成关系线
+            // 从 requisite 关系自动生成
+            let edges: MasteryEdge[] = seasonData.edges || [];
+            if (edges.length === 0) {
+                const edgeSet = new Set<string>();
+                for (const [nodeKey, node] of Object.entries(nodes)) {
+                    const nodeObj = node as Mastery;
+                    if (nodeObj.requisite && nodeObj.requisite.length > 0) {
+                        for (const reqKey of nodeObj.requisite) {
+                            // 先在 nodes 中查找 requisite：可能是 key，也可能是 id
+                            const resolvedSource = nodes[reqKey]
+                                ? reqKey
+                                : Object.keys(nodes).find(k => (nodes[k] as Mastery).id === reqKey) || reqKey;
+                            const edgeId = `${resolvedSource}->${nodeKey}`;
+                            if (!edgeSet.has(edgeId) && nodes[resolvedSource]) {
+                                edgeSet.add(edgeId);
+                                edges.push({
+                                    id: edgeId,
+                                    source: resolvedSource,
+                                    target: nodeKey,
+                                });
+                            }
+                        }
+                    }
+                }
+            }
+
             result[seasonKey] = {
                 id: seasonData.id,
                 season: Seasons[season],
@@ -123,7 +148,7 @@ export class MasterysContainer {
                 seasonalPerkGridSpacing: seasonData.seasonalPerkGridSpacing,
                 seasonalPerkPlacement: seasonData.seasonalPerkPlacement,
                 nodes,
-                edges: seasonData.edges || [],
+                edges,
                 skills: seasonData.skills || {},
                 effects: seasonData.effects || {}
             };
