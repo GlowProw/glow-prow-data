@@ -12,6 +12,7 @@ export class Set extends BaseType {
     ) {
         super()
         this._entityType = Set;
+        this._entityTypeName = 'Set';
         return this
     }
 

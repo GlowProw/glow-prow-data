@@ -14,6 +14,7 @@ export class Event extends BaseType {
     ) {
         super();
         this._entityType = Event;
+        this._entityTypeName = 'Event';
         return this
     }
 
