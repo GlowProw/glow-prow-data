@@ -24,4 +24,6 @@ export {
     type MasteryRole,
     MasteryRoles
 } from "./entity/Masterys";
+export {Questlogs, Questlog, Quests, Quest, type QuestlogCategory} from "./entity/Questlog";
 export * from "./types/MasteryProperties";
+

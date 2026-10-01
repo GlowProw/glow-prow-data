@@ -1,0 +1,1033 @@
+{
+  "aSeaWorthyCharge": {
+    "id": "aSeaWorthyCharge",
+    "category": "johnScurlock",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25"
+  },
+  "unwelcomeAboard": {
+    "id": "unwelcomeAboard",
+    "category": "johnScurlock",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "aSeaWorthyCharge"
+    ]
+  },
+  "theLionOfSainteAnne": {
+    "id": "theLionOfSainteAnne",
+    "category": "johnScurlock",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "unwelcomeAboard"
+    ]
+  },
+  "brokeredGround": {
+    "id": "brokeredGround",
+    "category": "johnScurlock",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "theLionOfSainteAnne"
+    ]
+  },
+  "serviceTheRound": {
+    "id": "serviceTheRound",
+    "category": "johnScurlock",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "brokeredGround"
+    ]
+  },
+  "highSeasHeist": {
+    "id": "highSeasHeist",
+    "category": "johnScurlock",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "serviceTheRound"
+    ]
+  },
+  "indelicateAlliance": {
+    "id": "indelicateAlliance",
+    "category": "johnScurlock",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "highSeasHeist"
+    ]
+  },
+  "unsacredOfferings": {
+    "id": "unsacredOfferings",
+    "category": "johnScurlock",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "indelicateAlliance"
+    ]
+  },
+  "theDevilsGambit": {
+    "id": "theDevilsGambit",
+    "category": "johnScurlock",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "unsacredOfferings"
+    ]
+  },
+  "bloodsoakedSilver": {
+    "id": "bloodsoakedSilver",
+    "category": "johnScurlock",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "theDevilsGambit"
+    ]
+  },
+  "cutthroatSecrets": {
+    "id": "cutthroatSecrets",
+    "category": "johnScurlock",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "bloodsoakedSilver"
+    ]
+  },
+  "theLionAndRat": {
+    "id": "theLionAndRat",
+    "category": "johnScurlock",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "cutthroatSecrets"
+    ]
+  },
+  "dawnOfWar": {
+    "id": "dawnOfWar",
+    "category": "admiralRahma",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25"
+  },
+  "blueMoonBribes": {
+    "id": "blueMoonBribes",
+    "category": "admiralRahma",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "dawnOfWar"
+    ]
+  },
+  "nightfallMissives": {
+    "id": "nightfallMissives",
+    "category": "admiralRahma",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "blueMoonBribes"
+    ]
+  },
+  "towOfEmpire": {
+    "id": "towOfEmpire",
+    "category": "admiralRahma",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "nightfallMissives"
+    ]
+  },
+  "theSpiceMustFlow": {
+    "id": "theSpiceMustFlow",
+    "category": "admiralRahma",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "towOfEmpire"
+    ]
+  },
+  "twilightKeepers": {
+    "id": "twilightKeepers",
+    "category": "admiralRahma",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "theSpiceMustFlow"
+    ]
+  },
+  "armsOfNight": {
+    "id": "armsOfNight",
+    "category": "admiralRahma",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "twilightKeepers"
+    ]
+  },
+  "swarmOfSecrets": {
+    "id": "swarmOfSecrets",
+    "category": "admiralRahma",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "armsOfNight"
+    ]
+  },
+  "moonsmokeOueen": {
+    "id": "moonsmokeOueen",
+    "category": "admiralRahma",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "swarmOfSecrets"
+    ]
+  },
+  "aTrailOfAshes": {
+    "id": "aTrailOfAshes",
+    "category": "liTianNing",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25"
+  },
+  "scorchedHorizon": {
+    "id": "scorchedHorizon",
+    "category": "liTianNing",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "aTrailOfAshes"
+    ]
+  },
+  "flamingQuarry": {
+    "id": "flamingQuarry",
+    "category": "liTianNing",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "scorchedHorizon"
+    ]
+  },
+  "searingInterest": {
+    "id": "searingInterest",
+    "category": "liTianNing",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "flamingQuarry"
+    ]
+  },
+  "fanningTheFlames": {
+    "id": "fanningTheFlames",
+    "category": "liTianNing",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "searingInterest"
+    ]
+  },
+  "scarletHeist": {
+    "id": "scarletHeist",
+    "category": "liTianNing",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "fanningTheFlames"
+    ]
+  },
+  "flamesOfTurmoil": {
+    "id": "flamesOfTurmoil",
+    "category": "liTianNing",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "scorchedHorizon"
+    ]
+  },
+  "engulfingStorm": {
+    "id": "engulfingStorm",
+    "category": "liTianNing",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "flamesOfTurmoil"
+    ]
+  },
+  "flickerOfDestiny": {
+    "id": "flickerOfDestiny",
+    "category": "liTianNing",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "engulfingStorm"
+    ]
+  },
+  "theVirtuousPhoenix": {
+    "id": "theVirtuousPhoenix",
+    "category": "liTianNing",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "flickerOfDestiny"
+    ]
+  },
+  "ragingInferno": {
+    "id": "ragingInferno",
+    "category": "liTianNing",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "theVirtuousPhoenix"
+    ]
+  },
+  "dragonAndPhoenix": {
+    "id": "dragonAndPhoenix",
+    "category": "liTianNing",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "ragingInferno"
+    ]
+  },
+  "embersOfSuspicion": {
+    "id": "embersOfSuspicion",
+    "category": "liTianNing",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "dragonAndPhoenix"
+    ]
+  },
+  "grimTidings": {
+    "id": "grimTidings",
+    "category": "vikramRajan",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25"
+  },
+  "wolvesInTheWater": {
+    "id": "wolvesInTheWater",
+    "category": "vikramRajan",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "grimTidings"
+    ]
+  },
+  "voicesFromThePast": {
+    "id": "voicesFromThePast",
+    "category": "vikramRajan",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "wolvesInTheWater"
+    ]
+  },
+  "edgeOfDarkness": {
+    "id": "edgeOfDarkness",
+    "category": "vikramRajan",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "voicesFromThePast"
+    ]
+  },
+  "aPrizedPossession": {
+    "id": "aPrizedPossession",
+    "category": "vikramRajan",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25"
+  },
+  "aForgottenPast": {
+    "id": "aForgottenPast",
+    "category": "vikramRajan",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "aPrizedPossession"
+    ]
+  },
+  "aShadowyPast": {
+    "id": "aShadowyPast",
+    "category": "vikramRajan",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "aForgottenPast"
+    ]
+  },
+  "riskOfRuin": {
+    "id": "riskOfRuin",
+    "category": "lucianHarrow",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25"
+  },
+  "aMarkedTrail": {
+    "id": "aMarkedTrail",
+    "category": "lucianHarrow",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "riskOfRuin"
+    ]
+  },
+  "againstTheTide": {
+    "id": "againstTheTide",
+    "category": "lucianHarrow",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "aMarkedTrail"
+    ]
+  },
+  "theQuietPull": {
+    "id": "theQuietPull",
+    "category": "lucianHarrow",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "againstTheTide"
+    ]
+  },
+  "longLiveTheHelm": {
+    "id": "longLiveTheHelm",
+    "category": "lucianHarrow",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "theQuietPull"
+    ]
+  },
+  "aFriendFromAfar": {
+    "id": "aFriendFromAfar",
+    "category": "lucianHarrow",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "longLiveTheHelm"
+    ]
+  },
+  "aTrailRenewed": {
+    "id": "aTrailRenewed",
+    "category": "lucianHarrow",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "aFriendFromAfar"
+    ]
+  },
+  "theTrueCargo": {
+    "id": "theTrueCargo",
+    "category": "lucianHarrow",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "aTrailRenewed"
+    ]
+  },
+  "theUnbendingFlame": {
+    "id": "theUnbendingFlame",
+    "category": "lucianHarrow",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "theTrueCargo"
+    ]
+  },
+  "loyaltysCarnage": {
+    "id": "loyaltysCarnage",
+    "category": "lucianHarrow",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "theUnbendingFlame"
+    ]
+  },
+  "noQuestions": {
+    "id": "noQuestions",
+    "category": "lucianHarrow",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "loyaltysCarnage"
+    ]
+  },
+  "harrowsGambit": {
+    "id": "harrowsGambit",
+    "category": "lucianHarrow",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "noQuestions"
+    ]
+  },
+  "overtureToHavoc": {
+    "id": "overtureToHavoc",
+    "category": "theHubacTwins",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25"
+  },
+  "argentRefrain": {
+    "id": "argentRefrain",
+    "category": "theHubacTwins",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "overtureToHavoc"
+    ]
+  },
+  "sableRefrain": {
+    "id": "sableRefrain",
+    "category": "theHubacTwins",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "argentRefrain"
+    ]
+  },
+  "symphonyOfCannons": {
+    "id": "symphonyOfCannons",
+    "category": "theHubacTwins",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "sableRefrain"
+    ]
+  },
+  "sirensRefrain": {
+    "id": "sirensRefrain",
+    "category": "theHubacTwins",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "symphonyOfCannons"
+    ]
+  },
+  "stolenCrescendo": {
+    "id": "stolenCrescendo",
+    "category": "theHubacTwins",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "sirensRefrain"
+    ]
+  },
+  "rhapsodyRaids": {
+    "id": "rhapsodyRaids",
+    "category": "theHubacTwins",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "symphonyOfCannons"
+    ]
+  },
+  "secretsInSongs": {
+    "id": "secretsInSongs",
+    "category": "theHubacTwins",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "stolenCrescendo",
+      "rhapsodyRaids"
+    ]
+  },
+  "vengefulVerses": {
+    "id": "vengefulVerses",
+    "category": "theHubacTwins",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "secretsInSongs"
+    ]
+  },
+  "serpentSchemes": {
+    "id": "serpentSchemes",
+    "category": "theHubacTwins",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "vengefulVerses"
+    ]
+  },
+  "defendersOverture": {
+    "id": "defendersOverture",
+    "category": "theHubacTwins",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "secretsInSongs"
+    ]
+  },
+  "melodicMayhem": {
+    "id": "melodicMayhem",
+    "category": "theHubacTwins",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "defendersOverture"
+    ]
+  },
+  "curtainCall": {
+    "id": "curtainCall",
+    "category": "theHubacTwins",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "serpentSchemes",
+      "melodicMayhem"
+    ]
+  },
+  "grandOperasEnd": {
+    "id": "grandOperasEnd",
+    "category": "theHubacTwins",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "curtainCall"
+    ]
+  },
+  "theAfricanAilment": {
+    "id": "theAfricanAilment",
+    "category": "laPeste",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25"
+  },
+  "thePursuingPlague": {
+    "id": "thePursuingPlague",
+    "category": "laPeste",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "theAfricanAilment"
+    ]
+  },
+  "theEncroachingEpidemic": {
+    "id": "theEncroachingEpidemic",
+    "category": "laPeste",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "thePursuingPlague"
+    ]
+  },
+  "serpentsLastStrike": {
+    "id": "serpentsLastStrike",
+    "category": "laPeste",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "theEncroachingEpidemic"
+    ]
+  },
+  "smugglersNetwork": {
+    "id": "smugglersNetwork",
+    "category": "infamyQuest",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25"
+  },
+  "mysticShop": {
+    "id": "mysticShop",
+    "category": "infamyQuest",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25"
+  },
+  "shipUpgrading": {
+    "id": "shipUpgrading",
+    "category": "infamyQuest",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25"
+  },
+  "deathTides": {
+    "id": "deathTides",
+    "category": "infamyQuest",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25"
+  },
+  "ascensionAndModification": {
+    "id": "ascensionAndModification",
+    "category": "infamyQuest",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25"
+  },
+  "huntmasterShop": {
+    "id": "huntmasterShop",
+    "category": "infamyQuest",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25"
+  },
+  "freemansTreasure": {
+    "id": "freemansTreasure",
+    "category": "investigations",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25"
+  },
+  "theFallOfLanitra": {
+    "id": "theFallOfLanitra",
+    "category": "investigations",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "freemansTreasure"
+    ]
+  },
+  "theCrownOfUkuta": {
+    "id": "theCrownOfUkuta",
+    "category": "investigations",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "theFallOfLanitra"
+    ]
+  },
+  "ambush": {
+    "id": "ambush",
+    "category": "investigations",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "theCrownOfUkuta"
+    ]
+  },
+  "aLegacyOfMadness": {
+    "id": "aLegacyOfMadness",
+    "category": "investigations",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "ambush"
+    ]
+  },
+  "mentariOfTheUnbound": {
+    "id": "mentariOfTheUnbound",
+    "category": "investigations",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "aLegacyOfMadness"
+    ]
+  },
+  "turningThePage": {
+    "id": "turningThePage",
+    "category": "investigations",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "mentariOfTheUnbound"
+    ]
+  },
+  "graveNews": {
+    "id": "graveNews",
+    "category": "investigations",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "turningThePage"
+    ]
+  },
+  "bloodyBonesLegacy": {
+    "id": "bloodyBonesLegacy",
+    "category": "investigations",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25"
+  },
+  "theAshenCorsair": {
+    "id": "theAshenCorsair",
+    "category": "investigations",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25"
+  },
+  "idleEarls": {
+    "id": "idleEarls",
+    "category": "dutchMerchantCompany",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25"
+  },
+  "cutthroatJacks": {
+    "id": "cutthroatJacks",
+    "category": "dutchMerchantCompany",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "idleEarls"
+    ]
+  },
+  "headOfTheFleet": {
+    "id": "headOfTheFleet",
+    "category": "dutchMerchantCompany",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "cutthroatJacks"
+    ]
+  },
+  "botel0Rhum": {
+    "id": "botel0Rhum",
+    "category": "compagnieRoyale",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25"
+  },
+  "poorCompagnie": {
+    "id": "poorCompagnie",
+    "category": "compagnieRoyale",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "botel0Rhum"
+    ]
+  },
+  "skimTheTop": {
+    "id": "skimTheTop",
+    "category": "compagnieRoyale",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "poorCompagnie"
+    ]
+  },
+  "theRoyaleExit": {
+    "id": "theRoyaleExit",
+    "category": "compagnieRoyale",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "skimTheTop"
+    ]
+  },
+  "blastYeTowers": {
+    "id": "blastYeTowers",
+    "category": "rogues",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25"
+  },
+  "hunterOfHunters": {
+    "id": "hunterOfHunters",
+    "category": "rogues",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "blastYeTowers"
+    ]
+  },
+  "royalHunt": {
+    "id": "royalHunt",
+    "category": "rogues",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "hunterOfHunters"
+    ]
+  },
+  "hungryMermaids": {
+    "id": "hungryMermaids",
+    "category": "rogues",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "royalHunt"
+    ]
+  },
+  "rabbleRouser": {
+    "id": "rabbleRouser",
+    "category": "rogues",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "hungryMermaids"
+    ]
+  },
+  "thrillOfTheHunt": {
+    "id": "thrillOfTheHunt",
+    "category": "seaPeople",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25"
+  },
+  "relicsOfThePast": {
+    "id": "relicsOfThePast",
+    "category": "seaPeople",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "thrillOfTheHunt"
+    ]
+  },
+  "lifeAfterDeath": {
+    "id": "lifeAfterDeath",
+    "category": "seaPeople",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "relicsOfThePast"
+    ]
+  },
+  "fatesInTheStars": {
+    "id": "fatesInTheStars",
+    "category": "seaPeople",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "lifeAfterDeath"
+    ]
+  },
+  "smokeOnTheWater": {
+    "id": "smokeOnTheWater",
+    "category": "clanOfFara",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25"
+  },
+  "ancestralRights": {
+    "id": "ancestralRights",
+    "category": "clanOfFara",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "smokeOnTheWater"
+    ]
+  },
+  "ourInheritedLand": {
+    "id": "ourInheritedLand",
+    "category": "clanOfFara",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "ancestralRights"
+    ]
+  },
+  "powerAfterDeath": {
+    "id": "powerAfterDeath",
+    "category": "clanOfFara",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "ourInheritedLand"
+    ]
+  },
+  "bruisingVengeance": {
+    "id": "bruisingVengeance",
+    "category": "confederationOfUngwana",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25"
+  },
+  "weSeekWarriors": {
+    "id": "weSeekWarriors",
+    "category": "confederationOfUngwana",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "bruisingVengeance"
+    ]
+  },
+  "aToweringThreat": {
+    "id": "aToweringThreat",
+    "category": "confederationOfUngwana",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "weSeekWarriors"
+    ]
+  },
+  "theForeignMenace": {
+    "id": "theForeignMenace",
+    "category": "confederationOfUngwana",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "aToweringThreat"
+    ]
+  },
+  "unchartedWaters": {
+    "id": "unchartedWaters",
+    "category": "dominionOfRempah",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25"
+  },
+  "secretExtraction": {
+    "id": "secretExtraction",
+    "category": "dominionOfRempah",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "unchartedWaters"
+    ]
+  },
+  "aClandestineTrail": {
+    "id": "aClandestineTrail",
+    "category": "dominionOfRempah",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "secretExtraction"
+    ]
+  },
+  "discreetDealings": {
+    "id": "discreetDealings",
+    "category": "dominionOfRempah",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "aClandestineTrail"
+    ]
+  },
+  "economicEspionage": {
+    "id": "economicEspionage",
+    "category": "dominionOfRempah",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25"
+  },
+  "supplyNetwork": {
+    "id": "supplyNetwork",
+    "category": "theHelm",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25"
+  },
+  "theDistillery": {
+    "id": "theDistillery",
+    "category": "theHelm",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "supplyNetwork"
+    ]
+  },
+  "rogueHunt": {
+    "id": "rogueHunt",
+    "category": "theHelm",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "theDistillery"
+    ]
+  },
+  "smugglersHideout": {
+    "id": "smugglersHideout",
+    "category": "theHelm",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "rogueHunt"
+    ]
+  },
+  "theHelmEmpire": {
+    "id": "theHelmEmpire",
+    "category": "theHelm",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "smugglersHideout"
+    ]
+  },
+  "helmManufactories": {
+    "id": "helmManufactories",
+    "category": "theHelm",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "theHelmEmpire"
+    ]
+  },
+  "licenseToLease": {
+    "id": "licenseToLease",
+    "category": "theHelm",
+    "dateAdded": "2026-11-25",
+    "lastUpdated": "2026-11-25",
+    "introduction": [
+      "helmManufactories"
+    ]
+  }
+}
