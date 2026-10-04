@@ -11,7 +11,12 @@ export const MaterialCategories = [
 export type MaterialCategory = (typeof MaterialCategories)[number];
 
 export const MapLocationCategories = [
-    "capitalSettlement", "outpost", "den", "foundry", "lumberyard", "militaryBase", "megafort"
+    "capitalSettlement", "outpost", "den", "foundry", "lumberyard", "militaryBase", "megafort",
+    "settlement", "weaver", "shipwreck", "archive", "guardTower",
+    "miscellaneous", "abaka", "coconut", "durian", "hemp", "jute", "linen", "ndizi", "ramie", "roselle",
+    "screwpine", "sisal", "acacia", "greenheart", "iroko", "ironwood", "juniper", "mopane", "teak",
+    "bogIron", "cobalt", "copper", "magnetite", "nickel", "pureIron", "zinc",
+    "crocodile", "hippopotamus", "shark", "treasureMap", "shareLocation"
 ] as const;
 
 export type MapLocationCategory = (typeof MapLocationCategories)[number];

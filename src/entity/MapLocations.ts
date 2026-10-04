@@ -1,4 +1,5 @@
 import mapLocationsData from '../data/mapLocations.json'
+import mapLocationsResourcesData from '../data/mapLocations.resources.json'
 import {MapLocationCategory} from "../types/Category";
 import {Season, Seasons} from "./Seasons";
 import {Faction, Factions} from "./Factions";
@@ -16,9 +17,9 @@ export class MapLocation extends BaseType {
         // 坐标id
         public readonly id: string,
         // y
-        public readonly latitude: string,
+        public readonly latitude: string | number,
         // x
-        public readonly longitude: string,
+        public readonly longitude: string | number,
         // 坐标类型
         public readonly category: MapLocationCategory,
         // 添加时间
@@ -26,7 +27,7 @@ export class MapLocation extends BaseType {
         // 最后更新时间
         public readonly lastUpdated: Date,
         // 挑战难度
-        public readonly difficulty: MapDifficulty,
+        public readonly difficulty?: MapDifficulty,
         // 掉落
         public readonly possibleLoot?: any,
         // 赛季
@@ -45,16 +46,18 @@ export class MapLocation extends BaseType {
     public static fromRawData(rawData: any): MapLocation {
         const season = rawData.season as keyof typeof Seasons;
         const faction = rawData.faction as keyof typeof Factions;
-        const possibleLoot = Object.fromEntries(
-            Object.entries(rawData.possibleLoot || {}).map(([key, data]: [string, any]) => {
-                const {lv, ...rest} = data;
-                let d = null
-                if (key in Items) d = Items[key as keyof typeof Items];
-                if (key in Materials) d = Materials[key as keyof typeof Materials];
-                if (key in Commodities) d = Commodities[key as keyof typeof Commodities];
-                return [key, new LootItem(d, {lv, ...rest})];
-            })
-        );
+        const possibleLoot = rawData.possibleLoot
+            ? Object.fromEntries(
+                Object.entries(rawData.possibleLoot || {}).map(([key, data]: [string, any]) => {
+                    const {lv, ...rest} = data;
+                    let d = null
+                    if (key in Items) d = Items[key as keyof typeof Items];
+                    if (key in Materials) d = Materials[key as keyof typeof Materials];
+                    if (key in Commodities) d = Commodities[key as keyof typeof Commodities];
+                    return [key, new LootItem(d, {lv, ...rest})];
+                })
+            )
+            : undefined;
 
         return new MapLocation(
             rawData.id,
@@ -77,12 +80,15 @@ export class MapLocation extends BaseType {
         for (const [key, value] of Object.entries(mapLocationsData)) {
             mapLocations[key] = MapLocation.fromRawData(value);
         }
+        for (const [key, value] of Object.entries(mapLocationsResourcesData)) {
+            mapLocations[key] = MapLocation.fromRawData(value);
+        }
         return mapLocations;
     }
 }
 
 type MapLocations = {
-    [K in keyof typeof mapLocationsData]: MapLocation;
+    [K in keyof typeof mapLocationsData | keyof typeof mapLocationsResourcesData]: MapLocation;
 };
 
 export const MapLocations: MapLocations = MapLocation.loadMapLocations() as MapLocations;
