@@ -2,68 +2,56 @@
     "release": {
         "index": 0,
         "id": "release",
-        "alternativeName": "y1s0",
         "startDate": "2024-02-13",
         "endDate": "2024-02-26"
     },
     "ragingTides": {
         "id": "ragingTides",
-        "alternativeName": "y1s1",
         "startDate": "2024-02-27",
         "endDate": "2024-05-27"
     },
     "chorusOfHavoc": {
         "id": "chorusOfHavoc",
-        "alternativeName": "y1s2",
         "startDate": "2024-05-28",
         "endDate": "2024-08-21"
     },
     "intoTheDragonsWake": {
         "id": "intoTheDragonsWake",
-        "alternativeName": "y1s3",
         "startDate": "2024-08-22",
         "endDate": "2024-11-18"
     },
     "shadowsOfTheDeep": {
-        "index": 4,
         "id": "shadowsOfTheDeep",
-        "alternativeName": "y1s4",
         "startDate": "2024-11-19",
         "endDate": "2025-04-14"
     },
     "ascentIntoChaos": {
         "id": "ascentIntoChaos",
-        "alternativeName": "y2s2",
         "startDate": "2025-04-15",
         "endDate": "2025-07-14"
     },
     "oathsOfWar": {
         "id": "oathsOfWar",
-        "alternativeName": "y2s3",
         "startDate": "2025-07-15",
         "endDate": "2025-10-21"
     },
     "gutsAndGlory": {
         "id": "gutsAndGlory",
-        "alternativeName": "y2s4",
         "startDate": "2025-10-21",
         "endDate": "2026-02-10"
     },
     "eyeOfTheBeast": {
         "id": "eyeOfTheBeast",
-        "alternativeName": "y3s1",
         "startDate": "2026-02-10",
         "endDate": "2026-05-18"
     },
     "shatteredSeas": {
         "id": "shatteredSeas",
-        "alternativeName": "y3s2",
         "startDate": "2026-05-12",
         "endDate": "2026-08-17"
     },
     "crimsonWaters": {
         "id": "crimsonWaters",
-        "alternativeName": "y3s3",
         "startDate": "2026-08-18",
         "endDate": "2026-11-24"
     }
