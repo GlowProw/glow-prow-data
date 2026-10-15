@@ -1,5 +1,5 @@
 import seasonsData from "../data/seasons.json";
-import {BaseType} from "./BaseType";
+import { BaseType } from "./BaseType";
 
 /**
  * 赛季
@@ -8,8 +8,6 @@ export class Season extends BaseType {
     constructor(
         // 赛季id
         public readonly id: string,
-        // 赛季别名
-        public readonly alternativeName: string | unknown,
         // 赛季开始
         public readonly startDate: Date,
         // 赛季结束
@@ -23,11 +21,15 @@ export class Season extends BaseType {
     public static loadSeasons(): Record<string, Season> {
         const seasons: Record<string, Season> = {};
         for (const [key, value] of Object.entries(seasonsData)) {
+            const seasonItem = value as {
+                id: string;
+                startDate: string;
+                endDate: string;
+            };
             seasons[key] = new Season(
-                value.id,
-                value.alternativeName,
-                new Date(value.startDate),
-                new Date(value.endDate),
+                seasonItem.id,
+                new Date(seasonItem.startDate),
+                new Date(seasonItem.endDate),
             );
         }
         return seasons;
