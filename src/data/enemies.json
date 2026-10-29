@@ -1,0 +1,1073 @@
+{
+  "tangenaRabe": {
+    "id": "tangenaRabe",
+    "type": "eliteWarship",
+    "category": "PermanentEvent",
+    "season": "crimsonWaters",
+    "worldTiers": {
+      "1": 6,
+      "2": 11,
+      "3": 16,
+      "4": 22
+    },
+    "location": [
+      "tangenaRabe-0.519917_-0.894247"
+    ],
+    "possibleLoot": {
+      "piecesOfEight": 1,
+      "silverPouch": 1,
+      "tangenaRabeTreasureChest": 1
+    },
+    "participants": 20,
+    "dateAdded": "2026-10-29",
+    "lastUpdated": "2026-10-29",
+    "icon": "tangenaRabe"
+  },
+  "jokaKubwa": {
+    "id": "jokaKubwa",
+    "type": "eliteWarship",
+    "category": "PermanentEvent",
+    "season": "crimsonWaters",
+    "worldTiers": {
+      "1": 7,
+      "2": 11,
+      "3": 16,
+      "4": 22
+    },
+    "location": [
+      "jokaKubwa-0.655233_-0.904937"
+    ],
+    "possibleLoot": {
+      "piecesOfEight": 1,
+      "silverBox": 1,
+      "jokaKubwaTreasureChest": 1,
+      "naphtha": 1
+    },
+    "participants": 20,
+    "dateAdded": "2026-10-29",
+    "lastUpdated": "2026-10-29",
+    "icon": "jokaKubwa"
+  },
+  "ahPak": {
+    "id": "ahPak",
+    "type": "eliteWarship",
+    "category": "PermanentEvent",
+    "season": "crimsonWaters",
+    "worldTiers": {
+      "1": 12,
+      "2": 17,
+      "3": 22,
+      "4": 28
+    },
+    "location": [
+      "ahPak-0.682989_-0.670741"
+    ],
+    "possibleLoot": {
+      "piecesOfEight": 1,
+      "silverChest": 1,
+      "ahPakTreasureChest": 1,
+      "masterworkKit": 1
+    },
+    "participants": 20,
+    "dateAdded": "2026-10-29",
+    "lastUpdated": "2026-10-29",
+    "icon": "ahPak"
+  },
+  "galvinRoche": {
+    "id": "galvinRoche",
+    "type": "eliteWarship",
+    "category": "PermanentEvent",
+    "season": "crimsonWaters",
+    "worldTiers": {
+      "1": 8,
+      "2": 13,
+      "3": 18,
+      "4": 24
+    },
+    "location": [
+      "galvinRoche-0.572144_-0.64514"
+    ],
+    "possibleLoot": {
+      "piecesOfEight": 1,
+      "silverChest": 1,
+      "galvinRocheTreasureChest": 1,
+      "torsionSpring": 1
+    },
+    "participants": 20,
+    "dateAdded": "2026-10-29",
+    "lastUpdated": "2026-10-29",
+    "icon": "galvinRoche"
+  },
+  "dirkAnkeren": {
+    "id": "dirkAnkeren",
+    "type": "eliteWarship",
+    "category": "PermanentEvent",
+    "season": "crimsonWaters",
+    "worldTiers": {
+      "1": 10,
+      "2": 15,
+      "3": 20,
+      "4": 26
+    },
+    "location": [
+      "dirkAnkeren-0.584289_-0.42759"
+    ],
+    "possibleLoot": {
+      "piecesOfEight": 1,
+      "silverChest": 1,
+      "dirkAnkerenTreasureChest": 1
+    },
+    "participants": 20,
+    "dateAdded": "2026-10-29",
+    "lastUpdated": "2026-10-29",
+    "icon": "dirkAnkeren"
+  },
+  "dianSinaga": {
+    "id": "dianSinaga",
+    "type": "eliteWarship",
+    "category": "PermanentEvent",
+    "season": "crimsonWaters",
+    "worldTiers": {
+      "1": 8,
+      "2": 13,
+      "3": 18,
+      "4": 24
+    },
+    "location": [
+      "dianSinaga-0.859559_-0.470293"
+    ],
+    "possibleLoot": {
+      "piecesOfEight": 1,
+      "silverPouch": 1,
+      "dianSinagaTreasureChest": 1,
+      "rubber": 1
+    },
+    "participants": 20,
+    "dateAdded": "2026-10-29",
+    "lastUpdated": "2026-10-29",
+    "icon": "dianSinaga"
+  },
+  "jonasVanderkill": {
+    "id": "jonasVanderkill",
+    "type": "eliteWarship",
+    "category": "PermanentEvent",
+    "season": "crimsonWaters",
+    "worldTiers": {
+      "1": 12,
+      "2": 17,
+      "3": 22,
+      "4": 28
+    },
+    "location": [
+      "jonasVanderkill-0.58457_-0.423503",
+      "jonasVanderkill-0.795745_-0.44944",
+      "jonasVanderkill-0.5102_-0.615418"
+    ],
+    "possibleLoot": {
+      "piecesOfEight": 1,
+      "silverChest": 1,
+      "vanderkillsLocker": 1,
+      "gildmarks": 1
+    },
+    "participants": 20,
+    "dateAdded": "2026-10-29",
+    "lastUpdated": "2026-10-29",
+    "icon": "jonasVanderkill"
+  },
+  "theOpwelling": {
+    "id": "theOpwelling",
+    "type": "eliteWarship",
+    "category": "PermanentEvent",
+    "season": "crimsonWaters",
+    "worldTiers": {
+      "1": 12,
+      "2": 17,
+      "3": 22,
+      "4": 28
+    },
+    "location": [
+      "theOpwelling-0.800708_-0.395493"
+    ],
+    "possibleLoot": {
+      "piecesOfEight": 1,
+      "silverChest": 1,
+      "opwellingTreasureChest": 1,
+      "mysteriousChest": 1
+    },
+    "participants": 20,
+    "dateAdded": "2026-10-29",
+    "lastUpdated": "2026-10-29",
+    "icon": "theOpwelling"
+  },
+  "commanderZhang": {
+    "id": "commanderZhang",
+    "type": "eliteWarship",
+    "category": "LimitedEvent",
+    "season": "crimsonWaters",
+    "worldTiers": {
+      "3": 23,
+      "4": 29
+    },
+    "location": [
+      "commanderZhang-0.769373_-0.399646"
+    ],
+    "possibleLoot": {
+      "piecesOfEight": 1,
+      "silverPouch": 1,
+      "commanderZhangsChest": 1,
+      "yellowDragonBanner": 1
+    },
+    "participants": 20,
+    "dateAdded": "2026-10-29",
+    "lastUpdated": "2026-10-29",
+    "icon": "commanderZhang"
+  },
+  "abyssalEnvoy": {
+    "id": "abyssalEnvoy",
+    "type": "eliteWarship",
+    "category": "LimitedEvent",
+    "season": "crimsonWaters",
+    "worldTiers": {
+      "3": 23,
+      "4": 29
+    },
+    "location": [
+      "abyssalEnvoy-0.498761_-0.60954",
+      "abyssalEnvoy-0.572534_-0.569679",
+      "abyssalEnvoy-0.588929_-0.877322"
+    ],
+    "possibleLoot": {
+      "abyssalEssence": 1,
+      "vengefulEssence": 1
+    },
+    "participants": 20,
+    "dateAdded": "2026-10-29",
+    "lastUpdated": "2026-10-29",
+    "icon": "abyssalEnvoy"
+  },
+  "bertrandHubac": {
+    "id": "bertrandHubac",
+    "type": "eliteWarship",
+    "category": "LimitedEvent",
+    "season": "crimsonWaters",
+    "worldTiers": {
+      "1": 14
+    },
+    "location": [
+      "bertrandHubac-0.620901_-0.720097"
+    ],
+    "possibleLoot": {
+      "piecesOfEight": 1,
+      "silverChest": 1,
+      "whiteAriaChest": 1,
+      "endlessRequiem": 1
+    },
+    "participants": 20,
+    "dateAdded": "2026-10-29",
+    "lastUpdated": "2026-10-29",
+    "icon": "bertrandHubac"
+  },
+  "vikramRajan": {
+    "id": "vikramRajan",
+    "type": "domains",
+    "category": "PermanentEvent",
+    "season": "crimsonWaters",
+    "worldTiers": {
+      "1": 14,
+      "2": 20,
+      "3": 24,
+      "4": 30
+    },
+    "location": [
+      "vikramRajan-0.736666_-0.846497"
+    ],
+    "possibleLoot": {
+      "pulsingSchaduwRemnant": 1,
+      "piecesOfEight": 1,
+      "silverChest": 1,
+      "vikramsLocker": 1
+    },
+    "summonItem": {
+      "rebelliousSignal": 10
+    },
+    "dateAdded": "2026-10-29",
+    "lastUpdated": "2026-10-29",
+    "icon": "vikramRajan"
+  },
+  "liTianNing": {
+    "id": "liTianNing",
+    "type": "domains",
+    "category": "PermanentEvent",
+    "season": "crimsonWaters",
+    "worldTiers": {
+      "1": 14,
+      "2": 20,
+      "3": 24,
+      "4": 30
+    },
+    "location": [
+      "liTianNing-0.731314_-0.787451"
+    ],
+    "possibleLoot": {
+      "piecesOfEight": 1,
+      "silverChest": 1,
+      "phoenixsTalonStrongbox": 1,
+      "jadePhoenixStatue": 1
+    },
+    "summonItem": {
+      "rebelliousSignal": 10
+    },
+    "dateAdded": "2026-10-29",
+    "lastUpdated": "2026-10-29",
+    "icon": "liTianNing"
+  },
+  "theHubacTwins": {
+    "id": "theHubacTwins",
+    "type": "domains",
+    "category": "PermanentEvent",
+    "season": "crimsonWaters",
+    "worldTiers": {
+      "1": 14,
+      "2": 20,
+      "3": 24,
+      "4": 30
+    },
+    "location": [
+      "theHubacTwins-0.512462_-0.668957"
+    ],
+    "possibleLoot": {
+      "piecesOfEight": 1,
+      "silverChest": 1,
+      "blackAriaChest": 1,
+      "endlessRequiem": 1
+    },
+    "summonItem": {
+      "rebelliousSignal": 10
+    },
+    "dateAdded": "2026-10-29",
+    "lastUpdated": "2026-10-29",
+    "icon": "theHubacTwins"
+  },
+  "philippeLaPeste": {
+    "id": "philippeLaPeste",
+    "type": "domains",
+    "category": "PermanentEvent",
+    "season": "crimsonWaters",
+    "worldTiers": {
+      "1": 14,
+      "2": 20,
+      "3": 24,
+      "4": 30
+    },
+    "location": [
+      "philippeLaPeste-0.486006_-0.45134"
+    ],
+    "possibleLoot": {
+      "piecesOfEight": 1,
+      "silverChest": 1,
+      "laPestesStrongbox": 1,
+      "mysteriousChest": 1
+    },
+    "summonItem": {
+      "rebelliousSignal": 10
+    },
+    "dateAdded": "2026-10-29",
+    "lastUpdated": "2026-10-29",
+    "icon": "philippeLaPeste"
+  },
+  "rodeMaangodin": {
+    "id": "rodeMaangodin",
+    "type": "domains",
+    "category": "PermanentEvent",
+    "season": "crimsonWaters",
+    "worldTiers": {
+      "1": 14,
+      "2": 16,
+      "3": 21,
+      "4": 27
+    },
+    "location": [
+      "rodeMaangodin-0.896676_-0.531087"
+    ],
+    "possibleLoot": {
+      "silverChest": 1,
+      "rodeMaangodinChest": 1,
+      "precisionDrillingBit": 1,
+      "blueSpecter": 1,
+      "mysteriousChest": 1
+    },
+    "summonItem": {
+      "essenceOfSpirits": 1
+    },
+    "dateAdded": "2026-10-29",
+    "lastUpdated": "2026-10-29",
+    "icon": "rodeMaangodin"
+  },
+  "zamaaribu": {
+    "id": "zamaaribu",
+    "type": "domains",
+    "category": "PermanentEvent",
+    "season": "crimsonWaters",
+    "worldTiers": {
+      "1": 11,
+      "2": 15,
+      "3": 20,
+      "4": 26
+    },
+    "location": [
+      "zamaaribu-0.519198_-0.53758"
+    ],
+    "possibleLoot": {
+      "gildmarks": 1,
+      "monstrousTooth": 1,
+      "zamaharibuScales": 1,
+      "tylosaurusFlesh": 1
+    },
+    "summonItem": {
+      "monstrousBait": 1
+    },
+    "dateAdded": "2026-10-29",
+    "lastUpdated": "2026-10-29",
+    "icon": "zamaaribu"
+  },
+  "sadowbeast": {
+    "id": "sadowbeast",
+    "type": "domains",
+    "category": "PermanentEvent",
+    "season": "crimsonWaters",
+    "worldTiers": {
+      "1": 12,
+      "2": 17,
+      "3": 22,
+      "4": 28
+    },
+    "location": [
+      "sadowbeast-0.639699_-0.591482"
+    ],
+    "possibleLoot": {
+      "gildmarks": 1,
+      "monstrousTooth": 1,
+      "lightningDragonClaw": 1,
+      "lightningDragonScale": 1
+    },
+    "summonItem": {
+      "monstrousBait": 1
+    },
+    "dateAdded": "2026-10-29",
+    "lastUpdated": "2026-10-29",
+    "icon": "sadowbeast"
+  },
+  "megaLestari": {
+    "id": "megaLestari",
+    "type": "domains",
+    "category": "PermanentEvent",
+    "season": "crimsonWaters",
+    "worldTiers": {
+      "1": 11,
+      "2": 16,
+      "3": 21,
+      "4": 27
+    },
+    "location": [
+      "megaLestari-0.461183_-0.610566"
+    ],
+    "possibleLoot": {
+      "gildmarks": 1,
+      "monstrousTooth": 1,
+      "lestarisSkin": 1,
+      "lestarisMeat": 1
+    },
+    "summonItem": {
+      "monstrousBait": 1
+    },
+    "dateAdded": "2026-10-29",
+    "lastUpdated": "2026-10-29",
+    "icon": "megaLestari"
+  },
+  "heralosOfTheAbyss": {
+    "id": "heralosOfTheAbyss",
+    "type": "warfleet",
+    "category": "LimitedEvent",
+    "season": "crimsonWaters",
+    "worldTiers": {
+      "4": 30
+    },
+    "location": [
+      "heralosOfTheAbyss-0.725643_-0.719185"
+    ],
+    "possibleLoot": {
+      "maelstromBallistaStrongbox": 1,
+      "maelstromCannonStrongbox": 1,
+      "abyssalEssence": 1
+    },
+    "summonItem": {
+      "vengefulEssence": 3
+    },
+    "dateAdded": "2026-10-29",
+    "lastUpdated": "2026-10-29",
+    "icon": "heralosOfTheAbyss"
+  },
+  "philppeLaPesteDeadlw": {
+    "id": "philppeLaPesteDeadlw",
+    "type": "eliteWarship",
+    "category": "PermanentEvent",
+    "season": "crimsonWaters",
+    "worldTiers": {
+      "3": 33,
+      "4": 33
+    },
+    "location": [
+      "philppeLaPesteDeadlw-0.741336_-0.809426"
+    ],
+    "possibleLoot": {
+      "piecesOfEight": 1,
+      "silverChest": 1,
+      "laPestesLocker": 1,
+      "leFleau": 1
+    },
+    "difficulty": {
+      "type": "coop",
+      "minimumPeople": 5
+    },
+    "dateAdded": "2026-10-29",
+    "lastUpdated": "2026-10-29",
+    "icon": "philppeLaPesteDeadlw"
+  },
+  "vikramRajanDeadlw": {
+    "id": "vikramRajanDeadlw",
+    "type": "eliteWarship",
+    "category": "PermanentEvent",
+    "season": "crimsonWaters",
+    "worldTiers": {
+      "3": 33,
+      "4": 33
+    },
+    "location": [
+      "vikramRajanDeadlw-0.612826_-0.560655"
+    ],
+    "possibleLoot": {
+      "piecesOfEight": 1,
+      "silverChest": 1,
+      "vikramsStrongbox": 1,
+      "blightkeeper": 1
+    },
+    "difficulty": {
+      "type": "coop",
+      "minimumPeople": 5
+    },
+    "dateAdded": "2026-10-29",
+    "lastUpdated": "2026-10-29",
+    "icon": "vikramRajanDeadlw"
+  },
+  "kraken": {
+    "id": "kraken",
+    "type": "seaMonster",
+    "category": "PermanentEvent",
+    "season": "crimsonWaters",
+    "worldTiers": {
+      "3": 33,
+      "4": 33
+    },
+    "location": [
+      "kraken-0.515893_-0.483342"
+    ],
+    "possibleLoot": {
+      "krakenChest": 1,
+      "ascensionModule": 1,
+      "masterworkKit": 1,
+      "primevalFang": 1,
+      "mysteriousChest": 1
+    },
+    "difficulty": {
+      "type": "coop",
+      "minimumPeople": 3
+    },
+    "dateAdded": "2026-10-29",
+    "lastUpdated": "2026-10-29",
+    "icon": "kraken"
+  },
+  "guardTower": {
+    "id": "guardTower",
+    "type": "tower",
+    "category": "PermanentEvent",
+    "dateAdded": "2026-10-29",
+    "lastUpdated": "2026-10-29",
+    "possibleLoot": {}
+  },
+  "dominionOfRempahConvoy": {
+    "id": "dominionOfRempahConvoy",
+    "type": "convoy",
+    "category": "PermanentEvent",
+    "season": "crimsonWaters",
+    "participants": 20,
+    "dateAdded": "2026-10-29",
+    "lastUpdated": "2026-10-29",
+    "routes": [
+      {
+        "id": "dominionOfRempahConvoy-route-1",
+        "worldTiers": {
+          "1": 7,
+          "2": 11,
+          "3": 16,
+          "4": 22
+        },
+        "possibleLoot": {
+          "piecesOfEight": 1,
+          "silverPouch": 1,
+          "spice": 1,
+          "mysteriousChest": 1,
+          "dominionOfRempahConvoyTreasureChest": 1
+        },
+        "variants": [
+          {
+            "id": "dominionOfRempahConvoy-route-1-variant-1",
+            "state": "underway"
+          },
+          {
+            "id": "dominionOfRempahConvoy-route-1-variant-2",
+            "state": "departing"
+          }
+        ]
+      },
+      {
+        "id": "dominionOfRempahConvoy-route-2",
+        "worldTiers": {
+          "1": 11,
+          "2": 16,
+          "3": 21,
+          "4": 27
+        },
+        "possibleLoot": {
+          "piecesOfEight": 1,
+          "silverPouch": 1,
+          "mysteriousChest": 1,
+          "dominionOfRempahConvoyTreasureChest": 1
+        },
+        "variants": [
+          {
+            "id": "dominionOfRempahConvoy-route-2-variant-1",
+            "state": "underway"
+          },
+          {
+            "id": "dominionOfRempahConvoy-route-2-variant-2",
+            "state": "departing"
+          }
+        ]
+      }
+    ],
+    "icon": "dominionOfRempahConvoy"
+  },
+  "shadowLegionConvoy": {
+    "id": "shadowLegionConvoy",
+    "type": "convoy",
+    "category": "PermanentEvent",
+    "season": "crimsonWaters",
+    "participants": 20,
+    "dateAdded": "2026-10-29",
+    "lastUpdated": "2026-10-29",
+    "routes": [
+      {
+        "id": "shadowLegionConvoy-route-1",
+        "worldTiers": {
+          "1": 11,
+          "2": 17,
+          "3": 22,
+          "4": 27
+        },
+        "possibleLoot": {
+          "greenheartPlank": 1,
+          "piecesOfEight": 1,
+          "silverPouch": 1,
+          "mysteriousChest": 1
+        },
+        "variants": [
+          {
+            "id": "shadowLegionConvoy-route-1-variant-1",
+            "state": "underway"
+          },
+          {
+            "id": "shadowLegionConvoy-route-1-variant-2",
+            "state": "departing"
+          }
+        ]
+      },
+      {
+        "id": "shadowLegionConvoy-route-2",
+        "worldTiers": {
+          "1": 11,
+          "2": 16,
+          "3": 21,
+          "4": 27
+        },
+        "possibleLoot": {
+          "greenheartPlank": 1,
+          "piecesOfEight": 1,
+          "silverPouch": 1,
+          "mysteriousChest": 1
+        },
+        "variants": [
+          {
+            "id": "shadowLegionConvoy-route-2-variant-1",
+            "state": "underway"
+          },
+          {
+            "id": "shadowLegionConvoy-route-2-variant-2",
+            "state": "departing"
+          }
+        ]
+      }
+    ],
+    "icon": "shadowLegionConvoy"
+  },
+  "clanOfFaraConvoy": {
+    "id": "clanOfFaraConvoy",
+    "type": "convoy",
+    "category": "PermanentEvent",
+    "season": "crimsonWaters",
+    "participants": 20,
+    "dateAdded": "2026-10-29",
+    "lastUpdated": "2026-10-29",
+    "routes": [
+      {
+        "id": "clanOfFaraConvoy-route-1",
+        "worldTiers": {
+          "1": 11,
+          "2": 16,
+          "3": 21,
+          "4": 27
+        },
+        "possibleLoot": {
+          "piecesOfEight": 1,
+          "silverPouch": 1,
+          "mysteriousChest": 1,
+          "clanOfFaraConvoyTreasureChest": 1
+        },
+        "variants": [
+          {
+            "id": "clanOfFaraConvoy-route-1-variant-1",
+            "state": "underway"
+          },
+          {
+            "id": "clanOfFaraConvoy-route-1-variant-2",
+            "state": "departing"
+          }
+        ]
+      },
+      {
+        "id": "clanOfFaraConvoy-route-2",
+        "worldTiers": {
+          "1": 7,
+          "2": 11,
+          "3": 16,
+          "4": 22
+        },
+        "possibleLoot": {
+          "piecesOfEight": 1,
+          "silverPouch": 1,
+          "mysteriousChest": 1,
+          "clanOfFaraConvoyTreasureChest": 1
+        },
+        "variants": [
+          {
+            "id": "clanOfFaraConvoy-route-2-variant-1",
+            "state": "underway"
+          },
+          {
+            "id": "clanOfFaraConvoy-route-2-variant-2",
+            "state": "departing"
+          }
+        ]
+      }
+    ],
+    "icon": "clanOfFaraConvoy"
+  },
+  "compagnieRoyaleConvoy": {
+    "id": "compagnieRoyaleConvoy",
+    "type": "convoy",
+    "category": "PermanentEvent",
+    "season": "crimsonWaters",
+    "participants": 20,
+    "dateAdded": "2026-10-29",
+    "lastUpdated": "2026-10-29",
+    "routes": [
+      {
+        "id": "compagnieRoyaleConvoy-route-1",
+        "worldTiers": {
+          "1": 7,
+          "2": 11,
+          "3": 16,
+          "4": 22
+        },
+        "possibleLoot": {
+          "piecesOfEight": 1,
+          "silverPouch": 1,
+          "royalCustodian": 1,
+          "wine": 1
+        },
+        "variants": [
+          {
+            "id": "compagnieRoyaleConvoy-route-1-variant-1",
+            "state": "underway"
+          },
+          {
+            "id": "compagnieRoyaleConvoy-route-1-variant-2",
+            "state": "departing"
+          }
+        ]
+      },
+      {
+        "id": "compagnieRoyaleConvoy-route-2",
+        "worldTiers": {
+          "1": 11,
+          "2": 16,
+          "3": 21,
+          "4": 27
+        },
+        "possibleLoot": {
+          "piecesOfEight": 1,
+          "silverPouch": 1,
+          "royalCustodian": 1,
+          "mysteriousChest": 1
+        },
+        "variants": [
+          {
+            "id": "compagnieRoyaleConvoy-route-2-variant-1",
+            "state": "underway"
+          },
+          {
+            "id": "compagnieRoyaleConvoy-route-2-variant-2",
+            "state": "departing"
+          }
+        ]
+      }
+    ],
+    "icon": "compagnieRoyaleConvoy"
+  },
+  "royalWarConvoy": {
+    "id": "royalWarConvoy",
+    "type": "warEvent",
+    "category": "PermanentEvent",
+    "season": "crimsonWaters",
+    "worldTiers": {
+      "3": 19
+    },
+    "participants": 20,
+    "dateAdded": "2026-10-29",
+    "lastUpdated": "2026-10-29",
+    "icon": "royalWarConvoy",
+    "possibleLoot": {}
+  },
+  "chorusFleetConvoy": {
+    "id": "chorusFleetConvoy",
+    "type": "convoy",
+    "season": "crimsonWaters",
+    "participants": 20,
+    "dateAdded": "2026-10-29",
+    "lastUpdated": "2026-10-29",
+    "routes": [
+      {
+        "id": "chorusFleetConvoy-route-1",
+        "worldTiers": {
+          "1": 10,
+          "2": 15,
+          "3": 20,
+          "4": 26
+        },
+        "possibleLoot": {
+          "spice": 1,
+          "cacao": 1,
+          "mysteriousChest": 1
+        },
+        "variants": [
+          {
+            "id": "chorusFleetConvoy-route-1-variant-1",
+            "state": "underway"
+          },
+          {
+            "id": "chorusFleetConvoy-route-1-variant-2",
+            "state": "departing"
+          }
+        ]
+      },
+      {
+        "id": "chorusFleetConvoy-route-2",
+        "worldTiers": {
+          "1": 11,
+          "2": 16,
+          "3": 21,
+          "4": 27
+        },
+        "possibleLoot": {
+          "royalCustodian": 1,
+          "ambergris": 1,
+          "vanilla": 1,
+          "mysteriousChest": 1
+        },
+        "variants": [
+          {
+            "id": "chorusFleetConvoy-route-2-variant-1",
+            "state": "underway"
+          },
+          {
+            "id": "chorusFleetConvoy-route-2-variant-2",
+            "state": "departing"
+          }
+        ]
+      }
+    ],
+    "icon": "chorusFleetConvoy"
+  },
+  "confederationOfUngwanaConvoy": {
+    "id": "confederationOfUngwanaConvoy",
+    "type": "convoy",
+    "category": "PermanentEvent",
+    "season": "crimsonWaters",
+    "participants": 20,
+    "dateAdded": "2026-10-29",
+    "lastUpdated": "2026-10-29",
+    "routes": [
+      {
+        "id": "confederationOfUngwanaConvoy-route-1",
+        "worldTiers": {
+          "1": 9,
+          "2": 14,
+          "3": 19,
+          "4": 25
+        },
+        "possibleLoot": {
+          "piecesOfEight": 1,
+          "silverPouch": 1,
+          "snuff": 1,
+          "confederationOfUngwanaConvoyTreasureChest": 1
+        },
+        "variants": [
+          {
+            "id": "confederationOfUngwanaConvoy-route-1-variant-1",
+            "state": "underway"
+          },
+          {
+            "id": "confederationOfUngwanaConvoy-route-1-variant-2",
+            "state": "departing"
+          }
+        ]
+      },
+      {
+        "id": "confederationOfUngwanaConvoy-route-2",
+        "worldTiers": {
+          "1": 10,
+          "2": 15,
+          "3": 20,
+          "4": 26
+        },
+        "possibleLoot": {
+          "piecesOfEight": 1,
+          "silverPouch": 1,
+          "confederationOfUngwanaConvoyTreasureChest": 1
+        },
+        "variants": [
+          {
+            "id": "confederationOfUngwanaConvoy-route-2-variant-1",
+            "state": "underway"
+          },
+          {
+            "id": "confederationOfUngwanaConvoy-route-2-variant-2",
+            "state": "departing"
+          }
+        ]
+      }
+    ],
+    "icon": "confederationOfUngwanaConvoy"
+  },
+  "dmcConvoy": {
+    "id": "dmcConvoy",
+    "type": "convoy",
+    "category": "PermanentEvent",
+    "season": "crimsonWaters",
+    "participants": 20,
+    "dateAdded": "2026-10-29",
+    "lastUpdated": "2026-10-29",
+    "routes": [
+      {
+        "id": "dmcConvoy-route-1",
+        "worldTiers": {
+          "1": 11,
+          "2": 16,
+          "3": 21,
+          "4": 27
+        },
+        "possibleLoot": {
+          "greenheartPlank": 1,
+          "piecesOfEight": 1,
+          "silverPouch": 1,
+          "mysteriousChest": 1,
+          "dmcConvoyTreasureChest": 1
+        },
+        "variants": [
+          {
+            "id": "dmcConvoy-route-1-variant-1",
+            "state": "underway"
+          },
+          {
+            "id": "dmcConvoy-route-1-variant-2",
+            "state": "departing"
+          }
+        ]
+      },
+      {
+        "id": "dmcConvoy-route-2",
+        "worldTiers": {
+          "1": 10,
+          "2": 15,
+          "3": 20,
+          "4": 26
+        },
+        "variants": [
+          {
+            "id": "dmcConvoy-route-2-variant-1",
+            "state": "underway"
+          },
+          {
+            "id": "dmcConvoy-route-2-variant-2",
+            "state": "departing"
+          }
+        ],
+        "possibleLoot": {}
+      }
+    ],
+    "icon": "dmcConvoy"
+  },
+  "reapItWeep": {
+    "id": "reapItWeep",
+    "type": "requiemOfTheLost",
+    "category": "LimitedEvent",
+    "season": "crimsonWaters",
+    "worldTiers": {
+      "1": 12,
+      "2": 17,
+      "3": 22,
+      "4": 28
+    },
+    "summonItem": {
+      "hallowedFlare": 10
+    },
+    "dateAdded": "2026-10-29",
+    "lastUpdated": "2026-10-29",
+    "icon": "reapItWeep",
+    "possibleLoot": {}
+  },
+  "reaperOfTheLost": {
+    "id": "reaperOfTheLost",
+    "type": "requiemOfTheLost",
+    "category": "LimitedEvent",
+    "worldTiers": {
+      "1": 10,
+      "2": 17,
+      "3": 20,
+      "4": 26
+    },
+    "dateAdded": "2026-10-29",
+    "lastUpdated": "2026-10-29",
+    "icon": "reaperOfTheLost",
+    "possibleLoot": {}
+  }
+}

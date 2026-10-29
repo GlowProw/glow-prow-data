@@ -16317,14 +16317,14 @@
             "greenheartPlank": 15,
             "purifiedSaltpeter": 10,
             "deepIron": 30,
-            "upgradeParts": 6,
+            "upgradeParts": 5,
             "silver": 18000
         },
         "perks": [
             "galleonUpgrade1"
         ],
         "dateAdded": "2026-05-12",
-        "lastUpdated": "2026-05-12"
+        "lastUpdated": "2026-10-12"
     },
     "galleonUpgrade2": {
         "id": "galleonUpgrade2",
@@ -17346,5 +17346,59 @@
         "weight": 100,
         "dateAdded": "2026-09-15",
         "lastUpdated": "2026-09-15"
+    },
+    "mysteriousChest": {
+        "id": "mysteriousChest",
+        "rarity": "epic",
+        "season": "crimsonWaters",
+        "type": "chest",
+        "value": 1,
+        "weight": 100,
+        "dateAdded": "2026-10-30",
+        "lastUpdated": "2026-10-30"
+    },
+    "dominionOfRempahConvoyTreasureChest": {
+        "id": "dominionOfRempahConvoyTreasureChest",
+        "rarity": "epic",
+        "season": "crimsonWaters",
+        "type": "chest",
+        "faction": "dominionOfRempah",
+        "value": 1,
+        "weight": 100,
+        "dateAdded": "2026-10-30",
+        "lastUpdated": "2026-10-30"
+    },
+    "clanOfFaraConvoyTreasureChest": {
+        "id": "clanOfFaraConvoyTreasureChest",
+        "rarity": "epic",
+        "season": "crimsonWaters",
+        "type": "chest",
+        "faction": "clanOfFara",
+        "value": 1,
+        "weight": 100,
+        "dateAdded": "2026-10-30",
+        "lastUpdated": "2026-10-30"
+    },
+    "confederationOfUngwanaConvoyTreasureChest": {
+        "id": "confederationOfUngwanaConvoyTreasureChest",
+        "rarity": "epic",
+        "season": "crimsonWaters",
+        "type": "chest",
+        "faction": "confederationOfUngwana",
+        "value": 1,
+        "weight": 100,
+        "dateAdded": "2026-10-30",
+        "lastUpdated": "2026-10-30"
+    },
+    "dmcConvoyTreasureChest": {
+        "id": "dmcConvoyTreasureChest",
+        "rarity": "epic",
+        "season": "crimsonWaters",
+        "type": "chest",
+        "faction": "dutchMerchantCompany",
+        "value": 1,
+        "weight": 100,
+        "dateAdded": "2026-10-30",
+        "lastUpdated": "2026-10-30"
     }
 }

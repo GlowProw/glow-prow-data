@@ -1,9 +1,11 @@
 import mapLocationsData from '../data/mapLocations.json'
 import mapLocationsResourcesData from '../data/mapLocations.resources.json'
+import mapLocationsEnemiesData from '../data/mapLocations.enemies.json'
 import {MapLocationCategory} from "../types/Category";
 import {Season, Seasons} from "./Seasons";
 import {Faction, Factions} from "./Factions";
 import {LootItem, MapDifficulty} from "../types/MapLocationProperties";
+import {WorldTiers} from "../types/EnemyProperties";
 import {BaseType} from "./BaseType";
 import {Items} from "./Items";
 import {Materials} from "./Materials";
@@ -36,10 +38,26 @@ export class MapLocation extends BaseType {
         public readonly faction?: Faction,
         // 基础等级
         public readonly baseRank?: number,
+        // 对应的敌人 id
+        public readonly enemyId?: string,
+        // 地图图标 key
+        public readonly icon?: string,
+        // 各世界等级
+        public readonly worldTiers?: WorldTiers,
     ) {
         super();
         this._entityType = MapLocation;
         return this
+    }
+
+    /**
+     * 掉落物 id 对应的实体
+     */
+    private static resolveLootData(key: string): any {
+        if (key in Items) return Items[key as keyof typeof Items];
+        if (key in Materials) return Materials[key as keyof typeof Materials];
+        if (key in Commodities) return Commodities[key as keyof typeof Commodities];
+        return null;
     }
 
     // Static method to create a Map Location instance from raw data
@@ -49,12 +67,12 @@ export class MapLocation extends BaseType {
         const possibleLoot = rawData.possibleLoot
             ? Object.fromEntries(
                 Object.entries(rawData.possibleLoot || {}).map(([key, data]: [string, any]) => {
+                    // 敌人掉落只记录数量，普通坐标还带等级与类别
+                    if (typeof data === 'number') {
+                        return [key, new LootItem(MapLocation.resolveLootData(key), {quantity: data})];
+                    }
                     const {lv, ...rest} = data;
-                    let d = null
-                    if (key in Items) d = Items[key as keyof typeof Items];
-                    if (key in Materials) d = Materials[key as keyof typeof Materials];
-                    if (key in Commodities) d = Commodities[key as keyof typeof Commodities];
-                    return [key, new LootItem(d, {lv, ...rest})];
+                    return [key, new LootItem(MapLocation.resolveLootData(key), {lv, ...rest})];
                 })
             )
             : undefined;
@@ -71,6 +89,9 @@ export class MapLocation extends BaseType {
             Seasons[season],
             rawData.faction ? Factions[faction] : undefined,
             rawData.baseRank,
+            rawData.enemyId,
+            rawData.icon,
+            rawData.worldTiers,
         );
     }
 
@@ -83,12 +104,15 @@ export class MapLocation extends BaseType {
         for (const [key, value] of Object.entries(mapLocationsResourcesData)) {
             mapLocations[key] = MapLocation.fromRawData(value);
         }
+        for (const [key, value] of Object.entries(mapLocationsEnemiesData)) {
+            mapLocations[key] = MapLocation.fromRawData(value);
+        }
         return mapLocations;
     }
 }
 
 type MapLocations = {
-    [K in keyof typeof mapLocationsData | keyof typeof mapLocationsResourcesData]: MapLocation;
+    [K in keyof typeof mapLocationsData | keyof typeof mapLocationsResourcesData | keyof typeof mapLocationsEnemiesData]: MapLocation;
 };
 
 export const MapLocations: MapLocations = MapLocation.loadMapLocations() as MapLocations;

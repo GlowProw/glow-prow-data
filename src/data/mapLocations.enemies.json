@@ -1,0 +1,604 @@
+{
+  "tangenaRabe-0.519917_-0.894247": {
+    "id": "tangenaRabe-0.519917_-0.894247",
+    "latitude": 0.519917,
+    "longitude": -0.894247,
+    "category": "eliteWarship",
+    "enemyId": "tangenaRabe",
+    "season": "crimsonWaters",
+    "worldTiers": {
+      "1": 6,
+      "2": 11,
+      "3": 16,
+      "4": 22
+    },
+    "possibleLoot": {
+      "piecesOfEight": 1,
+      "silverPouch": 1,
+      "tangenaRabeTreasureChest": 1
+    },
+    "dateAdded": "2026-10-29",
+    "lastUpdated": "2026-10-29",
+    "icon": "tangenaRabe"
+  },
+  "jokaKubwa-0.655233_-0.904937": {
+    "id": "jokaKubwa-0.655233_-0.904937",
+    "latitude": 0.655233,
+    "longitude": -0.904937,
+    "category": "eliteWarship",
+    "enemyId": "jokaKubwa",
+    "season": "crimsonWaters",
+    "worldTiers": {
+      "1": 7,
+      "2": 11,
+      "3": 16,
+      "4": 22
+    },
+    "possibleLoot": {
+      "piecesOfEight": 1,
+      "silverBox": 1,
+      "jokaKubwaTreasureChest": 1,
+      "naphtha": 1
+    },
+    "dateAdded": "2026-10-29",
+    "lastUpdated": "2026-10-29",
+    "icon": "jokaKubwa"
+  },
+  "ahPak-0.682989_-0.670741": {
+    "id": "ahPak-0.682989_-0.670741",
+    "latitude": 0.682989,
+    "longitude": -0.670741,
+    "category": "eliteWarship",
+    "enemyId": "ahPak",
+    "season": "crimsonWaters",
+    "worldTiers": {
+      "1": 12,
+      "2": 17,
+      "3": 22,
+      "4": 28
+    },
+    "possibleLoot": {
+      "piecesOfEight": 1,
+      "silverChest": 1,
+      "ahPakTreasureChest": 1,
+      "masterworkKit": 1
+    },
+    "dateAdded": "2026-10-29",
+    "lastUpdated": "2026-10-29",
+    "icon": "ahPak"
+  },
+  "galvinRoche-0.572144_-0.64514": {
+    "id": "galvinRoche-0.572144_-0.64514",
+    "latitude": 0.572144,
+    "longitude": -0.64514,
+    "category": "eliteWarship",
+    "enemyId": "galvinRoche",
+    "season": "crimsonWaters",
+    "worldTiers": {
+      "1": 8,
+      "2": 13,
+      "3": 18,
+      "4": 24
+    },
+    "possibleLoot": {
+      "piecesOfEight": 1,
+      "silverChest": 1,
+      "galvinRocheTreasureChest": 1,
+      "torsionSpring": 1
+    },
+    "dateAdded": "2026-10-29",
+    "lastUpdated": "2026-10-29",
+    "icon": "galvinRoche"
+  },
+  "dirkAnkeren-0.584289_-0.42759": {
+    "id": "dirkAnkeren-0.584289_-0.42759",
+    "latitude": 0.584289,
+    "longitude": -0.42759,
+    "category": "eliteWarship",
+    "enemyId": "dirkAnkeren",
+    "season": "crimsonWaters",
+    "worldTiers": {
+      "1": 10,
+      "2": 15,
+      "3": 20,
+      "4": 26
+    },
+    "possibleLoot": {
+      "piecesOfEight": 1,
+      "silverChest": 1,
+      "dirkAnkerenTreasureChest": 1
+    },
+    "dateAdded": "2026-10-29",
+    "lastUpdated": "2026-10-29",
+    "icon": "dirkAnkeren"
+  },
+  "dianSinaga-0.859559_-0.470293": {
+    "id": "dianSinaga-0.859559_-0.470293",
+    "latitude": 0.859559,
+    "longitude": -0.470293,
+    "category": "eliteWarship",
+    "enemyId": "dianSinaga",
+    "season": "crimsonWaters",
+    "worldTiers": {
+      "1": 8,
+      "2": 13,
+      "3": 18,
+      "4": 24
+    },
+    "possibleLoot": {
+      "piecesOfEight": 1,
+      "silverPouch": 1,
+      "dianSinagaTreasureChest": 1,
+      "rubber": 1
+    },
+    "dateAdded": "2026-10-29",
+    "lastUpdated": "2026-10-29",
+    "icon": "dianSinaga"
+  },
+  "jonasVanderkill-0.58457_-0.423503": {
+    "id": "jonasVanderkill-0.58457_-0.423503",
+    "latitude": 0.58457,
+    "longitude": -0.423503,
+    "category": "eliteWarship",
+    "enemyId": "jonasVanderkill",
+    "season": "crimsonWaters",
+    "worldTiers": {
+      "1": 12,
+      "2": 17,
+      "3": 22,
+      "4": 28
+    },
+    "possibleLoot": {
+      "piecesOfEight": 1,
+      "silverChest": 1,
+      "vanderkillsLocker": 1,
+      "gildmarks": 1
+    },
+    "dateAdded": "2026-10-29",
+    "lastUpdated": "2026-10-29",
+    "icon": "jonasVanderkill"
+  },
+  "jonasVanderkill-0.795745_-0.44944": {
+    "id": "jonasVanderkill-0.795745_-0.44944",
+    "latitude": 0.795745,
+    "longitude": -0.44944,
+    "category": "eliteWarship",
+    "enemyId": "jonasVanderkill",
+    "season": "crimsonWaters",
+    "worldTiers": {
+      "1": 12,
+      "2": 17,
+      "3": 22,
+      "4": 28
+    },
+    "possibleLoot": {
+      "piecesOfEight": 1,
+      "silverChest": 1,
+      "vanderkillsLocker": 1,
+      "gildmarks": 1
+    },
+    "dateAdded": "2026-10-29",
+    "lastUpdated": "2026-10-29",
+    "icon": "jonasVanderkill"
+  },
+  "jonasVanderkill-0.5102_-0.615418": {
+    "id": "jonasVanderkill-0.5102_-0.615418",
+    "latitude": 0.5102,
+    "longitude": -0.615418,
+    "category": "eliteWarship",
+    "enemyId": "jonasVanderkill",
+    "season": "crimsonWaters",
+    "worldTiers": {
+      "1": 12,
+      "2": 17,
+      "3": 22,
+      "4": 28
+    },
+    "possibleLoot": {
+      "piecesOfEight": 1,
+      "silverChest": 1,
+      "vanderkillsLocker": 1,
+      "gildmarks": 1
+    },
+    "dateAdded": "2026-10-29",
+    "lastUpdated": "2026-10-29",
+    "icon": "jonasVanderkill"
+  },
+  "theOpwelling-0.800708_-0.395493": {
+    "id": "theOpwelling-0.800708_-0.395493",
+    "latitude": 0.800708,
+    "longitude": -0.395493,
+    "category": "eliteWarship",
+    "enemyId": "theOpwelling",
+    "season": "crimsonWaters",
+    "worldTiers": {
+      "1": 12,
+      "2": 17,
+      "3": 22,
+      "4": 28
+    },
+    "possibleLoot": {
+      "piecesOfEight": 1,
+      "silverChest": 1,
+      "opwellingTreasureChest": 1
+    },
+    "dateAdded": "2026-10-29",
+    "lastUpdated": "2026-10-29",
+    "icon": "theOpwelling"
+  },
+  "commanderZhang-0.769373_-0.399646": {
+    "id": "commanderZhang-0.769373_-0.399646",
+    "latitude": 0.769373,
+    "longitude": -0.399646,
+    "category": "eliteWarship",
+    "enemyId": "commanderZhang",
+    "season": "crimsonWaters",
+    "worldTiers": {
+      "3": 23,
+      "4": 29
+    },
+    "possibleLoot": {
+      "piecesOfEight": 1,
+      "silverPouch": 1,
+      "commanderZhangsChest": 1,
+      "yellowDragonBanner": 1
+    },
+    "dateAdded": "2026-10-29",
+    "lastUpdated": "2026-10-29",
+    "icon": "commanderZhang"
+  },
+  "abyssalEnvoy-0.498761_-0.60954": {
+    "id": "abyssalEnvoy-0.498761_-0.60954",
+    "latitude": 0.498761,
+    "longitude": -0.60954,
+    "category": "eliteWarship",
+    "enemyId": "abyssalEnvoy",
+    "season": "crimsonWaters",
+    "worldTiers": {
+      "3": 23,
+      "4": 29
+    },
+    "possibleLoot": {
+      "abyssalEssence": 1,
+      "vengefulEssence": 1
+    },
+    "dateAdded": "2026-10-29",
+    "lastUpdated": "2026-10-29",
+    "icon": "abyssalEnvoy"
+  },
+  "abyssalEnvoy-0.572534_-0.569679": {
+    "id": "abyssalEnvoy-0.572534_-0.569679",
+    "latitude": 0.572534,
+    "longitude": -0.569679,
+    "category": "eliteWarship",
+    "enemyId": "abyssalEnvoy",
+    "season": "crimsonWaters",
+    "worldTiers": {
+      "3": 23,
+      "4": 29
+    },
+    "possibleLoot": {
+      "abyssalEssence": 1,
+      "vengefulEssence": 1
+    },
+    "dateAdded": "2026-10-29",
+    "lastUpdated": "2026-10-29",
+    "icon": "abyssalEnvoy"
+  },
+  "abyssalEnvoy-0.588929_-0.877322": {
+    "id": "abyssalEnvoy-0.588929_-0.877322",
+    "latitude": 0.588929,
+    "longitude": -0.877322,
+    "category": "eliteWarship",
+    "enemyId": "abyssalEnvoy",
+    "season": "crimsonWaters",
+    "worldTiers": {
+      "3": 23,
+      "4": 29
+    },
+    "possibleLoot": {
+      "abyssalEssence": 1,
+      "vengefulEssence": 1
+    },
+    "dateAdded": "2026-10-29",
+    "lastUpdated": "2026-10-29",
+    "icon": "abyssalEnvoy"
+  },
+  "bertrandHubac-0.620901_-0.720097": {
+    "id": "bertrandHubac-0.620901_-0.720097",
+    "latitude": 0.620901,
+    "longitude": -0.720097,
+    "category": "eliteWarship",
+    "enemyId": "bertrandHubac",
+    "season": "crimsonWaters",
+    "worldTiers": {
+      "1": 14
+    },
+    "possibleLoot": {
+      "piecesOfEight": 1,
+      "silverChest": 1,
+      "whiteAriaChest": 1,
+      "endlessRequiem": 1
+    },
+    "dateAdded": "2026-10-29",
+    "lastUpdated": "2026-10-29",
+    "icon": "bertrandHubac"
+  },
+  "vikramRajan-0.736666_-0.846497": {
+    "id": "vikramRajan-0.736666_-0.846497",
+    "latitude": 0.736666,
+    "longitude": -0.846497,
+    "category": "domains",
+    "enemyId": "vikramRajan",
+    "season": "crimsonWaters",
+    "worldTiers": {
+      "1": 14,
+      "2": 20,
+      "3": 24,
+      "4": 30
+    },
+    "possibleLoot": {
+      "pulsingSchaduwRemnant": 1,
+      "piecesOfEight": 1,
+      "silverChest": 1,
+      "vikramsLocker": 1
+    },
+    "dateAdded": "2026-10-29",
+    "lastUpdated": "2026-10-29",
+    "icon": "vikramRajan"
+  },
+  "liTianNing-0.731314_-0.787451": {
+    "id": "liTianNing-0.731314_-0.787451",
+    "latitude": 0.731314,
+    "longitude": -0.787451,
+    "category": "domains",
+    "enemyId": "liTianNing",
+    "season": "crimsonWaters",
+    "worldTiers": {
+      "1": 14,
+      "2": 20,
+      "3": 24,
+      "4": 30
+    },
+    "possibleLoot": {
+      "piecesOfEight": 1,
+      "silverChest": 1,
+      "phoenixsTalonStrongbox": 1,
+      "jadePhoenixStatue": 1
+    },
+    "dateAdded": "2026-10-29",
+    "lastUpdated": "2026-10-29",
+    "icon": "liTianNing"
+  },
+  "theHubacTwins-0.512462_-0.668957": {
+    "id": "theHubacTwins-0.512462_-0.668957",
+    "latitude": 0.512462,
+    "longitude": -0.668957,
+    "category": "domains",
+    "enemyId": "theHubacTwins",
+    "season": "crimsonWaters",
+    "worldTiers": {
+      "1": 14,
+      "2": 20,
+      "3": 24,
+      "4": 30
+    },
+    "possibleLoot": {
+      "piecesOfEight": 1,
+      "silverChest": 1,
+      "blackAriaChest": 1,
+      "endlessRequiem": 1
+    },
+    "dateAdded": "2026-10-29",
+    "lastUpdated": "2026-10-29",
+    "icon": "theHubacTwins"
+  },
+  "philippeLaPeste-0.486006_-0.45134": {
+    "id": "philippeLaPeste-0.486006_-0.45134",
+    "latitude": 0.486006,
+    "longitude": -0.45134,
+    "category": "domains",
+    "enemyId": "philippeLaPeste",
+    "season": "crimsonWaters",
+    "worldTiers": {
+      "1": 14,
+      "2": 20,
+      "3": 24,
+      "4": 30
+    },
+    "possibleLoot": {
+      "piecesOfEight": 1,
+      "silverChest": 1,
+      "laPestesStrongbox": 1
+    },
+    "dateAdded": "2026-10-29",
+    "lastUpdated": "2026-10-29",
+    "icon": "philippeLaPeste"
+  },
+  "rodeMaangodin-0.896676_-0.531087": {
+    "id": "rodeMaangodin-0.896676_-0.531087",
+    "latitude": 0.896676,
+    "longitude": -0.531087,
+    "category": "domains",
+    "enemyId": "rodeMaangodin",
+    "season": "crimsonWaters",
+    "worldTiers": {
+      "1": 14,
+      "2": 16,
+      "3": 21,
+      "4": 27
+    },
+    "possibleLoot": {
+      "silverChest": 1,
+      "rodeMaangodinChest": 1,
+      "precisionDrillingBit": 1,
+      "blueSpecter": 1
+    },
+    "dateAdded": "2026-10-29",
+    "lastUpdated": "2026-10-29",
+    "icon": "rodeMaangodin"
+  },
+  "zamaaribu-0.519198_-0.53758": {
+    "id": "zamaaribu-0.519198_-0.53758",
+    "latitude": 0.519198,
+    "longitude": -0.53758,
+    "category": "domains",
+    "enemyId": "zamaaribu",
+    "season": "crimsonWaters",
+    "worldTiers": {
+      "1": 11,
+      "2": 15,
+      "3": 20,
+      "4": 26
+    },
+    "possibleLoot": {
+      "gildmarks": 1,
+      "monstrousTooth": 1,
+      "zamaharibuScales": 1,
+      "tylosaurusFlesh": 1
+    },
+    "dateAdded": "2026-10-29",
+    "lastUpdated": "2026-10-29",
+    "icon": "zamaaribu"
+  },
+  "sadowbeast-0.639699_-0.591482": {
+    "id": "sadowbeast-0.639699_-0.591482",
+    "latitude": 0.639699,
+    "longitude": -0.591482,
+    "category": "domains",
+    "enemyId": "sadowbeast",
+    "season": "crimsonWaters",
+    "worldTiers": {
+      "1": 12,
+      "2": 17,
+      "3": 22,
+      "4": 28
+    },
+    "possibleLoot": {
+      "gildmarks": 1,
+      "monstrousTooth": 1,
+      "lightningDragonClaw": 1,
+      "lightningDragonScale": 1
+    },
+    "dateAdded": "2026-10-29",
+    "lastUpdated": "2026-10-29",
+    "icon": "sadowbeast"
+  },
+  "megaLestari-0.461183_-0.610566": {
+    "id": "megaLestari-0.461183_-0.610566",
+    "latitude": 0.461183,
+    "longitude": -0.610566,
+    "category": "domains",
+    "enemyId": "megaLestari",
+    "season": "crimsonWaters",
+    "worldTiers": {
+      "1": 11,
+      "2": 16,
+      "3": 21,
+      "4": 27
+    },
+    "possibleLoot": {
+      "gildmarks": 1,
+      "monstrousTooth": 1,
+      "lestarisSkin": 1,
+      "lestarisMeat": 1
+    },
+    "dateAdded": "2026-10-29",
+    "lastUpdated": "2026-10-29",
+    "icon": "megaLestari"
+  },
+  "heralosOfTheAbyss-0.725643_-0.719185": {
+    "id": "heralosOfTheAbyss-0.725643_-0.719185",
+    "latitude": 0.725643,
+    "longitude": -0.719185,
+    "category": "warfleet",
+    "enemyId": "heralosOfTheAbyss",
+    "season": "crimsonWaters",
+    "worldTiers": {
+      "4": 30
+    },
+    "possibleLoot": {
+      "maelstromBallistaStrongbox": 1,
+      "maelstromCannonStrongbox": 1,
+      "abyssalEssence": 1
+    },
+    "dateAdded": "2026-10-29",
+    "lastUpdated": "2026-10-29",
+    "icon": "heralosOfTheAbyss"
+  },
+  "philppeLaPesteDeadlw-0.741336_-0.809426": {
+    "id": "philppeLaPesteDeadlw-0.741336_-0.809426",
+    "latitude": 0.741336,
+    "longitude": -0.809426,
+    "category": "eliteWarship",
+    "enemyId": "philppeLaPesteDeadlw",
+    "season": "crimsonWaters",
+    "worldTiers": {
+      "3": 33,
+      "4": 33
+    },
+    "difficulty": {
+      "type": "coop",
+      "minimumPeople": 5
+    },
+    "possibleLoot": {
+      "piecesOfEight": 1,
+      "silverChest": 1,
+      "laPestesLocker": 1,
+      "leFleau": 1
+    },
+    "dateAdded": "2026-10-29",
+    "lastUpdated": "2026-10-29",
+    "icon": "philppeLaPesteDeadlw"
+  },
+  "vikramRajanDeadlw-0.612826_-0.560655": {
+    "id": "vikramRajanDeadlw-0.612826_-0.560655",
+    "latitude": 0.612826,
+    "longitude": -0.560655,
+    "category": "eliteWarship",
+    "enemyId": "vikramRajanDeadlw",
+    "season": "crimsonWaters",
+    "worldTiers": {
+      "3": 33,
+      "4": 33
+    },
+    "difficulty": {
+      "type": "coop",
+      "minimumPeople": 5
+    },
+    "possibleLoot": {
+      "piecesOfEight": 1,
+      "silverChest": 1,
+      "vikramsStrongbox": 1,
+      "blightkeeper": 1
+    },
+    "dateAdded": "2026-10-29",
+    "lastUpdated": "2026-10-29",
+    "icon": "vikramRajanDeadlw"
+  },
+  "kraken-0.515893_-0.483342": {
+    "id": "kraken-0.515893_-0.483342",
+    "latitude": 0.515893,
+    "longitude": -0.483342,
+    "category": "seaMonster",
+    "enemyId": "kraken",
+    "season": "crimsonWaters",
+    "worldTiers": {
+      "3": 33,
+      "4": 33
+    },
+    "difficulty": {
+      "type": "coop",
+      "minimumPeople": 3
+    },
+    "possibleLoot": {
+      "krakenChest": 1,
+      "ascensionModule": 1,
+      "masterworkKit": 1,
+      "primevalFang": 1
+    },
+    "dateAdded": "2026-10-29",
+    "lastUpdated": "2026-10-29",
+    "icon": "kraken"
+  }
+}

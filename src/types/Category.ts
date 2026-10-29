@@ -1,3 +1,5 @@
+import {EnemyTypes} from "./EnemyProperties";
+
 export const CommodityCategories = [
     "localFaction", "megacorp", "kingpin", "theHelm", "summoningBell", "unique"
 ] as const;
@@ -16,7 +18,8 @@ export const MapLocationCategories = [
     "miscellaneous", "abaka", "coconut", "durian", "hemp", "jute", "linen", "ndizi", "ramie", "roselle",
     "screwpine", "sisal", "acacia", "greenheart", "iroko", "ironwood", "juniper", "mopane", "teak",
     "bogIron", "cobalt", "copper", "magnetite", "nickel", "pureIron", "zinc",
-    "crocodile", "hippopotamus", "shark", "treasureMap", "shareLocation"
+    "crocodile", "hippopotamus", "shark", "treasureMap", "shareLocation",
+    ...EnemyTypes
 ] as const;
 
 export type MapLocationCategory = (typeof MapLocationCategories)[number];

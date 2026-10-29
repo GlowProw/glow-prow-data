@@ -12,6 +12,7 @@ export {Sets, Set} from "./entity/Sets"
 export {TreasureMaps, TreasureMap} from "./entity/TreasureMaps"
 export {MapLocations, MapLocation} from "./entity/MapLocations"
 export {Npcs, Npc} from "./entity/Npcs"
+export {Enemies, Enemy} from "./entity/Enemies"
 export {EmpireSkills, EmpireSkill} from "./entity/EmpireSkills";
 export {
     Masterys,
@@ -26,4 +27,5 @@ export {
 } from "./entity/Masterys";
 export {Questlogs, Questlog, Quests, Quest, type QuestlogCategory} from "./entity/Questlog";
 export * from "./types/MasteryProperties";
+export * from "./types/EnemyProperties";
 
