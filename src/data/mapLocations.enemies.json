@@ -600,5 +600,28 @@
     "dateAdded": "2026-10-29",
     "lastUpdated": "2026-10-29",
     "icon": "kraken"
+  },
+  "risenZamaharibu-0.555222_-0.546664": {
+    "id": "risenZamaharibu-0.555222_-0.546664",
+    "latitude": 0.555222,
+    "longitude": -0.546664,
+    "category": "eliteWarship",
+    "enemyId": "risenZamaharibu",
+    "season": "crimsonWaters",
+    "worldTiers": {
+      "3": 23,
+      "4": 29
+    },
+    "possibleLoot": {
+      "piecesOfEight": 1,
+      "silverPouch": 1,
+      "gildmarks": 1,
+      "monstrousTooth": 1,
+      "putrefiedZamaharibuScale": 1
+    },
+    "participants": 20,
+    "dateAdded": "2026-11-13",
+    "lastUpdated": "2026-11-13",
+    "icon": "risenZamaharibu"
   }
 }

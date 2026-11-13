@@ -1069,5 +1069,29 @@
     "lastUpdated": "2026-10-29",
     "icon": "reaperOfTheLost",
     "possibleLoot": {}
+  },
+  "risenZamaharibu": {
+    "id": "risenZamaharibu",
+    "type": "eliteWarship",
+    "category": "LimitedEvent",
+    "season": "crimsonWaters",
+    "worldTiers": {
+      "3": 23,
+      "4": 29
+    },
+    "location": [
+      "risenZamaharibu-0.555222_-0.546664"
+    ],
+    "possibleLoot": {
+      "piecesOfEight": 1,
+      "silverPouch": 1,
+      "gildmarks": 1,
+      "monstrousTooth": 1,
+      "putrefiedZamaharibuScale": 1
+    },
+    "participants": 20,
+    "dateAdded": "2026-11-13",
+    "lastUpdated": "2026-11-13",
+    "icon": "risenZamaharibu"
   }
 }
