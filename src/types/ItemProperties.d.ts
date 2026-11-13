@@ -4,7 +4,7 @@ export const Tiers = [
 
 export type Tier = (typeof Tiers)[number];
 
-export type GeneralType = "consumable" | "ammunition" | "armor" | "tool" | "chest";
+export type GeneralType = "consumable" | "ammunition" | "armor" | "tool" | "chest" | "quest" | "contract";
 
 export const WeaponTypes = [
     "culverin", "longGun", "demicannon", "bombard", "torpedo", "ballista", "seaFire", "mortar", "rocket", "springloader"

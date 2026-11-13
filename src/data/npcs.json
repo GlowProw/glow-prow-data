@@ -1,7 +1,7 @@
 {
   "cookery": {
     "id": "cookery",
-    "type": "structure",
+    "type": "npc",
     "category": [
       "factory"
     ],
@@ -37,7 +37,7 @@
   },
   "water": {
     "id": "water",
-    "type": "structure",
+    "type": "npc",
     "category": [
       "water"
     ],
@@ -55,7 +55,7 @@
   },
   "piratesBonfire": {
     "id": "piratesBonfire",
-    "type": "structure",
+    "type": "npc",
     "category": [
       "powder"
     ],
@@ -67,6 +67,7 @@
   "azuriteLodestone": {
     "id": "azuriteLodestone",
     "role": "entrepreneur",
+    "type": "npc",
     "category": [
       "shop"
     ],
@@ -76,28 +77,29 @@
   },
   "woridTier": {
     "id": "woridTier",
-    "type": "structure",
+    "type": "npc",
     "location": [
       "anyoneDen"
     ]
   },
   "managerOfLePontMuet": {
     "id": "managerOfLePontMuet",
-    "type": "npc",
     "role": "yanitaNara",
+    "type": "npc",
     "location": [
       "anyoneDen"
     ]
   },
   "sumugglersHideout": {
     "id": "sumugglersHideout",
-    "type": "structure",
+    "type": "npc",
     "location": [
       "anyoneDen"
     ]
   },
   "helmLiaison": {
     "id": "helmLiaison",
+    "role": "entrepreneur",
     "type": "npc",
     "category": [
       "helmTask"
@@ -109,7 +111,7 @@
   },
   "mailbox": {
     "id": "mailbox",
-    "type": "structure",
+    "type": "npc",
     "category": [
       "mail"
     ],
@@ -143,7 +145,7 @@
   },
   "bountyBoard-sainteAnne": {
     "id": "bountyBoard",
-    "type": "structure",
+    "type": "npc",
     "category": [
       "objective"
     ],
@@ -187,9 +189,7 @@
   },
   "vanityAtelier-sainteAnne": {
     "id": "vanityAtelier",
-    "type": "npc",
-    "category": [
-    ],
+    "type": "structure",
     "season": "release",
     "location": [
       "sainteAnne"
@@ -197,7 +197,7 @@
   },
   "johnScurlocksOffice-sainteAnne": {
     "id": "johnScurlocksOffice",
-    "type": "npc",
+    "type": "structure",
     "category": [
       "task",
       "shop"
@@ -221,7 +221,7 @@
   "factionBroker-sainteAnne": {
     "id": "factionBroker",
     "role": "'two-face'turner",
-    "type": "npc",
+    "type": "structure",
     "category": [
       "task"
     ],
@@ -232,7 +232,7 @@
   },
   "deathTides-sainteAnne": {
     "id": "deathTides",
-    "type": "npc",
+    "type": "structure",
     "category": [
       "task",
       "pvpMode"
@@ -244,7 +244,7 @@
   },
   "refinery-sainteAnne": {
     "id": "refinery",
-    "type": "npc",
+    "type": "structure",
     "category": [
       "task",
       "shop",
@@ -321,8 +321,8 @@
   },
   "blacksmith-sainteAnne": {
     "id": "blacksmith",
-    "type": "npc",
     "role": "thomasRaferty",
+    "type": "structure",
     "category": [
       "task",
       "shop"
@@ -334,7 +334,7 @@
   },
   "shipwright-sainteAnne": {
     "id": "shipwright",
-    "type": "npc",
+    "type": "structure",
     "category": [
       "task",
       "shop"
@@ -352,7 +352,7 @@
   },
   "carpenter-sainteAnne": {
     "id": "carpenter",
-    "type": "npc",
+    "type": "structure",
     "category": [
       "task",
       "shop"
@@ -364,12 +364,20 @@
   },
   "smugglersNetwork-telokPenjarah": {
     "id": "smugglersNetwork",
+    "type": "npc",
+    "category": [
+      "task",
+      "shop"
+    ],
+    "season": "release",
     "location": [
       "telokPenjarah"
     ]
   },
   "docks": {
     "id": "docks",
+    "type": "npc",
+    "season": "release",
     "location": [
       "anyoneOutpost",
       "anyoneDen"
@@ -377,6 +385,8 @@
   },
   "cache": {
     "id": "cache",
+    "type": "npc",
+    "season": "release",
     "location": [
       "anyoneOutpost"
     ]
@@ -384,6 +394,7 @@
   "liTianNing": {
     "id": "liTianNing",
     "type": "structure",
+    "season": "release",
     "location": [
       "ruinsOfLukKhun"
     ]
@@ -391,40 +402,41 @@
   "rempahTrader": {
     "id": "rempahTrader",
     "role": "trader",
+    "type": "npc",
     "category": [
       "shop"
     ],
+    "season": "release",
     "location": [
-      "lostCityOfPrei"
-    ]
-  },
-  "rogueTrader": {
-    "id": "rogueTrader",
-    "role": "jasper'theBull'Ragsdale",
-    "category": [
-      "shop"
-    ],
-    "location": [
-      "telokPenjarah"
+      "lostCityOfPrei",
+      "theNecropolis"
     ]
   },
   "vendor-overseasSmuggler": {
     "id": "vendor-overseasSmuggler",
-    "role": "overseasSmuggler",
+    "role": "vendor",
+    "type": "npc",
     "category": [
+      "task",
       "shop"
     ],
+    "season": "release",
     "location": [
-      "ruinsOfLukKhun",
-      "lostCityOfPrei"
+      "lostCityOfPrei",
+      "karstLookout",
+      "theNecropolis",
+      "grandeFalaise",
+      "returnFleetBight"
     ]
   },
   "vendor-rempahWarrior": {
     "id": "vendor-rempahWarrior",
-    "role": "rempahWarrior",
+    "role": "vendor",
+    "type": "npc",
     "category": [
       "shop"
     ],
+    "season": "release",
     "location": [
       "rangnokCave"
     ]
@@ -432,11 +444,309 @@
   "overseasSmuggler": {
     "id": "overseasSmuggler",
     "role": "entrepreneur",
+    "type": "npc",
     "category": [
       "hts"
     ],
+    "season": "release",
     "location": [
-      "ruinsOfLukKhun"
+      "ruinsOfLukKhun",
+      "khmoyEstate",
+      "theForgottenCandi",
+      "dutchmansCamp",
+      "grandeFalaise",
+      "kokokTerapung",
+      "threeBrothers",
+      "moyenneCrique"
+    ]
+  },
+  "jasperTheBullRagsdale-rogueTrader": {
+    "id": "rogueTraderJasperRagsdale",
+    "role": "Jasper \"The Bull\" Ragsdale",
+    "type": "npc",
+    "category": [
+      "shop"
+    ],
+    "season": "release",
+    "location": [
+      "telokPenjarah",
+      "parujarsCry"
+    ]
+  },
+  "rosettaTheSirenLaw-rogueTrader": {
+    "id": "rogueTraderRosettaLaw",
+    "role": "Rosetta \"The Siren\" Law",
+    "type": "npc",
+    "category": [
+      "shop"
+    ],
+    "season": "release",
+    "location": [
+      "khmoyEstate"
+    ]
+  },
+  "bertramBigBertieFugler-rogueTrader": {
+    "id": "rogueTraderBertramFugler",
+    "role": "Bertram \"Big Bertie\" Fugler",
+    "type": "npc",
+    "category": [
+      "shop"
+    ],
+    "season": "release",
+    "location": [
+      "theNecropolis"
+    ]
+  },
+  "oswinLaughingJackSmithers-rogueTrader": {
+    "id": "rogueTraderOswinSmithers",
+    "role": "Oswin \"Laughing Jack\" Smithers",
+    "type": "npc",
+    "category": [
+      "shop"
+    ],
+    "season": "release",
+    "location": [
+      "dutchmansCamp"
+    ]
+  },
+  "clareTheTempestTyde-rogueTrader": {
+    "id": "rogueTraderClareTyde",
+    "role": "Clare \"The Tempest\" Tyde",
+    "type": "npc",
+    "category": [
+      "shop"
+    ],
+    "season": "release",
+    "slots": {
+      "shipCosmetics": {
+        "data": [
+          "ripeAsPlums",
+          "royalBileAndBlues",
+          "fallFromGrace",
+          "defacementOfArms"
+        ]
+      },
+      "captainCosmetics": {
+        "data": [
+          "straightLongHair",
+          "longMustache",
+          "spareSail",
+          "sailmakerBodice",
+          "sailmakerWrap",
+          "sailmakerNeckwear",
+          "sailmakerHeadwear",
+          "sailmakerArmlet",
+          "sailmakerForearms",
+          "shipwrightBelt"
+        ]
+      }
+    },
+    "location": [
+      "ileMichel"
+    ]
+  },
+  "vendor-corruptDmcOfficer": {
+    "id": "vendor-corruptDmcOfficer",
+    "role": "vendor",
+    "type": "npc",
+    "category": [
+      "task",
+      "shop"
+    ],
+    "season": "release",
+    "location": [
+      "ruinedLighthouse",
+      "kelelawarChamber"
+    ]
+  },
+  "corruptDutchOfficer": {
+    "id": "corruptDutchOfficer",
+    "role": "officer",
+    "type": "npc",
+    "category": [
+      "shop"
+    ],
+    "season": "release",
+    "location": [
+      "ruinedLighthouse"
+    ]
+  },
+  "vendor-shipwreckedRogue": {
+    "id": "shipwreckedRogue",
+    "role": "vendor",
+    "type": "npc",
+    "category": [
+      "shop"
+    ],
+    "season": "release",
+    "location": [
+      "khmoyEstate",
+      "dutchmansCamp",
+      "moyenneCrique"
+    ]
+  },
+  "rope": {
+    "id": "rope",
+    "type": "structure",
+    "season": "release",
+    "location": [
+      "khmoyEstate",
+      "bukitCandi",
+      "karstLookout",
+      "dutchmansCamp",
+      "grandeFalaise",
+      "kokokTerapung",
+      "threeBrothers",
+      "moyenneCrique",
+      "ileMichel"
+    ]
+  },
+  "rogue": {
+    "id": "rogue",
+    "role": "vendor",
+    "type": "npc",
+    "category": [
+      "shop"
+    ],
+    "season": "release",
+    "location": [
+      "pillarTomb",
+      "kokokTerapung",
+      "threeBrothers",
+      "ileMichel"
+    ]
+  },
+  "rempahMerchant": {
+    "id": "rempahMerchant",
+    "role": "vendor",
+    "type": "npc",
+    "category": [
+      "shop"
+    ],
+    "season": "release",
+    "location": [
+      "parujarsCry"
+    ]
+  },
+  "ungwanaLeader": {
+    "id": "ungwanaLeader",
+    "role": "ungwanaLeader",
+    "type": "npc",
+    "category": [
+      "shop"
+    ],
+    "season": "release",
+    "location": [
+      "pillarTomb"
+    ]
+  },
+  "ungwanaTrader": {
+    "id": "ungwanaTrader",
+    "role": "ungwanaTrader",
+    "type": "npc",
+    "category": [
+      "shop"
+    ],
+    "season": "release",
+    "location": [
+      "pillarTomb"
+    ]
+  },
+  "rempahLeader": {
+    "id": "rempahLeader",
+    "role": "leader",
+    "type": "npc",
+    "category": [
+      "shop"
+    ],
+    "season": "release",
+    "location": [
+      "karstLookout"
+    ]
+  },
+  "ungwanaMerchant": {
+    "id": "ungwanaMerchant",
+    "type": "npc",
+    "category": [
+      "shop"
+    ],
+    "season": "release",
+    "slots": {
+      "weaponBlueprint": {
+        "data": [
+          "piercingDemicannon2",
+          "piercingDemicannon1",
+          "explosiveDemicannon2",
+          "explosiveDemicannon1",
+          "explosiveDemicannon3",
+          "piercingDemicannon3",
+          "spikedWarHorn1",
+          "boatswainsCall1",
+          "volatileFuel1",
+          "stickyFuelStation1",
+          "gunpowderBench1",
+          "brazingFurnaceDemicannon1",
+          "demicannonWorks1",
+          "brazingFurnaceFlamethrower1",
+          "flamethrowerWorks1",
+          "abyssal2",
+          "abyssal1",
+          "kallinikosFlame3",
+          "kallinikosFlame2",
+          "kallinikosFlame1",
+          "seaFire3",
+          "seaFire2",
+          "seaFire1",
+          "floodingDemicannon3",
+          "floodingDemicannon2",
+          "floodingDemicannon1",
+          "zamzama3",
+          "zamzama2",
+          "zamzama1"
+        ]
+      }
+    },
+    "location": []
+  },
+  "theMystic": {
+    "id": "theMystic",
+    "role": "vendor",
+    "type": "npc",
+    "category": [
+      "task",
+      "shop"
+    ],
+    "season": "release",
+    "slots": {
+      "weaponBlueprint": {
+        "data": [
+          "devilsConcoction",
+          "cursedBanner",
+          "blueSpecter"
+        ]
+      }
+    },
+    "location": [
+      "theForgottenCandi"
+    ]
+  },
+  "hardheadJoe": {
+    "id": "hardheadJoe",
+    "role": "entrepreneur",
+    "type": "npc",
+    "category": [
+      "shop"
+    ],
+    "season": "crimsonWaters",
+    "slots": {
+      "captainCosmetics": {
+        "data": [
+          "nutty"
+        ]
+      }
+    },
+    "location": [
+      "theForgottenCandi"
     ]
   }
 }

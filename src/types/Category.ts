@@ -1,7 +1,7 @@
 import {EnemyTypes} from "./EnemyProperties";
 
 export const CommodityCategories = [
-    "localFaction", "megacorp", "kingpin", "theHelm", "summoningBell", "unique"
+    "localFaction", "megacorp", "kingpin", "theHelm", "summoningBell", "unique", "event", "factionWar"
 ] as const;
 
 export type CommodityCategory = (typeof CommodityCategories)[number];
@@ -14,7 +14,7 @@ export type MaterialCategory = (typeof MaterialCategories)[number];
 
 export const MapLocationCategories = [
     "capitalSettlement", "outpost", "den", "foundry", "lumberyard", "militaryBase", "megafort",
-    "settlement", "weaver", "shipwreck", "archive", "guardTower",
+    "settlement", "weaver", "shipwreck", "guardTower",
     "miscellaneous", "abaka", "coconut", "durian", "hemp", "jute", "linen", "ndizi", "ramie", "roselle",
     "screwpine", "sisal", "acacia", "greenheart", "iroko", "ironwood", "juniper", "mopane", "teak",
     "bogIron", "cobalt", "copper", "magnetite", "nickel", "pureIron", "zinc",

@@ -26,8 +26,10 @@ export class Material extends BaseType {
     faction?: Faction;
     // 事件
     event?: Event;
+    // 是否弃用
+    deprecated?: boolean;
 
-    constructor(id: string, dateAdded: Date | undefined, lastUpdated: Date | undefined, rarity: Rarity, category: MaterialCategory, requiredRank?: string, faction?: Faction, event?: Event) {
+    constructor(id: string, dateAdded: Date | undefined, lastUpdated: Date | undefined, rarity: Rarity, category: MaterialCategory, requiredRank?: string, faction?: Faction, event?: Event, deprecated?: boolean) {
         super();
 
         this.id = id;
@@ -36,6 +38,7 @@ export class Material extends BaseType {
         this.requiredRank = requiredRank;
         this.faction = faction;
         this.event = event;
+        this.deprecated = deprecated;
 
         this._entityType = Material;
         return this
@@ -52,7 +55,8 @@ export class Material extends BaseType {
             rawData.category as MaterialCategory,
             rawData.requiredRank ?? undefined,
             faction ? Factions[faction] : undefined,
-            event ? Events[event] : undefined
+            event ? Events[event] : undefined,
+            rawData.deprecated ?? false
         );
     }
 

@@ -2,13 +2,22 @@ import setsData from '../data/sets.json';
 import {SetType} from '../types/SetProperties';
 import {BaseType} from "./BaseType";
 
+type RawSet = {
+    id: string;
+    type: SetType;
+    inofficial?: boolean;
+};
+
+const typedSetsData = setsData as Record<string, RawSet>;
+
 /**
  * 集合
  */
 export class Set extends BaseType {
     constructor(
         public readonly id: string,
-        public readonly type: SetType
+        public readonly type: SetType,
+        public readonly inofficial?: boolean
     ) {
         super()
         this._entityType = Set;
@@ -18,10 +27,11 @@ export class Set extends BaseType {
 
     public static loadSets(): Record<string, Set> {
         const sets: Record<string, Set> = {};
-        for (const [key, value] of Object.entries(setsData)) {
+        for (const [key, value] of Object.entries(typedSetsData)) {
             sets[key] = new Set(
                 value.id,
-                value.type as SetType
+                value.type as SetType,
+                value.inofficial ?? false
             );
         }
         return sets;
